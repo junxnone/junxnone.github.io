@@ -74,4 +74,4 @@ cd /opt/intel/computer_vision_sdk_2018.2.300/deployment_tools/inference_engine/s
 -m_va /opt/intel/computer_vision_sdk_fpga_2018.1.267/deployment_tools/demo/../intel_models/vehicle-attributes-recognition-barrier-0010/FP16/vehicle-attributes-recognition-barrier-0010.xml \
 -m_lpr /opt/intel/computer_vision_sdk_fpga_2018.1.267/deployment_tools/demo/../intel_models/license-plate-recognition-barrier-0001/FP16/license-plate-recognition-barrier-0001.xml
 ```
-![demo show](https://github.com/junxnone/junxnone.github.io/blob/master/_img/openvinodemowithncsdk.png)
+![image](https://user-images.githubusercontent.com/2216970/53687478-f73ac980-3d6f-11e9-8a16-a986619a9a3f.png)
