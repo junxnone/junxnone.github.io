@@ -1,12 +1,8 @@
 MNIST是一个入门级的计算机视觉数据集，它包含各种手写数字图片.
 
-# TO-DO
-- [ ]  [keras mnist analysis](https://github.com/junxnone/junxnone.github.io/issues/15)
-
-
 # Reference
-- [ ] http://tensorfly.cn/tfdoc/tutorials/mnist_beginners.html 
-- [ ] http://colah.github.io/posts/2014-10-Visualizing-MNIST/ 
+- [ ] [mnist beginners - tensorfly](http://tensorfly.cn/tfdoc/tutorials/mnist_beginners.html)
+- [ ] [Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 - [ ] [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
 - [ ] [Notebook: Get Started with TensorFlow - mnist](https://colab.research.google.com/github/tensorflow/models/blob/master/samples/core/get_started/_index.ipynb#scrollTo=3wF5wszaj97Y)
 - [ ] [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
