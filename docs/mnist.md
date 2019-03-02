@@ -7,7 +7,7 @@ MNIST是一个入门级的计算机视觉数据集，它包含各种手写数字
 - [ ] [Notebook: Get Started with TensorFlow - mnist](https://colab.research.google.com/github/tensorflow/models/blob/master/samples/core/get_started/_index.ipynb#scrollTo=3wF5wszaj97Y)
 - [ ] [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
 
-# [Source Code](https://github.com/junxnone/junxnone.github.io/issues/8#issuecomment-414728327)
+# [Source Code](https://github.com/junxnone/tech-io/issues/8#issuecomment-414728327)
 ## Step-1 Load Data
 ```
 (x_train, y_train), (x_test, y_test) = mnist.load_data()
