@@ -1,0 +1,2 @@
+# Junxnone's Wiki
+Welcome
