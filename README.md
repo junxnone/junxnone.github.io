@@ -4,6 +4,9 @@ Welcome to Junxnone's Blog
 - [mnist](docs/mnist.md)
 - [Movidius Neural Compute Stick](docs/Movidius-Neural-Compute-Stick.md)
 
+## 吴恩达机器学习课程笔记
+## 吴恩达深度学习课程笔记
+
 # Raspberrypi
 - [Raspberrypi Install raspbian](docs/Raspberrypi-Install-raspbian.md)
 - [Raspberrypi Boot from USB drive](docs/Raspberrypi-Boot-from-USB-drive.md)
