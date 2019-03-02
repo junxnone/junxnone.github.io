@@ -1,4 +1,4 @@
-# Welcome to Junxnone's Blog
+Welcome to Junxnone's Blog
 
-# Blog List
+# ML/DL/TL/RL
 - [mnist](docs/mnist.md)
