@@ -1,3 +1,8 @@
+---
+title: "mnist 数据集"
+categories: ml
+---
+
 MNIST是一个入门级的计算机视觉数据集，它包含各种手写数字图片.
 
 # Reference
