@@ -1,3 +1,7 @@
+---
+title: "Index Junxnone"
+---
+
 Welcome to Junxnone's Blog
 
 # ML/DL/TL/RL
