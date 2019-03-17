@@ -10,7 +10,7 @@ categories: opencv
 - cv2.dilate()
 - cv2.morphologyEx()
 
-# 腐蚀
+# 1 腐蚀
 ```
 #coding=utf-8
 import cv2
@@ -70,7 +70,7 @@ plt.show()
 
 
 
-# 膨胀
+# 2 膨胀
 ```
 kernel = np.ones((5, 5), np.uint8)
 dilation = cv2.dilate(img, kernel)  # 膨胀
@@ -90,7 +90,7 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/2216970/50381162-5f0ecd00-06ba-11e9-81bf-f7a520703b2d.png)
 
 
-# 开运算
+# 3 开运算
 > 先腐蚀后膨胀叫开运算（因为先腐蚀会分开物体，这样容易记住），其作用是：分离物体，消除小区域。
 闭运算则相反：先膨胀后腐蚀（先膨胀会使白色的部分扩张，以至于消除/"闭合"物体里面的小黑洞，所以叫闭运算）
 ![image](https://user-images.githubusercontent.com/2216970/50381209-f294cd80-06bb-11e9-9513-dde626d07125.png)
