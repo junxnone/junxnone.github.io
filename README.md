@@ -1,6 +1,3 @@
----
-title: "Index Junxnone"
----
 
 Welcome to Junxnone's Blog
 
