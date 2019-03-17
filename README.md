@@ -12,6 +12,10 @@ Welcome to Junxnone's Blog
 
 ## 吴恩达深度学习课程笔记
 
+
+# OpenCV
+- [opencv erode & dilate](docs/opencv/opencv_erode_dilate.md)
+
 # Raspberrypi
 - [Raspberrypi Install raspbian](docs/Raspberrypi-Install-raspbian.md)
 - [Raspberrypi Boot from USB drive](docs/Raspberrypi-Boot-from-USB-drive.md)
