@@ -19,7 +19,7 @@ Jun‘s Notes
 # OpenCV
 - [opencv erode & dilate](docs/opencv/opencv_erode_dilate.md)
 
-# Raspberrypi
+# Raspberry Pi
 - [Raspberrypi Install raspbian](docs/Raspberrypi-Install-raspbian.md)
 - [Raspberrypi Boot from USB drive](docs/Raspberrypi-Boot-from-USB-drive.md)
 - [Raspberrypi shadowsocks client setup](docs/Raspberrypi-3B-shadowsocks-client-setup.md)
