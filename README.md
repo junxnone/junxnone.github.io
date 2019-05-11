@@ -1,5 +1,5 @@
 
-Welcome to Junxnone's Blog
+Jun‘s Notes
 
 # ML/DL/TL/RL
 - [mnist](docs/mnist.md)
@@ -12,6 +12,8 @@ Welcome to Junxnone's Blog
 - [4-多变量线性回归](docs/mlwnd/4-多变量线性回归.md)
 
 ## 吴恩达深度学习课程笔记
+
+## scikit-learn
 
 
 # OpenCV
