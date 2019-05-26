@@ -14,7 +14,10 @@ Jun‘s Notes
 ## Andrew Ng DL notes
 
 ## scikit-learn
-
+- [Datasets](https://nbviewer.jupyter.org/github/junxnone/examples/blob/master/scikit-learn/datasets.ipynb)
+- [Confusion matrix](https://nbviewer.jupyter.org/github/junxnone/examples/blob/master/scikit-learn/confusion_matrix.ipynb)
+- [Pairwise metrics](https://nbviewer.jupyter.org/github/junxnone/examples/blob/master/scikit-learn/Pairwise_metrics.ipynb)
+- [Hand written digits svm svc](https://nbviewer.jupyter.org/github/junxnone/examples/blob/master/scikit-learn/hand_written_digits_svm_svc.ipynb)
 
 # OpenCV
 - [opencv erode & dilate](docs/opencv/opencv_erode_dilate.md)
