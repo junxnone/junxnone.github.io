@@ -9,6 +9,12 @@
 ```
 sudo pip install shadowsocks
 ```
+
+```
+pip install git+https://github.com/shadowsocks/shadowsocks.git@master
+```
+> x86&ubuntu下此命令会安装3.0.0, `pip install shadowsocsk` 会安装2.8.2, 被迫停止维护的版本
+
 # 2 Install the polipo
 ```
 sudo apt-get install polipo
