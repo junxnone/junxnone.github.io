@@ -1,8 +1,9 @@
+log
 
 # [@Examples](http://www.junxnone.ml/examples)           
 # [@Wiki](http://www.junxnone.ml/wiki)
 
-# Archived
+# @Archived
 - [mnist](docs/mnist.md)
 - [Movidius Neural Compute Stick](docs/Movidius-Neural-Compute-Stick.md)
 - [1-绪论-初识机器学习](docs/mlwnd/1-绪论-初识机器学习.md)
