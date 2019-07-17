@@ -1,5 +1,5 @@
 
-# [@Examples](www.junxnone.ml/examples)           [@Wiki](www.junxnone.ml/wiki)
+# [@Examples](http://www.junxnone.ml/examples)           [@Wiki](http://www.junxnone.ml/wiki)
 
 # Archived
 - [mnist](docs/mnist.md)
