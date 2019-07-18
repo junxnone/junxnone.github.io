@@ -7,3 +7,4 @@ log
 # [@Archived](./Archived.md)
 # [@Kaggle]()
 # [@History]()
+# [@Translation]()
