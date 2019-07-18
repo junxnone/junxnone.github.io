@@ -2,6 +2,7 @@ log
 
 # [@Examples](http://www.junxnone.ml/examples)           
 # [@Wiki](http://www.junxnone.ml/wiki)
+# [@Notes](http://www.junxnone.ml/notes)
 
 # @Archived
 - [mnist](docs/mnist.md)
