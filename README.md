@@ -15,7 +15,7 @@
 
 # [@Kaggle](http://www.junx.ml/Kaggle)
 
-# [@LeetCode](http://www.junx.ml/LeetCode)
+# [@LeetCode](http://www.junx.ml/leetcode)
 
 # [@Translation](http://www.junx.ml/Translation)
 
