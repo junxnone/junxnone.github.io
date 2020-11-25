@@ -6,5 +6,5 @@
 
 -----
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=junxnone&show_icons=true)](https://github.com/junxnone/)  
-<img src="https://user-images.githubusercontent.com/2216970/75631781-9ec33400-5c30-11ea-8aad-d73417124c7b.png"  width="30%" height="15%">
+[![github stats](https://github-readme-stats.vercel.app/api?username=junxnone&show_icons=true)](https://github.com/junxnone/) | <img src="https://user-images.githubusercontent.com/2216970/75631781-9ec33400-5c30-11ea-8aad-d73417124c7b.png"  width="500" height="250">
+-- | --
