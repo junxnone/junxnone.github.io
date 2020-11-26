@@ -1,9 +1,9 @@
 
 
-[Linux](https://junxnone.github.io/Linux) | [AI](https://junxnone.github.io/AI) | [Examples](https://junxnone.github.io/examples)   | [Wiki](https://junxnone.github.io/wiki) | [Notes](https://junxnone.github.io/notes) | [Archived](./Archived.md)
+[Linux](https://junxnone.github.io/Linux) | [AI](https://junxnone.github.io/AI) | [Examples](https://junxnone.github.io/examples)  & [Code](https://nbviewer.jupyter.org/github/junxnone/examples/blob/master/examples_index.ipynb) | [Wiki](https://junxnone.github.io/wiki) | [Notes](https://junxnone.github.io/notes) | [Tech History](https://junxnone.github.io/ht/) 
 -- | -- | -- | -- | -- | --
-[Kaggle](https://junxnone.github.io/Kaggle) | [LeetCode](https://junxnone.github.io/leetcode) | [Examples Code](https://nbviewer.jupyter.org/github/junxnone/examples/blob/master/examples_index.ipynb) | [Translation](https://junxnone.github.io/Translation) | [Media](https://junxnone.github.io/Media) | [History](https://junxnone.github.io/History) | [Archived](./Archived.md)
-[History Timeline](https://junxnone.github.io/ht/) | | | | |
+[Kaggle](https://junxnone.github.io/Kaggle) | [LeetCode](https://junxnone.github.io/leetcode) |  [Translation](https://junxnone.github.io/Translation) | [Media](https://junxnone.github.io/Media) | [Archived](./Archived.md) | [World History](https://junxnone.github.io/History) 
+
 -----
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=junxnone&show_icons=true)](https://github.com/junxnone/) 
