@@ -22,7 +22,6 @@
 ![](https://img.shields.io/badge/%DB%A9-Hardware-lightgrey)
 ![](https://img.shields.io/badge/%DB%A9-EmbeddingOS-lightgrey)
 
-
+<img src="https://user-images.githubusercontent.com/2216970/75631781-9ec33400-5c30-11ea-8aad-d73417124c7b.png"  width="500" height="250">
 ![Junx's GitHub stats](https://github-readme-stats.vercel.app/api?username=junxnone&show_icons=true&theme=dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junxnone&langs_count=10&hide=javascript,html,CSS,SCSS&layout=compact&custom_title=Junx+Most+Used+Languages)](https://github.com/junxnone)
-<img src="https://user-images.githubusercontent.com/2216970/75631781-9ec33400-5c30-11ea-8aad-d73417124c7b.png"  width="500" height="250">
