@@ -4,7 +4,6 @@
   - [AI](https://junxnone.github.io/AI) 
   - [Wiki](https://junxnone.github.io/wiki)
   - [Notes](https://junxnone.github.io/notes) 
-  - [Media](https://junxnone.github.io/Media)
 - **History**
   - [Tech History](https://junxnone.github.io/ht/) 
   - [World History](https://junxnone.github.io/History) 
