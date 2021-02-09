@@ -1,16 +1,18 @@
 
-- **Categroies**
+- **Logs**
   - [Linux](https://junxnone.github.io/Linux)
   - [AI](https://junxnone.github.io/AI) 
-  - [Examples](https://junxnone.github.io/examples)
-  - [Code](https://nbviewer.jupyter.org/github/junxnone/examples/blob/master/examples_index.ipynb)
   - [Wiki](https://junxnone.github.io/wiki)
   - [Notes](https://junxnone.github.io/notes) 
+  - [Media](https://junxnone.github.io/Media)
+- **History**
   - [Tech History](https://junxnone.github.io/ht/) 
   - [World History](https://junxnone.github.io/History) 
-  - [Media](https://junxnone.github.io/Media)
+- **Code**
+  - [Examples](https://junxnone.github.io/examples) [[Read From Nbviewer](https://nbviewer.jupyter.org/github/junxnone/examples/blob/master/examples_index.ipynb)]
   - [Kaggle](https://junxnone.github.io/Kaggle) 
   - [LeetCode](https://junxnone.github.io/leetcode) 
+- **Others**
   - [Translation](https://junxnone.github.io/Translation) 
   - [Archived](./Archived.md)
 
