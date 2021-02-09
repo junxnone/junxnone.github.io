@@ -1,4 +1,5 @@
 
+# Categries
 
 [Linux](https://junxnone.github.io/Linux) | [AI](https://junxnone.github.io/AI) | [Examples](https://junxnone.github.io/examples)  & [Code](https://nbviewer.jupyter.org/github/junxnone/examples/blob/master/examples_index.ipynb) | [Wiki](https://junxnone.github.io/wiki) | [Notes](https://junxnone.github.io/notes) | [Tech History](https://junxnone.github.io/ht/) 
 -- | -- | -- | -- | -- | --
