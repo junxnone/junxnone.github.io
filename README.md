@@ -19,7 +19,7 @@
 
 ---
 
-![](https://img.shields.io/badge/%E2%9C%8C-Vision-green)
+![](https://img.shields.io/badge/%E2%9C%8C-CV-green)
 ![](https://img.shields.io/badge/%E2%9C%8C-ML&DL-green)
 ![](https://img.shields.io/badge/%E2%9C%8C-Python-green)
 ![](https://img.shields.io/badge/%E2%9C%8C-C/C++-green)
