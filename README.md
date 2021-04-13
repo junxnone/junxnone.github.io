@@ -1,7 +1,7 @@
 
 - **Logs**
   - [Linux](https://junxnone.github.io/Linux)
-  - [AI](https://junxnone.github.io/AI) 
+  - [AI/ML/DL/RL](https://junxnone.github.io/ml) 
   - [Wiki](https://junxnone.github.io/wiki)
   - [Notes](https://junxnone.github.io/notes) 
 - **History**
