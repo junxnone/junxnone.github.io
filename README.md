@@ -1,5 +1,5 @@
 
-- **Logs**
+- **Summary**
   - [Linux](https://junxnone.github.io/Linux)
   - [AI/ML/DL/RL](https://junxnone.github.io/ml) 
   - [Wiki](https://junxnone.github.io/wiki)
