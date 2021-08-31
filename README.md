@@ -5,9 +5,7 @@
   - [AI/ML/DL/RL](https://junxnone.github.io/ml) 
   - [Wiki](https://junxnone.github.io/wiki)
   - [Notes](https://junxnone.github.io/notes) 
-- **History**
-  - [Tech History](https://junxnone.github.io/ht/) 
-  - [World History](https://junxnone.github.io/wht) 
+- **[History Timeline](https://junxnone.github.io/wht)**
 - **Code**
   - [Examples](https://junxnone.github.io/examples) [[Read From Nbviewer](https://nbviewer.jupyter.org/github/junxnone/examples/blob/master/examples_index.ipynb)]
   - [Kaggle](https://junxnone.github.io/Kaggle) 
