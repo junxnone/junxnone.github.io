@@ -16,6 +16,34 @@
   - [Go see the World](https://junxnone.github.io/goto)
 
 
+<table style="width:100%; table-layout:fixed;">
+  <tr>
+    <td><img width="150px" src="https://raw.githubusercontent.com/junxnone/conv_arithmetic/master/gif/no_padding_no_strides_transposed.gif"></td>
+    <td><img width="150px" src="https://raw.githubusercontent.com/junxnone/conv_arithmetic/master/gif/arbitrary_padding_no_strides_transposed.gif"></td>
+    <td><img width="150px" src="https://raw.githubusercontent.com/junxnone/conv_arithmetic/master/gif/same_padding_no_strides_transposed.gif"></td>
+    <td><img width="150px" src="https://raw.githubusercontent.com/junxnone/conv_arithmetic/master/gif/full_padding_no_strides_transposed.gif"></td>
+  </tr>
+  <tr>
+    <td>No padding, no strides, transposed</td>
+    <td>Arbitrary padding, no strides, transposed</td>
+    <td>Half padding, no strides, transposed</td>
+    <td>Full padding, no strides, transposed</td>
+  </tr>
+  <tr>
+    <td><img width="150px" src="https://raw.githubusercontent.com/junxnone/conv_arithmetic/master/gif/no_padding_strides_transposed.gif"></td>
+    <td><img width="150px" src="https://raw.githubusercontent.com/junxnone/conv_arithmetic/master/gif/padding_strides_transposed.gif"></td>
+    <td><img width="150px" src="https://raw.githubusercontent.com/junxnone/conv_arithmetic/master/gif/padding_strides_odd_transposed.gif"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>No padding, strides, transposed</td>
+    <td>Padding, strides, transposed</td>
+    <td>Padding, strides, transposed (odd)</td>
+    <td></td>
+  </tr>
+</table>
+
+
 ---
 
 ![](https://img.shields.io/badge/%E2%9C%8C-CV-green)
