@@ -1,6 +1,6 @@
 
 
-- **Wiki**
+- **Wikis**
   - [AI-Wiki](https://junxnone.github.io/aiwiki)
   - [Linux-Wiki](https://junxnone.github.io/linuxwiki)
 - **[History Timeline](https://junxnone.github.io/wht)**
