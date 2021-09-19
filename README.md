@@ -1,35 +1,24 @@
 
-- **Summary**
+
+- **Wiki**
+  - [AI-Wiki](https://junxnone.github.io/aiwiki)
+  - [Linux-Wiki](https://junxnone.github.io/linuxwiki)
+- **[History Timeline](https://junxnone.github.io/wht)**
+- **[Go see the World](https://junxnone.github.io/goto)**
+- **Code**
+  - [Examples](https://junxnone.github.io/examples) [[Read From Nbviewer](https://nbviewer.jupyter.org/github/junxnone/examples/blob/master/examples_index.ipynb)]
+  - [Kaggle](https://junxnone.github.io/Kaggle) 
+  - [LeetCode](https://junxnone.github.io/leetcode) 
+- **Logs & Drafts**
   - [Tech-IO](https://junxnone.github.io/tech-io/)
   - [Linux](https://junxnone.github.io/Linux)
   - [AI/ML/DL/RL](https://junxnone.github.io/ml) 
   - [Wiki](https://junxnone.github.io/wiki)
   - [Notes](https://junxnone.github.io/notes) 
-- **[History Timeline](https://junxnone.github.io/wht)**
-- **Code**
-  - [Examples](https://junxnone.github.io/examples) [[Read From Nbviewer](https://nbviewer.jupyter.org/github/junxnone/examples/blob/master/examples_index.ipynb)]
-  - [Kaggle](https://junxnone.github.io/Kaggle) 
-  - [LeetCode](https://junxnone.github.io/leetcode) 
 - **Others**
   - [Translation](https://junxnone.github.io/Translation) 
   - [Archived](./Archived.md)
-  - [Go see the World](https://junxnone.github.io/goto)
 
-
-<table style="width:100%; table-layout:fixed;">
-  <tr>
-    <td>[AI-Wiki](https://junxnone.github.io/aiwiki)</td>
-    <td>[Linux]()</td>
-    <td>[Notes]</td>
-    <td>[History]</td>
-  </tr>
-  <tr>
-    <td>[Examples]</td>
-    <td>[Kaggle]</td>
-    <td>[LeetCode]</td>
-    <td>[Go seee the World]</td>
-  </tr>
-</table>
 
 
 ---
