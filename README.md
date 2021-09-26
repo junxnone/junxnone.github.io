@@ -3,6 +3,7 @@
 - **Wikis**
   - [AI-Wiki](https://junxnone.github.io/aiwiki)
   - [Linux-Wiki](https://junxnone.github.io/linuxwiki)
+  - [CS Course Notes](https://junxnone.github.io/csc)
 - **[History Timeline](https://junxnone.github.io/wht)**
 - **[Go see the World](https://junxnone.github.io/goto)**
 - **Code**
