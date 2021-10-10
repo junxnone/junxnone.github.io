@@ -4,6 +4,7 @@
   - [AI-Wiki](https://junxnone.github.io/aiwiki)
   - [Linux-Wiki](https://junxnone.github.io/linuxwiki)
   - [CS Course Notes](https://junxnone.github.io/csc)
+  - [Life Wiki](https://junxnone.github.io/wiki)
 - **[History Timeline](https://junxnone.github.io/wht)**
 - **[Go see the World](https://junxnone.github.io/goto)**
 - **Code**
@@ -14,7 +15,6 @@
   - [Tech-IO](https://junxnone.github.io/tech-io/)
   - [Linux](https://junxnone.github.io/Linux)
   - [AI/ML/DL/RL](https://junxnone.github.io/ml) 
-  - [Wiki](https://junxnone.github.io/wiki)
   - [Notes](https://junxnone.github.io/notes) 
 - **Others**
   - [Translation](https://junxnone.github.io/Translation) 
