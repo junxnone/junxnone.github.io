@@ -9,7 +9,7 @@
 - **[Go see the World](https://junxnone.github.io/goto)**
 - **Code**
   - [Examples](https://junxnone.github.io/examples) [[Read From Nbviewer](https://nbviewer.jupyter.org/github/junxnone/examples/blob/master/examples_index.ipynb)]
-  - [Kaggle](https://junxnone.github.io/Kaggle) 
+  - [Kaggle](https://junxnone.github.io/kaggle) 
   - [LeetCode](https://junxnone.github.io/leetcode) 
 - **Logs & Drafts**
   - [Tech-IO](https://junxnone.github.io/tech-io/)
