@@ -2,7 +2,7 @@
 
 - **Wikis**
   - [AI-Wiki](https://junxnone.github.io/aiwiki)
-  - [Linux-Wiki](https://junxnone.github.io/linuxwiki)
+  - [Tech-Wiki](https://junxnone.github.io/techwiki)
   - [CS Course Notes](https://junxnone.github.io/csc)
   - [Life Wiki](https://junxnone.github.io/wiki)
 - **[History Timeline](https://junxnone.github.io/wht)**
