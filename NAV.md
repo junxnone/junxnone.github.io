@@ -21,3 +21,5 @@
   - [AI Game History](https://junxnone.github.io/wht/tech/aigame/)
   - [Linux Desktop History](https://junxnone.github.io/wht/tech/linuxdesktop)
 - [🚅](https://junxnone.github.io/at/)
+- Play
+  - [Cube](https://junxnone.github.io/cube)
