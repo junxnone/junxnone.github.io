@@ -1,9 +1,12 @@
-- [AI Wiki](https://junxnone.github.io/aiwiki/#/)
-- [Tech Wiki](https://junxnone.github.io/techwiki/)
-- [Kaggle](https://junxnone.github.io/kaggle/#/)
-- [CSC](https://junxnone.github.io/csc/#/)
-- [Leet Code](https://junxnone.github.io/leetcode/#/)
-- [Examples](https://junxnone.github.io/examples/)
+
+- Wiki
+  - [AI Wiki](https://junxnone.github.io/aiwiki/#/)
+  - [Tech Wiki](https://junxnone.github.io/techwiki/)
+- Coding
+  - [Kaggle](https://junxnone.github.io/kaggle/#/)
+  - [CSC](https://junxnone.github.io/csc/#/)
+  - [Leet Code](https://junxnone.github.io/leetcode/#/)
+  - [Examples](https://junxnone.github.io/examples/)
 - [History](https://junxnone.github.io/wht/)
   - [Covid-19 History](https://junxnone.github.io/wht/covid19/)
   - [食品安全事件](https://junxnone.github.io/wht/food/)
@@ -20,6 +23,6 @@
   - [OCR History](https://junxnone.github.io/wht/tech/ocr/)
   - [AI Game History](https://junxnone.github.io/wht/tech/aigame/)
   - [Linux Desktop History](https://junxnone.github.io/wht/tech/linuxdesktop)
-- [🚅](https://junxnone.github.io/at/)
 - Play
+  - [🚅](https://junxnone.github.io/at/)
   - [Cube](https://junxnone.github.io/cube)
