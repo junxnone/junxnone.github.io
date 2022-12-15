@@ -1,13 +1,13 @@
 
-- **Wiki**
+- <kbd>📕</kbd>
   - [AI Wiki](https://junxnone.github.io/aiwiki/#/)
   - [Tech Wiki](https://junxnone.github.io/techwiki/)
-- **Coding**
+- <kbd>✒️</kbd>
   - [Kaggle](https://junxnone.github.io/kaggle/#/)
   - [CSC](https://junxnone.github.io/csc/#/)
   - [Leet Code](https://junxnone.github.io/leetcode/#/)
   - [Examples](https://junxnone.github.io/examples/)
-- **History**
+- <kbd>🎡</kbd>
   - [NAS History](https://junxnone.github.io/wht/tech/nas/)
   - [OCR History](https://junxnone.github.io/wht/tech/ocr/)
   - [AI Game History](https://junxnone.github.io/wht/tech/aigame/)
@@ -23,7 +23,8 @@
   - [Covid-19 History](https://junxnone.github.io/wht/covid19/)
   - [食品安全事件](https://junxnone.github.io/wht/food/)
   - [Mars Discovery](http://junxnone.github.io/wht/mars)
-- **Play**
-  - [🚅](https://junxnone.github.io/at/)
-  - [Cube](https://junxnone.github.io/cube)
+- <kbd>📐</kbd>
   - [TextDiff](https://junxnone.github.io/textdiff/)
+  - [🚅](https://junxnone.github.io/at/)
+- <kbd>🎮</kbd>
+  - [Cube](https://junxnone.github.io/cube)
