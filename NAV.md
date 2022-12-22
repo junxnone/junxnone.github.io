@@ -7,7 +7,7 @@
   - [Kaggle](https://junxnone.github.io/kaggle/#/)
   - [CSC](https://junxnone.github.io/csc/#/)
   - [Leet Code](https://junxnone.github.io/leetcode/#/)
-  - [Examples](https://junxnone.github.io/examples/)
+  - [Samples](https://junxnone.github.io/samples/)
 - <kbd>🎡</kbd>
   - [NAS History](https://junxnone.github.io/wht/tech/nas/)
   - [OCR History](https://junxnone.github.io/wht/tech/ocr/)
