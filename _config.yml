@@ -7,3 +7,14 @@ github:
   index: https://junxnone.github.io
 plugins:
   - jekyll-feed
+docs:
+
+- title: AI Wiki
+  url: https://junxnone.github.io/aiwiki
+
+- title: Linux Wiki
+  url: https://junxnone.github.io/linux
+
+- title: X Wiki
+  url: https://junxnone.github.io/xwiki
+  
