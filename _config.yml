@@ -8,7 +8,3 @@ github:
 plugins:
   - jekyll-feed
   
-navbar-links:
-  AI Wiki: "https://junxnone.github.io/aiwiki"
-  Linux Wiki: "https://junxnone.github.io/linux"
-    - X Wiki: "https://junxnone.github.io/xwiki"
