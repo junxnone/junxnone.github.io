@@ -2,7 +2,7 @@
 - <kbd>📕</kbd>
   - [AI Wiki](https://junxnone.github.io/aiwiki/#/)
   - [Linux Wiki](https://junxnone.github.io/linux/)
-  - [Tech Wiki](https://junxnone.github.io/techwiki/)
+  - [X Wiki](https://junxnone.github.io/xwiki/)
 - <kbd>✒️</kbd>
   - [Kaggle](https://junxnone.github.io/kaggle/#/)
   - [CSC](https://junxnone.github.io/csc/#/)
