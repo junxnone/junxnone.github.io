@@ -1,28 +1,5 @@
 
 
-- **Wikis**
-  - [AI-Wiki](https://junxnone.github.io/aiwiki)
-  - [Tech-Wiki](https://junxnone.github.io/techwiki)
-  - [CS Course Notes](https://junxnone.github.io/csc)
-  - [Life Wiki](https://junxnone.github.io/wiki)
-- **[History Timeline](https://junxnone.github.io/wht)**
-- **[Go see the World](https://junxnone.github.io/goto)**
-- **Code**
-  - [Examples](https://junxnone.github.io/examples) [[Read From Nbviewer](https://nbviewer.jupyter.org/github/junxnone/examples/blob/master/examples_index.ipynb)]
-  - [Kaggle](https://junxnone.github.io/kaggle) 
-  - [LeetCode](https://junxnone.github.io/leetcode) 
-- **Logs & Drafts**
-  - [Tech-IO](https://junxnone.github.io/tech-io/)
-  - [Linux](https://junxnone.github.io/Linux)
-  - [AI/ML/DL/RL](https://junxnone.github.io/ml) 
-  - [Notes](https://junxnone.github.io/notes) 
-- **Others**
-  - [Translation](https://junxnone.github.io/Translation) 
-  - [Archived](./Archived.md)
-
-
-
----
 
 ![](https://img.shields.io/badge/%E2%9C%8C-CV-green)
 ![](https://img.shields.io/badge/%E2%9C%8C-ML&DL-green)
