@@ -1,0 +1,37 @@
+# Skills
+
+- Linux
+  - Ubuntu
+  - Yocto
+  - CentOS
+- ML/DL
+  - Tools
+    - Scikit-Learn
+    - Pytorch
+    - Tensorflow
+    - OpenVINO
+  - Tasks
+    - Classification
+    - Detection
+    - Segmentation
+    - Retrivel
+    - OCR
+    - Anomaly Detection
+  - Active Learning
+  - AutoML
+  - Data Augmentation
+- Python
+  - OpenCV
+  - Numpy
+  - Pandas
+- C/C++
+- Shell- Docker
+- KVM
+- Performance Optimation
+  - OneAPI
+  - OpenMP
+  - Memory
+- CMake
+- Hardware
+- 3D
+  - PCL
