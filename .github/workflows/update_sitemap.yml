@@ -1,9 +1,7 @@
 name: Update Sitemap
 on:
-  issues:
-    types: [pinned]
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '8 9 * * *'
 
 jobs:
   run:
