@@ -23,7 +23,7 @@
 ![Junx's GitHub stats](https://github-readme-stats.vercel.app/api?username=junxnone&show_icons=true&hide_border=true&theme=dark&locale=cn&ring_color=0000ff&line_height=24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junxnone&layout=compact&hide_border=true&theme=dark&locale=cn&card_width=445&langs_count=8&hide=javascript,html,CSS,SCSS&langs_count=6)](https://github.com/junxnone)
  
-[markmap show](https://junxnone.github.io/onepage/markmap.html?md=https://junxnone.github.io/skills.md ':include :type=iframe width=100% height=400px')
+[markmap show](https://junxnone.github.io/onepage/markmap.html?md=https://junxnone.github.io/skills.md ':include :type=iframe width=890px height=400px')
 
 [[Site Map](https://junxnone.github.io/xwiki/markmap.html?md=https://junxnone.github.io/sitemap.md)]
 
