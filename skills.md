@@ -19,6 +19,7 @@
     - Anomaly Detection
   - Active Learning
   - AutoML
+  - HPO
   - Data Augmentation
 - Python
   - OpenCV
