@@ -25,7 +25,8 @@
   - Numpy
   - Pandas
 - C/C++
-- Shell- Docker
+- Shell
+- Docker
 - KVM
 - Performance Optimation
   - OneAPI
