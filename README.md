@@ -25,5 +25,5 @@
  
 [markmap show](https://junxnone.github.io/onepage/markmap.html?md=https://junxnone.github.io/skills.md ':include :type=iframe width=100% height=400px')
 
-[[Site Map](https://junxnone.github.io/markmap.html?md=https://junxnone.github.io/sitemap.md)]
+[[Site Map](https://junxnone.github.io/xwiki/markmap.html?md=https://junxnone.github.io/sitemap.md)]
 
