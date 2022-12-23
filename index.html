@@ -64,7 +64,7 @@
             const markmapUrl = new URL(prefix + 'markmap.html', document.location);
             const markdownUrl = new URL(prefix + vm.route.file, document.location);
             
-            return mdstr + `\n\n----\n\n[🔑](${markmapUrl}?md=${markdownUrl})\n`;
+            return mdstr;
           }
         );
       }
