@@ -2,7 +2,7 @@ name: Update Sitemap
 
 on:
   schedule:
-    - cron: '* */1 * * *'
+    - cron: '0 8 * * *'
   issues:
     types: [pinned]
 
