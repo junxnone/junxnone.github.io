@@ -1,4 +1,4 @@
-## AI\n
+## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
   - [Determinant  行列式](aiwiki/0301_Math_Determinant)
