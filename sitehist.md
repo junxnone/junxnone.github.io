@@ -449,6 +449,7 @@
 - 2019-11-14        [Programing Python CodeAnalysis yapf](xwiki/0093_Programing_Python_CodeAnalysis_yapf)
 - 2019-11-13        [Programing Python CodeAnalysis pylint](xwiki/0092_Programing_Python_CodeAnalysis_pylint)
 - 2019-11-13        [Programing Python CodeAnalysis bandit](xwiki/0091_Programing_Python_CodeAnalysis_bandit)
+- 2019-11-02        [Programing Python datetime](xwiki/0212_Programing_Python_datetime)
 - 2019-10-29        [Tools Jupyter UseLocalPackage](xwiki/0068_Tools_Jupyter_UseLocalPackage)
 - 2019-10-25        [Tools Text sort](linux/0031_Tools_Text_sort)
 - 2019-10-25        [Tools Git tag](xwiki/0116_Tools_Git_tag)
@@ -664,4 +665,4 @@
 
 
 
-> `@2022.12.28 13:15:51`
+> `@2022.12.28 14:22:07`
