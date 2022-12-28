@@ -1,4 +1,5 @@
 - 2022-12-28        [Programing Python calendar](xwiki/0211_Programing_Python_calendar)
+- 2022-12-28        [OpenCV data](aiwiki/0364_OpenCV_data)
 - 2022-12-27        [OpenCV UC](aiwiki/0362_OpenCV_UC)
 - 2022-12-27        [OpenCV IP Filter](aiwiki/0363_OpenCV_IP_Filter)
 - 2022-12-24        [ML AF Softmax](aiwiki/0335_ML_AF_Softmax)
@@ -665,4 +666,4 @@
 
 
 
-> `@2022.12.28 15:15:27`
+> `@2022.12.28 16:21:38`
