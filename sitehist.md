@@ -474,7 +474,7 @@
 - 2019-08-20        [Tools VIS](aiwiki/0133_Tools_VIS)
 - 2019-08-15        [Pandas UseCase sort](xwiki/0186_Pandas_UseCase_sort)
 - 2019-08-15        [Pandas UseCase SpecialValue](xwiki/0187_Pandas_UseCase_SpecialValue)
-- 2019-08-15        [Pandas UseCase Create](xwiki/0188_Pandas_UseCase_Create)
+- 2019-08-15        [Pandas UseCase IO](xwiki/0188_Pandas_UseCase_IO)
 - 2019-08-14        [Ubuntu Issues thinclientdrives](linux/0092_Ubuntu_Issues_thinclientdrives)
 - 2019-08-14        [Pandas Series](xwiki/0184_Pandas_Series)
 - 2019-08-14        [Pandas Issues SettingWithCopyWarning](xwiki/0185_Pandas_Issues_SettingWithCopyWarning)
@@ -664,4 +664,4 @@
 
 
 
-> `@2022.12.28 12:20:59`
+> `@2022.12.28 13:15:51`
