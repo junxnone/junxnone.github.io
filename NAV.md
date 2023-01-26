@@ -28,5 +28,6 @@
   - [TextDiff](https://junxnone.github.io/textdiff/)
   - [🚅](https://junxnone.github.io/at/)
   - [Graph Mermaid](https://mermaid-js.github.io/mermaid-live-editor)
+  - [Geojson Map](https://junxnone.github.io/ge/)
 - <kbd>🎮</kbd>
   - [Cube](https://junxnone.github.io/cube)
