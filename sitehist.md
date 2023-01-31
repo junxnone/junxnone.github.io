@@ -1,3 +1,4 @@
+- 2023-01-31        [ML Op](aiwiki/0366_ML_Op)
 - 2022-12-28        [Programing Python calendar](xwiki/0211_Programing_Python_calendar)
 - 2022-12-28        [OpenCV data](aiwiki/0364_OpenCV_data)
 - 2022-12-27        [OpenCV UC](aiwiki/0362_OpenCV_UC)
@@ -438,6 +439,7 @@
 - 2019-12-04        [ML Tasks Image Classification Inception V4](aiwiki/0047_ML_Tasks_Image_Classification_Inception_V4)
 - 2019-12-04        [ML Tasks Image Classification Inception V2V3](aiwiki/0046_ML_Tasks_Image_Classification_Inception_V2V3)
 - 2019-12-04        [ML Tasks Image Classification Inception V1](aiwiki/0048_ML_Tasks_Image_Classification_Inception_V1)
+- 2019-11-30        [ML Op Pooling SPP](aiwiki/0365_ML_Op_Pooling_SPP)
 - 2019-11-29        [ML Tasks Image Segmentation Deeplab](aiwiki/0162_ML_Tasks_Image_Segmentation_Deeplab)
 - 2019-11-27        [ML Tasks Image Segmentation FCN](aiwiki/0160_ML_Tasks_Image_Segmentation_FCN)
 - 2019-11-20        [Tools nmap](linux/0062_Tools_nmap)
@@ -558,12 +560,12 @@
 - 2019-03-04        [Pandas DataFrame](xwiki/0182_Pandas_DataFrame)
 - 2019-03-02        [Tools yarn](xwiki/0178_Tools_yarn)
 - 2019-03-02        [Tools Github Pages jekyll](xwiki/0129_Tools_Github_Pages_jekyll)
-- 2019-03-02        [ML Pooling](aiwiki/0268_ML_Pooling)
+- 2019-03-02        [ML Op Pooling](aiwiki/0268_ML_Op_Pooling)
 - 2019-03-02        [ML Dropout](aiwiki/0258_ML_Dropout)
 - 2019-03-01        [Tools OS ulimit](linux/0041_Tools_OS_ulimit)
 - 2019-02-28        [Tools Text json](linux/0042_Tools_Text_json)
 - 2019-02-26        [Datasets Image2D Retrieval DeepFashion](aiwiki/0242_Datasets_Image2D_Retrieval_DeepFashion)
-- 2019-02-24        [ML GAP](aiwiki/0267_ML_GAP)
+- 2019-02-24        [ML Op Pooling GAP](aiwiki/0267_ML_Op_Pooling_GAP)
 - 2019-02-20        [Tools OS HardwareInfo](linux/0068_Tools_OS_HardwareInfo)
 - 2019-02-20        [ML Tasks Image Retrieval CBIR TripletNetwork](aiwiki/0156_ML_Tasks_Image_Retrieval_CBIR_TripletNetwork)
 - 2019-02-20        [ML Tasks Image Retrieval CBIR SiameseNetwork](aiwiki/0153_ML_Tasks_Image_Retrieval_CBIR_SiameseNetwork)
@@ -666,4 +668,4 @@
 
 
 
-> `@2023.01.31 14:23:06`
+> `@2023.01.31 15:15:44`
