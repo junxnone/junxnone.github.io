@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.02 23:18:30`
+> `@2023.02.03 00:25:19`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -646,7 +646,7 @@
   - [Eigen](aiwiki/0303_Tools_Eigen)
   - [FLOPs Parameters 计算](aiwiki/0026_Tools_FPCalculate)
   - [论文阅读相关](aiwiki/0072_Tools_ReadPapers)
-  - [Training&Inference Tools](aiwiki/0005_Tools_TIHistory)
+  - [Training & Inference Tools History](aiwiki/0005_Tools_TIHistory)
 - [Datasets 数据集](aiwiki/0017_Datasets)
   - [2D Images](aiwiki/0018_Datasets_Image2D)
     - [Image Classification Datasets](aiwiki/0028_Datasets_Image2D_Classification)
