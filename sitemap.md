@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.02 17:17:22`
+> `@2023.02.02 18:19:07`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -331,6 +331,99 @@
   - [iso3dfd](xwiki/0209_X_iso3dfd)
 
 ## AI
+0
+1
+1
+1
+1
+0
+1
+2
+2
+2
+2
+1
+1
+2
+3
+3
+3
+3
+0
+0
+1
+1
+1
+1
+1
+1
+2
+3
+3
+3
+3
+3
+0
+1
+1
+1
+2
+3
+3
+3
+3
+3
+3
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+1
+1
+0
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+1
+2
+2
+2
+1
+1
+1
+1
+1
+0
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+0
+1
+1
+1
+1
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
   - [Determinant  行列式](aiwiki/0301_Math_Determinant)
@@ -444,6 +537,11 @@
       - [SVM 原理推导](aiwiki/0116_ML_OML_SVM_原理)
   - Arch
     - [Cost Function 代价函数](aiwiki/0282_ML_Arch_CostFunction)
+    - [Gradient Descent 梯度下降](aiwiki/0147_ML_Arch_GD)
+      - [History](aiwiki/0149_ML_Arch_GD_History)
+      - [Momentum](aiwiki/0150_ML_Arch_GD_Momentum)
+      - [BGD SGD MBGD](aiwiki/0148_ML_Arch_GD_xGD)
+      - [GD 原理推导](aiwiki/0151_ML_Arch_GD_原理)
     - [Hyperparameter 超参数](aiwiki/0368_ML_Arch_HP)
     - [Learning Rate 学习率](aiwiki/0265_ML_Arch_LR)
       - [Cyclical Learning Rate 周期学习率](aiwiki/0266_ML_Arch_LR_CLR)
@@ -515,20 +613,49 @@
         - [STFPM](aiwiki/0324_ML_Tasks_Image_Anomaly_STFPM)
     - [Motion Detection 运动侦测](aiwiki/0243_ML_Tasks_MD)
     - [MetricLearning](aiwiki/0157_ML_Tasks_MetricLearning)
+  - [Op](aiwiki/0366_ML_Op)
+    - [Activation Function 激活函数](aiwiki/0279_ML_Op_AF)
+      - [Sigmoid](aiwiki/0280_ML_Op_AF_Sigmoid)
+      - [Softmax](aiwiki/0335_ML_Op_AF_Softmax)
+    - [Convolution](aiwiki/0009_ML_Op_Convolution)
+      - [卷积在 DL 中的应用](aiwiki/0011_ML_Op_Convolution_DL)
+      - [卷积 数学定义](aiwiki/0010_ML_Op_Convolution_Math)
+    - [Dropout](aiwiki/0258_ML_Op_Dropout)
+      - [Multi-Sample Dropout](aiwiki/0259_ML_Op_Dropout_MS)
+    - [Pooling 池化](aiwiki/0268_ML_Op_Pooling)
+      - [Global Average Pooling](aiwiki/0267_ML_Op_Pooling_GAP)
+      - [Spatial Pyramid Pooling - 空间金字塔池化](aiwiki/0365_ML_Op_Pooling_SPP)
+    - [Regularization  正则化](aiwiki/0252_ML_Op_Regularization)
+  - [Metrics 评价指标](aiwiki/0138_ML_Metrics)
+    - [Classification](aiwiki/0137_ML_Metrics_Classification)
+    - [CrossValidation 交叉验证](aiwiki/0249_ML_Metrics_CrossValidation)
+    - [Detection](aiwiki/0230_ML_Metrics_Detection)
+      - [GIoU](aiwiki/0232_ML_Metrics_Detection_GIoU)
+    - [Pairwise](aiwiki/0139_ML_Metrics_Pairwise)
+    - [Segmentation](aiwiki/0231_ML_Metrics_Segmentation)
+  - [PreProcessing](aiwiki/0369_ML_PreP)
+    - [Data Augmentation 数据增强](aiwiki/0255_ML_PreP_DataAug)
+      - [AutoAugment](aiwiki/0256_ML_PreP_DataAug_AutoAugment)
+      - [Copy-Pasting](aiwiki/0269_ML_PreP_DataAug_CP)
+      - [Cutout](aiwiki/0257_ML_PreP_DataAug_Cutout)
+    - [Data Normalization 数据标准化](aiwiki/0251_ML_PreP_DataNorm)
+  - [ProPrecessing](aiwiki/0370_ML_ProP)
+    - [Knowledge Distillation 知识蒸馏](aiwiki/0207_ML_ProP_KD)
+      - [History](aiwiki/0336_ML_ProP_KD_History)
+      - [Distilling the Knowledge in a Neural Network](aiwiki/0208_ML_ProP_KD_s)
+    - [Quantization  量化](aiwiki/0312_ML_ProP_Quantization)
   - [AutoEncoder](aiwiki/0209_ML_AE)
-  - [Active Learning](aiwiki/0118_ML_AL)
-    - [Query Strategy 查询/抽样 策略](aiwiki/0276_ML_AL_QS)
-      - [Pool-Based Sampling](aiwiki/0274_ML_AL_QS_PoolBasedSampling)
-      - [QBC](aiwiki/0272_ML_AL_QS_QBC)
-      - [Stream-based Selective Sampling](aiwiki/0273_ML_AL_QS_StreamBasedSelectiveSampling)
-      - [Uncertainty Sampling](aiwiki/0275_ML_AL_QS_UncertaintySampling)
-    - [Tools](aiwiki/0175_ML_AL_Tools)
-      - [AIDE](aiwiki/0270_ML_AL_Tools_AIDE)
-  - [Attention 注意力](aiwiki/0210_ML_Attention)
-    - [Bahdanau Attention](aiwiki/0214_ML_Attention_Bahdanau)
-    - [Luong Attention](aiwiki/0211_ML_Attention_Luong)
-    - [Position Encoding](aiwiki/0213_ML_Attention_PE)
-    - [Attention Is All You Need](aiwiki/0212_ML_Attention_S)
+  - [Transformer](aiwiki/0229_ML_Transformer)
+    - [Bottleneck Transformers](aiwiki/0228_ML_Transformer_BT)
+    - [DETR](aiwiki/0165_ML_Transformer_DETR)
+    - [DeiT](aiwiki/0253_ML_Transformer_DeiT)
+    - [Efficient Attention](aiwiki/0225_ML_Transformer_EfficientAttention)
+    - [Linformer](aiwiki/0224_ML_Transformer_Linformer)
+    - T2T
+      - [ViT](aiwiki/0227_ML_Transformer_T2T_ViT)
+    - [Transformer in Transformer](aiwiki/0360_ML_Transformer_TiT)
+    - [ViT](aiwiki/0223_ML_Transformer_ViT)
+    - [Transformer 在视觉方面的应用](aiwiki/0226_ML_Transformer_Vision)
   - [AutoML](aiwiki/0012_ML_AutoML)
     - [Feature Engineering](aiwiki/0206_ML_AutoML_FE)
     - [HPO](aiwiki/0013_ML_AutoML_HPO)
@@ -547,23 +674,19 @@
     - [NAS](aiwiki/0014_ML_AutoML_NAS)
     - Tools
       - [NNI](aiwiki/0016_ML_AutoML_Tools_NNI)
-  - Convolution
-    - [卷积在 DL 中的应用](aiwiki/0011_ML_Convolution_DL)
-  - [Gradient Descent 梯度下降](aiwiki/0147_ML_GD)
-    - [History](aiwiki/0149_ML_GD_History)
-    - [Momentum](aiwiki/0150_ML_GD_Momentum)
-    - [BGD SGD MBGD](aiwiki/0148_ML_GD_xGD)
-    - [原理](aiwiki/0151_ML_GD_原理)
-  - [Knowledge Distillation 知识蒸馏](aiwiki/0207_ML_KD)
-    - [History](aiwiki/0336_ML_KD_History)
-    - [Distilling the Knowledge in a Neural Network](aiwiki/0208_ML_KD_s)
-  - [Metrics 评价指标](aiwiki/0138_ML_Metrics)
-    - [Classification](aiwiki/0137_ML_Metrics_Classification)
-    - [CrossValidation 交叉验证](aiwiki/0249_ML_Metrics_CrossValidation)
-    - [Detection](aiwiki/0230_ML_Metrics_Detection)
-      - [GIoU](aiwiki/0232_ML_Metrics_Detection_GIoU)
-    - [Pairwise](aiwiki/0139_ML_Metrics_Pairwise)
-    - [Segmentation](aiwiki/0231_ML_Metrics_Segmentation)
+  - [Active Learning](aiwiki/0118_ML_AL)
+    - [Query Strategy 查询/抽样 策略](aiwiki/0276_ML_AL_QS)
+      - [Pool-Based Sampling](aiwiki/0274_ML_AL_QS_PoolBasedSampling)
+      - [QBC](aiwiki/0272_ML_AL_QS_QBC)
+      - [Stream-based Selective Sampling](aiwiki/0273_ML_AL_QS_StreamBasedSelectiveSampling)
+      - [Uncertainty Sampling](aiwiki/0275_ML_AL_QS_UncertaintySampling)
+    - [Tools](aiwiki/0175_ML_AL_Tools)
+      - [AIDE](aiwiki/0270_ML_AL_Tools_AIDE)
+  - [Attention 注意力](aiwiki/0210_ML_Attention)
+    - [Bahdanau Attention](aiwiki/0214_ML_Attention_Bahdanau)
+    - [Luong Attention](aiwiki/0211_ML_Attention_Luong)
+    - [Position Encoding](aiwiki/0213_ML_Attention_PE)
+    - [Attention Is All You Need](aiwiki/0212_ML_Attention_S)
   - [Nearest Neighbor Search 最近邻搜索](aiwiki/0102_ML_NNS)
     - [Approximate Nearest Neighbor 近似最近邻](aiwiki/0103_ML_NNS_ANN)
       - [Approximate Nearest Neighbors Oh Yeah](aiwiki/0333_ML_NNS_ANN_Annoy)
@@ -575,38 +698,8 @@
         - [Source Code Structure](aiwiki/0129_ML_NNS_KDTree_FLANN_SourceCode)
         - [UseCase](aiwiki/0130_ML_NNS_KDTree_FLANN_UseCase)
       - [nanoflann](aiwiki/0123_ML_NNS_KDTree_nanoflann)
-  - [Op](aiwiki/0366_ML_Op)
-    - [Activation Function 激活函数](aiwiki/0279_ML_Op_AF)
-      - [Sigmoid](aiwiki/0280_ML_Op_AF_Sigmoid)
-      - [Softmax](aiwiki/0335_ML_Op_AF_Softmax)
-    - [Convolution](aiwiki/0009_ML_Op_Convolution)
-      - [卷积 数学定义](aiwiki/0010_ML_Op_Convolution_Math)
-    - [Dropout](aiwiki/0258_ML_Op_Dropout)
-      - [Multi-Sample Dropout](aiwiki/0259_ML_Op_Dropout_MS)
-    - [Pooling 池化](aiwiki/0268_ML_Op_Pooling)
-      - [Global Average Pooling](aiwiki/0267_ML_Op_Pooling_GAP)
-      - [Spatial Pyramid Pooling - 空间金字塔池化](aiwiki/0365_ML_Op_Pooling_SPP)
-    - [Regularization  正则化](aiwiki/0252_ML_Op_Regularization)
-  - [PreProcessing](aiwiki/0369_ML_PreP)
-    - [Data Augmentation 数据增强](aiwiki/0255_ML_PreP_DataAug)
-      - [AutoAugment](aiwiki/0256_ML_PreP_DataAug_AutoAugment)
-      - [Copy-Pasting](aiwiki/0269_ML_PreP_DataAug_CP)
-      - [Cutout](aiwiki/0257_ML_PreP_DataAug_Cutout)
-    - [Data Normalization 数据标准化](aiwiki/0251_ML_PreP_DataNorm)
-  - [Quantization  量化](aiwiki/0312_ML_Quantization)
   - [Reinforcement Learning 强化学习](aiwiki/0290_ML_RL)
   - [Semi-Supervised Learning 半监督学习](aiwiki/0271_ML_SSL)
-  - [Transformer](aiwiki/0229_ML_Transformer)
-    - [Bottleneck Transformers](aiwiki/0228_ML_Transformer_BT)
-    - [DETR](aiwiki/0165_ML_Transformer_DETR)
-    - [DeiT](aiwiki/0253_ML_Transformer_DeiT)
-    - [Efficient Attention](aiwiki/0225_ML_Transformer_EfficientAttention)
-    - [Linformer](aiwiki/0224_ML_Transformer_Linformer)
-    - T2T
-      - [ViT](aiwiki/0227_ML_Transformer_T2T_ViT)
-    - [Transformer in Transformer](aiwiki/0360_ML_Transformer_TiT)
-    - [ViT](aiwiki/0223_ML_Transformer_ViT)
-    - [Transformer 在视觉方面的应用](aiwiki/0226_ML_Transformer_Vision)
 - Tools
   - [Numpy](aiwiki/0328_Tools_Numpy)
   - [Training&Inference Tools](aiwiki/0005_Tools_TI)
