@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.02 19:14:42`
+> `@2023.02.02 20:36:34`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -437,7 +437,7 @@
       - [PPF](aiwiki/0083_3D_Tools_PCL_PPF)
       - [SAC](aiwiki/0314_3D_Tools_PCL_SAC)
 - ML
-  - [Old ML](aiwiki/0367_ML_OML)
+  - [传统机器学习](aiwiki/0367_ML_OML)
     - [Decision Tree 决策树](aiwiki/0113_ML_OML_DecisionTree)
     - [Random Forest 随机森林](aiwiki/0114_ML_OML_RandomForest)
     - [SVM 支持向量机](aiwiki/0115_ML_OML_SVM)
@@ -552,6 +552,11 @@
       - [Distilling the Knowledge in a Neural Network](aiwiki/0208_ML_ProP_KD_s)
     - [Quantization  量化](aiwiki/0312_ML_ProP_Quantization)
   - [AutoEncoder](aiwiki/0209_ML_AE)
+  - [Attention 注意力](aiwiki/0210_ML_Attention)
+    - [Bahdanau Attention](aiwiki/0214_ML_Attention_Bahdanau)
+    - [Luong Attention](aiwiki/0211_ML_Attention_Luong)
+    - [Position Encoding](aiwiki/0213_ML_Attention_PE)
+    - [Attention Is All You Need](aiwiki/0212_ML_Attention_S)
   - [Transformer](aiwiki/0229_ML_Transformer)
     - [Bottleneck Transformers](aiwiki/0228_ML_Transformer_BT)
     - [DETR](aiwiki/0165_ML_Transformer_DETR)
@@ -589,11 +594,6 @@
       - [Uncertainty Sampling](aiwiki/0275_ML_AL_QS_UncertaintySampling)
     - [Tools](aiwiki/0175_ML_AL_Tools)
       - [AIDE](aiwiki/0270_ML_AL_Tools_AIDE)
-  - [Attention 注意力](aiwiki/0210_ML_Attention)
-    - [Bahdanau Attention](aiwiki/0214_ML_Attention_Bahdanau)
-    - [Luong Attention](aiwiki/0211_ML_Attention_Luong)
-    - [Position Encoding](aiwiki/0213_ML_Attention_PE)
-    - [Attention Is All You Need](aiwiki/0212_ML_Attention_S)
   - [Nearest Neighbor Search 最近邻搜索](aiwiki/0102_ML_NNS)
     - [Approximate Nearest Neighbor 近似最近邻](aiwiki/0103_ML_NNS_ANN)
       - [Approximate Nearest Neighbors Oh Yeah](aiwiki/0333_ML_NNS_ANN_Annoy)
@@ -609,7 +609,6 @@
   - [Semi-Supervised Learning 半监督学习](aiwiki/0271_ML_SSL)
 - Tools
   - [Numpy](aiwiki/0328_Tools_Numpy)
-  - [Training&Inference Tools](aiwiki/0005_Tools_TI)
   - [Pytorch](aiwiki/0168_Tools_Pytorch)
     - [Pipeline](aiwiki/0173_Tools_Pytorch_Pipeline)
     - [Optimizer](aiwiki/0174_Tools_Pytorch_Optimizer)
@@ -647,6 +646,7 @@
   - [Eigen](aiwiki/0303_Tools_Eigen)
   - [FLOPs Parameters 计算](aiwiki/0026_Tools_FPCalculate)
   - [论文阅读相关](aiwiki/0072_Tools_ReadPapers)
+  - [Training&Inference Tools](aiwiki/0005_Tools_TIHistory)
 - [Datasets 数据集](aiwiki/0017_Datasets)
   - [2D Images](aiwiki/0018_Datasets_Image2D)
     - [Image Classification Datasets](aiwiki/0028_Datasets_Image2D_Classification)

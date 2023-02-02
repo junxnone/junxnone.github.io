@@ -184,7 +184,7 @@
 - 2021-09-06        [ML AutoML HPO](aiwiki/0013_ML_AutoML_HPO)
 - 2021-09-01        [ML Op Convolution](aiwiki/0009_ML_Op_Convolution)
 - 2021-09-01        [ML AutoML HPO Tools SIGOPT](aiwiki/0015_ML_AutoML_HPO_Tools_SIGOPT)
-- 2021-08-31        [Tools TI](aiwiki/0005_Tools_TI)
+- 2021-08-31        [Tools TIHistory](aiwiki/0005_Tools_TIHistory)
 - 2021-08-31        [Tools Label](aiwiki/0006_Tools_Label)
 - 2021-08-31        [ML Tasks](aiwiki/0003_ML_Tasks)
 - 2021-08-30        [3D DL](aiwiki/0233_3D_DL)
@@ -672,4 +672,4 @@
 
 
 
-> `@2023.02.02 19:14:42`
+> `@2023.02.02 20:36:35`
