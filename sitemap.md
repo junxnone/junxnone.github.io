@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.03 09:38:48`
+> `@2023.02.03 10:49:38`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -381,7 +381,7 @@
         - [gst-inspect](aiwiki/0112_Media_Tools_GStreamer_Tools_gstinspect)
         - [gst-launch](aiwiki/0110_Media_Tools_GStreamer_Tools_gstlaunch)
       - [Plugins](aiwiki/0143_Media_Tools_GStreamer_Plugins)
-- CV
+- [CV 计算机视觉](aiwiki/0371_CV)
   - [Thresholding 二值化](aiwiki/0099_CV_BIN)
     - [scikit-image 二值化](aiwiki/0331_CV_BIN_ScikitImage)
   - [Blob Detection](aiwiki/0068_CV_Blob)
