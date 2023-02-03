@@ -1,4 +1,7 @@
 - 2023-02-03        [ML Arch LR AnnealingLR](aiwiki/0372_ML_Arch_LR_AnnealingLR)
+- 2023-02-03        [Hot](aiwiki/0375_Hot)
+- 2023-02-03        [Hot AIGC](aiwiki/0374_Hot_AIGC)
+- 2023-02-03        [Hot AIGC ChatGPT](aiwiki/0373_Hot_AIGC_ChatGPT)
 - 2023-02-03        [CV](aiwiki/0371_CV)
 - 2023-02-02        [ML ProP](aiwiki/0370_ML_ProP)
 - 2023-02-02        [ML PreP](aiwiki/0369_ML_PreP)
@@ -276,7 +279,7 @@
 - 2021-02-23        [ML Transformer](aiwiki/0229_ML_Transformer)
 - 2021-02-23        [ML Transformer EfficientAttention](aiwiki/0225_ML_Transformer_EfficientAttention)
 - 2021-02-20        [ML Transformer Linformer](aiwiki/0224_ML_Transformer_Linformer)
-- 2021-02-18        [ML Transformer T2T ViT](aiwiki/0227_ML_Transformer_T2T_ViT)
+- 2021-02-18        [ML Transformer T2TViT](aiwiki/0227_ML_Transformer_T2TViT)
 - 2021-02-18        [ML Transformer DeiT](aiwiki/0253_ML_Transformer_DeiT)
 - 2021-02-18        [ML Transformer BT](aiwiki/0228_ML_Transformer_BT)
 - 2021-02-13        [Tools Github Pages BaiduMap Issues](xwiki/0172_Tools_Github_Pages_BaiduMap_Issues)
@@ -674,4 +677,4 @@
 
 
 
-> `@2023.02.03 15:16:04`
+> `@2023.02.03 16:21:53`

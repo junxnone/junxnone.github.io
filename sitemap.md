@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.03 15:16:03`
+> `@2023.02.03 16:21:52`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -564,8 +564,7 @@
     - [DeiT](aiwiki/0253_ML_Transformer_DeiT)
     - [Efficient Attention](aiwiki/0225_ML_Transformer_EfficientAttention)
     - [Linformer](aiwiki/0224_ML_Transformer_Linformer)
-    - T2T
-      - [ViT](aiwiki/0227_ML_Transformer_T2T_ViT)
+    - [T2TViT](aiwiki/0227_ML_Transformer_T2TViT)
     - [Transformer in Transformer](aiwiki/0360_ML_Transformer_TiT)
     - [ViT](aiwiki/0223_ML_Transformer_ViT)
     - [Transformer 在视觉方面的应用](aiwiki/0226_ML_Transformer_Vision)
@@ -710,6 +709,9 @@
       - [absdiff](aiwiki/0353_OpenCV_core_arrays_absdiff)
   - [数据结构](aiwiki/0364_OpenCV_data)
   - [js](aiwiki/0339_OpenCV_js)
+- [AI 热点](aiwiki/0375_Hot)
+  - [AIGC - AI Generated Content](aiwiki/0374_Hot_AIGC)
+    - [ChatGPT](aiwiki/0373_Hot_AIGC_ChatGPT)
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
 
 ## Jupyter Notebooks Samples
