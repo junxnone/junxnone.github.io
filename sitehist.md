@@ -1,3 +1,4 @@
+- 2023-02-03        [ML Arch LR AnnealingLR](aiwiki/0372_ML_Arch_LR_AnnealingLR)
 - 2023-02-03        [CV](aiwiki/0371_CV)
 - 2023-02-02        [ML ProP](aiwiki/0370_ML_ProP)
 - 2023-02-02        [ML PreP](aiwiki/0369_ML_PreP)
@@ -257,7 +258,7 @@
 - 2021-04-08        [Programing Python Decorator](xwiki/0088_Programing_Python_Decorator)
 - 2021-04-06        [ML Arch GD 原理](aiwiki/0151_ML_Arch_GD_原理)
 - 2021-04-06        [ML Arch GD History](aiwiki/0149_ML_Arch_GD_History)
-- 2021-03-30        [Math SimulateAnneal](aiwiki/0357_Math_SimulateAnneal)
+- 2021-03-30        [Math SA](aiwiki/0357_Math_SA)
 - 2021-03-30        [ML OML RandomForest](aiwiki/0114_ML_OML_RandomForest)
 - 2021-03-30        [ML OML DecisionTree](aiwiki/0113_ML_OML_DecisionTree)
 - 2021-03-30        [ML AutoML HPO BO TPE](aiwiki/0221_ML_AutoML_HPO_BO_TPE)
@@ -673,4 +674,4 @@
 
 
 
-> `@2023.02.03 10:49:39`
+> `@2023.02.03 11:22:06`

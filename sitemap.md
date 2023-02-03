@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.03 10:49:38`
+> `@2023.02.03 11:22:06`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -346,9 +346,9 @@
   - [QuadTree/OCTree - 四叉树/八叉树](aiwiki/0356_Math_QuadTree)
   - [Quaternion 四元数](aiwiki/0289_Math_Quaternion)
   - [RANSAC](aiwiki/0293_Math_RANSAC)
+  - [Simulated annealing 模拟退火](aiwiki/0357_Math_SA)
   - [Stochastic process 随机过程](aiwiki/0355_Math_SC)
   - [SVD](aiwiki/0297_Math_SVD)
-  - [Simulate Anneal 模拟退火](aiwiki/0357_Math_SimulateAnneal)
   - [norm 范数](aiwiki/0254_Math_norm)
 - Media
   - [图像](aiwiki/0325_Media_Image)
@@ -451,6 +451,7 @@
       - [GD 原理推导](aiwiki/0151_ML_Arch_GD_原理)
     - [Hyperparameter 超参数](aiwiki/0368_ML_Arch_HP)
     - [Learning Rate 学习率](aiwiki/0265_ML_Arch_LR)
+      - [AnnealingLR 退火学习率](aiwiki/0372_ML_Arch_LR_AnnealingLR)
       - [Cyclical Learning Rate 周期学习率](aiwiki/0266_ML_Arch_LR_CLR)
       - [学习率选择](aiwiki/0263_ML_Arch_LR_LRFinder)
       - [One Cycle Policy](aiwiki/0264_ML_Arch_LR_OCP)
