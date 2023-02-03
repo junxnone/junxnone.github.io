@@ -1,10 +1,11 @@
+- 2023-02-03        [ML Arch](aiwiki/0376_ML_Arch)
 - 2023-02-03        [ML Arch LR AnnealingLR](aiwiki/0372_ML_Arch_LR_AnnealingLR)
 - 2023-02-03        [Hot](aiwiki/0375_Hot)
 - 2023-02-03        [Hot AIGC](aiwiki/0374_Hot_AIGC)
 - 2023-02-03        [Hot AIGC ChatGPT](aiwiki/0373_Hot_AIGC_ChatGPT)
 - 2023-02-03        [CV](aiwiki/0371_CV)
-- 2023-02-02        [ML ProP](aiwiki/0370_ML_ProP)
 - 2023-02-02        [ML PreP](aiwiki/0369_ML_PreP)
+- 2023-02-02        [ML PostP](aiwiki/0370_ML_PostP)
 - 2023-02-02        [ML OML](aiwiki/0367_ML_OML)
 - 2023-02-02        [ML Arch HP](aiwiki/0368_ML_Arch_HP)
 - 2023-01-31        [ML Op](aiwiki/0366_ML_Op)
@@ -252,12 +253,12 @@
 - 2021-04-28        [3D Tools PCL](aiwiki/0077_3D_Tools_PCL)
 - 2021-04-26        [Media Image Camera 定拍飞拍](aiwiki/0038_Media_Image_Camera_定拍飞拍)
 - 2021-04-26        [Media Image Camera LowLatency](aiwiki/0037_Media_Image_Camera_LowLatency)
-- 2021-04-25        [ML ProP KD s](aiwiki/0208_ML_ProP_KD_s)
+- 2021-04-25        [ML PostP KD s](aiwiki/0208_ML_PostP_KD_s)
 - 2021-04-21        [OPT LIB IPP](xwiki/0032_OPT_LIB_IPP)
 - 2021-04-13        [Tools Pytorch Tips](aiwiki/0170_Tools_Pytorch_Tips)
 - 2021-04-13        [CV TIS](aiwiki/0158_CV_TIS)
-- 2021-04-12        [ML ProP KD](aiwiki/0207_ML_ProP_KD)
-- 2021-04-12        [ML ProP KD History](aiwiki/0336_ML_ProP_KD_History)
+- 2021-04-12        [ML PostP KD](aiwiki/0207_ML_PostP_KD)
+- 2021-04-12        [ML PostP KD History](aiwiki/0336_ML_PostP_KD_History)
 - 2021-04-08        [Programing Python Decorator](xwiki/0088_Programing_Python_Decorator)
 - 2021-04-06        [ML Arch GD 原理](aiwiki/0151_ML_Arch_GD_原理)
 - 2021-04-06        [ML Arch GD History](aiwiki/0149_ML_Arch_GD_History)
@@ -652,7 +653,7 @@
 - 2018-10-21        [OpenCV Brisk](aiwiki/0348_OpenCV_Brisk)
 - 2018-10-17        [Tools TextCompare](linux/0054_Tools_TextCompare)
 - 2018-10-16        [Tools Media mediainfo](linux/0053_Tools_Media_mediainfo)
-- 2018-10-16        [ML ProP Quantization](aiwiki/0312_ML_ProP_Quantization)
+- 2018-10-16        [ML PostP Quantization](aiwiki/0312_ML_PostP_Quantization)
 - 2018-10-11        [Hypervisor Docker UseCase](xwiki/0046_Hypervisor_Docker_UseCase)
 - 2018-10-09        [Ubuntu ForgetPassword](linux/0093_Ubuntu_ForgetPassword)
 - 2018-10-09        [Media Image Histogram](aiwiki/0342_Media_Image_Histogram)
@@ -677,4 +678,4 @@
 
 
 
-> `@2023.02.03 16:21:53`
+> `@2023.02.03 17:17:44`

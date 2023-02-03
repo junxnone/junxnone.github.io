@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.03 16:21:52`
+> `@2023.02.03 17:17:44`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -442,7 +442,7 @@
     - [Random Forest 随机森林](aiwiki/0114_ML_OML_RandomForest)
     - [SVM 支持向量机](aiwiki/0115_ML_OML_SVM)
       - [SVM 原理推导](aiwiki/0116_ML_OML_SVM_原理)
-  - Arch
+  - [ML 架构](aiwiki/0376_ML_Arch)
     - [Cost Function 代价函数](aiwiki/0282_ML_Arch_CostFunction)
     - [Gradient Descent 梯度下降](aiwiki/0147_ML_Arch_GD)
       - [History](aiwiki/0149_ML_Arch_GD_History)
@@ -547,11 +547,11 @@
       - [Copy-Pasting](aiwiki/0269_ML_PreP_DataAug_CP)
       - [Cutout](aiwiki/0257_ML_PreP_DataAug_Cutout)
     - [Data Normalization 数据标准化](aiwiki/0251_ML_PreP_DataNorm)
-  - [ProPrecessing](aiwiki/0370_ML_ProP)
-    - [Knowledge Distillation 知识蒸馏](aiwiki/0207_ML_ProP_KD)
-      - [History](aiwiki/0336_ML_ProP_KD_History)
-      - [Distilling the Knowledge in a Neural Network](aiwiki/0208_ML_ProP_KD_s)
-    - [Quantization  量化](aiwiki/0312_ML_ProP_Quantization)
+  - [PostProcessing](aiwiki/0370_ML_PostP)
+    - [Knowledge Distillation 知识蒸馏](aiwiki/0207_ML_PostP_KD)
+      - [History](aiwiki/0336_ML_PostP_KD_History)
+      - [Distilling the Knowledge in a Neural Network](aiwiki/0208_ML_PostP_KD_s)
+    - [Quantization  量化](aiwiki/0312_ML_PostP_Quantization)
   - [AutoEncoder](aiwiki/0209_ML_AE)
   - [Attention 注意力](aiwiki/0210_ML_Attention)
     - [Bahdanau Attention](aiwiki/0214_ML_Attention_Bahdanau)
