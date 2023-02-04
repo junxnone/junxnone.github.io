@@ -1,3 +1,4 @@
+- 2023-02-04        [Math Derivative](aiwiki/0377_Math_Derivative)
 - 2023-02-03        [ML Arch](aiwiki/0376_ML_Arch)
 - 2023-02-03        [ML Arch LR AnnealingLR](aiwiki/0372_ML_Arch_LR_AnnealingLR)
 - 2023-02-03        [Hot](aiwiki/0375_Hot)
@@ -678,4 +679,4 @@
 
 
 
-> `@2023.02.04 21:20:04`
+> `@2023.02.04 22:14:34`

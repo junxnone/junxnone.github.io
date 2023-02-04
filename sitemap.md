@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.04 21:20:03`
+> `@2023.02.04 22:14:34`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -338,6 +338,7 @@
   - [Least Squares 最小二乘法](aiwiki/0294_Math_LeastSquares)
     - [Moving Least Squares 移动最小二乘法](aiwiki/0291_Math_LeastSquares_Moving)
   - [贝叶斯定理](aiwiki/0217_Math_BT)
+  - [Derivative 导数](aiwiki/0377_Math_Derivative)
   - [Dynamic Programming 动态规划](aiwiki/0310_Math_DynamicProgramming)
   - [Gaussian Distribution 高斯分布](aiwiki/0023_Math_GaussianDistribution)
   - [Gaussian Filter 高斯滤波器](aiwiki/0215_Math_GaussianFilter)
@@ -444,7 +445,7 @@
       - [SVM 原理推导](aiwiki/0116_ML_OML_SVM_原理)
   - [ML 架构](aiwiki/0376_ML_Arch)
     - [Cost Function 代价函数](aiwiki/0282_ML_Arch_CostFunction)
-    - [Gradient Descent 梯度下降](aiwiki/0147_ML_Arch_GD)
+    - [Gradient Descent & Optimizer](aiwiki/0147_ML_Arch_GD)
       - [History](aiwiki/0149_ML_Arch_GD_History)
       - [Momentum](aiwiki/0150_ML_Arch_GD_Momentum)
       - [BGD SGD MBGD](aiwiki/0148_ML_Arch_GD_xGD)
