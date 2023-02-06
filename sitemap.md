@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.06 09:26:18`
+> `@2023.02.06 10:40:20`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -444,7 +444,11 @@
     - [SVM 支持向量机](aiwiki/0115_ML_OML_SVM)
       - [SVM 原理推导](aiwiki/0116_ML_OML_SVM_原理)
   - [ML 架构](aiwiki/0376_ML_Arch)
-    - [Cost Function 代价函数](aiwiki/0282_ML_Arch_CostFunction)
+    - [Loss/Cost/ Object Function - 损失代价目标函数](aiwiki/0378_ML_Arch_Func)
+      - [Cost Function 代价函数](aiwiki/0282_ML_Arch_Func_CostFunction)
+      - [Loss Function 损失函数](aiwiki/0281_ML_Arch_Func_LossFunction)
+        - [Dice Loss](aiwiki/0283_ML_Arch_Func_LossFunction_DiceLoss)
+        - [Focal Loss](aiwiki/0284_ML_Arch_Func_LossFunction_FocalLoss)
     - [Gradient Descent & Optimizer](aiwiki/0147_ML_Arch_GD)
       - [History](aiwiki/0149_ML_Arch_GD_History)
       - [Momentum](aiwiki/0150_ML_Arch_GD_Momentum)
@@ -456,9 +460,6 @@
       - [Cyclical Learning Rate 周期学习率](aiwiki/0266_ML_Arch_LR_CLR)
       - [学习率选择](aiwiki/0263_ML_Arch_LR_LRFinder)
       - [One Cycle Policy](aiwiki/0264_ML_Arch_LR_OCP)
-    - [Loss Function 损失函数](aiwiki/0281_ML_Arch_LossFunction)
-      - [Dice Loss](aiwiki/0283_ML_Arch_LossFunction_DiceLoss)
-      - [Focal Loss](aiwiki/0284_ML_Arch_LossFunction_FocalLoss)
   - [ML/DL 常见任务](aiwiki/0003_ML_Tasks)
     - Image
       - [Classification](aiwiki/0061_ML_Tasks_Image_Classification)

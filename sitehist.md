@@ -1,3 +1,4 @@
+- 2023-02-06        [ML Arch Func](aiwiki/0378_ML_Arch_Func)
 - 2023-02-04        [Math Derivative](aiwiki/0377_Math_Derivative)
 - 2023-02-03        [ML Arch](aiwiki/0376_ML_Arch)
 - 2023-02-03        [ML Arch LR AnnealingLR](aiwiki/0372_ML_Arch_LR_AnnealingLR)
@@ -443,7 +444,7 @@
 - 2019-12-10        [ML Tasks MetricLearning](aiwiki/0157_ML_Tasks_MetricLearning)
 - 2019-12-10        [ML Metrics Detection GIoU](aiwiki/0232_ML_Metrics_Detection_GIoU)
 - 2019-12-09        [ML PreP DataAug CP](aiwiki/0269_ML_PreP_DataAug_CP)
-- 2019-12-09        [ML Arch LossFunction DiceLoss](aiwiki/0283_ML_Arch_LossFunction_DiceLoss)
+- 2019-12-09        [ML Arch Func LossFunction DiceLoss](aiwiki/0283_ML_Arch_Func_LossFunction_DiceLoss)
 - 2019-12-07        [Tools Jupyter Arch](xwiki/0069_Tools_Jupyter_Arch)
 - 2019-12-05        [ML Arch LR](aiwiki/0265_ML_Arch_LR)
 - 2019-12-04        [ML Tasks Image Classification Xception](aiwiki/0050_ML_Tasks_Image_Classification_Xception)
@@ -546,14 +547,14 @@
 - 2019-04-12        [Tools](linux/0059_Tools)
 - 2019-04-10        [ML PreP DataAug](aiwiki/0255_ML_PreP_DataAug)
 - 2019-04-08        [ML Tasks Image Anomaly](aiwiki/0277_ML_Tasks_Image_Anomaly)
-- 2019-04-08        [ML Arch LossFunction](aiwiki/0281_ML_Arch_LossFunction)
+- 2019-04-08        [ML Arch Func LossFunction](aiwiki/0281_ML_Arch_Func_LossFunction)
 - 2019-04-01        [Datasets Image2D Defect](aiwiki/0245_Datasets_Image2D_Defect)
 - 2019-03-28        [ML Tasks Image Segmentation](aiwiki/0159_ML_Tasks_Image_Segmentation)
 - 2019-03-25        [Tools Git branch](xwiki/0115_Tools_Git_branch)
 - 2019-03-21        [Media Video](aiwiki/0036_Media_Video)
 - 2019-03-18        [ML AutoML HPO GridSearch](aiwiki/0205_ML_AutoML_HPO_GridSearch)
 - 2019-03-14        [Tools ReadPapers](aiwiki/0072_Tools_ReadPapers)
-- 2019-03-14        [ML Arch LossFunction FocalLoss](aiwiki/0284_ML_Arch_LossFunction_FocalLoss)
+- 2019-03-14        [ML Arch Func LossFunction FocalLoss](aiwiki/0284_ML_Arch_Func_LossFunction_FocalLoss)
 - 2019-03-13        [ML Op AF](aiwiki/0279_ML_Op_AF)
 - 2019-03-12        [ML Arch GD Momentum](aiwiki/0150_ML_Arch_GD_Momentum)
 - 2019-03-10        [Tools TaskSchedule](linux/0040_Tools_TaskSchedule)
@@ -615,7 +616,7 @@
 - 2018-12-12        [Tools VIS Quiver](aiwiki/0136_Tools_VIS_Quiver)
 - 2018-12-12        [Tools Github Token](xwiki/0123_Tools_Github_Token)
 - 2018-12-12        [ML Arch GD](aiwiki/0147_ML_Arch_GD)
-- 2018-12-12        [ML Arch CostFunction](aiwiki/0282_ML_Arch_CostFunction)
+- 2018-12-12        [ML Arch Func CostFunction](aiwiki/0282_ML_Arch_Func_CostFunction)
 - 2018-12-11        [OpenCV IO Image](aiwiki/0361_OpenCV_IO_Image)
 - 2018-12-10        [Tools Git submodule](xwiki/0114_Tools_Git_submodule)
 - 2018-12-10        [Tools Git proxy](xwiki/0113_Tools_Git_proxy)
@@ -679,4 +680,4 @@
 
 
 
-> `@2023.02.06 09:26:18`
+> `@2023.02.06 10:40:20`
