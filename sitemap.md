@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.08 19:15:23`
+> `@2023.02.08 20:34:55`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -482,7 +482,7 @@
         - [FasterRCNN](aiwiki/0059_ML_Tasks_Image_Detection_FasterRCNN)
         - [RCNN](aiwiki/0057_ML_Tasks_Image_Detection_RCNN)
         - [RCNN VS Fast RCNN VS Faster RCNN](aiwiki/0060_ML_Tasks_Image_Detection_RCNNs)
-        - [YOLO](aiwiki/0053_ML_Tasks_Image_Detection_YOLO)
+        - [YOLO 系列](aiwiki/0053_ML_Tasks_Image_Detection_YOLO)
           - [YOLO V1](aiwiki/0054_ML_Tasks_Image_Detection_YOLO_V1)
           - [YOLO V2](aiwiki/0055_ML_Tasks_Image_Detection_YOLO_V2)
           - [YOLO V3](aiwiki/0056_ML_Tasks_Image_Detection_YOLO_V3)
