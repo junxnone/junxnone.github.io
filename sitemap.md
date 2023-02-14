@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.14 21:28:05`
+> `@2023.02.14 22:17:22`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -486,6 +486,7 @@
           - [YOLO V1](aiwiki/0054_ML_Tasks_Image_Detection_YOLO_V1)
           - [YOLO V2](aiwiki/0055_ML_Tasks_Image_Detection_YOLO_V2)
           - [YOLO V3](aiwiki/0056_ML_Tasks_Image_Detection_YOLO_V3)
+          - [YOLO V5](aiwiki/0379_ML_Tasks_Image_Detection_YOLO_V5)
           - [YOLO tiny](aiwiki/0052_ML_Tasks_Image_Detection_YOLO_tiny)
       - [Segmentation](aiwiki/0159_ML_Tasks_Image_Segmentation)
         - [Deeplab](aiwiki/0162_ML_Tasks_Image_Segmentation_Deeplab)
