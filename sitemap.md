@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.15 11:22:48`
+> `@2023.02.15 12:23:04`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -716,6 +716,7 @@
   - [AIGC - AI Generated Content](aiwiki/0374_Hot_AIGC)
     - [ChatGPT](aiwiki/0373_Hot_AIGC_ChatGPT)
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
+- [资源参考](aiwiki/0380_Reference)
 
 ## Jupyter Notebooks Samples
 

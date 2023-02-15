@@ -1,3 +1,4 @@
+- 2023-02-15        [Reference](aiwiki/0380_Reference)
 - 2023-02-14        [ML Tasks Image Detection YOLO V5](aiwiki/0379_ML_Tasks_Image_Detection_YOLO_V5)
 - 2023-02-06        [ML Arch Func](aiwiki/0378_ML_Arch_Func)
 - 2023-02-04        [Math Derivative](aiwiki/0377_Math_Derivative)
@@ -681,4 +682,4 @@
 
 
 
-> `@2023.02.15 11:22:49`
+> `@2023.02.15 12:23:05`
