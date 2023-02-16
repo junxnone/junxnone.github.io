@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.16 23:19:16`
+> `@2023.02.17 00:26:06`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -541,7 +541,10 @@
     - [Classification](aiwiki/0137_ML_Metrics_Classification)
     - [CrossValidation 交叉验证](aiwiki/0249_ML_Metrics_CrossValidation)
     - [Detection](aiwiki/0230_ML_Metrics_Detection)
+      - [AP & mAP & AR](aiwiki/0382_ML_Metrics_Detection_APmAPAR)
+      - [COCO Detection Metrics](aiwiki/0384_ML_Metrics_Detection_COCO)
       - [GIoU](aiwiki/0232_ML_Metrics_Detection_GIoU)
+      - [IoU - Intersection Over Union](aiwiki/0383_ML_Metrics_Detection_IoU)
       - [TPR & FPR](aiwiki/0381_ML_Metrics_Detection_TPRFPR)
     - [Pairwise](aiwiki/0139_ML_Metrics_Pairwise)
     - [Segmentation](aiwiki/0231_ML_Metrics_Segmentation)

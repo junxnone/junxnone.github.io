@@ -1,4 +1,7 @@
 - 2023-02-16        [ML Metrics Detection TPRFPR](aiwiki/0381_ML_Metrics_Detection_TPRFPR)
+- 2023-02-16        [ML Metrics Detection IoU](aiwiki/0383_ML_Metrics_Detection_IoU)
+- 2023-02-16        [ML Metrics Detection COCO](aiwiki/0384_ML_Metrics_Detection_COCO)
+- 2023-02-16        [ML Metrics Detection APmAPAR](aiwiki/0382_ML_Metrics_Detection_APmAPAR)
 - 2023-02-15        [Reference](aiwiki/0380_Reference)
 - 2023-02-14        [ML Tasks Image Detection YOLO V5](aiwiki/0379_ML_Tasks_Image_Detection_YOLO_V5)
 - 2023-02-06        [ML Arch Func](aiwiki/0378_ML_Arch_Func)
@@ -683,4 +686,4 @@
 
 
 
-> `@2023.02.16 23:19:17`
+> `@2023.02.17 00:26:07`
