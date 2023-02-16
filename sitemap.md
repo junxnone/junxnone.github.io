@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.16 22:16:56`
+> `@2023.02.16 23:19:16`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -542,6 +542,7 @@
     - [CrossValidation 交叉验证](aiwiki/0249_ML_Metrics_CrossValidation)
     - [Detection](aiwiki/0230_ML_Metrics_Detection)
       - [GIoU](aiwiki/0232_ML_Metrics_Detection_GIoU)
+      - [TPR & FPR](aiwiki/0381_ML_Metrics_Detection_TPRFPR)
     - [Pairwise](aiwiki/0139_ML_Metrics_Pairwise)
     - [Segmentation](aiwiki/0231_ML_Metrics_Segmentation)
   - [PreProcessing](aiwiki/0369_ML_PreP)
