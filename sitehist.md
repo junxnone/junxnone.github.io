@@ -1,3 +1,4 @@
+- 2023-02-21        [paper CSPNet](aiwiki/0385_paper_CSPNet)
 - 2023-02-16        [ML Metrics Detection TPRFPR](aiwiki/0381_ML_Metrics_Detection_TPRFPR)
 - 2023-02-16        [ML Metrics Detection IoU](aiwiki/0383_ML_Metrics_Detection_IoU)
 - 2023-02-16        [ML Metrics Detection COCO](aiwiki/0384_ML_Metrics_Detection_COCO)
@@ -686,4 +687,4 @@
 
 
 
-> `@2023.02.22 06:17:49`
+> `@2023.02.22 07:18:36`
