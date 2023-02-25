@@ -4,6 +4,9 @@
   - Ubuntu
   - Yocto
   - CentOS
+  - Shell
+  - Docker
+  - KVM
 - ML/DL
   - Tools
     - Scikit-Learn
@@ -26,9 +29,6 @@
   - Numpy
   - Pandas
 - C/C++
-- Shell
-- Docker
-- KVM
 - Performance Optimation
   - OneAPI
   - OpenMP
