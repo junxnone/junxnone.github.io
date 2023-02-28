@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.28 21:27:15`
+> `@2023.02.28 22:17:40`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -837,6 +837,7 @@
 - [scikit_image_getting_started.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=scikit-image/scikit_image_getting_started.ipynb)
 
 ### scikit-learn
+- [ConfusionMatrix.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=scikit-learn/ConfusionMatrix.ipynb)
 - [Pairwise_metrics.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=scikit-learn/Pairwise_metrics.ipynb)
 - [confusion_matrix.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=scikit-learn/confusion_matrix.ipynb)
 - [datasets.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=scikit-learn/datasets.ipynb)
