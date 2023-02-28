@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.02.28 17:19:14`
+> `@2023.02.28 18:20:42`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -237,6 +237,7 @@
   - [可视化](xwiki/0189_Pandas_Visualization)
   - Issues
     - [SettingWithCopyWarning](xwiki/0185_Pandas_Issues_SettingWithCopyWarning)
+    - [存储为 csv 再读入后, 单元格值 `list` 类型会变成 `str` 类型](xwiki/0213_Pandas_Issues_csvliststr)
 - Tools
   - [Jupyter](xwiki/0163_Tools_Jupyter)
     - [Arch](xwiki/0069_Tools_Jupyter_Arch)
