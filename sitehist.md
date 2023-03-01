@@ -1,3 +1,4 @@
+- 2023-03-01        [Programing CPP lambda](xwiki/0214_Programing_CPP_lambda)
 - 2023-02-28        [Pandas Issues csvliststr](xwiki/0213_Pandas_Issues_csvliststr)
 - 2023-02-21        [paper](aiwiki/0386_paper)
 - 2023-02-21        [paper CSPNet](aiwiki/0385_paper_CSPNet)
@@ -689,4 +690,4 @@
 
 
 
-> `@2023.03.01 15:16:30`
+> `@2023.03.01 16:24:50`

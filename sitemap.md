@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.01 15:16:29`
+> `@2023.03.01 16:24:49`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -146,6 +146,7 @@
     - [计时方法](xwiki/0084_Programing_CPP_CountTime)
     - [STL Standard Template Library](xwiki/0083_Programing_CPP_STL)
     - [标准库](xwiki/0082_Programing_CPP_StandardLibrary)
+    - [lambda](xwiki/0214_Programing_CPP_lambda)
   - [Shell](xwiki/0079_Programing_Shell)
     - [if  判断](xwiki/0102_Programing_Shell_if)
     - [for](xwiki/0101_Programing_Shell_for)
