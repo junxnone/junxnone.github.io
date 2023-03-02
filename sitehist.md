@@ -1,3 +1,4 @@
+- 2023-03-02        [Hardware CPU Intel PECore](xwiki/0215_Hardware_CPU_Intel_PECore)
 - 2023-03-01        [Programing CPP lambda](xwiki/0214_Programing_CPP_lambda)
 - 2023-02-28        [Pandas Issues csvliststr](xwiki/0213_Pandas_Issues_csvliststr)
 - 2023-02-21        [paper](aiwiki/0386_paper)
@@ -690,4 +691,4 @@
 
 
 
-> `@2023.03.02 11:26:27`
+> `@2023.03.02 12:23:19`
