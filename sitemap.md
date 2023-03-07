@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.07 11:33:32`
+> `@2023.03.07 12:23:16`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -197,6 +197,7 @@
       - [Offload](xwiki/0028_OPT_PARA_OpenMP_Offload)
       - [API](xwiki/0024_OPT_PARA_OpenMP_API)
     - [DPCPP](xwiki/0036_OPT_PARA_DPCPP)
+      - [架构及相关概念](xwiki/0216_OPT_PARA_DPCPP_Arch)
       - [DEBUG](xwiki/0038_OPT_PARA_DPCPP_DEBUG)
       - [LevelZero](xwiki/0037_OPT_PARA_DPCPP_LevelZero)
     - [SYCL](xwiki/0031_OPT_PARA_SYCL)

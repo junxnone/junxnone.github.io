@@ -1,3 +1,4 @@
+- 2023-03-07        [OPT PARA DPCPP Arch](xwiki/0216_OPT_PARA_DPCPP_Arch)
 - 2023-03-02        [Hardware CPU Intel PECore](xwiki/0215_Hardware_CPU_Intel_PECore)
 - 2023-03-01        [Programing CPP lambda](xwiki/0214_Programing_CPP_lambda)
 - 2023-02-28        [Pandas Issues csvliststr](xwiki/0213_Pandas_Issues_csvliststr)
@@ -691,4 +692,4 @@
 
 
 
-> `@2023.03.07 11:33:33`
+> `@2023.03.07 12:23:16`
