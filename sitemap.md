@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.07 23:19:00`
+> `@2023.03.08 00:26:00`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -216,6 +216,7 @@
       - [OneAPI iGPU](xwiki/0210_OPT_LIB_OneAPI_iGPU)
       - [oneDPL](xwiki/0075_OPT_LIB_OneAPI_oneDPL)
   - Tools
+    - [Intel Advisor](xwiki/0217_OPT_Tools_Advisor)
     - [Vtune](xwiki/0019_OPT_Tools_Vtune)
       - [CommandLine](xwiki/0020_OPT_Tools_Vtune_CommandLine)
   - [TMA](xwiki/0021_OPT_TMA)
