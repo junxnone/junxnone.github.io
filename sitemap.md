@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.08 15:16:51`
+> `@2023.03.08 16:24:07`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -400,7 +400,7 @@
   - [Histogram Equalization 直方图均衡](aiwiki/0100_CV_HE)
   - [Hough Transform 霍夫变换](aiwiki/0071_CV_HoughTransform)
   - [Structure Tensor 结构张量](aiwiki/0070_CV_StructureTensor)
-  - [TIS](aiwiki/0158_CV_TIS)
+  - [Traditional Image Segmentation 传统图像分割](aiwiki/0158_CV_TIS)
   - [Traditional OCR 传统字符识别](aiwiki/0199_CV_TOCR)
   - [Tools](aiwiki/0063_CV_Tools)
 - [3D](aiwiki/0076_3D)
