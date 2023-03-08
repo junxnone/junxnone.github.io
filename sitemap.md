@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.08 21:27:02`
+> `@2023.03.08 22:17:25`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -303,7 +303,7 @@
   - [CPU](xwiki/0002_Hardware_CPU)
     - [Intel](xwiki/0003_Hardware_CPU_Intel)
       - [P-Core & E-Core](xwiki/0215_Hardware_CPU_Intel_PECore)
-  - GPU
+  - [GPU](xwiki/0218_Hardware_GPU)
     - [NVIDIA](xwiki/0006_Hardware_GPU_NVIDIA)
     - [iGPU](xwiki/0005_Hardware_GPU_iGPU)
       - [Issues](xwiki/0154_Hardware_GPU_iGPU_Issues)
