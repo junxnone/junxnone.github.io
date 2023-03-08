@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.08 17:19:05`
+> `@2023.03.08 18:20:38`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -37,7 +37,7 @@
     - [ffmpeg 多媒体工具](linux/0002_Tools_Media_ffmpeg)
     - [图像转字符串工具](linux/0036_Tools_Media_image2string)
     - [RTSP Server live555](linux/0070_Tools_Media_live555)
-    - [mediainfo](linux/0053_Tools_Media_mediainfo)
+    - [MediaInfo](linux/0053_Tools_Media_mediainfo)
   - [远程管理工具](linux/0075_Tools_Remote)
     - [samba 文件共享](linux/0046_Tools_Remote_Samba)
     - [rsync](linux/0044_Tools_Remote_rsync)
