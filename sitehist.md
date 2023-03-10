@@ -1,3 +1,4 @@
+- 2023-03-10        [OPT PARA Patterns](xwiki/0221_OPT_PARA_Patterns)
 - 2023-03-09        [OPT GPU](xwiki/0220_OPT_GPU)
 - 2023-03-08        [Hardware GPU](xwiki/0218_Hardware_GPU)
 - 2023-03-08        [Hardware CPU BP](xwiki/0219_Hardware_CPU_BP)
@@ -696,4 +697,4 @@
 
 
 
-> `@2023.03.10 16:24:28`
+> `@2023.03.10 17:19:04`

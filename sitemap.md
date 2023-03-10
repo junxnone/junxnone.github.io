@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.10 16:24:27`
+> `@2023.03.10 17:19:03`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -208,6 +208,7 @@
       - [Install](xwiki/0035_OPT_PARA_OpenCL_Install)
     - [NDRange](xwiki/0042_OPT_PARA_NDRange)
     - [OpenMPI](xwiki/0043_OPT_PARA_OpenMPI)
+    - [Patterns](xwiki/0221_OPT_PARA_Patterns)
   - [绑定 Socker & Core](xwiki/0033_OPT_BindSocketCore)
   - [性能优化库](xwiki/0195_OPT_LIB)
     - [IPP Intel Integrated Performance Primitives](xwiki/0032_OPT_LIB_IPP)
