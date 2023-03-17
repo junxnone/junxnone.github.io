@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.17 16:22:36`
+> `@2023.03.17 17:18:07`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -309,11 +309,14 @@
       - [P-Core & E-Core](xwiki/0215_Hardware_CPU_Intel_PECore)
   - [GPU](xwiki/0218_Hardware_GPU)
     - [NVIDIA](xwiki/0006_Hardware_GPU_NVIDIA)
-    - [iGPU](xwiki/0005_Hardware_GPU_iGPU)
+    - [Intel GPUs](xwiki/0005_Hardware_GPU_iGPU)
+      - [Intel GPUs Arch](xwiki/0225_Hardware_GPU_iGPU_Arch)
       - [Issues](xwiki/0154_Hardware_GPU_iGPU_Issues)
       - [Tools](xwiki/0153_Hardware_GPU_iGPU_Tools)
         - [intel-telemetry-tool](xwiki/0171_Hardware_GPU_iGPU_Tools_telemetry)
         - [xorg-intel-gpu-tools](xwiki/0169_Hardware_GPU_iGPU_Tools_xorgintelgpu)
+      - [Data Center GPUs](xwiki/0223_Hardware_GPU_iGPU_dGPU)
+      - [Intel GPUs Table](xwiki/0224_Hardware_GPU_iGPU_table)
   - [Memory](xwiki/0004_Hardware_Memory)
     - [Cache](xwiki/0016_Hardware_Memory_Cache)
   - [NUMA](xwiki/0158_Hardware_NUMA)

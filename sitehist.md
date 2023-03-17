@@ -1,3 +1,6 @@
+- 2023-03-17        [Hardware GPU iGPU table](xwiki/0224_Hardware_GPU_iGPU_table)
+- 2023-03-17        [Hardware GPU iGPU dGPU](xwiki/0223_Hardware_GPU_iGPU_dGPU)
+- 2023-03-17        [Hardware GPU iGPU Arch](xwiki/0225_Hardware_GPU_iGPU_Arch)
 - 2023-03-14        [Programing CPP opoverloading](xwiki/0222_Programing_CPP_opoverloading)
 - 2023-03-10        [OPT PARA Patterns](xwiki/0221_OPT_PARA_Patterns)
 - 2023-03-09        [OPT GPU](xwiki/0220_OPT_GPU)
@@ -698,4 +701,4 @@
 
 
 
-> `@2023.03.17 16:22:37`
+> `@2023.03.17 17:18:08`
