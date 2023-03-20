@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.20 17:18:35`
+> `@2023.03.20 18:20:04`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -109,6 +109,7 @@
     - [USB 耳机没声音](linux/0096_Ubuntu_Issues_USBHeadphoneNoSound)
     - [thinclient_drives cannot access](linux/0092_Ubuntu_Issues_thinclientdrives)
   - [RemoteDesktop](linux/0058_Ubuntu_RemoteDesktop)
+  - [设置默认 Kernel](linux/0114_Ubuntu_SetDefaultKernel)
 - [Driver](linux/0005_Driver)
 - [File System](linux/0064_FileSystem)
   - [文件系统格式](linux/0081_FileSystem_Format)

@@ -1,3 +1,4 @@
+- 2023-03-20        [Ubuntu SetDefaultKernel](linux/0114_Ubuntu_SetDefaultKernel)
 - 2023-03-17        [Hardware GPU iGPU table](xwiki/0224_Hardware_GPU_iGPU_table)
 - 2023-03-17        [Hardware GPU iGPU dGPU](xwiki/0223_Hardware_GPU_iGPU_dGPU)
 - 2023-03-17        [Hardware GPU iGPU Arch](xwiki/0225_Hardware_GPU_iGPU_Arch)
@@ -701,4 +702,4 @@
 
 
 
-> `@2023.03.20 17:18:36`
+> `@2023.03.20 18:20:05`
