@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.21 22:13:19`
+> `@2023.03.21 23:15:06`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -201,7 +201,6 @@
     - [DPCPP](xwiki/0036_OPT_PARA_DPCPP)
       - [架构及相关概念](xwiki/0216_OPT_PARA_DPCPP_Arch)
       - [DEBUG](xwiki/0038_OPT_PARA_DPCPP_DEBUG)
-      - [LevelZero](xwiki/0037_OPT_PARA_DPCPP_LevelZero)
     - [SYCL](xwiki/0031_OPT_PARA_SYCL)
       - [Concepts](xwiki/0041_OPT_PARA_SYCL_Concepts)
       - [Projects](xwiki/0039_OPT_PARA_SYCL_Projects)
@@ -216,6 +215,7 @@
     - [IPP Intel Integrated Performance Primitives](xwiki/0032_OPT_LIB_IPP)
     - [OneAPI](xwiki/0076_OPT_LIB_OneAPI)
       - [IntelMKL](xwiki/0074_OPT_LIB_OneAPI_IntelMKL)
+      - [Level Zero](xwiki/0037_OPT_LIB_OneAPI_LevelZero)
       - [OneAPI iGPU](xwiki/0210_OPT_LIB_OneAPI_iGPU)
       - [Intel OneAPI oneDPL](xwiki/0075_OPT_LIB_OneAPI_oneDPL)
   - Tools
