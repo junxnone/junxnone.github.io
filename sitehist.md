@@ -1,4 +1,5 @@
 - 2023-03-21        [Tools Git Patch](xwiki/0226_Tools_Git_Patch)
+- 2023-03-21        [Programing Compiler LLVM](xwiki/0227_Programing_Compiler_LLVM)
 - 2023-03-20        [Ubuntu SetDefaultKernel](linux/0114_Ubuntu_SetDefaultKernel)
 - 2023-03-17        [Hardware GPU iGPU table](xwiki/0224_Hardware_GPU_iGPU_table)
 - 2023-03-17        [Hardware GPU iGPU dGPU](xwiki/0223_Hardware_GPU_iGPU_dGPU)
@@ -703,4 +704,4 @@
 
 
 
-> `@2023.03.21 23:15:07`
+> `@2023.03.22 00:19:21`
