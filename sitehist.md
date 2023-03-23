@@ -1,3 +1,4 @@
+- 2023-03-23        [Build Cmake commands option](xwiki/0228_Build_Cmake_commands_option)
 - 2023-03-21        [Tools Git Patch](xwiki/0226_Tools_Git_Patch)
 - 2023-03-21        [Programing Compiler LLVM](xwiki/0227_Programing_Compiler_LLVM)
 - 2023-03-20        [Ubuntu SetDefaultKernel](linux/0114_Ubuntu_SetDefaultKernel)
@@ -704,4 +705,4 @@
 
 
 
-> `@2023.03.23 11:17:13`
+> `@2023.03.23 12:20:20`
