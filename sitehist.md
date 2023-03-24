@@ -1,3 +1,5 @@
+- 2023-03-24        [Tools OS write](linux/0116_Tools_OS_write)
+- 2023-03-24        [Tools OS wall](linux/0115_Tools_OS_wall)
 - 2023-03-23        [Build Cmake commands option](xwiki/0228_Build_Cmake_commands_option)
 - 2023-03-21        [Tools Git Patch](xwiki/0226_Tools_Git_Patch)
 - 2023-03-21        [Programing Compiler LLVM](xwiki/0227_Programing_Compiler_LLVM)
@@ -705,4 +707,4 @@
 
 
 
-> `@2023.03.24 09:21:45`
+> `@2023.03.24 10:34:52`

@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.24 09:21:45`
+> `@2023.03.24 10:34:52`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -60,7 +60,9 @@
     - [snap 软件管理工具](linux/0021_Tools_OS_snap)
     - [ulimit 多用户 资源限制工具](linux/0041_Tools_OS_ulimit)
     - [updatealternatives 多版本软件管理工具](linux/0016_Tools_OS_updatealternatives)
+    - [wall](linux/0115_Tools_OS_wall)
     - [watch](linux/0098_Tools_OS_watch)
+    - [write](linux/0116_Tools_OS_write)
     - [xset](linux/0008_Tools_OS_xset)
   - [Networks](linux/0060_Tools_Networks)
     - [网络性能测试工具](linux/0106_Tools_Networks_PerformanceTools)
