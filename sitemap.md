@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.24 22:15:48`
+> `@2023.03.24 23:18:23`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -171,6 +171,8 @@
     - [Tools](xwiki/0011_Programing_Library_Tools)
   - [Socket](xwiki/0109_Programing_Socket)
     - [Function](xwiki/0110_Programing_Socket_Function)
+  - [Windows Batch 批处理](xwiki/0230_Programing_batch)
+    - [for](xwiki/0229_Programing_batch_for)
   - [Regex 正则表达式](xwiki/0206_Programing_regex)
 - [构建工具](xwiki/0190_Build)
   - [Cmake](xwiki/0053_Build_Cmake)
