@@ -381,6 +381,7 @@
 - 2020-07-20        [ML AutoML NAS ENAS](aiwiki/0391_ML_AutoML_NAS_ENAS)
 - 2020-07-17        [ML AutoML NAS SearchSpace](aiwiki/0392_ML_AutoML_NAS_SearchSpace)
 - 2020-07-17        [ML AutoML NAS OneShot](aiwiki/0393_ML_AutoML_NAS_OneShot)
+- 2020-07-17        [ML AutoML NAS Metrics](aiwiki/0394_ML_AutoML_NAS_Metrics)
 - 2020-07-17        [Datasets Image2D AutoML](aiwiki/0244_Datasets_Image2D_AutoML)
 - 2020-07-15        [Math GaussianProcess](aiwiki/0216_Math_GaussianProcess)
 - 2020-07-14        [Math BT](aiwiki/0217_Math_BT)
@@ -415,6 +416,7 @@
 - 2020-05-28        [ML Tasks Image OCR CTPN](aiwiki/0197_ML_Tasks_Image_OCR_CTPN)
 - 2020-05-28        [ML Tasks Image OCR CRNN](aiwiki/0196_ML_Tasks_Image_OCR_CRNN)
 - 2020-05-26        [Programing Python logging](xwiki/0097_Programing_Python_logging)
+- 2020-05-19        [ML Op Convolution ConvFlops](aiwiki/0396_ML_Op_Convolution_ConvFlops)
 - 2020-05-18        [ML Tasks Image OCR Metrics](aiwiki/0190_ML_Tasks_Image_OCR_Metrics)
 - 2020-05-15        [ML Tasks Image OCR TextScanner](aiwiki/0192_ML_Tasks_Image_OCR_TextScanner)
 - 2020-05-14        [Ubuntu Download](linux/0014_Ubuntu_Download)
@@ -681,6 +683,7 @@
 - 2018-11-21        [ML Op Convolution DL](aiwiki/0011_ML_Op_Convolution_DL)
 - 2018-11-11        [Tools OV MO](aiwiki/0181_Tools_OV_MO)
 - 2018-11-11        [Tools OV IE](aiwiki/0180_Tools_OV_IE)
+- 2018-11-11        [ML AutoML NAS NASNet](aiwiki/0395_ML_AutoML_NAS_NASNet)
 - 2018-11-06        [Ubuntu Issues DesktopDisplay](linux/0095_Ubuntu_Issues_DesktopDisplay)
 - 2018-10-31        [ML Tasks Image Classification VGGNet](aiwiki/0146_ML_Tasks_Image_Classification_VGGNet)
 - 2018-10-31        [ML Tasks Image Classification Inception](aiwiki/0049_ML_Tasks_Image_Classification_Inception)
@@ -716,4 +719,4 @@
 
 
 
-> `@2023.03.25 23:15:42`
+> `@2023.03.26 00:20:56`

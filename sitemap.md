@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.25 23:15:42`
+> `@2023.03.26 00:20:56`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -550,6 +550,7 @@
       - [Sigmoid](aiwiki/0280_ML_Op_AF_Sigmoid)
       - [Softmax](aiwiki/0335_ML_Op_AF_Softmax)
     - [Convolution](aiwiki/0009_ML_Op_Convolution)
+      - [ConvFlops](aiwiki/0396_ML_Op_Convolution_ConvFlops)
       - [卷积在 DL 中的应用](aiwiki/0011_ML_Op_Convolution_DL)
       - [卷积 数学定义](aiwiki/0010_ML_Op_Convolution_Math)
     - [Dropout](aiwiki/0258_ML_Op_Dropout)
@@ -614,6 +615,8 @@
     - [NAS](aiwiki/0014_ML_AutoML_NAS)
       - [DARTS](aiwiki/0389_ML_AutoML_NAS_DARTS)
       - [ENAS](aiwiki/0391_ML_AutoML_NAS_ENAS)
+      - [NAS Metrics](aiwiki/0394_ML_AutoML_NAS_Metrics)
+      - [NASNet](aiwiki/0395_ML_AutoML_NAS_NASNet)
       - [NASwRL](aiwiki/0390_ML_AutoML_NAS_NASwRL)
       - [One-Shot](aiwiki/0393_ML_AutoML_NAS_OneShot)
       - [PNAS](aiwiki/0388_ML_AutoML_NAS_PNAS)
