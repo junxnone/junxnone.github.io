@@ -1,4 +1,5 @@
 - 2023-03-26        [Programing test](xwiki/0231_Programing_test)
+- 2023-03-26        [Programing test googletest](xwiki/0232_Programing_test_googletest)
 - 2023-03-24        [Tools OS write](linux/0116_Tools_OS_write)
 - 2023-03-24        [Tools OS wall](linux/0115_Tools_OS_wall)
 - 2023-03-24        [Programing batch](xwiki/0230_Programing_batch)
@@ -720,4 +721,4 @@
 
 
 
-> `@2023.03.26 23:15:50`
+> `@2023.03.27 00:21:08`
