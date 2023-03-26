@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.26 21:18:51`
+> `@2023.03.26 22:13:41`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -174,6 +174,7 @@
   - [Windows Batch 批处理](xwiki/0230_Programing_batch)
     - [for](xwiki/0229_Programing_batch_for)
   - [Regex 正则表达式](xwiki/0206_Programing_regex)
+  - [Test](xwiki/0231_Programing_test)
 - [构建工具](xwiki/0190_Build)
   - [Cmake](xwiki/0053_Build_Cmake)
     - [Install](xwiki/0054_Build_Cmake_Install)
