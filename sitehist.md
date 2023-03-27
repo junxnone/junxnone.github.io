@@ -307,6 +307,7 @@
 - 2021-03-26        [Math LMM](aiwiki/0358_Math_LMM)
 - 2021-03-22        [Math GaussianDistribution](aiwiki/0023_Math_GaussianDistribution)
 - 2021-03-22        [ML AutoML HPO BO SMBO](aiwiki/0218_ML_AutoML_HPO_BO_SMBO)
+- 2021-03-22        [ML AutoML HPO BO History](aiwiki/0398_ML_AutoML_HPO_BO_History)
 - 2021-03-10        [Programing Python psutil](xwiki/0098_Programing_Python_psutil)
 - 2021-03-04        [Tools Networks Port](linux/0056_Tools_Networks_Port)
 - 2021-03-04        [ML Transformer TiT](aiwiki/0360_ML_Transformer_TiT)
@@ -445,6 +446,7 @@
 - 2020-04-15        [Datasets Image2D Segmentation MCC](aiwiki/0091_Datasets_Image2D_Segmentation_MCC)
 - 2020-04-15        [Datasets Image2D Segmentation Balloon](aiwiki/0090_Datasets_Image2D_Segmentation_Balloon)
 - 2020-04-13        [Ubuntu Download GoogleDriveFilesCMD](linux/0109_Ubuntu_Download_GoogleDriveFilesCMD)
+- 2020-04-08        [CV NearestNeighborInterpolation](aiwiki/0397_CV_NearestNeighborInterpolation)
 - 2020-04-07        [Pandas Visualization](xwiki/0189_Pandas_Visualization)
 - 2020-04-04        [Tools Media image2string](linux/0036_Tools_Media_image2string)
 - 2020-04-04        [Tools File tree](linux/0035_Tools_File_tree)
@@ -723,4 +725,4 @@
 
 
 
-> `@2023.03.27 23:19:01`
+> `@2023.03.28 00:22:02`

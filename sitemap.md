@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.27 23:19:01`
+> `@2023.03.28 00:22:01`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -421,6 +421,7 @@
     - [SIFT 尺度不变特征变换](aiwiki/0069_CV_Feature_SIFT)
   - [Histogram Equalization 直方图均衡](aiwiki/0100_CV_HE)
   - [Hough Transform 霍夫变换](aiwiki/0071_CV_HoughTransform)
+  - [Nearest Neighbor interpolation - 最近邻插值](aiwiki/0397_CV_NearestNeighborInterpolation)
   - [Structure Tensor 结构张量](aiwiki/0070_CV_StructureTensor)
   - [Traditional Image Segmentation 传统图像分割](aiwiki/0158_CV_TIS)
   - [Traditional OCR 传统字符识别](aiwiki/0199_CV_TOCR)
@@ -609,6 +610,7 @@
       - [Bayesian Optimization](aiwiki/0022_ML_AutoML_HPO_BO)
         - [Acquisition Function](aiwiki/0222_ML_AutoML_HPO_BO_AF)
         - [BOHB](aiwiki/0219_ML_AutoML_HPO_BO_BOHB)
+        - [Bayesian Optimization History](aiwiki/0398_ML_AutoML_HPO_BO_History)
         - [SMAC](aiwiki/0220_ML_AutoML_HPO_BO_SMAC)
         - [SMBO](aiwiki/0218_ML_AutoML_HPO_BO_SMBO)
         - [TPE](aiwiki/0221_ML_AutoML_HPO_BO_TPE)
