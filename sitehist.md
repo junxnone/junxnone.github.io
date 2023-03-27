@@ -1,8 +1,8 @@
 - 2023-03-26        [Programing test](xwiki/0231_Programing_test)
 - 2023-03-26        [Programing test googletest](xwiki/0232_Programing_test_googletest)
+- 2023-03-24        [Windows batch](xwiki/0230_Windows_batch)
 - 2023-03-24        [Tools OS write](linux/0116_Tools_OS_write)
 - 2023-03-24        [Tools OS wall](linux/0115_Tools_OS_wall)
-- 2023-03-24        [Programing batch](xwiki/0230_Programing_batch)
 - 2023-03-23        [Build Cmake commands option](xwiki/0228_Build_Cmake_commands_option)
 - 2023-03-21        [Tools Git Patch](xwiki/0226_Tools_Git_Patch)
 - 2023-03-21        [Programing Compiler LLVM](xwiki/0227_Programing_Compiler_LLVM)
@@ -226,7 +226,8 @@
 - 2021-08-31        [Tools Label](aiwiki/0006_Tools_Label)
 - 2021-08-31        [ML Tasks](aiwiki/0003_ML_Tasks)
 - 2021-08-30        [3D DL](aiwiki/0233_3D_DL)
-- 2021-08-24        [Programing batch for](xwiki/0229_Programing_batch_for)
+- 2021-08-24        [Windows batch for](xwiki/0229_Windows_batch_for)
+- 2021-08-24        [Windows Issues CommandLineHang](xwiki/0234_Windows_Issues_CommandLineHang)
 - 2021-08-20        [ML NNS](aiwiki/0102_ML_NNS)
 - 2021-08-19        [Math QuadTree](aiwiki/0356_Math_QuadTree)
 - 2021-08-18        [ML NNS ANN](aiwiki/0103_ML_NNS_ANN)
@@ -457,6 +458,7 @@
 - 2020-03-08        [Tools File ln](linux/0033_Tools_File_ln)
 - 2020-03-03        [ML Metrics Segmentation](aiwiki/0231_ML_Metrics_Segmentation)
 - 2020-03-03        [Datasets Image2D Segmentation CamVid](aiwiki/0088_Datasets_Image2D_Segmentation_CamVid)
+- 2020-03-01        [X WordCloud](xwiki/0233_X_WordCloud)
 - 2020-02-27        [OpenCV IP shape Contours](aiwiki/0343_OpenCV_IP_shape_Contours)
 - 2020-02-26        [Datasets Image2D Segmentation DAGM](aiwiki/0095_Datasets_Image2D_Segmentation_DAGM)
 - 2020-02-25        [ML Tasks Image Classification MobileNet V3](aiwiki/0044_ML_Tasks_Image_Classification_MobileNet_V3)
@@ -721,4 +723,4 @@
 
 
 
-> `@2023.03.27 22:26:19`
+> `@2023.03.27 23:19:01`

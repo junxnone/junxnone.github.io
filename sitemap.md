@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.27 22:26:18`
+> `@2023.03.27 23:19:01`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -171,8 +171,6 @@
     - [Tools](xwiki/0011_Programing_Library_Tools)
   - [Socket](xwiki/0109_Programing_Socket)
     - [Function](xwiki/0110_Programing_Socket_Function)
-  - [Windows Batch 批处理](xwiki/0230_Programing_batch)
-    - [for](xwiki/0229_Programing_batch_for)
   - [Regex 正则表达式](xwiki/0206_Programing_regex)
   - [Test](xwiki/0231_Programing_test)
     - [googletest](xwiki/0232_Programing_test_googletest)
@@ -351,7 +349,13 @@
   - [Open Source License](xwiki/0147_X_OpenSourceLicense)
   - [PECOFF](xwiki/0152_X_PECOFF)
   - [版本号定义](xwiki/0146_X_Version)
+  - [Word Cloud  - 词云生成](xwiki/0233_X_WordCloud)
   - [iso3dfd](xwiki/0209_X_iso3dfd)
+- Windows
+  - Issues
+    - [Windows 命令行执行命令时卡住](xwiki/0234_Windows_Issues_CommandLineHang)
+  - [Windows Batch 批处理](xwiki/0230_Windows_batch)
+    - [for](xwiki/0229_Windows_batch_for)
 
 ## AI
 - [数学基础](aiwiki/0288_Math)
