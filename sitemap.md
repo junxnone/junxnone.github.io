@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.28 11:17:58`
+> `@2023.03.28 12:20:48`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -50,7 +50,7 @@
       - [plugins](linux/0112_Tools_Remote_tmux_plugins)
     - [VNCServer](linux/0103_Tools_Remote_vncserver)
   - OS
-    - [Hardware 查看工具](linux/0068_Tools_OS_HardwareInfo)
+    - [Hardware Information  查看工具](linux/0068_Tools_OS_HardwareInfo)
     - [Kernel 升级管理](linux/0073_Tools_OS_KernelUpgrade)
     - [开机相关信息](linux/0061_Tools_OS_ShowBootInfo)
     - [添加账户 adduser vs useradd](linux/0069_Tools_OS_adduser)
@@ -353,6 +353,7 @@
   - [iso3dfd](xwiki/0209_X_iso3dfd)
 - Windows
   - Issues
+    - [查看 BIOS 版本号](xwiki/0235_Windows_Issues_BIOSInfo)
     - [Windows 命令行执行命令时卡住](xwiki/0234_Windows_Issues_CommandLineHang)
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)

@@ -1,3 +1,4 @@
+- 2023-03-28        [Windows Issues BIOSInfo](xwiki/0235_Windows_Issues_BIOSInfo)
 - 2023-03-26        [Programing test](xwiki/0231_Programing_test)
 - 2023-03-26        [Programing test googletest](xwiki/0232_Programing_test_googletest)
 - 2023-03-24        [Windows batch](xwiki/0230_Windows_batch)
@@ -725,4 +726,4 @@
 
 
 
-> `@2023.03.28 11:17:59`
+> `@2023.03.28 12:20:48`
