@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.28 20:35:32`
+> `@2023.03.28 21:24:27`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -467,6 +467,8 @@
       - [AABB OBB](aiwiki/0315_3D_Tools_PCL_Bbox)
       - [PPF](aiwiki/0083_3D_Tools_PCL_PPF)
       - [SAC](aiwiki/0314_3D_Tools_PCL_SAC)
+      - Surface
+        - [GreedyProjectionTriangulation](aiwiki/0399_3D_Tools_PCL_Surface_triangulation)
 - ML
   - [传统机器学习](aiwiki/0367_ML_OML)
     - [Decision Tree 决策树](aiwiki/0113_ML_OML_DecisionTree)

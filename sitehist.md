@@ -1,5 +1,6 @@
 - 2023-03-28        [Windows Issues BIOSInfo](xwiki/0235_Windows_Issues_BIOSInfo)
 - 2023-03-28        [Tools Github Compare](xwiki/0236_Tools_Github_Compare)
+- 2023-03-28        [3D Tools PCL Surface triangulation](aiwiki/0399_3D_Tools_PCL_Surface_triangulation)
 - 2023-03-26        [Programing test](xwiki/0231_Programing_test)
 - 2023-03-26        [Programing test googletest](xwiki/0232_Programing_test_googletest)
 - 2023-03-24        [Windows batch](xwiki/0230_Windows_batch)
@@ -727,4 +728,4 @@
 
 
 
-> `@2023.03.28 20:35:33`
+> `@2023.03.28 21:24:27`
