@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.03.28 22:16:57`
+> `@2023.03.28 23:18:47`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -298,7 +298,7 @@
   - [Windows SSH 工具](xwiki/0173_Tools_WindowsSSHClient)
   - [manim](xwiki/0141_Tools_manim)
   - [mosquitto](xwiki/0142_Tools_mosquitto)
-  - [opengrok](xwiki/0143_Tools_opengrok)
+  - [opengrok 代码浏览工具](xwiki/0143_Tools_opengrok)
   - [putty](xwiki/0161_Tools_putty)
   - [yarn](xwiki/0178_Tools_yarn)
 - [容器](xwiki/0192_Hypervisor)
