@@ -1,3 +1,5 @@
+- 2023-03-30        [3D Tools PCL IO PLY](aiwiki/0401_3D_Tools_PCL_IO_PLY)
+- 2023-03-30        [3D Tools PCL IO PCD](aiwiki/0400_3D_Tools_PCL_IO_PCD)
 - 2023-03-28        [Windows Issues BIOSInfo](xwiki/0235_Windows_Issues_BIOSInfo)
 - 2023-03-28        [Tools Github Compare](xwiki/0236_Tools_Github_Compare)
 - 2023-03-28        [3D Tools PCL Surface triangulation](aiwiki/0399_3D_Tools_PCL_Surface_triangulation)
@@ -728,4 +730,4 @@
 
 
 
-> `@2023.03.30 15:15:30`
+> `@2023.03.30 16:21:42`
