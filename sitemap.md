@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.04.10 10:30:07`
+> `@2023.04.10 11:16:44`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -267,7 +267,7 @@
     - [动态显示图片](xwiki/0072_Tools_Jupyter_ShowImageDynamic)
     - [UseLocalPackage](xwiki/0068_Tools_Jupyter_UseLocalPackage)
   - [Git](xwiki/0111_Tools_Git)
-    - [config](xwiki/0112_Tools_Git_config)
+    - [Git Configs](xwiki/0112_Tools_Git_config)
     - [branch](xwiki/0115_Tools_Git_branch)
     - [tag](xwiki/0116_Tools_Git_tag)
     - [submodule](xwiki/0114_Tools_Git_submodule)
