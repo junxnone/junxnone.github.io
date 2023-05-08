@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.05.08 22:15:09`
+> `@2023.05.08 23:16:48`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -345,6 +345,7 @@
     - [列表](xwiki/0137_Doc_Markdown_List)
     - [表格](xwiki/0138_Doc_Markdown_Table)
     - [Text Format](xwiki/0136_Doc_Markdown_Text)
+  - [Mermaid](xwiki/0242_Doc_Mermaid)
   - [YAML](xwiki/0140_Doc_YAML)
 - X
   - [BLAS](xwiki/0179_X_BLAS)
