@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.05.16 21:19:08`
+> `@2023.05.16 22:14:33`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -770,6 +770,7 @@
 - [AI 热点](aiwiki/0375_Hot)
   - [AIGC - AI Generated Content](aiwiki/0374_Hot_AIGC)
     - [ChatGPT](aiwiki/0373_Hot_AIGC_ChatGPT)
+  - [Stable Diffusion](aiwiki/0402_Hot_StableDiffusion)
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
 - [资源参考](aiwiki/0380_Reference)
 - [paper](aiwiki/0386_paper)

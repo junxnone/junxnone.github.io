@@ -1,3 +1,4 @@
+- 2023-05-16        [Hot StableDiffusion](aiwiki/0402_Hot_StableDiffusion)
 - 2023-05-08        [Doc Mermaid](xwiki/0242_Doc_Mermaid)
 - 2023-04-18        [Programing CPP STL Container](xwiki/0241_Programing_CPP_STL_Container)
 - 2023-04-07        [X SheetOCRTools](xwiki/0240_X_SheetOCRTools)
@@ -736,4 +737,4 @@
 
 
 
-> `@2023.05.16 21:19:09`
+> `@2023.05.16 22:14:34`
