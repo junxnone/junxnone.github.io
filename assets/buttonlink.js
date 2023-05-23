@@ -47,10 +47,10 @@ const koFiPlugin = (hook) => {
                 const [, params, text] = regex.exec(match) || [];
                 regex.lastIndex = 0;
                 if (!params) continue;
-                const [, link] = /link=([^ ]+)/g.exec(params);
+                const [, id] = /id=([^ ]+)/g.exec(params);
                 const [, color] = /color=([^ ]+)/.exec(params);
                 content = content.replace(match, `<!-- ko-fi-${args.length} -->`);
-                args.push({link, color, title: text.trim()});
+                args.push({id, color, title: text.trim()});
             }
         }
 
@@ -68,10 +68,10 @@ const koFiPlugin = (hook) => {
     hook.afterEach(function (html, next) {
         const matches = html.match(/<!-- ko-fi-\d -->/g);
         (matches || []).forEach((match, i) => {
-            const {color, link, title} = args[i];
+            const {color, id, title} = args[i];
             const invertedColor = getContrastYIQ(color);
             html = html.replace(match, `<div class=btn-container>
-               <a title="${title}" class="kofi-button" style="background-color:${color};" href="${link}" target="_blank">
+               <a title="${title}" class="kofi-button" style="background-color:${color};" href="https://ko-fi.com/${id}" target="_blank">
                   <span class="kofitext" style="color:${invertedColor};">
                      <img width="22" src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-fi donations" class="kofiimg"/>
                      <span>${title}</span>
