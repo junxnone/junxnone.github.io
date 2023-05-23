@@ -1,11 +1,9 @@
 
-<!-- ko-fi :id=junxnone.github.io/wiki :color=<color> -->
+<!-- ko-fi :id=junxnone.github.io/wiki :color=#1599d6 -->
     Wiki
 <!-- ko-fi -->
 
-<!-- ko-fi :id=fcannizzaro :color=<color> -->
-    Support Me on Ko-fi
-<!-- ko-fi -->
+
 
 
 
