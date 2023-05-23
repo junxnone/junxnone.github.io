@@ -10,7 +10,7 @@ img.kofiimg {
    margin-right: 5px !important;
    margin-left: 0 !important;
    margin-bottom: 3px !important;
-   content: url('https://storage.ko-fi.com/cdn/cup-border.png')
+   content: url('assets/wiki.svg')
 }
 
 .kofiimg:after {
