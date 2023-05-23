@@ -42,7 +42,7 @@ const koFiPlugin = (hook) => {
 
         if (matches) {
             addCssLink("https://fonts.googleapis.com/css?family=Quicksand:400,700");
-            addCssLink("https://cdn.jsdelivr.net/npm/docsify-ko-fi@latest/dist/docsify-ko-fi.min.css");
+            addCssLink("assets/docsify-ko-fi.css");
             for (const match of matches) {
                 const [, params, text] = regex.exec(match) || [];
                 regex.lastIndex = 0;
