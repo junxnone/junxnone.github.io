@@ -10,7 +10,7 @@ img.kofiimg {
    margin-right: 5px !important;
    margin-left: 5 !important;
    margin-bottom: 5px !important;
-   content: url('assets/wiki.svg')
+   content: url('wiki.svg')
 }
 
 .kofiimg:after {
