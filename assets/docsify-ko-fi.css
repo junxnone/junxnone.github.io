@@ -6,9 +6,9 @@ img.kofiimg {
    padding-top: 0 !important;
    padding-bottom: 0 !important;
    border: none;
-   margin-top: 5;
+   margin-top: 5px;
    margin-right: 5px !important;
-   margin-left: 5 !important;
+   margin-left: 5px !important;
    margin-bottom: 5px !important;
    content: url('wiki.svg')
 }
