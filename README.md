@@ -1,4 +1,7 @@
 
+<!-- ko-fi :id=https://junxnone.github.io/wiki :color=<color> -->
+    Wiki
+<!-- ko-fi -->
 
 
 
