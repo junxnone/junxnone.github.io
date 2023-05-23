@@ -3,6 +3,9 @@
     Wiki
 <!-- ko-fi -->
 
+<!-- ko-fi :id=fcannizzaro :color=<color> -->
+    Support Me on Ko-fi
+<!-- ko-fi -->
 
 
 
