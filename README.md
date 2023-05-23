@@ -1,5 +1,5 @@
 
-<!-- ko-fi :id=https://junxnone.github.io/wiki :color=<color> -->
+<!-- ko-fi :id=junxnone.github.io/wiki :color=<color> -->
     Wiki
 <!-- ko-fi -->
 
