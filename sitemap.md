@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.05.24 22:14:41`
+> `@2023.05.24 23:16:55`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -232,7 +232,7 @@
   - Tools
     - [Intel Advisor](xwiki/0217_OPT_Tools_Advisor)
     - [Intel Vtune](xwiki/0019_OPT_Tools_Vtune)
-      - [CommandLine](xwiki/0020_OPT_Tools_Vtune_CommandLine)
+      - [Vtune CommandLine Mode](xwiki/0020_OPT_Tools_Vtune_CommandLine)
   - [GPU 性能优化](xwiki/0220_OPT_GPU)
   - [TMA](xwiki/0021_OPT_TMA)
 - [Pandas](xwiki/0181_Pandas)
