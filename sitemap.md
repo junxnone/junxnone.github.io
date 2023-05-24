@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.05.24 23:16:55`
+> `@2023.05.25 00:21:08`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -326,7 +326,7 @@
     - [Intel GPUs](xwiki/0005_Hardware_GPU_iGPU)
       - [Intel GPUs Arch](xwiki/0225_Hardware_GPU_iGPU_Arch)
       - [Issues](xwiki/0154_Hardware_GPU_iGPU_Issues)
-      - [Tools](xwiki/0153_Hardware_GPU_iGPU_Tools)
+      - [Intel iGPU Tools](xwiki/0153_Hardware_GPU_iGPU_Tools)
         - [intel-telemetry-tool](xwiki/0171_Hardware_GPU_iGPU_Tools_telemetry)
         - [xorg-intel-gpu-tools](xwiki/0169_Hardware_GPU_iGPU_Tools_xorgintelgpu)
       - [Data Center GPUs](xwiki/0223_Hardware_GPU_iGPU_dGPU)
