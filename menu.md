@@ -31,6 +31,9 @@
 <!-- ko-fi :id=junxnone.github.io/wiki :color=#1599d6 -->
     Wiki
 <!-- ko-fi -->
+
+----
+
 <!-- ko-fi :id=junxnone.github.io/twiki :color=#1599d6 -->
     Template Wiki
 <!-- ko-fi -->
