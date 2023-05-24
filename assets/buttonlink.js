@@ -73,7 +73,7 @@ const koFiPlugin = (hook) => {
             html = html.replace(match, `<div class=btn-container>
                <a title="${title}" class="kofi-button" style="background-color:${color};" href="https://${id}" target="_blank">
                   <span class="kofitext" style="color:${invertedColor};">
-                     <img width="22" src="wiki.svg" alt="Ko-fi donations" class="kofiimg"/>
+                     <img width="22" src="assets/wiki.svg" alt="Ko-fi donations" class="kofiimg"/>
                      <span>${title}</span>
                   </span>
                </a>
