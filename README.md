@@ -17,6 +17,13 @@
 <!-- ko-fi :id=junxnone.github.io/#/menu :color=#1599d6 -->
     其他
 <!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/xwiki/markmap.html?md=https://junxnone.github.io/sitemap.md :color=#1599d6 -->
+    Site Map
+<!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/#/sitehist :color=#1599d6 -->
+    Site History
+<!-- ko-fi -->
+
 
 ----
 ![](https://raw.githubusercontent.com/junxnone/github-stats/master/generated/overview.svg#gh-dark-mode-only)
@@ -43,6 +50,5 @@
 
 [markmap show](https://junxnone.github.io/onepage/markmap.html?md=https://junxnone.github.io/skills.md ':include :type=iframe width=50% height=800px')
 
-<kbd>[Site Map](https://junxnone.github.io/xwiki/markmap.html?md=https://junxnone.github.io/sitemap.md)</kbd>  
-<kbd>[Site History](/sitehist)</kbd>
+
 
