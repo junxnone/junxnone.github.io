@@ -20,7 +20,7 @@
 <!-- ko-fi :id=junxnone.github.io/sh :color=#1599d6 -->
     Shanghai
 <!-- ko-fi -->
-<!-- ko-fi :id=junxnone.github.io/menu :color=#1599d6 -->
+<!-- ko-fi :id=junxnone.github.io/#/menu :color=#1599d6 -->
    其他
 <!-- ko-fi -->
 ----
