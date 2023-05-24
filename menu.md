@@ -31,10 +31,6 @@
 <!-- ko-fi :id=junxnone.github.io/wiki :color=#1599d6 -->
     Wiki
 <!-- ko-fi -->
-
-----
-
-
 <!-- ko-fi :id=junxnone.github.io/t :color=#1599d6 -->
     旅行
 <!-- ko-fi -->
