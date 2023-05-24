@@ -34,12 +34,7 @@
 
 ----
 
-<!-- ko-fi :id=junxnone.github.io/twiki :color=#1599d6 -->
-    Template Wiki
-<!-- ko-fi -->
-<!-- ko-fi :id=junxnone.github.io/onepage :color=#1599d6 -->
-    Template Onepage
-<!-- ko-fi -->
+
 <!-- ko-fi :id=junxnone.github.io/t :color=#1599d6 -->
     旅行
 <!-- ko-fi -->
@@ -55,6 +50,11 @@
 <!-- ko-fi :id=junxnone.github.io/jh :color=#1599d6 -->
     婚
 <!-- ko-fi -->
-
+<!-- ko-fi :id=junxnone.github.io/twiki :color=#1599d6 -->
+    Template Wiki
+<!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/onepage :color=#1599d6 -->
+    Template Onepage
+<!-- ko-fi -->
 
 ----
