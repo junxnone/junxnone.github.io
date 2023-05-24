@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.05.24 15:14:07`
+> `@2023.05.24 16:20:02`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -92,7 +92,7 @@
   - [xargs](linux/0022_Tools_xargs)
 - Ubuntu
   - [APT Ubuntu 包管理工具](linux/0015_Ubuntu_APT)
-  - [Upgrade](linux/0089_Ubuntu_Upgrade)
+  - [Ubuntu OS Version Upgrade](linux/0089_Ubuntu_Upgrade)
   - [添加用户](linux/0104_Ubuntu_UserAdd)
   - [Install Goolge Pinyin](linux/0090_Ubuntu_InstallGooglePinyin)
   - [开机自动挂载硬盘](linux/0097_Ubuntu_AutoMountDisk)
