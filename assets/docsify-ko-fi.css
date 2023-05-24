@@ -23,7 +23,7 @@ img.kofiimg {
    margin-right: 6px;
    margin-left: 0;
    margin-bottom: 4px !important;
-   content: url('https://storage.ko-fi.com/cdn/whitelogo.svg')
+   content: url('whitelogo.svg')
 }
 
 .btn-container {
