@@ -39,8 +39,6 @@ const koFiPlugin = (hook) => {
         }
 
         const matches = content.match(regex);
-            console.log(content);
-            console.log(matches);
 
         if (matches) {
             addCssLink("https://fonts.googleapis.com/css?family=Quicksand:400,700");
@@ -69,11 +67,9 @@ const koFiPlugin = (hook) => {
 
     hook.afterEach(function (html, next) {
         const matches = html.match(/<!-- ko-fi-\d{1,} -->/g);
-        console.log(matches);
 
         (matches || []).forEach((match, i) => {
             const {color, id, title} = args[i];
-            console.log(args[i]);
             const invertedColor = getContrastYIQ(color);
             html = html.replace(match, `<div class=btn-container>
                <a title="${title}" class="kofi-button" style="background-color:${color};" href="https://${id}" target="_blank">
