@@ -39,6 +39,8 @@ const koFiPlugin = (hook) => {
         }
 
         const matches = content.match(regex);
+            console.log(content);
+            console.log(matches);
 
         if (matches) {
             addCssLink("https://fonts.googleapis.com/css?family=Quicksand:400,700");
