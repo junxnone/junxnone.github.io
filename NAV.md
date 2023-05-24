@@ -1,4 +1,4 @@
-
+- [<kbd>🏠</kbd>](https://junxnone.github.io)
 - <kbd>📕</kbd>
   - [AI Wiki](https://junxnone.github.io/aiwiki/#/)
   - [Linux Wiki](https://junxnone.github.io/linux/)
