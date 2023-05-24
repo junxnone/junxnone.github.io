@@ -19,6 +19,8 @@
 <!-- ko-fi -->
 
 ----
+![](https://raw.githubusercontent.com/junxnone/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/junxnone/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 
