@@ -68,7 +68,7 @@ const koFiPlugin = (hook) => {
     });
 
     hook.afterEach(function (html, next) {
-        const matches = html.match(/<!-- ko-fi-\d -->/g);
+        const matches = html.match(/<!-- ko-fi-\d{1,} -->/g);
         console.log(matches);
 
         (matches || []).forEach((match, i) => {
