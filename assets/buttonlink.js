@@ -69,7 +69,7 @@ const koFiPlugin = (hook) => {
         const matches = html.match(/<!-- ko-fi-\d -->/g);
         (matches || []).forEach((match, i) => {
             const {color, id, title} = args[i];
-            console.log(args[i];
+            console.log(args[i]);
             const invertedColor = getContrastYIQ(color);
             html = html.replace(match, `<div class=btn-container>
                <a title="${title}" class="kofi-button" style="background-color:${color};" href="https://${id}" target="_blank">
