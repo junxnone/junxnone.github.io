@@ -14,15 +14,10 @@
 <!-- ko-fi :id=junxnone.github.io/t :color=#1599d6 -->
     旅行
 <!-- ko-fi -->
-<!-- ko-fi :id=junxnone.github.io/F :color=#1599d6 -->
-    F
-<!-- ko-fi -->
-<!-- ko-fi :id=junxnone.github.io/sh :color=#1599d6 -->
-    Shanghai
-<!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/#/menu :color=#1599d6 -->
-   其他
+    其他
 <!-- ko-fi -->
+
 ----
 
 
