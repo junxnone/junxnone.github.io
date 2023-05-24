@@ -13,7 +13,7 @@
 <!-- ko-fi :id=junxnone.github.io/leetcode :color=#1599d6 -->
     Leetcode
 <!-- ko-fi -->
-<!-- ko-fi :id=junxnone.github.io/kaagle :color=#1599d6 -->
+<!-- ko-fi :id=junxnone.github.io/kaggle :color=#1599d6 -->
     Kaggle 
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/csc :color=#1599d6 -->
@@ -22,7 +22,7 @@
 <!-- ko-fi :id=junxnone.github.io/samples :color=#1599d6 -->
     Samples
 <!-- ko-fi -->
-<!-- ko-fi :id=junxnone.github.io/DPCPP :color=#1599d6 -->
+<!-- ko-fi :id=junxnone.github.io/dpcpp :color=#1599d6 -->
     DPCPP
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/tpcn :color=#1599d6 -->
