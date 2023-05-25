@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.05.25 16:19:59`
+> `@2023.05.25 17:15:37`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -334,6 +334,7 @@
   - [Memory](xwiki/0004_Hardware_Memory)
     - [Cache](xwiki/0016_Hardware_Memory_Cache)
   - [NUMA](xwiki/0158_Hardware_NUMA)
+  - [PMU](xwiki/0243_Hardware_PMU)
   - [SIMD - Single Instruction Multiple Data](xwiki/0007_Hardware_SIMD)
     - [AVX](xwiki/0009_Hardware_SIMD_AVX)
       - [CodeCompile](xwiki/0150_Hardware_SIMD_AVX_CodeCompile)
