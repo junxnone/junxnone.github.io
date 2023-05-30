@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.05.31 00:18:21`
+> `@2023.05.31 01:12:01`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -284,7 +284,7 @@
     - [ChromeExtensions](xwiki/0124_Tools_Github_ChromeExtensions)
       - [Sourcegraph](xwiki/0125_Tools_Github_ChromeExtensions_Sourcegraph)
     - [比较 branch/commit](xwiki/0236_Tools_Github_Compare)
-    - [Pages](xwiki/0126_Tools_Github_Pages)
+    - [Github Pages](xwiki/0126_Tools_Github_Pages)
       - [BaiduMap](xwiki/0132_Tools_Github_Pages_BaiduMap)
         - [部署到 Gitee](xwiki/0172_Tools_Github_Pages_BaiduMap_Issues)
       - [Geojson Map](xwiki/0177_Tools_Github_Pages_GeojsonMap)
