@@ -1,3 +1,4 @@
+- 2023-05-31        [Hot LaMa](aiwiki/0404_Hot_LaMa)
 - 2023-05-30        [x DefectGen](aiwiki/0403_x_DefectGen)
 - 2023-05-25        [OPT Tools Vtune iGPU](xwiki/0245_OPT_Tools_Vtune_iGPU)
 - 2023-05-25        [Hardware PMU](xwiki/0243_Hardware_PMU)
@@ -741,4 +742,4 @@
 
 
 
-> `@2023.05.31 09:42:44`
+> `@2023.05.31 10:53:34`
