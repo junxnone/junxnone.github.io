@@ -1,3 +1,4 @@
+- 2023-06-02        [Doc  reStructuredText](xwiki/0246_Doc__reStructuredText)
 - 2023-05-31        [Hot LaMa](aiwiki/0404_Hot_LaMa)
 - 2023-05-30        [x DefectGen](aiwiki/0403_x_DefectGen)
 - 2023-05-25        [OPT Tools Vtune iGPU](xwiki/0245_OPT_Tools_Vtune_iGPU)
@@ -742,4 +743,4 @@
 
 
 
-> `@2023.06.02 07:16:18`
+> `@2023.06.02 09:44:58`
