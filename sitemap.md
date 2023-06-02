@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.02 14:20:07`
+> `@2023.06.02 15:14:01`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -779,6 +779,8 @@
 - [资源参考](aiwiki/0380_Reference)
 - [paper](aiwiki/0386_paper)
   - [CSPNet](aiwiki/0385_paper_CSPNet)
+  - [DreamBooth](aiwiki/0405_paper_DreamBooth)
+  - [LoRA](aiwiki/0406_paper_LoRA)
 - x
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
 
