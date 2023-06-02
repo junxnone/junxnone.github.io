@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.02 16:19:13`
+> `@2023.06.02 17:15:00`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -361,6 +361,7 @@
   - [版本号定义](xwiki/0146_X_Version)
   - [Word Cloud  - 词云生成](xwiki/0233_X_WordCloud)
   - [iso3dfd](xwiki/0209_X_iso3dfd)
+- [参考资源](xwiki/0247_Reference)
 - Windows
   - Issues
     - [查看 BIOS 版本号](xwiki/0235_Windows_Issues_BIOSInfo)

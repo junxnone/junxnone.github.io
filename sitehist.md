@@ -1,6 +1,7 @@
 - 2023-06-02        [paper LoRA](aiwiki/0406_paper_LoRA)
 - 2023-06-02        [paper DreamBooth](aiwiki/0405_paper_DreamBooth)
 - 2023-06-02        [paper ControlNet](aiwiki/0407_paper_ControlNet)
+- 2023-06-02        [Reference](xwiki/0247_Reference)
 - 2023-06-02        [Doc  reStructuredText](xwiki/0246_Doc__reStructuredText)
 - 2023-05-31        [Hot LaMa](aiwiki/0404_Hot_LaMa)
 - 2023-05-30        [x DefectGen](aiwiki/0403_x_DefectGen)
@@ -746,4 +747,4 @@
 
 
 
-> `@2023.06.02 16:19:14`
+> `@2023.06.02 17:15:00`
