@@ -2,6 +2,8 @@
 - 2023-06-02        [paper DreamBooth](aiwiki/0405_paper_DreamBooth)
 - 2023-06-02        [paper ControlNet](aiwiki/0407_paper_ControlNet)
 - 2023-06-02        [Reference](xwiki/0247_Reference)
+- 2023-06-02        [Programing CPP Template](xwiki/0248_Programing_CPP_Template)
+- 2023-06-02        [Programing CPP Policy](xwiki/0249_Programing_CPP_Policy)
 - 2023-06-02        [Doc  reStructuredText](xwiki/0246_Doc__reStructuredText)
 - 2023-05-31        [Hot LaMa](aiwiki/0404_Hot_LaMa)
 - 2023-05-30        [x DefectGen](aiwiki/0403_x_DefectGen)
@@ -747,4 +749,4 @@
 
 
 
-> `@2023.06.02 17:15:00`
+> `@2023.06.02 18:16:32`

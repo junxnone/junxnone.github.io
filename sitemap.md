@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.02 17:15:00`
+> `@2023.06.02 18:16:32`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -149,9 +149,11 @@
     - [计时方法](xwiki/0084_Programing_CPP_CountTime)
     - [Boost](xwiki/0238_Programing_CPP_Boost)
       - [Boost Arch](xwiki/0239_Programing_CPP_Boost_Arch)
+    - [Policy 策略设计模式](xwiki/0249_Programing_CPP_Policy)
     - [STL Standard Template Library](xwiki/0083_Programing_CPP_STL)
       - [STL 容器](xwiki/0241_Programing_CPP_STL_Container)
     - [标准库](xwiki/0082_Programing_CPP_StandardLibrary)
+    - [C++ 模板](xwiki/0248_Programing_CPP_Template)
     - [lambda](xwiki/0214_Programing_CPP_lambda)
     - [运算符重载](xwiki/0222_Programing_CPP_opoverloading)
   - [Shell](xwiki/0079_Programing_Shell)
