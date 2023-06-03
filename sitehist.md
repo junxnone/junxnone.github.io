@@ -1,3 +1,4 @@
+- 2023-06-03        [Hot HugeModel](aiwiki/0408_Hot_HugeModel)
 - 2023-06-02        [paper LoRA](aiwiki/0406_paper_LoRA)
 - 2023-06-02        [paper DreamBooth](aiwiki/0405_paper_DreamBooth)
 - 2023-06-02        [paper ControlNet](aiwiki/0407_paper_ControlNet)
@@ -749,4 +750,4 @@
 
 
 
-> `@2023.06.03 23:14:26`
+> `@2023.06.04 00:20:04`

@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.03 23:14:26`
+> `@2023.06.04 00:20:04`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -776,6 +776,7 @@
 - [AI 热点](aiwiki/0375_Hot)
   - [AIGC](aiwiki/0374_Hot_AIGC)
     - [ChatGPT](aiwiki/0373_Hot_AIGC_ChatGPT)
+  - [大模型](aiwiki/0408_Hot_HugeModel)
   - [LaMa - Image Inpainting](aiwiki/0404_Hot_LaMa)
   - [Stable Diffusion](aiwiki/0402_Hot_StableDiffusion)
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
