@@ -8,7 +8,7 @@
     Linux
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/aiwiki :color=#1599d6 -->
-    AI
+    AI Wiki
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/leetcode :color=#1599d6 -->
     Leetcode
@@ -20,13 +20,13 @@
     CS Course Note
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/samples :color=#1599d6 -->
-    Samples
+    Code Samples
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/dpcpp :color=#1599d6 -->
     DPCPP
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/tpcn :color=#1599d6 -->
-    Tuning
+    DL Tuning
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/wiki :color=#1599d6 -->
     Wiki
