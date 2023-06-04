@@ -43,6 +43,9 @@
 <!-- ko-fi :id=junxnone.github.io/s :color=#1599d6 -->
     思
 <!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/shi :color=#1599d6 -->
+    食
+<!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/jh :color=#1599d6 -->
     婚
 <!-- ko-fi -->
