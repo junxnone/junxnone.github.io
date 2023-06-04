@@ -46,6 +46,9 @@
 <!-- ko-fi :id=junxnone.github.io/shi :color=#1599d6 -->
     食
 <!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/l :color=#1599d6 -->
+    锻炼
+<!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/jh :color=#1599d6 -->
     婚
 <!-- ko-fi -->
