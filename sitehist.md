@@ -1,3 +1,5 @@
+- 2023-06-04        [Programing CPP STD MSVC](xwiki/0250_Programing_CPP_STD_MSVC)
+- 2023-06-04        [Programing CPP STD GNU](xwiki/0251_Programing_CPP_STD_GNU)
 - 2023-06-03        [Hot HugeModel](aiwiki/0408_Hot_HugeModel)
 - 2023-06-02        [paper LoRA](aiwiki/0406_paper_LoRA)
 - 2023-06-02        [paper DreamBooth](aiwiki/0405_paper_DreamBooth)
@@ -13,7 +15,7 @@
 - 2023-05-25        [Hardware GPU iGPU Drivers](xwiki/0244_Hardware_GPU_iGPU_Drivers)
 - 2023-05-16        [Hot StableDiffusion](aiwiki/0402_Hot_StableDiffusion)
 - 2023-05-08        [Doc Mermaid](xwiki/0242_Doc_Mermaid)
-- 2023-04-18        [Programing CPP STL Container](xwiki/0241_Programing_CPP_STL_Container)
+- 2023-04-18        [Programing CPP STD STL Container](xwiki/0241_Programing_CPP_STD_STL_Container)
 - 2023-04-07        [X SheetOCRTools](xwiki/0240_X_SheetOCRTools)
 - 2023-04-06        [Programing CPP Boost Arch](xwiki/0239_Programing_CPP_Boost_Arch)
 - 2023-04-04        [Programing CPP Boost](xwiki/0238_Programing_CPP_Boost)
@@ -277,8 +279,8 @@
 - 2021-07-29        [OPT PARA SYCL SPIR](xwiki/0040_OPT_PARA_SYCL_SPIR)
 - 2021-07-29        [OPT PARA SYCL Concepts](xwiki/0041_OPT_PARA_SYCL_Concepts)
 - 2021-07-27        [Programing CPP](xwiki/0077_Programing_CPP)
-- 2021-07-27        [Programing CPP StandardLibrary](xwiki/0082_Programing_CPP_StandardLibrary)
-- 2021-07-27        [Programing CPP STL](xwiki/0083_Programing_CPP_STL)
+- 2021-07-27        [Programing CPP STD](xwiki/0082_Programing_CPP_STD)
+- 2021-07-27        [Programing CPP STD STL](xwiki/0083_Programing_CPP_STD_STL)
 - 2021-07-27        [Datasets Image3D](aiwiki/0087_Datasets_Image3D)
 - 2021-07-27        [3D Camera](aiwiki/0040_3D_Camera)
 - 2021-07-26        [OPT LIB OneAPI iGPU](xwiki/0210_OPT_LIB_OneAPI_iGPU)
@@ -750,4 +752,4 @@
 
 
 
-> `@2023.06.04 12:17:54`
+> `@2023.06.04 13:14:31`
