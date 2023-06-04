@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.04 19:12:08`
+> `@2023.06.04 20:29:46`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -372,6 +372,8 @@
     - [Windows 命令行执行命令时卡住](xwiki/0234_Windows_Issues_CommandLineHang)
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
+- x
+  - [API Vs ABI](xwiki/0252_x_APIvsABI)
 
 ## AI
 - [数学基础](aiwiki/0288_Math)
