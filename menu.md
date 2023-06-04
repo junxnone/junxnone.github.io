@@ -1,5 +1,4 @@
-
-----
+# 技术
 
 <!-- ko-fi :id=junxnone.github.io/xwiki :color=#1599d6 -->
     X-Wiki
@@ -28,6 +27,9 @@
 <!-- ko-fi :id=junxnone.github.io/tpcn :color=#1599d6 -->
     DL Tuning
 <!-- ko-fi -->
+
+# 生活
+
 <!-- ko-fi :id=junxnone.github.io/wiki :color=#1599d6 -->
     Wiki
 <!-- ko-fi -->
@@ -52,6 +54,9 @@
 <!-- ko-fi :id=junxnone.github.io/jh :color=#1599d6 -->
     婚
 <!-- ko-fi -->
+
+# 模板
+
 <!-- ko-fi :id=junxnone.github.io/twiki :color=#1599d6 -->
     Template Wiki
 <!-- ko-fi -->
