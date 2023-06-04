@@ -1,3 +1,4 @@
+- 2023-06-04        [x Demo](aiwiki/0409_x_Demo)
 - 2023-06-04        [Programing CPP STD MSVC](xwiki/0250_Programing_CPP_STD_MSVC)
 - 2023-06-04        [Programing CPP STD GNU](xwiki/0251_Programing_CPP_STD_GNU)
 - 2023-06-03        [Hot HugeModel](aiwiki/0408_Hot_HugeModel)
@@ -752,4 +753,4 @@
 
 
 
-> `@2023.06.04 13:14:31`
+> `@2023.06.04 14:19:09`
