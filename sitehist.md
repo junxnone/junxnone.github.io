@@ -1,15 +1,17 @@
 - 2023-06-05        [Hot HugeModel Tuning](aiwiki/0410_Hot_HugeModel_Tuning)
+- 2023-06-05        [Hot HugeModel Tuning PrefixTuning](aiwiki/0411_Hot_HugeModel_Tuning_PrefixTuning)
+- 2023-06-05        [Hot HugeModel Tuning Adapter](aiwiki/0412_Hot_HugeModel_Tuning_Adapter)
 - 2023-06-04        [x Demo](aiwiki/0409_x_Demo)
 - 2023-06-04        [x APIvsABI](xwiki/0252_x_APIvsABI)
 - 2023-06-04        [Programing CPP STD MSVC](xwiki/0250_Programing_CPP_STD_MSVC)
 - 2023-06-04        [Programing CPP STD GNU](xwiki/0251_Programing_CPP_STD_GNU)
 - 2023-06-03        [Hot HugeModel](aiwiki/0408_Hot_HugeModel)
-- 2023-06-02        [paper LoRA](aiwiki/0406_paper_LoRA)
-- 2023-06-02        [paper DreamBooth](aiwiki/0405_paper_DreamBooth)
 - 2023-06-02        [paper ControlNet](aiwiki/0407_paper_ControlNet)
 - 2023-06-02        [Reference](xwiki/0247_Reference)
 - 2023-06-02        [Programing CPP Template](xwiki/0248_Programing_CPP_Template)
 - 2023-06-02        [Programing CPP Policy](xwiki/0249_Programing_CPP_Policy)
+- 2023-06-02        [Hot HugeModel Tuning LoRA](aiwiki/0406_Hot_HugeModel_Tuning_LoRA)
+- 2023-06-02        [Hot HugeModel Tuning DreamBooth](aiwiki/0405_Hot_HugeModel_Tuning_DreamBooth)
 - 2023-06-02        [Doc  reStructuredText](xwiki/0246_Doc__reStructuredText)
 - 2023-05-31        [Hot LaMa](aiwiki/0404_Hot_LaMa)
 - 2023-05-30        [x DefectGen](aiwiki/0403_x_DefectGen)
@@ -755,4 +757,4 @@
 
 
 
-> `@2023.06.05 11:18:30`
+> `@2023.06.05 12:18:55`

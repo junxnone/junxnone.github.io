@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.05 11:18:29`
+> `@2023.06.05 12:18:54`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -781,7 +781,11 @@
   - [AIGC](aiwiki/0374_Hot_AIGC)
     - [ChatGPT](aiwiki/0373_Hot_AIGC_ChatGPT)
   - [大模型](aiwiki/0408_Hot_HugeModel)
-    - [HugeModel Tuning](aiwiki/0410_Hot_HugeModel_Tuning)
+    - [HugeModel LightWeight-FineTuning](aiwiki/0410_Hot_HugeModel_Tuning)
+      - [Adapter FineTuning](aiwiki/0412_Hot_HugeModel_Tuning_Adapter)
+      - [DreamBooth](aiwiki/0405_Hot_HugeModel_Tuning_DreamBooth)
+      - [LoRA](aiwiki/0406_Hot_HugeModel_Tuning_LoRA)
+      - [Prefix Tuning](aiwiki/0411_Hot_HugeModel_Tuning_PrefixTuning)
   - [LaMa - Image Inpainting](aiwiki/0404_Hot_LaMa)
   - [Stable Diffusion](aiwiki/0402_Hot_StableDiffusion)
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
@@ -789,13 +793,11 @@
 - [paper](aiwiki/0386_paper)
   - [CSPNet](aiwiki/0385_paper_CSPNet)
   - [ControlNet](aiwiki/0407_paper_ControlNet)
-  - [DreamBooth](aiwiki/0405_paper_DreamBooth)
-  - [LoRA](aiwiki/0406_paper_LoRA)
 - x
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
 
-<kbd><sub>@1110480605</sub></kbd>
+<kbd><sub>@1156310605</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
