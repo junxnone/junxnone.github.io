@@ -1,3 +1,4 @@
+- 2023-06-05        [Hot HugeModel Tuning](aiwiki/0410_Hot_HugeModel_Tuning)
 - 2023-06-04        [x Demo](aiwiki/0409_x_Demo)
 - 2023-06-04        [x APIvsABI](xwiki/0252_x_APIvsABI)
 - 2023-06-04        [Programing CPP STD MSVC](xwiki/0250_Programing_CPP_STD_MSVC)
@@ -754,4 +755,4 @@
 
 
 
-> `@2023.06.05 10:51:25`
+> `@2023.06.05 11:18:30`
