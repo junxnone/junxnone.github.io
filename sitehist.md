@@ -1,3 +1,5 @@
+- 2023-06-07        [Hot SA](aiwiki/0414_Hot_SA)
+- 2023-06-07        [Hot Imagen](aiwiki/0413_Hot_Imagen)
 - 2023-06-05        [Tools CompilerExplorer](xwiki/0253_Tools_CompilerExplorer)
 - 2023-06-05        [Hot HugeModel Tuning](aiwiki/0410_Hot_HugeModel_Tuning)
 - 2023-06-05        [Hot HugeModel Tuning PrefixTuning](aiwiki/0411_Hot_HugeModel_Tuning_PrefixTuning)
@@ -758,4 +760,4 @@
 
 
 
-> `@2023.06.07 09:47:10`
+> `@2023.06.07 10:54:16`

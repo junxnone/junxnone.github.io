@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.07 09:47:10`
+> `@2023.06.07 10:54:16`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC](linux/0105_Linux_VNC)
@@ -789,7 +789,9 @@
       - [DreamBooth](aiwiki/0405_Hot_HugeModel_Tuning_DreamBooth)
       - [LoRA](aiwiki/0406_Hot_HugeModel_Tuning_LoRA)
       - [Prefix Tuning](aiwiki/0411_Hot_HugeModel_Tuning_PrefixTuning)
+  - [Imagen](aiwiki/0413_Hot_Imagen)
   - [LaMa - Image Inpainting](aiwiki/0404_Hot_LaMa)
+  - [Segment Anything](aiwiki/0414_Hot_SA)
   - [Stable Diffusion](aiwiki/0402_Hot_StableDiffusion)
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
 - [资源参考](aiwiki/0380_Reference)
@@ -800,7 +802,7 @@
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
 
-<kbd><sub>@1614060606</sub></kbd>
+<kbd><sub>@1011550607</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
