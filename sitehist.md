@@ -1,3 +1,4 @@
+- 2023-06-08        [Desktop KDE](linux/0117_Desktop_KDE)
 - 2023-06-07        [Hot SA](aiwiki/0414_Hot_SA)
 - 2023-06-07        [Hot Imagen](aiwiki/0413_Hot_Imagen)
 - 2023-06-05        [Tools CompilerExplorer](xwiki/0253_Tools_CompilerExplorer)
@@ -760,4 +761,4 @@
 
 
 
-> `@2023.06.08 22:14:08`
+> `@2023.06.08 23:16:17`
