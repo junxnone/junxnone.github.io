@@ -242,7 +242,7 @@
 - 2021-09-22        [Doc Markdown Table](xwiki/0138_Doc_Markdown_Table)
 - 2021-09-22        [Doc Markdown List](xwiki/0137_Doc_Markdown_List)
 - 2021-09-22        [Doc Markdown Image](xwiki/0139_Doc_Markdown_Image)
-- 2021-09-19        [Linux Install](linux/0013_Linux_Install)
+- 2021-09-19        [Linux Kernel](linux/0013_Linux_Kernel)
 - 2021-09-14        [3D Camera 激光测量](aiwiki/0354_3D_Camera_激光测量)
 - 2021-09-13        [Tools FPCalculate](aiwiki/0026_Tools_FPCalculate)
 - 2021-09-09        [Math SC](aiwiki/0355_Math_SC)
@@ -760,4 +760,4 @@
 
 
 
-> `@2023.06.08 15:14:22`
+> `@2023.06.08 16:19:21`

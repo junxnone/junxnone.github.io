@@ -1,17 +1,17 @@
 # Junxnone
-> `@2023.06.08 15:14:22`
+> `@2023.06.08 16:19:21`
 ## Linux
 - [Linux](linux/0001_Linux)
-  - [VNC](linux/0105_Linux_VNC)
+  - [VNC System](linux/0105_Linux_VNC)
   - [bashrc](linux/0102_Linux_bashrc)
   - [Yocto](linux/0084_Linux_Yocto)
     - [设置静态IP](linux/0085_Linux_Yocto_SetStaticIP)
   - [IPC](linux/0086_Linux_IPC)
     - [Semaphore](linux/0088_Linux_IPC_Semaphore)
     - [Tools](linux/0087_Linux_IPC_SharedMemory)
-  - [History](linux/0113_Linux_History)
-  - [IncreaseSwap](linux/0083_Linux_IncreaseSwap)
-  - [Install](linux/0013_Linux_Install)
+  - [Unix History](linux/0113_Linux_History)
+  - [增加 Swap 分区](linux/0083_Linux_IncreaseSwap)
+  - [Linux Kernel](linux/0013_Linux_Kernel)
   - [POSIX VS SystemV](linux/0082_Linux_POSIX与SystemV)
 - [Tools](linux/0059_Tools)
   - [文本编辑](linux/0078_Tools_Text)
@@ -48,7 +48,7 @@
     - [tmux](linux/0051_Tools_Remote_tmux)
       - [Arch](linux/0111_Tools_Remote_tmux_Arch)
       - [plugins](linux/0112_Tools_Remote_tmux_plugins)
-    - [VNCServer](linux/0103_Tools_Remote_vncserver)
+    - [VNC Tools](linux/0103_Tools_Remote_vncserver)
   - OS
     - [Hardware Information  查看工具](linux/0068_Tools_OS_HardwareInfo)
     - [Kernel 升级管理](linux/0073_Tools_OS_KernelUpgrade)
@@ -84,8 +84,8 @@
   - [cal 日历小工具](linux/0007_Tools_cal)
   - [chrt 管理进程属性](linux/0012_Tools_chrt)
   - [ctags](linux/0003_Tools_ctags)
-  - [date](linux/0024_Tools_date)
-  - [history](linux/0049_Tools_history)
+  - [date - 时间管理工具](linux/0024_Tools_date)
+  - [history 命令行历史管理](linux/0049_Tools_history)
   - [网络工具 nmap](linux/0062_Tools_nmap)
   - [script 记录终端执行命令历史](linux/0006_Tools_script)
   - [shuf 随机选取工具](linux/0028_Tools_shuf)
@@ -120,7 +120,7 @@
 - [Desktop](linux/0057_Desktop)
   - [CentOS 安装桌面](linux/0107_Desktop_CentOS)
 
-<kbd><sub>@1613250607</sub></kbd>
+<kbd><sub>@1612460608</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -377,7 +377,7 @@
 - x
   - [API Vs ABI](xwiki/0252_x_APIvsABI)
 
-<kbd><sub>@1607530607</sub></kbd>
+<kbd><sub>@1607500608</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -802,7 +802,7 @@
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
 
-<kbd><sub>@1615030607</sub></kbd>
+<kbd><sub>@1613550608</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
