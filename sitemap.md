@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.09 10:56:24`
+> `@2023.06.09 11:23:34`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -119,9 +119,10 @@
   - [PAM - Pluggable Authentication Module](linux/0065_Security_PAM)
 - [Linux Desktop](linux/0057_Desktop)
   - [CentOS 安装桌面](linux/0107_Desktop_CentOS)
+  - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@2307040608</sub></kbd>
+<kbd><sub>@1120350609</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)

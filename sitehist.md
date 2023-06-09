@@ -1,3 +1,4 @@
+- 2023-06-09        [Desktop GNOME](linux/0118_Desktop_GNOME)
 - 2023-06-08        [Desktop KDE](linux/0117_Desktop_KDE)
 - 2023-06-07        [Hot SA](aiwiki/0414_Hot_SA)
 - 2023-06-07        [Hot Imagen](aiwiki/0413_Hot_Imagen)
@@ -761,4 +762,4 @@
 
 
 
-> `@2023.06.09 10:56:24`
+> `@2023.06.09 11:23:35`
