@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.10 15:13:31`
+> `@2023.06.10 16:18:30`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -123,7 +123,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1612440609</sub></kbd>
+<kbd><sub>@1611430610</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -380,7 +380,7 @@
 - x
   - [API Vs ABI](xwiki/0252_x_APIvsABI)
 
-<kbd><sub>@1608060609</sub></kbd>
+<kbd><sub>@1606410610</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -805,7 +805,7 @@
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
 
-<kbd><sub>@1613450609</sub></kbd>
+<kbd><sub>@1612580610</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
