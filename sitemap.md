@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.13 15:14:53`
+> `@2023.06.13 16:20:02`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -123,7 +123,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1613360612</sub></kbd>
+<kbd><sub>@1613000613</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -281,7 +281,7 @@
     - [branch](xwiki/0115_Tools_Git_branch)
     - [tag](xwiki/0116_Tools_Git_tag)
     - [submodule](xwiki/0114_Tools_Git_submodule)
-    - [proxy](xwiki/0113_Tools_Git_proxy)
+    - [Git Proxy Set](xwiki/0113_Tools_Git_proxy)
     - [移除 stage 文件](xwiki/0119_Tools_Git_RMStageFile)
     - [No newline at end of file](xwiki/0120_Tools_Git_NoNewline)
     - [Git Patch 生成与使用](xwiki/0226_Tools_Git_Patch)
@@ -380,7 +380,7 @@
 - x
   - [API Vs ABI](xwiki/0252_x_APIvsABI)
 
-<kbd><sub>@1608240612</sub></kbd>
+<kbd><sub>@1607470613</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -805,7 +805,7 @@
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
 
-<kbd><sub>@1614500612</sub></kbd>
+<kbd><sub>@1614190613</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
