@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.14 15:14:29`
+> `@2023.06.14 16:19:47`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -123,7 +123,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1613000613</sub></kbd>
+<kbd><sub>@1612470614</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -382,7 +382,7 @@
 - x
   - [API Vs ABI](xwiki/0252_x_APIvsABI)
 
-<kbd><sub>@2336000613</sub></kbd>
+<kbd><sub>@1607330614</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -788,13 +788,13 @@
 - [AI 热点](aiwiki/0375_Hot)
   - [AIGC](aiwiki/0374_Hot_AIGC)
     - [ChatGPT](aiwiki/0373_Hot_AIGC_ChatGPT)
-  - [大模型](aiwiki/0408_Hot_HugeModel)
-    - [HugeModel LightWeight-FineTuning](aiwiki/0410_Hot_HugeModel_Tuning)
-      - [Adapter FineTuning](aiwiki/0412_Hot_HugeModel_Tuning_Adapter)
-      - [DreamBooth](aiwiki/0405_Hot_HugeModel_Tuning_DreamBooth)
-      - [LoRA](aiwiki/0406_Hot_HugeModel_Tuning_LoRA)
-      - [Prefix Tuning](aiwiki/0411_Hot_HugeModel_Tuning_PrefixTuning)
   - [Imagen](aiwiki/0413_Hot_Imagen)
+  - [大模型](aiwiki/0408_Hot_LM)
+    - [大模型微调](aiwiki/0410_Hot_LM_Tuning)
+      - [Adapter FineTuning](aiwiki/0412_Hot_LM_Tuning_Adapter)
+      - [DreamBooth](aiwiki/0405_Hot_LM_Tuning_DreamBooth)
+      - [LoRA](aiwiki/0406_Hot_LM_Tuning_LoRA)
+      - [Prefix Tuning](aiwiki/0411_Hot_LM_Tuning_PrefixTuning)
   - [LaMa - Image Inpainting](aiwiki/0404_Hot_LaMa)
   - [Segment Anything](aiwiki/0414_Hot_SA)
   - [Stable Diffusion](aiwiki/0402_Hot_StableDiffusion)
@@ -807,7 +807,7 @@
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
 
-<kbd><sub>@1614190613</sub></kbd>
+<kbd><sub>@1614140614</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
