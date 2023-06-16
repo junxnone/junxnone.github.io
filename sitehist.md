@@ -3,6 +3,7 @@
 - 2023-06-16        [Tools](aiwiki/0415_Tools)
 - 2023-06-16        [Media](aiwiki/0417_Media)
 - 2023-06-16        [ML](aiwiki/0416_ML)
+- 2023-06-16        [3D Tools](aiwiki/0419_3D_Tools)
 - 2023-06-13        [Programing database](xwiki/0254_Programing_database)
 - 2023-06-13        [Programing database InfluxDB](xwiki/0255_Programing_database_InfluxDB)
 - 2023-06-09        [Ubuntu APT Source](linux/0119_Ubuntu_APT_Source)
@@ -770,4 +771,4 @@
 
 
 
-> `@2023.06.16 10:40:55`
+> `@2023.06.16 11:17:14`
