@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.16 16:19:30`
+> `@2023.06.16 17:15:21`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -267,7 +267,7 @@
   - Issues
     - [SettingWithCopyWarning](xwiki/0185_Pandas_Issues_SettingWithCopyWarning)
     - [存储为 csv 再读入后, 单元格值 `list` 类型会变成 `str` 类型](xwiki/0213_Pandas_Issues_csvliststr)
-- Tools
+- [Tools](xwiki/0257_Tools)
   - [Jupyter](xwiki/0163_Tools_Jupyter)
     - [Arch](xwiki/0069_Tools_Jupyter_Arch)
     - [CPP](xwiki/0067_Tools_Jupyter_CPP)
@@ -383,7 +383,7 @@
 - x
   - [API Vs ABI](xwiki/0252_x_APIvsABI)
 
-<kbd><sub>@1618450616</sub></kbd>
+<kbd><sub>@1628020616</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
