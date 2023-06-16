@@ -1,6 +1,7 @@
 - 2023-06-16        [x](aiwiki/0418_x)
 - 2023-06-16        [Ubuntu](linux/0120_Ubuntu)
 - 2023-06-16        [Tools](aiwiki/0415_Tools)
+- 2023-06-16        [Tools Git Bash](xwiki/0256_Tools_Git_Bash)
 - 2023-06-16        [Media](aiwiki/0417_Media)
 - 2023-06-16        [ML](aiwiki/0416_ML)
 - 2023-06-16        [3D Tools](aiwiki/0419_3D_Tools)
@@ -771,4 +772,4 @@
 
 
 
-> `@2023.06.16 15:14:28`
+> `@2023.06.16 16:19:30`
