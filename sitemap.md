@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.16 07:16:20`
+> `@2023.06.16 09:37:46`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -90,7 +90,7 @@
   - [script 记录终端执行命令历史](linux/0006_Tools_script)
   - [shuf 随机选取工具](linux/0028_Tools_shuf)
   - [xargs](linux/0022_Tools_xargs)
-- Ubuntu
+- [Ubuntu](linux/0120_Ubuntu)
   - [APT Ubuntu 包管理工具](linux/0015_Ubuntu_APT)
     - [APT Source](linux/0119_Ubuntu_APT_Source)
   - [Ubuntu OS Version Upgrade](linux/0089_Ubuntu_Upgrade)
@@ -123,7 +123,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1612380615</sub></kbd>
+<kbd><sub>@0815350616</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -382,7 +382,7 @@
 - x
   - [API Vs ABI](xwiki/0252_x_APIvsABI)
 
-<kbd><sub>@1607380615</sub></kbd>
+<kbd><sub>@0806260616</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -404,7 +404,7 @@
   - [Stochastic process 随机过程](aiwiki/0355_Math_SC)
   - [SVD](aiwiki/0297_Math_SVD)
   - [norm 范数](aiwiki/0254_Math_norm)
-- Media
+- [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
     - [2D 图像](aiwiki/0035_Media_Image_2DImage)
     - [3D 图像](aiwiki/0039_Media_Image_3DImage)
@@ -495,7 +495,7 @@
       - [SAC](aiwiki/0314_3D_Tools_PCL_SAC)
       - Surface
         - [GreedyProjectionTriangulation](aiwiki/0399_3D_Tools_PCL_Surface_triangulation)
-- ML
+- [ML](aiwiki/0416_ML)
   - [传统机器学习](aiwiki/0367_ML_OML)
     - [Decision Tree 决策树](aiwiki/0113_ML_OML_DecisionTree)
     - [Random Forest 随机森林](aiwiki/0114_ML_OML_RandomForest)
@@ -683,7 +683,7 @@
       - [nanoflann](aiwiki/0123_ML_NNS_KDTree_nanoflann)
   - [Reinforcement Learning 强化学习](aiwiki/0290_ML_RL)
   - [Semi-Supervised Learning 半监督学习](aiwiki/0271_ML_SSL)
-- Tools
+- [Tools](aiwiki/0415_Tools)
   - [Numpy](aiwiki/0328_Tools_Numpy)
   - [Pytorch](aiwiki/0168_Tools_Pytorch)
     - [Pipeline](aiwiki/0173_Tools_Pytorch_Pipeline)
@@ -803,11 +803,11 @@
 - [paper](aiwiki/0386_paper)
   - [CSPNet](aiwiki/0385_paper_CSPNet)
   - [ControlNet](aiwiki/0407_paper_ControlNet)
-- x
+- [x](aiwiki/0418_x)
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
 
-<kbd><sub>@1614050615</sub></kbd>
+<kbd><sub>@0824190616</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
