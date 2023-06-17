@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.17 21:17:02`
+> `@2023.06.17 22:12:57`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -385,7 +385,7 @@
 - x
   - [API Vs ABI](xwiki/0252_x_APIvsABI)
 
-<kbd><sub>@1921390617</sub></kbd>
+<kbd><sub>@2200440617</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
