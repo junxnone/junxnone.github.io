@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.18 00:19:28`
+> `@2023.06.18 01:12:50`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -49,7 +49,7 @@
       - [Arch](linux/0111_Tools_Remote_tmux_Arch)
       - [plugins](linux/0112_Tools_Remote_tmux_plugins)
     - [VNC Tools](linux/0103_Tools_Remote_vncserver)
-  - OS
+  - [OS Tools](linux/0122_Tools_OS)
     - [Hardware Information  查看工具](linux/0068_Tools_OS_HardwareInfo)
     - [Kernel 升级管理](linux/0073_Tools_OS_KernelUpgrade)
     - [开机相关信息](linux/0061_Tools_OS_ShowBootInfo)
@@ -76,8 +76,8 @@
     - [taskset 设定程序运行在的CPU](linux/0034_Tools_Process_taskset)
     - [top](linux/0009_Tools_Process_top)
   - [任务管理工具](linux/0040_Tools_TaskSchedule)
-    - [atrun uid=1000 gid=1000](linux/0037_Tools_TaskSchedule_at)
-    - [batch](linux/0038_Tools_TaskSchedule_batch)
+    - [at 定时任务管理工具](linux/0037_Tools_TaskSchedule_at)
+    - [batch 基于 at 任务管理工具](linux/0038_Tools_TaskSchedule_batch)
     - [Task 管理工具 crontab](linux/0071_Tools_TaskSchedule_crontab)
     - [jobs](linux/0047_Tools_TaskSchedule_jobs)
   - [bc 浮点计算工具](linux/0030_Tools_bc)
@@ -104,7 +104,7 @@
   - [忘记密码](linux/0093_Ubuntu_ForgetPassword)
   - [Server Install Desktop](linux/0094_Ubuntu_InstallDesktop)
   - [Ubuntu Install Steam](linux/0063_Ubuntu_InstallSteam)
-  - Issues
+  - [Ubuntu Issues](linux/0121_Ubuntu_Issues)
     - [桌面不显示](linux/0095_Ubuntu_Issues_DesktopDisplay)
     - [硬盘大于 2TB](linux/0099_Ubuntu_Issues_DiskLargerThan2TB)
     - [前置耳机不工作](linux/0101_Ubuntu_Issues_FrontHeadPhoneNotWorking)
@@ -116,14 +116,14 @@
 - [Driver](linux/0005_Driver)
 - [File System](linux/0064_FileSystem)
   - [文件系统格式](linux/0081_FileSystem_Format)
-- Security
+- [Linux Security](linux/0123_Security)
   - [PAM - Pluggable Authentication Module](linux/0065_Security_PAM)
 - [Linux Desktop](linux/0057_Desktop)
   - [CentOS 安装桌面](linux/0107_Desktop_CentOS)
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1921340617</sub></kbd>
+<kbd><sub>@0024510618</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -411,8 +411,7 @@
     - [3D 图像](aiwiki/0039_Media_Image_3DImage)
     - [Camera](aiwiki/0107_Media_Image_Camera)
       - [GenICam](aiwiki/0106_Media_Image_Camera_GenICam)
-        - Tools
-          - [Aravis](aiwiki/0108_Media_Image_Camera_GenICam_Tools_Aravis)
+        - [GenICam Aravis](aiwiki/0108_Media_Image_Camera_GenICam_Aravis)
       - [低延迟](aiwiki/0037_Media_Image_Camera_LowLatency)
       - [像素格式](aiwiki/0119_Media_Image_Camera_PixelFormat)
       - [定拍 vs 飞拍](aiwiki/0038_Media_Image_Camera_定拍飞拍)
@@ -478,6 +477,7 @@
       - [NDT Normal Distributions Transform](aiwiki/0295_3D_Algos_Registration_NDT)
       - [PPF 粗配准](aiwiki/0085_3D_Algos_Registration_PPF)
       - [SAC-IA](aiwiki/0300_3D_Algos_Registration_SACIA)
+    - [GreedyProjectionTriangulation](aiwiki/0399_3D_Algos_triangulation)
   - [DL](aiwiki/0233_3D_DL)
   - [3D Tools](aiwiki/0419_3D_Tools)
     - [Point Cloud Library](aiwiki/0077_3D_Tools_PCL)
@@ -493,8 +493,6 @@
       - [AABB OBB](aiwiki/0315_3D_Tools_PCL_Bbox)
       - [PPF](aiwiki/0083_3D_Tools_PCL_PPF)
       - [SAC](aiwiki/0314_3D_Tools_PCL_SAC)
-      - Surface
-        - [GreedyProjectionTriangulation](aiwiki/0399_3D_Tools_PCL_Surface_triangulation)
 - [ML](aiwiki/0416_ML)
   - [传统机器学习](aiwiki/0367_ML_OML)
     - [Decision Tree 决策树](aiwiki/0113_ML_OML_DecisionTree)
@@ -646,10 +644,6 @@
         - [TPE](aiwiki/0221_ML_AutoML_HPO_BO_TPE)
       - [GridSearch](aiwiki/0205_ML_AutoML_HPO_GridSearch)
       - [Random Search](aiwiki/0204_ML_AutoML_HPO_RandomSearch)
-      - Tools
-        - [SIGOPT](aiwiki/0015_ML_AutoML_HPO_Tools_SIGOPT)
-          - [Options](aiwiki/0142_ML_AutoML_HPO_Tools_SIGOPT_Options)
-          - [UseCase](aiwiki/0141_ML_AutoML_HPO_Tools_SIGOPT_UseCase)
     - [NAS](aiwiki/0014_ML_AutoML_NAS)
       - [DARTS](aiwiki/0389_ML_AutoML_NAS_DARTS)
       - [ENAS](aiwiki/0391_ML_AutoML_NAS_ENAS)
@@ -660,8 +654,11 @@
       - [PNAS](aiwiki/0388_ML_AutoML_NAS_PNAS)
       - [ProxylessNAS](aiwiki/0387_ML_AutoML_NAS_ProxylessNAS)
       - [Search Space](aiwiki/0392_ML_AutoML_NAS_SearchSpace)
-    - Tools
+    - [AutoML Tools](aiwiki/0427_ML_AutoML_Tools)
       - [NNI](aiwiki/0016_ML_AutoML_Tools_NNI)
+      - [SIGOPT](aiwiki/0015_ML_AutoML_Tools_SIGOPT)
+        - [Options](aiwiki/0142_ML_AutoML_Tools_SIGOPT_Options)
+        - [UseCase](aiwiki/0141_ML_AutoML_Tools_SIGOPT_UseCase)
   - [Active Learning](aiwiki/0118_ML_AL)
     - [Query Strategy 查询/抽样 策略](aiwiki/0276_ML_AL_QS)
       - [Pool-Based Sampling](aiwiki/0274_ML_AL_QS_PoolBasedSampling)
@@ -757,16 +754,16 @@
   - [NLP](aiwiki/0021_Datasets_NLP)
   - [Video](aiwiki/0019_Datasets_Video)
 - [OpenCV](aiwiki/0105_OpenCV)
-  - IO
+  - [OpenCV 读写](aiwiki/0426_OpenCV_IO)
     - [Image](aiwiki/0361_OpenCV_IO_Image)
     - [读取 RTSP Camera](aiwiki/0351_OpenCV_IO_RTSPCamera)
     - [Video](aiwiki/0352_OpenCV_IO_Video)
   - [OpenCV UseCase](aiwiki/0362_OpenCV_UC)
     - [计算图片 average brightness](aiwiki/0350_OpenCV_UC_brightness)
   - [Image Processing](aiwiki/0316_OpenCV_IP)
-    - [Colormaps](aiwiki/0349_OpenCV_IP_Colormaps)
+    - [ColorMaps](aiwiki/0349_OpenCV_IP_Colormaps)
     - Feature
-      - [Hough  Line/Circle 霍夫线圆](aiwiki/0340_OpenCV_IP_Feature_Hough)
+      - [Hough  Line Circle 霍夫线圆](aiwiki/0340_OpenCV_IP_Feature_Hough)
     - [Image Filtering](aiwiki/0363_OpenCV_IP_Filter)
       - [GaussianBlur](aiwiki/0320_OpenCV_IP_Filter_GaussianBlur)
       - [bilateralFilter](aiwiki/0317_OpenCV_IP_Filter_bilateralFilter)
@@ -806,7 +803,7 @@
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
 
-<kbd><sub>@0003540618</sub></kbd>
+<kbd><sub>@0054050618</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
