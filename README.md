@@ -17,6 +17,9 @@
 <!-- ko-fi :id=junxnone.github.io/#/menu :color=#1599d6 -->
     其他
 <!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/kg :color=#1599d6 -->
+    KG
+<!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/xwiki/markmap.html?md=https://junxnone.github.io/sitemap.md :color=#1599d6 -->
     Site Map
 <!-- ko-fi -->
