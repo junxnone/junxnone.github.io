@@ -18,7 +18,7 @@
     其他
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/kg :color=#1599d6 -->
-    KG
+    3D Knowledge Graph
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/xwiki/markmap.html?md=https://junxnone.github.io/sitemap.md :color=#1599d6 -->
     Site Map
