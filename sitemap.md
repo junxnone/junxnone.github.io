@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.17 23:14:57`
+> `@2023.06.18 00:19:28`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -239,7 +239,7 @@
       - [Level Zero](xwiki/0037_OPT_LIB_OneAPI_LevelZero)
       - [OneAPI iGPU](xwiki/0210_OPT_LIB_OneAPI_iGPU)
       - [Intel OneAPI oneDPL](xwiki/0075_OPT_LIB_OneAPI_oneDPL)
-  - Tools
+  - [性能优化工具](xwiki/0261_OPT_Tools)
     - [Intel Advisor](xwiki/0217_OPT_Tools_Advisor)
     - [Intel Vtune](xwiki/0019_OPT_Tools_Vtune)
       - [Vtune CommandLine Mode](xwiki/0020_OPT_Tools_Vtune_CommandLine)
@@ -249,8 +249,8 @@
 - [Pandas](xwiki/0181_Pandas)
   - [Series](xwiki/0184_Pandas_Series)
   - [DataFrame](xwiki/0182_Pandas_DataFrame)
-  - UseCase
-    - [Format Output/读写文件](xwiki/0188_Pandas_UseCase_IO)
+  - [Pandas UseCase](xwiki/0260_Pandas_UseCase)
+    - [Format Output 读写文件](xwiki/0188_Pandas_UseCase_IO)
     - [列操作](xwiki/0198_Pandas_UseCase_columns)
     - [行操作](xwiki/0199_Pandas_UseCase_row)
     - [单元格操作](xwiki/0200_Pandas_UseCase_xy)
@@ -264,7 +264,7 @@
     - [简单查看数据](xwiki/0197_Pandas_UseCase_ShowSummaryInfo)
     - [list2csv](xwiki/0183_Pandas_UseCase_list2csv)
   - [可视化](xwiki/0189_Pandas_Visualization)
-  - Issues
+  - [Pandas Issues](xwiki/0262_Pandas_Issues)
     - [SettingWithCopyWarning](xwiki/0185_Pandas_Issues_SettingWithCopyWarning)
     - [存储为 csv 再读入后, 单元格值 `list` 类型会变成 `str` 类型](xwiki/0213_Pandas_Issues_csvliststr)
 - [Tools](xwiki/0257_Tools)
@@ -363,10 +363,11 @@
   - [Mermaid](xwiki/0242_Doc_Mermaid)
   - [YAML](xwiki/0140_Doc_YAML)
   - [reStructuredText](xwiki/0246_Doc_reStructuredText)
-- X
+- [未分类](xwiki/0263_X)
+  - [API Vs ABI](xwiki/0252_X_APIvsABI)
   - [BLAS](xwiki/0179_X_BLAS)
   - [Base64](xwiki/0208_X_Base64)
-  - [文件换行 Windows/Linux CRLF/LF](xwiki/0145_X_CRLF)
+  - [文件换行 Windows Linux CRLF LF](xwiki/0145_X_CRLF)
   - [LAPACK](xwiki/0180_X_LAPACK)
   - [Open Source License](xwiki/0147_X_OpenSourceLicense)
   - [PECOFF](xwiki/0152_X_PECOFF)
@@ -375,16 +376,14 @@
   - [Word Cloud  - 词云生成](xwiki/0233_X_WordCloud)
   - [iso3dfd](xwiki/0209_X_iso3dfd)
 - [参考资源](xwiki/0247_Reference)
-- Windows
-  - Issues
-    - [查看 BIOS 版本号](xwiki/0235_Windows_Issues_BIOSInfo)
+- [Windows](xwiki/0264_Windows)
+  - [查看 BIOS 版本号](xwiki/0235_Windows_BIOSInfo)
+  - [Windows Issues](xwiki/0265_Windows_Issues)
     - [Windows 命令行执行命令时卡住](xwiki/0234_Windows_Issues_CommandLineHang)
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
-- x
-  - [API Vs ABI](xwiki/0252_x_APIvsABI)
 
-<kbd><sub>@2310500617</sub></kbd>
+<kbd><sub>@2324190617</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -428,15 +427,14 @@
     - [Perspective Transformation - 透视变换](aiwiki/0345_Media_Image_PT)
     - [Resize](aiwiki/0347_Media_Image_Resize)
   - [Video 视频](aiwiki/0036_Media_Video)
-  - Tools
-    - [GStreamer](aiwiki/0109_Media_Tools_GStreamer)
+  - [多媒体处理工具](aiwiki/0421_Media_Tools)
+    - [GStreamer 流媒体应用框架](aiwiki/0109_Media_Tools_GStreamer)
       - [Install](aiwiki/0117_Media_Tools_GStreamer_Install)
       - [Concepts](aiwiki/0144_Media_Tools_GStreamer_Concepts)
-      - Tools
-        - [gst-discoverer](aiwiki/0111_Media_Tools_GStreamer_Tools_gstdiscoverer)
-        - [gst-inspect](aiwiki/0112_Media_Tools_GStreamer_Tools_gstinspect)
-        - [gst-launch](aiwiki/0110_Media_Tools_GStreamer_Tools_gstlaunch)
       - [Plugins](aiwiki/0143_Media_Tools_GStreamer_Plugins)
+      - [gst-discoverer](aiwiki/0111_Media_Tools_GStreamer_gstdiscoverer)
+      - [gst-inspect](aiwiki/0112_Media_Tools_GStreamer_gstinspect)
+      - [gst-launch](aiwiki/0110_Media_Tools_GStreamer_gstlaunch)
 - [CV 计算机视觉](aiwiki/0371_CV)
   - [Thresholding 二值化](aiwiki/0099_CV_BIN)
     - [scikit-image 二值化](aiwiki/0331_CV_BIN_ScikitImage)
@@ -460,8 +458,8 @@
     - [Reference](aiwiki/0354_3D_Camera_激光测量)
     - [结构光3D Camera](aiwiki/0308_3D_Camera_结构光)
       - [相移法重建](aiwiki/0309_3D_Camera_结构光_相移法重建)
-  - Cloud
-    - Features
+  - [3D Cloud 点云](aiwiki/0423_3D_Cloud)
+    - [3D Cloud Features](aiwiki/0424_3D_Cloud_Features)
       - [3D Cloud Curvature 点云曲率](aiwiki/0304_3D_Cloud_Features_Curvature)
       - [FPFH](aiwiki/0299_3D_Cloud_Features_FPFH)
       - [ISS KeyPoint](aiwiki/0302_3D_Cloud_Features_ISS)
@@ -470,7 +468,9 @@
     - [Rotation Matrix 旋转矩阵](aiwiki/0234_3D_Cloud_RM)
     - [离群点移除](aiwiki/0287_3D_Cloud_SOR)
     - [降采样](aiwiki/0285_3D_Cloud_Sampling)
-  - Algos
+  - [3D 算法](aiwiki/0422_3D_Algos)
+    - [3D 重建](aiwiki/0305_3D_Algos_Reconstruction)
+      - [KinectFusion](aiwiki/0306_3D_Algos_Reconstruction_KinectFusion)
     - [Registration 配准](aiwiki/0235_3D_Algos_Registration)
       - [ICP 精配准](aiwiki/0086_3D_Algos_Registration_ICP)
         - [GICP](aiwiki/0296_3D_Algos_Registration_ICP_GICP)
@@ -478,8 +478,6 @@
       - [NDT Normal Distributions Transform](aiwiki/0295_3D_Algos_Registration_NDT)
       - [PPF 粗配准](aiwiki/0085_3D_Algos_Registration_PPF)
       - [SAC-IA](aiwiki/0300_3D_Algos_Registration_SACIA)
-  - [3D Reconstruction 3D重建](aiwiki/0305_3D_Reconstruction)
-    - [KinectFusion](aiwiki/0306_3D_Reconstruction_KinectFusion)
   - [DL](aiwiki/0233_3D_DL)
   - [3D Tools](aiwiki/0419_3D_Tools)
     - [Point Cloud Library](aiwiki/0077_3D_Tools_PCL)
@@ -780,11 +778,10 @@
       - [distanceTransform 处理区域粘连](aiwiki/0346_OpenCV_IP_misc_distanceTransform)
     - shape
       - [Contours 轮廓](aiwiki/0343_OpenCV_IP_shape_Contours)
+  - [Core functionality 核心功能函数](aiwiki/0425_OpenCV_Core)
+    - [absdiff 检测物体运动](aiwiki/0353_OpenCV_Core_absdiff)
   - [Brisk  特征点匹配](aiwiki/0348_OpenCV_Brisk)
   - [CLAHE](aiwiki/0341_OpenCV_CLAHE)
-  - core
-    - arrays
-      - [absdiff](aiwiki/0353_OpenCV_core_arrays_absdiff)
   - [数据结构](aiwiki/0364_OpenCV_data)
   - [js](aiwiki/0339_OpenCV_js)
 - [AI 热点](aiwiki/0375_Hot)
@@ -809,7 +806,7 @@
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
 
-<kbd><sub>@1942540617</sub></kbd>
+<kbd><sub>@0003540618</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
