@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			disableDarkMode()
 	})
 	
-	if (localStorage.darkLight == 'dark' || 'light')
+	if (localStorage.darkLight == 'dark' )
 		enableDarkMode()
 	
 })
