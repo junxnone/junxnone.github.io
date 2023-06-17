@@ -766,6 +766,7 @@
 - 2018-09-06        [Hypervisor Docker Compose](xwiki/0047_Hypervisor_Docker_Compose)
 - 2018-09-03        [Programing Python time](xwiki/0096_Programing_Python_time)
 - 2018-09-03        [Math SVD](aiwiki/0297_Math_SVD)
+- 2018-09-02        [Programing Python Argparse](xwiki/0258_Programing_Python_Argparse)
 - 2018-09-02        [Build Cmake](xwiki/0053_Build_Cmake)
 - 2018-08-29        [Datasets Image2D Classification Cifar](aiwiki/0032_Datasets_Image2D_Classification_Cifar)
 - 2018-08-26        [Tools OV](aiwiki/0185_Tools_OV)
@@ -773,4 +774,4 @@
 
 
 
-> `@2023.06.17 15:13:29`
+> `@2023.06.17 16:18:26`
