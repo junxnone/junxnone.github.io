@@ -1,3 +1,4 @@
+- 2023-06-17        [ML Tasks Image](aiwiki/0420_ML_Tasks_Image)
 - 2023-06-16        [x](aiwiki/0418_x)
 - 2023-06-16        [Ubuntu](linux/0120_Ubuntu)
 - 2023-06-16        [Tools](xwiki/0257_Tools)
@@ -28,7 +29,7 @@
 - 2023-06-02        [Programing CPP Policy](xwiki/0249_Programing_CPP_Policy)
 - 2023-06-02        [Hot LM Tuning LoRA](aiwiki/0406_Hot_LM_Tuning_LoRA)
 - 2023-06-02        [Hot LM Tuning DreamBooth](aiwiki/0405_Hot_LM_Tuning_DreamBooth)
-- 2023-06-02        [Doc  reStructuredText](xwiki/0246_Doc__reStructuredText)
+- 2023-06-02        [Doc reStructuredText](xwiki/0246_Doc_reStructuredText)
 - 2023-05-31        [Hot LaMa](aiwiki/0404_Hot_LaMa)
 - 2023-05-30        [x DefectGen](aiwiki/0403_x_DefectGen)
 - 2023-05-25        [OPT Tools Vtune iGPU](xwiki/0245_OPT_Tools_Vtune_iGPU)
@@ -774,4 +775,4 @@
 
 
 
-> `@2023.06.17 19:13:03`
+> `@2023.06.17 19:33:42`
