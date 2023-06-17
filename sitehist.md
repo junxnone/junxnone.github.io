@@ -1,3 +1,4 @@
+- 2023-06-17        [Tools Github](xwiki/0259_Tools_Github)
 - 2023-06-17        [ML Tasks Image](aiwiki/0420_ML_Tasks_Image)
 - 2023-06-16        [x](aiwiki/0418_x)
 - 2023-06-16        [Ubuntu](linux/0120_Ubuntu)
@@ -52,7 +53,7 @@
 - 2023-03-24        [Windows batch](xwiki/0230_Windows_batch)
 - 2023-03-24        [Tools OS write](linux/0116_Tools_OS_write)
 - 2023-03-24        [Tools OS wall](linux/0115_Tools_OS_wall)
-- 2023-03-23        [Build Cmake commands option](xwiki/0228_Build_Cmake_commands_option)
+- 2023-03-23        [Build Cmake CMD option](xwiki/0228_Build_Cmake_CMD_option)
 - 2023-03-21        [Tools Git Patch](xwiki/0226_Tools_Git_Patch)
 - 2023-03-21        [Programing Compiler LLVM](xwiki/0227_Programing_Compiler_LLVM)
 - 2023-03-20        [Ubuntu SetDefaultKernel](linux/0114_Ubuntu_SetDefaultKernel)
@@ -775,4 +776,4 @@
 
 
 
-> `@2023.06.17 22:12:58`
+> `@2023.06.17 23:14:57`

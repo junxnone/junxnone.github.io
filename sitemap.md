@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.17 22:12:57`
+> `@2023.06.17 23:14:57`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -193,6 +193,7 @@
   - [Cmake](xwiki/0053_Build_Cmake)
     - [Install](xwiki/0054_Build_Cmake_Install)
     - [命令行](xwiki/0151_Build_Cmake_CMD)
+      - [使用 option 添加编译选项](xwiki/0228_Build_Cmake_CMD_option)
     - [UseCase](xwiki/0060_Build_Cmake_UseCase)
     - [变量](xwiki/0056_Build_Cmake_VAR)
     - [Debug](xwiki/0057_Build_Cmake_Debug)
@@ -201,8 +202,6 @@
     - [Generators](xwiki/0156_Build_Cmake_Generators)
     - [Platforms](xwiki/0058_Build_Cmake_Platforms)
     - [cpack](xwiki/0062_Build_Cmake_cpack)
-    - commands
-      - [option](xwiki/0228_Build_Cmake_commands_option)
     - [语法](xwiki/0055_Build_Cmake_语法)
   - [Make](xwiki/0063_Build_Make)
   - [pk-config](xwiki/0064_Build_pkgconfig)
@@ -292,7 +291,7 @@
     - [archive](xwiki/0118_Tools_Git_archive)
     - [precommit](xwiki/0117_Tools_Git_precommit)
   - [Conda](xwiki/0073_Tools_Conda)
-  - Github
+  - [Github](xwiki/0259_Tools_Github)
     - [ChromeExtensions](xwiki/0124_Tools_Github_ChromeExtensions)
       - [Sourcegraph](xwiki/0125_Tools_Github_ChromeExtensions_Sourcegraph)
     - [比较 branch/commit](xwiki/0236_Tools_Github_Compare)
@@ -306,7 +305,7 @@
       - [docsify](xwiki/0130_Tools_Github_Pages_docsify)
       - [jekyll](xwiki/0129_Tools_Github_Pages_jekyll)
     - [Token](xwiki/0123_Tools_Github_Token)
-    - [actions](xwiki/0122_Tools_Github_actions)
+    - [Github Actions](xwiki/0122_Tools_Github_actions)
     - [backup](xwiki/0121_Tools_Github_backup)
   - [Compiler Explorer](xwiki/0253_Tools_CompilerExplorer)
   - [Gitlab](xwiki/0133_Tools_Gitlab)
@@ -385,7 +384,7 @@
 - x
   - [API Vs ABI](xwiki/0252_x_APIvsABI)
 
-<kbd><sub>@2200440617</sub></kbd>
+<kbd><sub>@2310500617</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
