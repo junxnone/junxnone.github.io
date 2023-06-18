@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.19 01:13:54`
+> `@2023.06.19 01:18:59`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -384,7 +384,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1606520618</sub></kbd>
+<kbd><sub>@0113220619</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -804,7 +804,7 @@
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
 
-<kbd><sub>@1613010618</sub></kbd>
+<kbd><sub>@0113330619</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
