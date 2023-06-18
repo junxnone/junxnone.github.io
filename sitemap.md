@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.18 11:19:58`
+> `@2023.06.18 12:18:26`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -298,6 +298,7 @@
     - [Github Pages](xwiki/0126_Tools_Github_Pages)
       - [BaiduMap](xwiki/0132_Tools_Github_Pages_BaiduMap)
         - [部署到 Gitee](xwiki/0172_Tools_Github_Pages_BaiduMap_Issues)
+      - [Debug Github Pages](xwiki/0266_Tools_Github_Pages_Debug)
       - [Geojson Map](xwiki/0177_Tools_Github_Pages_GeojsonMap)
       - [Markline Timeline](xwiki/0131_Tools_Github_Pages_Markline)
       - [Mirror](xwiki/0128_Tools_Github_Pages_Mirror)
@@ -383,7 +384,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@2324190617</sub></kbd>
+<kbd><sub>@1125470618</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
