@@ -1,4 +1,7 @@
+- 2023-06-24        [Doc Tools](xwiki/0271_Doc_Tools)
 - 2023-06-24        [Doc Tools pandoc](xwiki/0268_Doc_Tools_pandoc)
+- 2023-06-24        [Doc Tools pandoc md2pdf](xwiki/0269_Doc_Tools_pandoc_md2pdf)
+- 2023-06-24        [Doc Tools pandoc extractmedia](xwiki/0270_Doc_Tools_pandoc_extractmedia)
 - 2023-06-19        [Tools Github forkfork](xwiki/0267_Tools_Github_forkfork)
 - 2023-06-18        [Tools Github Pages Debug](xwiki/0266_Tools_Github_Pages_Debug)
 - 2023-06-17        [X](xwiki/0263_X)
@@ -795,4 +798,4 @@
 
 
 
-> `@2023.06.24 13:16:51`
+> `@2023.06.24 14:22:56`
