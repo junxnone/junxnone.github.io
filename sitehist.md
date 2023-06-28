@@ -159,7 +159,7 @@
 - 2022-08-25        [Hypervisor Docker Issues](xwiki/0149_Hypervisor_Docker_Issues)
 - 2022-08-23        [Tools Networks](linux/0060_Tools_Networks)
 - 2022-08-23        [Tools Media ffmpeg](linux/0002_Tools_Media_ffmpeg)
-- 2022-08-17        [Linux IncreaseSwap](linux/0083_Linux_IncreaseSwap)
+- 2022-08-17        [Ubuntu IncreaseSwap](linux/0083_Ubuntu_IncreaseSwap)
 - 2022-07-16        [Tools TF Datasets](aiwiki/0313_Tools_TF_Datasets)
 - 2022-07-11        [X Base64](xwiki/0208_X_Base64)
 - 2022-07-04        [OpenCV Core absdiff](aiwiki/0353_OpenCV_Core_absdiff)
@@ -801,4 +801,4 @@
 
 
 
-> `@2023.06.28 14:24:05`
+> `@2023.06.28 15:16:57`

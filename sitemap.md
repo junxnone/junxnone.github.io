@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.28 14:24:04`
+> `@2023.06.28 15:16:57`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -10,7 +10,6 @@
     - [Semaphore](linux/0088_Linux_IPC_Semaphore)
     - [Tools](linux/0087_Linux_IPC_SharedMemory)
   - [Unix History](linux/0113_Linux_History)
-  - [增加 Swap 分区](linux/0083_Linux_IncreaseSwap)
   - [Linux Kernel](linux/0013_Linux_Kernel)
   - [POSIX VS SystemV](linux/0082_Linux_POSIX与SystemV)
 - [Linux Tools](linux/0059_Tools)
@@ -102,6 +101,7 @@
     - [aria2](linux/0091_Ubuntu_Download_aria2)
     - [magnetW 磁力下载工具](linux/0055_Ubuntu_Download_magnetW)
   - [忘记密码](linux/0093_Ubuntu_ForgetPassword)
+  - [增加 Swap 分区](linux/0083_Ubuntu_IncreaseSwap)
   - [Server Install Desktop](linux/0094_Ubuntu_InstallDesktop)
   - [Ubuntu Install Steam](linux/0063_Ubuntu_InstallSteam)
   - [Ubuntu Issues](linux/0121_Ubuntu_Issues)
@@ -123,7 +123,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1614440627</sub></kbd>
+<kbd><sub>@1446030628</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
