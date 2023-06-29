@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.06.29 18:19:08`
+> `@2023.06.29 19:14:25`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -793,6 +793,7 @@
 - [AI 热点](aiwiki/0375_Hot)
   - [AIGC](aiwiki/0374_Hot_AIGC)
     - [ChatGPT](aiwiki/0373_Hot_AIGC_ChatGPT)
+  - [DragGAN](aiwiki/0429_Hot_DragGAN)
   - [Imagen](aiwiki/0413_Hot_Imagen)
   - [大模型](aiwiki/0408_Hot_LM)
     - [大模型微调](aiwiki/0410_Hot_LM_Tuning)
@@ -813,7 +814,7 @@
   - [Cool Demo](aiwiki/0409_x_Demo)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@1616140629</sub></kbd>
+<kbd><sub>@1832350629</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
