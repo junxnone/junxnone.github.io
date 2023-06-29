@@ -1,3 +1,4 @@
+- 2023-06-29        [应用](aiwiki/0428_应用)
 - 2023-06-26        [Tools Git Rebase](xwiki/0274_Tools_Git_Rebase)
 - 2023-06-24        [Doc Tools](xwiki/0271_Doc_Tools)
 - 2023-06-24        [Doc Tools pandoc](xwiki/0268_Doc_Tools_pandoc)
@@ -801,4 +802,4 @@
 
 
 
-> `@2023.06.29 09:45:06`
+> `@2023.06.29 10:55:54`
