@@ -17,10 +17,10 @@
 <!-- ko-fi :id=junxnone.github.io/#/menu :color=#1599d6 -->
     其他
 <!-- ko-fi -->
-<!-- ko-fi :id=junxnone.github.io/kg :color=#1599d6 -->
+<!-- ko-fi :id=junxnone.github.io/jstools/3dkg/?json=https://junxnone.github.io/kg.json :color=#1599d6 -->
     3D Knowledge Graph
 <!-- ko-fi -->
-<!-- ko-fi :id=junxnone.github.io/xwiki/markmap.html?md=https://junxnone.github.io/sitemap.md :color=#1599d6 -->
+<!-- ko-fi :id=junxnone.github.io/jstools/mdmarkmap/?md=https://junxnone.github.io/sitemap :color=#1599d6 -->
     Site Map
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/#/sitehist :color=#1599d6 -->
