@@ -29,5 +29,8 @@
   - [🚅](https://junxnone.github.io/at/)
   - [Graph Mermaid](https://mermaid-js.github.io/mermaid-live-editor)
   - [Geojson Map](https://junxnone.github.io/ge/)
+  - [issue2timeline](https://github.com/junxnone/tl)
+  - [3d Knowledge Graph](https://junxnone.github.io/jstools/3dkg/?json=https://junxnone.github.io/kg.json)
+  - [Mind Map](https://junxnone.github.io/jstools/mdmarkmap/?md=https://junxnone.github.io/sitemap)
 - <kbd>🎮</kbd>
   - [Cube](https://junxnone.github.io/cube)
