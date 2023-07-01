@@ -54,6 +54,10 @@
 <!-- ko-fi :id=junxnone.github.io/jh :color=#1599d6 -->
     婚
 <!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/i :color=#1599d6 -->
+    Ideas
+<!-- ko-fi -->
+
 
 # 模板
 
