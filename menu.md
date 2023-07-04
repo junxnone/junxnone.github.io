@@ -57,7 +57,9 @@
 <!-- ko-fi :id=junxnone.github.io/i :color=#1599d6 -->
     Ideas
 <!-- ko-fi -->
-
+<!-- ko-fi :id=junxnone.github.io/tmdkg :color=#1599d6 -->
+    3D KG
+<!-- ko-fi -->
 
 # 模板
 
