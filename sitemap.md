@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.07.04 11:00:27`
+> `@2023.07.04 12:22:30`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -186,6 +186,7 @@
     - [Function](xwiki/0110_Programing_Socket_Function)
   - [数据库 Database](xwiki/0254_Programing_database)
     - [InfluxDB](xwiki/0255_Programing_database_InfluxDB)
+  - [JavaScript](xwiki/0276_Programing_js)
   - [Regex 正则表达式](xwiki/0206_Programing_regex)
   - [Test](xwiki/0231_Programing_test)
     - [googletest](xwiki/0232_Programing_test_googletest)
@@ -393,7 +394,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1608490703</sub></kbd>
+<kbd><sub>@1128530704</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
