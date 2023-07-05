@@ -51,7 +51,7 @@
 ![](https://img.shields.io/badge/%DB%A9-EmbeddingOS-lightgrey)  
 
 
-[markmap show](https://junxnone.github.io/onepage/markmap.html?md=https://junxnone.github.io/skills.md ':include :type=iframe width=50% height=800px')
+[markmap show](https://junxnone.github.io/jstools/markmap/?md=https://junxnone.github.io/skills.md ':include :type=iframe width=50% height=800px')
 
 
 
