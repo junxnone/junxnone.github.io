@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.07.05 22:17:52`
+> `@2023.07.05 23:19:42`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -281,7 +281,7 @@
     - [UseLocalPackage](xwiki/0068_Tools_Jupyter_UseLocalPackage)
   - [Git](xwiki/0111_Tools_Git)
     - [Git Configs](xwiki/0112_Tools_Git_config)
-    - [branch](xwiki/0115_Tools_Git_branch)
+    - [Git Branch](xwiki/0115_Tools_Git_branch)
     - [tag](xwiki/0116_Tools_Git_tag)
     - [submodule](xwiki/0114_Tools_Git_submodule)
     - [Proxy Setup](xwiki/0113_Tools_Git_proxy)
@@ -291,6 +291,7 @@
     - [Git Patch 生成与使用](xwiki/0226_Tools_Git_Patch)
     - [Git Rebase](xwiki/0274_Tools_Git_Rebase)
     - [archive](xwiki/0118_Tools_Git_archive)
+    - [Git diff](xwiki/0277_Tools_Git_diff)
     - [precommit](xwiki/0117_Tools_Git_precommit)
   - [Conda](xwiki/0073_Tools_Conda)
   - [Github](xwiki/0259_Tools_Github)
@@ -394,7 +395,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1609270705</sub></kbd>
+<kbd><sub>@2258420705</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
