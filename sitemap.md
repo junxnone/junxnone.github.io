@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.07.09 22:14:35`
+> `@2023.07.09 23:17:00`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -384,6 +384,7 @@
   - [PECOFF](xwiki/0152_X_PECOFF)
   - [表格识别工具](xwiki/0240_X_SheetOCRTools)
   - [VCS 版本控制系统](xwiki/0275_X_VCS)
+  - [变量命名法则](xwiki/0278_X_Var)
   - [版本号定义](xwiki/0146_X_Version)
   - [Word Cloud  - 词云生成](xwiki/0233_X_WordCloud)
   - [iso3dfd](xwiki/0209_X_iso3dfd)
@@ -395,7 +396,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@2212380709</sub></kbd>
+<kbd><sub>@2238050709</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)

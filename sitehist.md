@@ -1,3 +1,4 @@
+- 2023-07-09        [X Var](xwiki/0278_X_Var)
 - 2023-07-05        [Tools Git diff](xwiki/0277_Tools_Git_diff)
 - 2023-07-04        [Programing js](xwiki/0276_Programing_js)
 - 2023-06-30        [X VCS](xwiki/0275_X_VCS)
@@ -806,4 +807,4 @@
 
 
 
-> `@2023.07.09 22:14:36`
+> `@2023.07.09 23:17:01`
