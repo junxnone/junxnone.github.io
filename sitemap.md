@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.07.14 16:22:03`
+> `@2023.07.14 17:17:35`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -355,6 +355,7 @@
     - [Cache](xwiki/0016_Hardware_Memory_Cache)
   - [NUMA](xwiki/0158_Hardware_NUMA)
   - [PMU](xwiki/0243_Hardware_PMU)
+  - [Precision](xwiki/0281_Hardware_Precision)
   - [SIMD - Single Instruction Multiple Data](xwiki/0007_Hardware_SIMD)
     - [AVX](xwiki/0009_Hardware_SIMD_AVX)
       - [CodeCompile](xwiki/0150_Hardware_SIMD_AVX_CodeCompile)
@@ -398,7 +399,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1608540714</sub></kbd>
+<kbd><sub>@1646210714</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
