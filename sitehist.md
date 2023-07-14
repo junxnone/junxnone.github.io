@@ -1,5 +1,4 @@
 - 2023-07-13        [Hardware GPU Metrics](xwiki/0280_Hardware_GPU_Metrics)
-- 2023-07-13        [Hardware GPU FLOPS](xwiki/0280_Hardware_GPU_FLOPS)
 - 2023-07-12        [Windows CallLib](xwiki/0279_Windows_CallLib)
 - 2023-07-09        [X Var](xwiki/0278_X_Var)
 - 2023-07-05        [Tools Git diff](xwiki/0277_Tools_Git_diff)
@@ -810,4 +809,4 @@
 
 
 
-> `@2023.07.14 11:30:28`
+> `@2023.07.14 12:21:37`
