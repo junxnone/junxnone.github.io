@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.07.18 16:21:25`
+> `@2023.07.18 17:16:36`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -396,10 +396,11 @@
   - [Windows 查看调用的Lib](xwiki/0279_Windows_CallLib)
   - [Windows Issues](xwiki/0265_Windows_Issues)
     - [Windows 命令行执行命令时卡住](xwiki/0234_Windows_Issues_CommandLineHang)
+  - [Win11 关闭右键菜单折叠](xwiki/0282_Windows_W11collapse)
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1608480718</sub></kbd>
+<kbd><sub>@1625460718</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)

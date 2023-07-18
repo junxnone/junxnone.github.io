@@ -1,3 +1,4 @@
+- 2023-07-18        [Windows W11collapse](xwiki/0282_Windows_W11collapse)
 - 2023-07-14        [Hardware Precision](xwiki/0281_Hardware_Precision)
 - 2023-07-13        [Hardware GPU Metrics](xwiki/0280_Hardware_GPU_Metrics)
 - 2023-07-12        [Windows CallLib](xwiki/0279_Windows_CallLib)
@@ -810,4 +811,4 @@
 
 
 
-> `@2023.07.18 16:21:26`
+> `@2023.07.18 17:16:37`
