@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.07.24 22:15:26`
+> `@2023.07.24 23:17:05`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -240,6 +240,7 @@
       - [Level Zero](xwiki/0037_OPT_LIB_OneAPI_LevelZero)
       - [OneAPI iGPU](xwiki/0210_OPT_LIB_OneAPI_iGPU)
       - [Intel OneAPI oneDPL](xwiki/0075_OPT_LIB_OneAPI_oneDPL)
+    - [Highway](xwiki/0284_OPT_LIB_highway)
   - [性能优化工具](xwiki/0261_OPT_Tools)
     - [Intel Advisor](xwiki/0217_OPT_Tools_Advisor)
     - [Intel Vtune](xwiki/0019_OPT_Tools_Vtune)
@@ -401,7 +402,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1608300724</sub></kbd>
+<kbd><sub>@2235400724</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
