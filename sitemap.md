@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.07.25 17:16:19`
+> `@2023.07.25 18:17:57`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -363,6 +363,7 @@
       - [CodeCompile](xwiki/0150_Hardware_SIMD_AVX_CodeCompile)
     - [原理](xwiki/0008_Hardware_SIMD_原理)
 - [文档文本](xwiki/0191_Doc)
+  - [FlameGraph](xwiki/0285_Doc_FlameGraph)
   - [Markdown](xwiki/0135_Doc_Markdown)
     - [GithubEmoji](xwiki/0160_Doc_Markdown_GithubEmoji)
     - [图像](xwiki/0139_Doc_Markdown_Image)
@@ -402,7 +403,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1608200725</sub></kbd>
+<kbd><sub>@1751210725</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
