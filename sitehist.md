@@ -1,3 +1,4 @@
+- 2023-07-26        [OPT PARA SIMD](xwiki/0286_OPT_PARA_SIMD)
 - 2023-07-25        [Doc FlameGraph](xwiki/0285_Doc_FlameGraph)
 - 2023-07-24        [OPT LIB highway](xwiki/0284_OPT_LIB_highway)
 - 2023-07-20        [OPT Tools Vtune DebugAPI](xwiki/0283_OPT_Tools_Vtune_DebugAPI)
@@ -814,4 +815,4 @@
 
 
 
-> `@2023.07.26 14:20:00`
+> `@2023.07.26 15:13:45`
