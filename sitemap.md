@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.08.01 21:19:16`
+> `@2023.08.01 22:14:22`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -405,7 +405,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1746090801</sub></kbd>
+<kbd><sub>@2211110801</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -801,6 +801,7 @@
     - [absdiff 检测物体运动](aiwiki/0353_OpenCV_Core_absdiff)
   - [Brisk  特征点匹配](aiwiki/0348_OpenCV_Brisk)
   - [CLAHE](aiwiki/0341_OpenCV_CLAHE)
+  - [OpenCV With IPP](aiwiki/0430_OpenCV_IPP)
   - [数据结构](aiwiki/0364_OpenCV_data)
   - [js](aiwiki/0339_OpenCV_js)
 - [AI 热点](aiwiki/0375_Hot)
@@ -827,7 +828,7 @@
   - [Cool Demo](aiwiki/0409_x_Demo)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@1614250801</sub></kbd>
+<kbd><sub>@2210090801</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
