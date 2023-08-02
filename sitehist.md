@@ -1,3 +1,4 @@
+- 2023-08-02        [OpenCV PerfTest](aiwiki/0431_OpenCV_PerfTest)
 - 2023-08-01        [OpenCV IPP](aiwiki/0430_OpenCV_IPP)
 - 2023-07-29        [Programing CPP Tools](xwiki/0287_Programing_CPP_Tools)
 - 2023-07-26        [OPT PARA SIMD](xwiki/0286_OPT_PARA_SIMD)
@@ -817,4 +818,4 @@
 
 
 
-> `@2023.08.02 21:19:05`
+> `@2023.08.02 22:14:14`
