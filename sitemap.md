@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.08.03 21:18:50`
+> `@2023.08.03 22:14:30`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -792,6 +792,7 @@
         - [Bilateral Filtering for Gray and Color Images](aiwiki/0318_OpenCV_IP_Filter_bilateralFilter_BF)
       - [boxFilter](aiwiki/0319_OpenCV_IP_Filter_boxFilter)
       - [膨胀腐蚀](aiwiki/0344_OpenCV_IP_Filter_morphology)
+    - [OpenCV MatchTemplate 模板匹配](aiwiki/0433_OpenCV_IP_MatchTemplate)
     - misc
       - [OpenCV 二值化](aiwiki/0330_OpenCV_IP_misc_BIN)
       - [distanceTransform 处理区域粘连](aiwiki/0346_OpenCV_IP_misc_distanceTransform)
@@ -830,7 +831,7 @@
   - [Cool Demo](aiwiki/0409_x_Demo)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@1613460803</sub></kbd>
+<kbd><sub>@2148540803</sub></kbd>
 ## Jupyter Notebooks Samples
 
 

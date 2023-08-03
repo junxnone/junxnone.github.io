@@ -690,6 +690,7 @@
 - 2019-03-25        [Tools Git branch](xwiki/0115_Tools_Git_branch)
 - 2019-03-21        [Media Video](aiwiki/0036_Media_Video)
 - 2019-03-18        [ML AutoML HPO GridSearch](aiwiki/0205_ML_AutoML_HPO_GridSearch)
+- 2019-03-16        [OpenCV IP MatchTemplate](aiwiki/0433_OpenCV_IP_MatchTemplate)
 - 2019-03-14        [Tools ReadPapers](aiwiki/0072_Tools_ReadPapers)
 - 2019-03-14        [ML Arch Func LossFunction FocalLoss](aiwiki/0284_ML_Arch_Func_LossFunction_FocalLoss)
 - 2019-03-13        [ML Op AF](aiwiki/0279_ML_Op_AF)
@@ -819,4 +820,4 @@
 
 
 
-> `@2023.08.03 21:18:51`
+> `@2023.08.03 22:14:31`
