@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.08.03 22:14:30`
+> `@2023.08.03 23:16:24`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -831,7 +831,7 @@
   - [Cool Demo](aiwiki/0409_x_Demo)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@2148540803</sub></kbd>
+<kbd><sub>@2231480803</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
