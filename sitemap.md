@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.08.10 00:23:15`
+> `@2023.08.10 01:14:25`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -802,6 +802,7 @@
     - [absdiff 检测物体运动](aiwiki/0353_OpenCV_Core_absdiff)
   - [Brisk  特征点匹配](aiwiki/0348_OpenCV_Brisk)
   - [CLAHE](aiwiki/0341_OpenCV_CLAHE)
+  - [Debug OpenCV](aiwiki/0434_OpenCV_Debug)
   - [OpenCV With IPP](aiwiki/0430_OpenCV_IPP)
   - [OpenCV with OpenCL](aiwiki/0432_OpenCV_OpenCL)
   - [OpenCV Performance Test](aiwiki/0431_OpenCV_PerfTest)
@@ -831,7 +832,7 @@
   - [Cool Demo](aiwiki/0409_x_Demo)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@1615250809</sub></kbd>
+<kbd><sub>@0026130810</sub></kbd>
 ## Jupyter Notebooks Samples
 
 

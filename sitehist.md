@@ -1,3 +1,4 @@
+- 2023-08-09        [OpenCV Debug](aiwiki/0434_OpenCV_Debug)
 - 2023-08-02        [OpenCV PerfTest](aiwiki/0431_OpenCV_PerfTest)
 - 2023-08-02        [OpenCV OpenCL](aiwiki/0432_OpenCV_OpenCL)
 - 2023-08-01        [OpenCV IPP](aiwiki/0430_OpenCV_IPP)
@@ -820,4 +821,4 @@
 
 
 
-> `@2023.08.10 00:23:16`
+> `@2023.08.10 01:14:26`
