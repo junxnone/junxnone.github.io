@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.08.10 22:15:18`
+> `@2023.08.10 23:17:15`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -803,9 +803,11 @@
   - [Brisk  特征点匹配](aiwiki/0348_OpenCV_Brisk)
   - [CLAHE](aiwiki/0341_OpenCV_CLAHE)
   - [Debug OpenCV](aiwiki/0434_OpenCV_Debug)
+  - [HAL - Universal Intrinsics](aiwiki/0435_OpenCV_HAL)
   - [OpenCV With IPP](aiwiki/0430_OpenCV_IPP)
   - [OpenCV with OpenCL](aiwiki/0432_OpenCV_OpenCL)
   - [OpenCV Performance Test](aiwiki/0431_OpenCV_PerfTest)
+  - [TAPI - Transparent API](aiwiki/0436_OpenCV_TAPI)
   - [数据结构](aiwiki/0364_OpenCV_data)
   - [js](aiwiki/0339_OpenCV_js)
 - [AI 热点](aiwiki/0375_Hot)
@@ -832,7 +834,7 @@
   - [Cool Demo](aiwiki/0409_x_Demo)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@1614590810</sub></kbd>
+<kbd><sub>@2259270810</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
