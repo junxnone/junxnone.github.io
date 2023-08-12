@@ -1,3 +1,4 @@
+- 2023-08-12        [OpenCV GAPI](aiwiki/0439_OpenCV_GAPI)
 - 2023-08-10        [OpenCV TAPI](aiwiki/0436_OpenCV_TAPI)
 - 2023-08-10        [OpenCV ParallelFor](aiwiki/0437_OpenCV_ParallelFor)
 - 2023-08-10        [OpenCV HAL](aiwiki/0435_OpenCV_HAL)
@@ -825,4 +826,4 @@
 
 
 
-> `@2023.08.12 15:12:34`
+> `@2023.08.12 16:17:15`
