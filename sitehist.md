@@ -1,3 +1,4 @@
+- 2023-08-28        [Hardware CPU History](xwiki/0289_Hardware_CPU_History)
 - 2023-08-18        [Build Cmake if](xwiki/0288_Build_Cmake_if)
 - 2023-08-12        [OpenCV GAPI](aiwiki/0439_OpenCV_GAPI)
 - 2023-08-10        [OpenCV TAPI](aiwiki/0436_OpenCV_TAPI)
@@ -827,4 +828,4 @@
 
 
 
-> `@2023.08.28 22:13:16`
+> `@2023.08.28 23:16:20`

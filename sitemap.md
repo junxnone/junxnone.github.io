@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.08.28 22:13:15`
+> `@2023.08.28 23:16:12`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -342,6 +342,7 @@
 - [硬件](xwiki/0001_Hardware)
   - [CPU](xwiki/0002_Hardware_CPU)
     - [Branch Prediction](xwiki/0219_Hardware_CPU_BP)
+    - [CPU History](xwiki/0289_Hardware_CPU_History)
     - [Intel](xwiki/0003_Hardware_CPU_Intel)
       - [P-Core & E-Core](xwiki/0215_Hardware_CPU_Intel_PECore)
   - [GPU](xwiki/0218_Hardware_GPU)
@@ -406,7 +407,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1608280828</sub></kbd>
+<kbd><sub>@2229370828</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
