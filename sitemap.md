@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.08.29 21:19:23`
+> `@2023.08.29 22:14:03`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -192,11 +192,11 @@
   - [Test](xwiki/0231_Programing_test)
     - [googletest](xwiki/0232_Programing_test_googletest)
 - [构建工具](xwiki/0190_Build)
-  - [Cmake](xwiki/0053_Build_Cmake)
+  - [CMake](xwiki/0053_Build_Cmake)
     - [Install](xwiki/0054_Build_Cmake_Install)
     - [命令行](xwiki/0151_Build_Cmake_CMD)
       - [使用 option 添加编译选项](xwiki/0228_Build_Cmake_CMD_option)
-    - [UseCase](xwiki/0060_Build_Cmake_UseCase)
+    - [CMake UseCase](xwiki/0060_Build_Cmake_UseCase)
     - [变量](xwiki/0056_Build_Cmake_VAR)
     - [Debug](xwiki/0057_Build_Cmake_Debug)
     - [设置安装相关](xwiki/0059_Build_Cmake_InstallFiles)
@@ -407,7 +407,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1608250829</sub></kbd>
+<kbd><sub>@2138250829</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
