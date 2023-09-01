@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.09.01 18:16:32`
+> `@2023.09.01 19:12:31`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -235,6 +235,7 @@
     - [OpenMPI](xwiki/0043_OPT_PARA_OpenMPI)
     - [Parallel Patterns](xwiki/0221_OPT_PARA_Patterns)
     - [SIMD](xwiki/0286_OPT_PARA_SIMD)
+    - [并行计算理论](xwiki/0290_OPT_PARA_Theory)
   - [绑定 Socket & Core](xwiki/0033_OPT_BindSocketCore)
   - [性能优化库](xwiki/0195_OPT_LIB)
     - [IPP Intel Integrated Performance Primitives](xwiki/0032_OPT_LIB_IPP)
@@ -407,7 +408,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1608210901</sub></kbd>
+<kbd><sub>@1826280901</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)

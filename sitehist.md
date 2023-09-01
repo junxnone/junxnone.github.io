@@ -1,3 +1,4 @@
+- 2023-09-01        [OPT PARA Theory](xwiki/0290_OPT_PARA_Theory)
 - 2023-08-28        [Hardware CPU History](xwiki/0289_Hardware_CPU_History)
 - 2023-08-18        [Build Cmake if](xwiki/0288_Build_Cmake_if)
 - 2023-08-12        [OpenCV GAPI](aiwiki/0439_OpenCV_GAPI)
@@ -828,4 +829,4 @@
 
 
 
-> `@2023.09.01 18:16:32`
+> `@2023.09.01 19:12:31`
