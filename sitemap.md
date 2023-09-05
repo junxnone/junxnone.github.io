@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.09.05 15:14:02`
+> `@2023.09.05 16:19:55`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -85,6 +85,7 @@
   - [ctags](linux/0003_Tools_ctags)
   - [date - 时间管理工具](linux/0024_Tools_date)
   - [history 命令行历史管理](linux/0049_Tools_history)
+  - [ldd](linux/0124_Tools_ldd)
   - [网络工具 nmap](linux/0062_Tools_nmap)
   - [script 记录终端执行命令历史](linux/0006_Tools_script)
   - [shuf 随机选取工具](linux/0028_Tools_shuf)
@@ -123,7 +124,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1613230904</sub></kbd>
+<kbd><sub>@1613170905</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -841,7 +842,7 @@
   - [Cool Demo](aiwiki/0409_x_Demo)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@1614590904</sub></kbd>
+<kbd><sub>@1614420905</sub></kbd>
 ## Jupyter Notebooks Samples
 
 

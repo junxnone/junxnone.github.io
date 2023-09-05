@@ -1,3 +1,4 @@
+- 2023-09-04        [Tools ldd](linux/0124_Tools_ldd)
 - 2023-09-01        [OPT Tools Linux](xwiki/0291_OPT_Tools_Linux)
 - 2023-09-01        [OPT PARA Theory](xwiki/0290_OPT_PARA_Theory)
 - 2023-08-28        [Hardware CPU History](xwiki/0289_Hardware_CPU_History)
@@ -830,4 +831,4 @@
 
 
 
-> `@2023.09.05 15:14:02`
+> `@2023.09.05 16:20:01`
