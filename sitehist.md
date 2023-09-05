@@ -818,6 +818,7 @@
 - 2018-09-25        [Tools Jupyter](xwiki/0163_Tools_Jupyter)
 - 2018-09-25        [OpenCV CLAHE](aiwiki/0341_OpenCV_CLAHE)
 - 2018-09-12        [ML PreP DataNorm](aiwiki/0251_ML_PreP_DataNorm)
+- 2018-09-11        [Programing Python json](xwiki/0292_Programing_Python_json)
 - 2018-09-06        [Tools Darknet](aiwiki/0260_Tools_Darknet)
 - 2018-09-06        [Hypervisor Docker](xwiki/0044_Hypervisor_Docker)
 - 2018-09-06        [Hypervisor Docker Compose](xwiki/0047_Hypervisor_Docker_Compose)
@@ -831,4 +832,4 @@
 
 
 
-> `@2023.09.05 22:14:14`
+> `@2023.09.05 23:16:13`
