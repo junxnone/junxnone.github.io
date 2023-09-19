@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.09.19 13:14:33`
+> `@2023.09.19 14:21:01`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -807,7 +807,7 @@
   - [Core functionality 核心功能函数](aiwiki/0425_OpenCV_Core)
     - [absdiff 检测物体运动](aiwiki/0353_OpenCV_Core_absdiff)
   - [Brisk  特征点匹配](aiwiki/0348_OpenCV_Brisk)
-  - [CLAHE](aiwiki/0341_OpenCV_CLAHE)
+  - [直方图均衡](aiwiki/0341_OpenCV_CLAHE)
   - [OpenCV CPU Optimizations](aiwiki/0438_OpenCV_CPUOpt)
   - [Debug OpenCV](aiwiki/0434_OpenCV_Debug)
   - [G-API - Graph API](aiwiki/0439_OpenCV_GAPI)
@@ -843,7 +843,7 @@
   - [Cool Demo](aiwiki/0409_x_Demo)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@1615100918</sub></kbd>
+<kbd><sub>@1330230919</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
