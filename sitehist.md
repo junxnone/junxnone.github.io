@@ -1,3 +1,7 @@
+- 2023-09-20        [OpenCV IP Filter medianBlur](aiwiki/0442_OpenCV_IP_Filter_medianBlur)
+- 2023-09-20        [OpenCV IP Filter blur](aiwiki/0441_OpenCV_IP_Filter_blur)
+- 2023-09-20        [OpenCV IP Filter Sobel](aiwiki/0443_OpenCV_IP_Filter_Sobel)
+- 2023-09-20        [OpenCV Core bitwisexxx](aiwiki/0444_OpenCV_Core_bitwisexxx)
 - 2023-09-20        [Hot StableDiffusion webui](aiwiki/0440_Hot_StableDiffusion_webui)
 - 2023-09-04        [Tools ldd](linux/0124_Tools_ldd)
 - 2023-09-01        [OPT Tools Linux](xwiki/0291_OPT_Tools_Linux)
@@ -833,4 +837,4 @@
 
 
 
-> `@2023.09.20 23:15:44`
+> `@2023.09.21 00:20:34`

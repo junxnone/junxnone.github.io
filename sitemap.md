@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.09.20 23:15:44`
+> `@2023.09.21 00:20:34`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -794,9 +794,12 @@
       - [Hough  Line Circle 霍夫线圆](aiwiki/0340_OpenCV_IP_Feature_Hough)
     - [Image Filtering](aiwiki/0363_OpenCV_IP_Filter)
       - [GaussianBlur](aiwiki/0320_OpenCV_IP_Filter_GaussianBlur)
+      - [用于边缘检测的线性滤波器 Sobel](aiwiki/0443_OpenCV_IP_Filter_Sobel)
       - [bilateralFilter](aiwiki/0317_OpenCV_IP_Filter_bilateralFilter)
         - [Bilateral Filtering for Gray and Color Images](aiwiki/0318_OpenCV_IP_Filter_bilateralFilter_BF)
+      - [blur 模糊处理](aiwiki/0441_OpenCV_IP_Filter_blur)
       - [boxFilter](aiwiki/0319_OpenCV_IP_Filter_boxFilter)
+      - [medianBlur 中值滤波](aiwiki/0442_OpenCV_IP_Filter_medianBlur)
       - [膨胀腐蚀](aiwiki/0344_OpenCV_IP_Filter_morphology)
     - [OpenCV MatchTemplate 模板匹配](aiwiki/0433_OpenCV_IP_MatchTemplate)
     - misc
@@ -806,6 +809,7 @@
       - [Contours 轮廓](aiwiki/0343_OpenCV_IP_shape_Contours)
   - [Core functionality 核心功能函数](aiwiki/0425_OpenCV_Core)
     - [absdiff 检测物体运动](aiwiki/0353_OpenCV_Core_absdiff)
+    - [bitwise_xxx](aiwiki/0444_OpenCV_Core_bitwisexxx)
   - [Brisk  特征点匹配](aiwiki/0348_OpenCV_Brisk)
   - [直方图均衡](aiwiki/0341_OpenCV_CLAHE)
   - [OpenCV CPU Optimizations](aiwiki/0438_OpenCV_CPUOpt)
@@ -844,7 +848,7 @@
   - [Cool Demo](aiwiki/0409_x_Demo)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@1615040920</sub></kbd>
+<kbd><sub>@2352260920</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
