@@ -1,3 +1,4 @@
+- 2023-09-20        [Hot StableDiffusion webui](aiwiki/0440_Hot_StableDiffusion_webui)
 - 2023-09-04        [Tools ldd](linux/0124_Tools_ldd)
 - 2023-09-01        [OPT Tools Linux](xwiki/0291_OPT_Tools_Linux)
 - 2023-09-01        [OPT PARA Theory](xwiki/0290_OPT_PARA_Theory)
@@ -832,4 +833,4 @@
 
 
 
-> `@2023.09.20 11:15:57`
+> `@2023.09.20 12:18:50`
