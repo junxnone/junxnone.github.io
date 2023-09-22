@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.09.22 11:15:50`
+> `@2023.09.22 12:18:19`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -795,7 +795,7 @@
     - [Image Filtering](aiwiki/0363_OpenCV_IP_Filter)
       - [GaussianBlur](aiwiki/0320_OpenCV_IP_Filter_GaussianBlur)
       - [用于边缘检测的线性滤波器 Sobel](aiwiki/0443_OpenCV_IP_Filter_Sobel)
-      - [bilateralFilter](aiwiki/0317_OpenCV_IP_Filter_bilateralFilter)
+      - [Bilateral Filter 双边滤波](aiwiki/0317_OpenCV_IP_Filter_bilateralFilter)
         - [Bilateral Filtering for Gray and Color Images](aiwiki/0318_OpenCV_IP_Filter_bilateralFilter_BF)
       - [blur 模糊处理](aiwiki/0441_OpenCV_IP_Filter_blur)
       - [boxFilter](aiwiki/0319_OpenCV_IP_Filter_boxFilter)
@@ -848,7 +848,7 @@
   - [Cool Demo](aiwiki/0409_x_Demo)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@1730500921</sub></kbd>
+<kbd><sub>@1145540922</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
