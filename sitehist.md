@@ -1,3 +1,4 @@
+- 2023-10-12        [Windows Issues cmdCannotIntoD](xwiki/0293_Windows_Issues_cmdCannotIntoD)
 - 2023-09-20        [OpenCV IP Filter medianBlur](aiwiki/0442_OpenCV_IP_Filter_medianBlur)
 - 2023-09-20        [OpenCV IP Filter blur](aiwiki/0441_OpenCV_IP_Filter_blur)
 - 2023-09-20        [OpenCV IP Filter Sobel](aiwiki/0443_OpenCV_IP_Filter_Sobel)
@@ -837,4 +838,4 @@
 
 
 
-> `@2023.10.12 09:07:33`
+> `@2023.10.12 10:20:29`
