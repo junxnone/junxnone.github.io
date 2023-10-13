@@ -1,3 +1,4 @@
+- 2023-10-13        [x Q](aiwiki/0447_x_Q)
 - 2023-10-12        [Windows Issues cmdCannotIntoD](xwiki/0293_Windows_Issues_cmdCannotIntoD)
 - 2023-10-12        [Hot StableDiffusion Algos](aiwiki/0445_Hot_StableDiffusion_Algos)
 - 2023-10-12        [Hot LLMs](aiwiki/0446_Hot_LLMs)
@@ -840,4 +841,4 @@
 
 
 
-> `@2023.10.13 14:21:55`
+> `@2023.10.13 15:15:00`
