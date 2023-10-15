@@ -1,3 +1,4 @@
+- 2023-10-15        [Programing Python Web Streamlit](xwiki/0294_Programing_Python_Web_Streamlit)
 - 2023-10-13        [x Q](aiwiki/0447_x_Q)
 - 2023-10-12        [Windows Issues cmdCannotIntoD](xwiki/0293_Windows_Issues_cmdCannotIntoD)
 - 2023-10-12        [Hot StableDiffusion Algos](aiwiki/0445_Hot_StableDiffusion_Algos)
@@ -841,4 +842,4 @@
 
 
 
-> `@2023.10.16 00:18:31`
+> `@2023.10.16 01:13:29`
