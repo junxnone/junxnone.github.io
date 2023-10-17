@@ -1,3 +1,4 @@
+- 2023-10-17        [Hot CLIP](aiwiki/0448_Hot_CLIP)
 - 2023-10-15        [Programing Python Web Streamlit](xwiki/0294_Programing_Python_Web_Streamlit)
 - 2023-10-13        [x Q](aiwiki/0447_x_Q)
 - 2023-10-12        [Windows Issues cmdCannotIntoD](xwiki/0293_Windows_Issues_cmdCannotIntoD)
@@ -842,4 +843,4 @@
 
 
 
-> `@2023.10.17 14:21:43`
+> `@2023.10.17 15:15:06`
