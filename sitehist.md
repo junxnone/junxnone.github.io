@@ -1,3 +1,4 @@
+- 2023-10-18        [Math MarkovProcess](aiwiki/0449_Math_MarkovProcess)
 - 2023-10-17        [Hot CLIP](aiwiki/0448_Hot_CLIP)
 - 2023-10-15        [Programing Python Web Streamlit](xwiki/0294_Programing_Python_Web_Streamlit)
 - 2023-10-13        [x Q](aiwiki/0447_x_Q)
@@ -843,4 +844,4 @@
 
 
 
-> `@2023.10.18 14:21:31`
+> `@2023.10.18 15:15:02`

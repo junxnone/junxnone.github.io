@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.10.18 14:21:31`
+> `@2023.10.18 15:15:02`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -429,6 +429,7 @@
   - [Gaussian Filter 高斯滤波器](aiwiki/0215_Math_GaussianFilter)
   - [Gaussian Process 高斯过程](aiwiki/0216_Math_GaussianProcess)
   - [Lagrange Multiplier Method 拉格朗日乘数法](aiwiki/0358_Math_LMM)
+  - [马尔可夫过程](aiwiki/0449_Math_MarkovProcess)
   - [QuadTree/OCTree - 四叉树/八叉树](aiwiki/0356_Math_QuadTree)
   - [Quaternion 四元数](aiwiki/0289_Math_Quaternion)
   - [RANSAC](aiwiki/0293_Math_RANSAC)
@@ -855,7 +856,7 @@
   - [Question](aiwiki/0447_x_Q)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@1416501018</sub></kbd>
+<kbd><sub>@1454461018</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
