@@ -79,7 +79,7 @@
 - 2023-06-09        [Ubuntu APT Source](linux/0119_Ubuntu_APT_Source)
 - 2023-06-09        [Desktop GNOME](linux/0118_Desktop_GNOME)
 - 2023-06-08        [Desktop KDE](linux/0117_Desktop_KDE)
-- 2023-06-07        [Hot SA](aiwiki/0414_Hot_SA)
+- 2023-06-07        [Hot SAM](aiwiki/0414_Hot_SAM)
 - 2023-06-07        [Hot Imagen](aiwiki/0413_Hot_Imagen)
 - 2023-06-05        [Tools CompilerExplorer](xwiki/0253_Tools_CompilerExplorer)
 - 2023-06-05        [Hot LM Tuning](aiwiki/0410_Hot_LM_Tuning)
@@ -844,4 +844,4 @@
 
 
 
-> `@2023.10.19 22:14:57`
+> `@2023.10.19 23:16:26`

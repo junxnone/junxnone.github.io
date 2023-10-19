@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.10.19 22:14:57`
+> `@2023.10.19 23:16:26`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -841,7 +841,7 @@
       - [LoRA](aiwiki/0406_Hot_LM_Tuning_LoRA)
       - [Prefix Tuning](aiwiki/0411_Hot_LM_Tuning_PrefixTuning)
   - [LaMa - Image Inpainting](aiwiki/0404_Hot_LaMa)
-  - [Segment Anything](aiwiki/0414_Hot_SA)
+  - [SAM](aiwiki/0414_Hot_SAM)
   - [Stable Diffusion](aiwiki/0402_Hot_StableDiffusion)
     - [Stable Diffusion 原理](aiwiki/0445_Hot_StableDiffusion_Algos)
     - [SD 应用 webui](aiwiki/0440_Hot_StableDiffusion_webui)
@@ -856,7 +856,7 @@
   - [Question](aiwiki/0447_x_Q)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@1615001019</sub></kbd>
+<kbd><sub>@2231501019</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
