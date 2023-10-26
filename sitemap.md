@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.10.26 10:20:31`
+> `@2023.10.26 11:15:48`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -51,6 +51,7 @@
   - [OS Tools](linux/0122_Tools_OS)
     - [Hardware Information  查看工具](linux/0068_Tools_OS_HardwareInfo)
     - [Kernel 升级管理](linux/0073_Tools_OS_KernelUpgrade)
+    - [Memory 监测工具](linux/0125_Tools_OS_Memory)
     - [开机相关信息](linux/0061_Tools_OS_ShowBootInfo)
     - [添加账户 adduser vs useradd](linux/0069_Tools_OS_adduser)
     - [hostname 管理](linux/0072_Tools_OS_hostname)
@@ -124,7 +125,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1613321025</sub></kbd>
+<kbd><sub>@1058201026</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
