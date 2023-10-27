@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.10.27 15:14:24`
+> `@2023.10.27 16:19:25`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -113,7 +113,7 @@
     - [NVIDIA GPU Driver 问题](linux/0110_Ubuntu_Issues_NVIDIAGPUDriver)
     - [USB 耳机没声音](linux/0096_Ubuntu_Issues_USBHeadphoneNoSound)
     - [thinclient_drives cannot access](linux/0092_Ubuntu_Issues_thinclientdrives)
-  - [RemoteDesktop](linux/0058_Ubuntu_RemoteDesktop)
+  - [Ubuntu Remote Desktop](linux/0058_Ubuntu_RemoteDesktop)
   - [设置默认 Kernel](linux/0114_Ubuntu_SetDefaultKernel)
 - [Driver](linux/0005_Driver)
 - [File System](linux/0064_FileSystem)
@@ -125,7 +125,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1612421026</sub></kbd>
+<kbd><sub>@1602521027</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
