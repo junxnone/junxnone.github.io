@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.10.30 16:20:12`
+> `@2023.10.30 17:15:52`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -125,7 +125,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1626091029</sub></kbd>
+<kbd><sub>@1625371030</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -349,6 +349,7 @@
 - [硬件](xwiki/0001_Hardware)
   - [CPU](xwiki/0002_Hardware_CPU)
     - [Branch Prediction](xwiki/0219_Hardware_CPU_BP)
+    - [Hyper-Threading 超线程](xwiki/0295_Hardware_CPU_HT)
     - [CPU History](xwiki/0289_Hardware_CPU_History)
     - [Intel](xwiki/0003_Hardware_CPU_Intel)
       - [P-Core & E-Core](xwiki/0215_Hardware_CPU_Intel_PECore)
@@ -415,7 +416,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1624001029</sub></kbd>
+<kbd><sub>@1637371030</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -731,6 +732,7 @@
     - [Compile Tool](aiwiki/0183_Tools_OV_CompileTool)
     - [DevCloud](aiwiki/0179_Tools_OV_DevCloud)
     - [OpenVINO INT8 Model](aiwiki/0182_Tools_OV_INT8Model)
+    - [NNCF](aiwiki/0451_Tools_OV_NNCF)
     - [Security](aiwiki/0176_Tools_OV_Security)
     - [Tips](aiwiki/0184_Tools_OV_Tips)
     - [Workbench](aiwiki/0178_Tools_OV_Workbench)
@@ -859,7 +861,7 @@
   - [Question](aiwiki/0447_x_Q)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@1607011030</sub></kbd>
+<kbd><sub>@1627191030</sub></kbd>
 ## Jupyter Notebooks Samples
 
 

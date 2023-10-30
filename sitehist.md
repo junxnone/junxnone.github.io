@@ -1,4 +1,6 @@
 - 2023-10-30        [x Model Precision](aiwiki/0450_x_Model_Precision)
+- 2023-10-30        [Tools OV NNCF](aiwiki/0451_Tools_OV_NNCF)
+- 2023-10-30        [Hardware CPU HT](xwiki/0295_Hardware_CPU_HT)
 - 2023-10-26        [Tools OS Memory](linux/0125_Tools_OS_Memory)
 - 2023-10-18        [Math MarkovProcess](aiwiki/0449_Math_MarkovProcess)
 - 2023-10-17        [Hot CLIP](aiwiki/0448_Hot_CLIP)
@@ -846,4 +848,4 @@
 
 
 
-> `@2023.10.30 16:20:12`
+> `@2023.10.30 17:15:53`
