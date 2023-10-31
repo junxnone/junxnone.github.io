@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.10.31 10:22:51`
+> `@2023.10.31 11:16:00`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -144,6 +144,7 @@
       - [bandit](xwiki/0091_Programing_Python_CodeAnalysis_bandit)
       - [pylint](xwiki/0092_Programing_Python_CodeAnalysis_pylint)
       - [yapf](xwiki/0093_Programing_Python_CodeAnalysis_yapf)
+    - [Config Tools](xwiki/0296_Programing_Python_ConfigTools)
     - [Decorator 装饰器](xwiki/0088_Programing_Python_Decorator)
     - Web
       - [Streamlit](xwiki/0294_Programing_Python_Web_Streamlit)
@@ -416,7 +417,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1637371030</sub></kbd>
+<kbd><sub>@1115331031</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
