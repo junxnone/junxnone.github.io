@@ -1,3 +1,4 @@
+- 2023-11-02        [Programing Python File](xwiki/0297_Programing_Python_File)
 - 2023-11-01        [Hot LatentSpace](aiwiki/0455_Hot_LatentSpace)
 - 2023-10-31        [Programing Python ConfigTools](xwiki/0296_Programing_Python_ConfigTools)
 - 2023-10-31        [ML RL Tools](aiwiki/0454_ML_RL_Tools)
@@ -853,4 +854,4 @@
 
 
 
-> `@2023.11.02 17:15:18`
+> `@2023.11.02 18:17:00`
