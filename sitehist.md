@@ -1,3 +1,4 @@
+- 2023-11-03        [Programing Python ConfigTools hydra](xwiki/0298_Programing_Python_ConfigTools_hydra)
 - 2023-11-02        [Programing Python File](xwiki/0297_Programing_Python_File)
 - 2023-11-01        [Hot LatentSpace](aiwiki/0455_Hot_LatentSpace)
 - 2023-10-31        [Programing Python ConfigTools](xwiki/0296_Programing_Python_ConfigTools)
@@ -854,4 +855,4 @@
 
 
 
-> `@2023.11.03 16:19:50`
+> `@2023.11.03 17:15:32`
