@@ -5,8 +5,8 @@
 - 2023-10-31        [ML RL Tools](aiwiki/0454_ML_RL_Tools)
 - 2023-10-30        [x Model Precision](aiwiki/0450_x_Model_Precision)
 - 2023-10-30        [Tools OV NNCF](aiwiki/0451_Tools_OV_NNCF)
+- 2023-10-30        [Tools IsaacGym](aiwiki/0452_Tools_IsaacGym)
 - 2023-10-30        [Tools Gym](aiwiki/0453_Tools_Gym)
-- 2023-10-30        [Tools Gym IsaacGym](aiwiki/0452_Tools_Gym_IsaacGym)
 - 2023-10-30        [Hardware CPU HT](xwiki/0295_Hardware_CPU_HT)
 - 2023-10-26        [Tools OS Memory](linux/0125_Tools_OS_Memory)
 - 2023-10-18        [Math MarkovProcess](aiwiki/0449_Math_MarkovProcess)
@@ -855,4 +855,4 @@
 
 
 
-> `@2023.11.03 23:16:10`
+> `@2023.11.04 00:20:50`
