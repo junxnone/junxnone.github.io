@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.11.06 16:21:17`
+> `@2023.11.06 17:17:08`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -112,6 +112,7 @@
     - [前置耳机不工作](linux/0101_Ubuntu_Issues_FrontHeadPhoneNotWorking)
     - [NVIDIA GPU Driver 问题](linux/0110_Ubuntu_Issues_NVIDIAGPUDriver)
     - [USB 耳机没声音](linux/0096_Ubuntu_Issues_USBHeadphoneNoSound)
+    - [Terminal 按 tab 键卡死一段时间](linux/0126_Ubuntu_Issues_tabdelay)
     - [thinclient_drives cannot access](linux/0092_Ubuntu_Issues_thinclientdrives)
   - [Ubuntu Remote Desktop](linux/0058_Ubuntu_RemoteDesktop)
   - [设置默认 Kernel](linux/0114_Ubuntu_SetDefaultKernel)
@@ -125,7 +126,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1034291106</sub></kbd>
+<kbd><sub>@1622551106</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -419,7 +420,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1619271105</sub></kbd>
+<kbd><sub>@1621211106</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -868,7 +869,7 @@
   - [Question](aiwiki/0447_x_Q)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@1622411105</sub></kbd>
+<kbd><sub>@1630551106</sub></kbd>
 ## Jupyter Notebooks Samples
 
 

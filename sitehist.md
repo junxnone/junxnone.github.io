@@ -1,3 +1,4 @@
+- 2023-11-06        [Ubuntu Issues tabdelay](linux/0126_Ubuntu_Issues_tabdelay)
 - 2023-11-03        [Programing Python ConfigTools hydra](xwiki/0298_Programing_Python_ConfigTools_hydra)
 - 2023-11-02        [Programing Python File](xwiki/0297_Programing_Python_File)
 - 2023-11-01        [Hot LatentSpace](aiwiki/0455_Hot_LatentSpace)
@@ -855,4 +856,4 @@
 
 
 
-> `@2023.11.06 16:21:18`
+> `@2023.11.06 17:17:09`
