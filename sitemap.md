@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.11.07 10:24:59`
+> `@2023.11.07 11:16:20`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -716,7 +716,7 @@
         - [Source Code Structure](aiwiki/0129_ML_NNS_KDTree_FLANN_SourceCode)
         - [UseCase](aiwiki/0130_ML_NNS_KDTree_FLANN_UseCase)
       - [nanoflann](aiwiki/0123_ML_NNS_KDTree_nanoflann)
-  - [Reinforcement Learning 强化学习](aiwiki/0290_ML_RL)
+  - [RL 强化学习](aiwiki/0290_ML_RL)
     - [RL Tools](aiwiki/0454_ML_RL_Tools)
   - [Semi-Supervised Learning 半监督学习](aiwiki/0271_ML_SSL)
 - [AI Tools](aiwiki/0415_Tools)
@@ -869,7 +869,7 @@
   - [Question](aiwiki/0447_x_Q)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@2314281106</sub></kbd>
+<kbd><sub>@1111581107</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
