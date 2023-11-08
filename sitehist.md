@@ -1,3 +1,4 @@
+- 2023-11-08        [Hot AIGC Tools](aiwiki/0456_Hot_AIGC_Tools)
 - 2023-11-06        [Ubuntu Issues tabdelay](linux/0126_Ubuntu_Issues_tabdelay)
 - 2023-11-03        [Programing Python ConfigTools hydra](xwiki/0298_Programing_Python_ConfigTools_hydra)
 - 2023-11-02        [Programing Python File](xwiki/0297_Programing_Python_File)
@@ -856,4 +857,4 @@
 
 
 
-> `@2023.11.08 23:16:47`
+> `@2023.11.09 00:21:10`
