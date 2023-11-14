@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.11.14 15:14:13`
+> `@2023.11.14 16:19:59`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -420,7 +420,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1618031113</sub></kbd>
+<kbd><sub>@1617551114</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -718,6 +718,7 @@
       - [nanoflann](aiwiki/0123_ML_NNS_KDTree_nanoflann)
   - [Semi-Supervised Learning 半监督学习](aiwiki/0271_ML_SSL)
 - [RL 强化学习](aiwiki/0290_RL)
+  - [RL Tasks](aiwiki/0457_RL_Taks)
   - [RL Tools](aiwiki/0454_RL_Tools)
 - [AI Tools](aiwiki/0415_Tools)
   - [Numpy](aiwiki/0328_Tools_Numpy)
@@ -870,7 +871,7 @@
   - [Question](aiwiki/0447_x_Q)
 - [应用](aiwiki/0428_应用)
 
-<kbd><sub>@1114451114</sub></kbd>
+<kbd><sub>@1536271114</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
