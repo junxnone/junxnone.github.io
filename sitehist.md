@@ -3,8 +3,8 @@
 - 2023-11-03        [Programing Python ConfigTools hydra](xwiki/0298_Programing_Python_ConfigTools_hydra)
 - 2023-11-02        [Programing Python File](xwiki/0297_Programing_Python_File)
 - 2023-11-01        [Hot LatentSpace](aiwiki/0455_Hot_LatentSpace)
+- 2023-10-31        [RL Tools](aiwiki/0454_RL_Tools)
 - 2023-10-31        [Programing Python ConfigTools](xwiki/0296_Programing_Python_ConfigTools)
-- 2023-10-31        [ML RL Tools](aiwiki/0454_ML_RL_Tools)
 - 2023-10-30        [x Model Precision](aiwiki/0450_x_Model_Precision)
 - 2023-10-30        [Tools OV NNCF](aiwiki/0451_Tools_OV_NNCF)
 - 2023-10-30        [Tools IsaacGym](aiwiki/0452_Tools_IsaacGym)
@@ -823,7 +823,7 @@
 - 2018-11-06        [Ubuntu Issues DesktopDisplay](linux/0095_Ubuntu_Issues_DesktopDisplay)
 - 2018-10-31        [ML Tasks Image Classification VGGNet](aiwiki/0146_ML_Tasks_Image_Classification_VGGNet)
 - 2018-10-31        [ML Tasks Image Classification Inception](aiwiki/0049_ML_Tasks_Image_Classification_Inception)
-- 2018-10-29        [ML RL](aiwiki/0290_ML_RL)
+- 2018-10-29        [RL](aiwiki/0290_RL)
 - 2018-10-29        [Hypervisor Docker Network](xwiki/0045_Hypervisor_Docker_Network)
 - 2018-10-26        [Linux Yocto SetStaticIP](linux/0085_Linux_Yocto_SetStaticIP)
 - 2018-10-22        [Tools Jupyter Issues](xwiki/0162_Tools_Jupyter_Issues)
@@ -857,4 +857,4 @@
 
 
 
-> `@2023.11.14 10:25:23`
+> `@2023.11.14 11:16:22`
