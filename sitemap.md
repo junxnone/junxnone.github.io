@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.12.05 10:29:48`
+> `@2023.12.05 11:17:30`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -56,6 +56,7 @@
     - [添加账户 adduser vs useradd](linux/0069_Tools_OS_adduser)
     - [hostname 管理](linux/0072_Tools_OS_hostname)
     - [iostat IO性能监控](linux/0045_Tools_OS_iostat)
+    - [log 相关工具](linux/0127_Tools_OS_log)
     - [netdata](linux/0108_Tools_OS_netdata)
     - [snap 软件管理工具](linux/0021_Tools_OS_snap)
     - [ulimit 多用户 资源限制工具](linux/0041_Tools_OS_ulimit)
@@ -126,7 +127,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1623381204</sub></kbd>
+<kbd><sub>@1115421205</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
