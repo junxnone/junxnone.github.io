@@ -1,5 +1,5 @@
 # Junxnone
-> `@2023.12.11 11:17:37`
+> `@2023.12.11 12:20:32`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -417,11 +417,12 @@
   - [Windows Issues](xwiki/0265_Windows_Issues)
     - [Windows 命令行执行命令时卡住](xwiki/0234_Windows_Issues_CommandLineHang)
     - [命令行不能进入 D 盘](xwiki/0293_Windows_Issues_cmdCannotIntoD)
+  - [Visual Studio Code](xwiki/0299_Windows_VSCode)
   - [Win11 关闭右键菜单折叠](xwiki/0282_Windows_W11collapse)
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1617111210</sub></kbd>
+<kbd><sub>@1206411211</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
