@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.01.15 22:15:53`
+> `@2024.01.15 23:17:17`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -237,6 +237,7 @@
       - [DEBUG](xwiki/0038_OPT_PARA_DPCPP_DEBUG)
     - [SYCL](xwiki/0031_OPT_PARA_SYCL)
       - [Concepts](xwiki/0041_OPT_PARA_SYCL_Concepts)
+      - [ESIMD](xwiki/0300_OPT_PARA_SYCL_ESIMD)
       - [Projects](xwiki/0039_OPT_PARA_SYCL_Projects)
       - [SPIR](xwiki/0040_OPT_PARA_SYCL_SPIR)
     - [OpenCL](xwiki/0034_OPT_PARA_OpenCL)
@@ -422,7 +423,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1618190115</sub></kbd>
+<kbd><sub>@2256170115</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)

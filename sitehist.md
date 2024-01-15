@@ -1,3 +1,4 @@
+- 2024-01-15        [OPT PARA SYCL ESIMD](xwiki/0300_OPT_PARA_SYCL_ESIMD)
 - 2023-12-11        [Windows VSCode](xwiki/0299_Windows_VSCode)
 - 2023-12-05        [Tools OS log](linux/0127_Tools_OS_log)
 - 2023-12-04        [RL AC](aiwiki/0459_RL_AC)
@@ -863,4 +864,4 @@
 
 
 
-> `@2024.01.15 22:15:54`
+> `@2024.01.15 23:17:17`
