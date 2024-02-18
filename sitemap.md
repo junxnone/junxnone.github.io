@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.02.18 20:26:53`
+> `@2024.02.18 21:17:10`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
