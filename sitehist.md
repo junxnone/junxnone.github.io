@@ -1,3 +1,4 @@
+- 2024-02-22        [有趣的工具](aiwiki/0462_有趣的工具)
 - 2024-02-20        [Hot AIGC RAG](aiwiki/0461_Hot_AIGC_RAG)
 - 2024-01-15        [OPT PARA SYCL ESIMD](xwiki/0300_OPT_PARA_SYCL_ESIMD)
 - 2023-12-11        [Windows VSCode](xwiki/0299_Windows_VSCode)
@@ -865,4 +866,4 @@
 
 
 
-> `@2024.02.22 14:20:34`
+> `@2024.02.22 15:14:56`
