@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.02.26 15:16:32`
+> `@2024.02.26 16:19:38`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -127,7 +127,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1611550225</sub></kbd>
+<kbd><sub>@1613310226</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -423,7 +423,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1607150225</sub></kbd>
+<kbd><sub>@1608490226</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -879,7 +879,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1613090225</sub></kbd>
+<kbd><sub>@1614520226</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
