@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.02.28 15:14:02`
+> `@2024.02.28 16:19:36`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -127,7 +127,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1613000227</sub></kbd>
+<kbd><sub>@1613170228</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -203,7 +203,7 @@
     - [googletest](xwiki/0232_Programing_test_googletest)
 - [构建工具](xwiki/0190_Build)
   - [CMake](xwiki/0053_Build_Cmake)
-    - [Install](xwiki/0054_Build_Cmake_Install)
+    - [Install CMake](xwiki/0054_Build_Cmake_Install)
     - [命令行](xwiki/0151_Build_Cmake_CMD)
       - [使用 option 添加编译选项](xwiki/0228_Build_Cmake_CMD_option)
     - [CMake UseCase](xwiki/0060_Build_Cmake_UseCase)
@@ -423,7 +423,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@0951150228</sub></kbd>
+<kbd><sub>@1608220228</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -879,7 +879,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1614320227</sub></kbd>
+<kbd><sub>@1614510228</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
