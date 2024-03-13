@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.03.13 09:09:53`
+> `@2024.03.13 10:22:51`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -25,6 +25,7 @@
     - [tr](linux/0026_Tools_Text_tr)
   - [文件管理](linux/0077_Tools_File)
     - [压缩解压](linux/0020_Tools_File_Archiver)
+      - [7z](linux/0128_Tools_File_Archiver_7z)
     - [find](linux/0043_Tools_File_find)
     - [ln 文件链接工具](linux/0033_Tools_File_ln)
     - [ls](linux/0023_Tools_File_ls)
@@ -127,7 +128,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@2343110312</sub></kbd>
+<kbd><sub>@1015570313</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
