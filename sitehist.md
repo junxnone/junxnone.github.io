@@ -1,3 +1,4 @@
+- 2024-03-13        [Tools Benchmark](linux/0129_Tools_Benchmark)
 - 2024-03-12        [Tools File Archiver 7z](linux/0128_Tools_File_Archiver_7z)
 - 2024-02-22        [有趣的工具](aiwiki/0462_有趣的工具)
 - 2024-02-20        [Hot AIGC RAG](aiwiki/0461_Hot_AIGC_RAG)
@@ -867,4 +868,4 @@
 
 
 
-> `@2024.03.13 15:14:19`
+> `@2024.03.13 16:19:09`
