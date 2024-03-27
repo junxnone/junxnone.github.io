@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.03.27 15:14:17`
+> `@2024.03.27 16:20:45`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -129,7 +129,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1613030326</sub></kbd>
+<kbd><sub>@1614200327</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -308,7 +308,7 @@
     - [移除 stage 文件](xwiki/0119_Tools_Git_RMStageFile)
     - [git bash](xwiki/0256_Tools_Git_Bash)
     - [No newline at end of file](xwiki/0120_Tools_Git_NoNewline)
-    - [Git Patch 生成与使用](xwiki/0226_Tools_Git_Patch)
+    - [Git Patch](xwiki/0226_Tools_Git_Patch)
     - [Git Rebase](xwiki/0274_Tools_Git_Rebase)
     - [archive](xwiki/0118_Tools_Git_archive)
     - [Git diff](xwiki/0277_Tools_Git_diff)
@@ -425,7 +425,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1054250327</sub></kbd>
+<kbd><sub>@1608240327</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -881,7 +881,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1614200326</sub></kbd>
+<kbd><sub>@1615520327</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
