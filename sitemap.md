@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.04.01 13:16:20`
+> `@2024.04.01 14:21:22`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -357,6 +357,7 @@
 - [硬件](xwiki/0001_Hardware)
   - [CPU](xwiki/0002_Hardware_CPU)
     - [Branch Prediction](xwiki/0219_Hardware_CPU_BP)
+    - [Cache Memory](xwiki/0016_Hardware_CPU_Cache)
     - [Hyper-Threading 超线程](xwiki/0295_Hardware_CPU_HT)
     - [CPU History](xwiki/0289_Hardware_CPU_History)
     - [Intel](xwiki/0003_Hardware_CPU_Intel)
@@ -374,7 +375,6 @@
       - [Data Center GPUs](xwiki/0223_Hardware_GPU_iGPU_dGPU)
       - [Intel GPUs Table](xwiki/0224_Hardware_GPU_iGPU_table)
   - [Memory](xwiki/0004_Hardware_Memory)
-    - [Cache](xwiki/0016_Hardware_Memory_Cache)
   - [NUMA](xwiki/0158_Hardware_NUMA)
   - [PMU](xwiki/0243_Hardware_PMU)
   - [Precision](xwiki/0281_Hardware_Precision)
@@ -425,7 +425,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1608140331</sub></kbd>
+<kbd><sub>@1419010401</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)

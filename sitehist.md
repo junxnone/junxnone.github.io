@@ -237,7 +237,7 @@
 - 2022-04-27        [OPT Memory CacheLine](xwiki/0017_OPT_Memory_CacheLine)
 - 2022-04-27        [Hardware CPU](xwiki/0002_Hardware_CPU)
 - 2022-04-25        [OPT](xwiki/0014_OPT)
-- 2022-04-25        [Hardware Memory Cache](xwiki/0016_Hardware_Memory_Cache)
+- 2022-04-25        [Hardware CPU Cache](xwiki/0016_Hardware_CPU_Cache)
 - 2022-04-19        [Math Matrix](aiwiki/0311_Math_Matrix)
 - 2022-04-15        [Math DynamicProgramming](aiwiki/0310_Math_DynamicProgramming)
 - 2022-04-14        [Programing CPP CountTime](xwiki/0084_Programing_CPP_CountTime)
@@ -868,4 +868,4 @@
 
 
 
-> `@2024.04.01 13:16:21`
+> `@2024.04.01 14:21:22`
