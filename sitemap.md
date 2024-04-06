@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.04.06 12:19:24`
+> `@2024.04.06 13:15:12`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -39,11 +39,11 @@
     - [RTSP Server live555](linux/0070_Tools_Media_live555)
     - [MediaInfo](linux/0053_Tools_Media_mediainfo)
   - [远程管理工具](linux/0075_Tools_Remote)
-    - [samba 文件共享](linux/0046_Tools_Remote_Samba)
+    - [samba](linux/0046_Tools_Remote_Samba)
     - [rsync](linux/0044_Tools_Remote_rsync)
     - [scp](linux/0010_Tools_Remote_scp)
     - [ssh 远程管理工具](linux/0011_Tools_Remote_ssh)
-      - [WorkUnStable](linux/0100_Tools_Remote_ssh_WorkUnStable)
+      - [SSH 连接不稳定](linux/0100_Tools_Remote_ssh_WorkUnStable)
     - [syncthing](linux/0029_Tools_Remote_syncthing)
     - [tmux](linux/0051_Tools_Remote_tmux)
       - [Arch](linux/0111_Tools_Remote_tmux_Arch)
@@ -129,7 +129,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1613210405</sub></kbd>
+<kbd><sub>@1238190406</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -328,6 +328,7 @@
       - [README Stats](xwiki/0127_Tools_Github_Pages_ReadmeStats)
       - [docsify](xwiki/0130_Tools_Github_Pages_docsify)
       - [jekyll](xwiki/0129_Tools_Github_Pages_jekyll)
+    - [PullRequests](xwiki/0301_Tools_Github_PullRequests)
     - [Github Access with ssh key](xwiki/0123_Tools_Github_Token)
     - [Github Actions](xwiki/0122_Tools_Github_actions)
     - [backup](xwiki/0121_Tools_Github_backup)
@@ -425,7 +426,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1608260405</sub></kbd>
+<kbd><sub>@1228530406</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
