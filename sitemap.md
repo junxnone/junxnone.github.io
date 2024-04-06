@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.04.06 15:14:15`
+> `@2024.04.06 16:18:57`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -47,7 +47,7 @@
     - [syncthing](linux/0029_Tools_Remote_syncthing)
     - [tmux](linux/0051_Tools_Remote_tmux)
       - [Arch](linux/0111_Tools_Remote_tmux_Arch)
-      - [plugins](linux/0112_Tools_Remote_tmux_plugins)
+      - [Tmux Plugins](linux/0112_Tools_Remote_tmux_plugins)
     - [VNC Tools](linux/0103_Tools_Remote_vncserver)
   - [OS Tools](linux/0122_Tools_OS)
     - [Hardware Information  查看工具](linux/0068_Tools_OS_HardwareInfo)
@@ -129,7 +129,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1238190406</sub></kbd>
+<kbd><sub>@1612560406</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -328,7 +328,7 @@
       - [README Stats](xwiki/0127_Tools_Github_Pages_ReadmeStats)
       - [docsify](xwiki/0130_Tools_Github_Pages_docsify)
       - [jekyll](xwiki/0129_Tools_Github_Pages_jekyll)
-    - [PullRequests](xwiki/0301_Tools_Github_PullRequests)
+    - [Github Pull Requests](xwiki/0301_Tools_Github_PullRequests)
     - [Github Access with ssh key](xwiki/0123_Tools_Github_Token)
     - [Github Actions](xwiki/0122_Tools_Github_actions)
     - [backup](xwiki/0121_Tools_Github_backup)
@@ -361,7 +361,7 @@
     - [Cache Memory](xwiki/0016_Hardware_CPU_Cache)
     - [Hyper-Threading 超线程](xwiki/0295_Hardware_CPU_HT)
     - [CPU History](xwiki/0289_Hardware_CPU_History)
-    - [Intel](xwiki/0003_Hardware_CPU_Intel)
+    - [Intel CPU](xwiki/0003_Hardware_CPU_Intel)
       - [P-Core & E-Core](xwiki/0215_Hardware_CPU_Intel_PECore)
   - [GPU](xwiki/0218_Hardware_GPU)
     - [GPU Metrics](xwiki/0280_Hardware_GPU_Metrics)
@@ -426,7 +426,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1228530406</sub></kbd>
+<kbd><sub>@1607300406</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -882,7 +882,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1614540405</sub></kbd>
+<kbd><sub>@1614140406</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
