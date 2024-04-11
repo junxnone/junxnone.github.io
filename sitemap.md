@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.04.11 07:17:11`
+> `@2024.04.11 09:11:20`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -376,7 +376,7 @@
       - [Data Center GPUs](xwiki/0223_Hardware_GPU_iGPU_dGPU)
       - [Intel GPUs Table](xwiki/0224_Hardware_GPU_iGPU_table)
   - [Memory](xwiki/0004_Hardware_Memory)
-  - [NUMA](xwiki/0158_Hardware_NUMA)
+  - [NUMA 架构](xwiki/0158_Hardware_NUMA)
   - [PMU](xwiki/0243_Hardware_PMU)
   - [Precision](xwiki/0281_Hardware_Precision)
   - [SIMD - Single Instruction Multiple Data](xwiki/0007_Hardware_SIMD)
@@ -426,7 +426,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1609400410</sub></kbd>
+<kbd><sub>@0839500411</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
