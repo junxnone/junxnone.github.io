@@ -127,7 +127,7 @@
 - 2023-05-31        [Hot LaMa](aiwiki/0404_Hot_LaMa)
 - 2023-05-30        [x DefectGen](aiwiki/0403_x_DefectGen)
 - 2023-05-25        [OPT Tools Vtune iGPU](xwiki/0245_OPT_Tools_Vtune_iGPU)
-- 2023-05-25        [Hardware PMU](xwiki/0243_Hardware_PMU)
+- 2023-05-25        [Hardware PMUs](xwiki/0243_Hardware_PMUs)
 - 2023-05-25        [Hardware GPU iGPU Drivers](xwiki/0244_Hardware_GPU_iGPU_Drivers)
 - 2023-05-16        [Hot StableDiffusion](aiwiki/0402_Hot_StableDiffusion)
 - 2023-05-08        [Doc Mermaid](xwiki/0242_Doc_Mermaid)
@@ -871,4 +871,4 @@
 
 
 
-> `@2024.04.14 11:16:37`
+> `@2024.04.14 12:41:19`
