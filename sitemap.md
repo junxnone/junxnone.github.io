@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.04.16 09:10:16`
+> `@2024.04.16 10:23:12`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -796,12 +796,12 @@
     - [OCR](aiwiki/0240_Datasets_Image2D_OCR)
     - [Face](aiwiki/0238_Datasets_Image2D_Face)
     - [KeyPoint](aiwiki/0248_Datasets_Image2D_KeyPoint)
-    - [Defect](aiwiki/0245_Datasets_Image2D_Defect)
+    - [Defect/Anomaly Dataset](aiwiki/0245_Datasets_Image2D_Defect)
     - [AutoML](aiwiki/0244_Datasets_Image2D_AutoML)
     - [OC](aiwiki/0239_Datasets_Image2D_OC)
     - [COCO](aiwiki/0247_Datasets_Image2D_COCO)
     - [Edge Detection](aiwiki/0098_Datasets_Image2D_EdgeDetection)
-    - [Brief](aiwiki/0092_Datasets_Image2D_PascalVOC)
+    - [PascalVOC](aiwiki/0092_Datasets_Image2D_PascalVOC)
   - [Image3D](aiwiki/0087_Datasets_Image3D)
   - [Audio](aiwiki/0020_Datasets_Audio)
   - [NLP](aiwiki/0021_Datasets_NLP)
@@ -884,7 +884,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1612390415</sub></kbd>
+<kbd><sub>@1016420416</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
