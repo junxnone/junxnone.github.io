@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.04.20 11:17:40`
+> `@2024.04.20 12:20:23`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -380,7 +380,7 @@
   - [NUMA 架构](xwiki/0158_Hardware_NUMA)
   - [PMUs](xwiki/0243_Hardware_PMUs)
   - [Precision](xwiki/0281_Hardware_Precision)
-  - [SIMD - Single Instruction Multiple Data](xwiki/0007_Hardware_SIMD)
+  - [SIMD](xwiki/0007_Hardware_SIMD)
     - [AVX](xwiki/0009_Hardware_SIMD_AVX)
       - [CodeCompile](xwiki/0150_Hardware_SIMD_AVX_CodeCompile)
     - [SIMD 原理](xwiki/0008_Hardware_SIMD_原理)
@@ -427,7 +427,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1609110419</sub></kbd>
+<kbd><sub>@1149260420</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
