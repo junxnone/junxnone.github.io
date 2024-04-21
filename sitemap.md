@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.04.21 13:15:45`
+> `@2024.04.21 14:21:13`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -220,53 +220,6 @@
     - [语法](xwiki/0055_Build_Cmake_语法)
   - [Make](xwiki/0063_Build_Make)
   - [pk-config](xwiki/0064_Build_pkgconfig)
-- [性能优化](xwiki/0014_OPT)
-  - [Loop](xwiki/0018_OPT_Loop)
-  - [内存优化](xwiki/0015_OPT_Memory)
-    - [CacheLine](xwiki/0017_OPT_Memory_CacheLine)
-  - [并行计算](xwiki/0022_OPT_PARA)
-    - [OpenMP](xwiki/0023_OPT_PARA_OpenMP)
-      - [Task](xwiki/0030_OPT_PARA_OpenMP_Task)
-      - [变量](xwiki/0157_OPT_PARA_OpenMP_VAR)
-      - [SIMD](xwiki/0027_OPT_PARA_OpenMP_SIMD)
-      - [UseCase](xwiki/0025_OPT_PARA_OpenMP_UseCase)
-      - [绑定CPU核](xwiki/0026_OPT_PARA_OpenMP_BindCore)
-      - [Directives](xwiki/0029_OPT_PARA_OpenMP_Directives)
-      - [Offload](xwiki/0028_OPT_PARA_OpenMP_Offload)
-      - [API](xwiki/0024_OPT_PARA_OpenMP_API)
-    - [DPC++](xwiki/0036_OPT_PARA_DPCPP)
-      - [架构及相关概念](xwiki/0216_OPT_PARA_DPCPP_Arch)
-      - [DEBUG](xwiki/0038_OPT_PARA_DPCPP_DEBUG)
-    - [SYCL](xwiki/0031_OPT_PARA_SYCL)
-      - [Concepts](xwiki/0041_OPT_PARA_SYCL_Concepts)
-      - [ESIMD](xwiki/0300_OPT_PARA_SYCL_ESIMD)
-      - [Projects](xwiki/0039_OPT_PARA_SYCL_Projects)
-      - [SPIR](xwiki/0040_OPT_PARA_SYCL_SPIR)
-    - [OpenCL](xwiki/0034_OPT_PARA_OpenCL)
-      - [Install](xwiki/0035_OPT_PARA_OpenCL_Install)
-    - [NDRange](xwiki/0042_OPT_PARA_NDRange)
-    - [OpenMPI](xwiki/0043_OPT_PARA_OpenMPI)
-    - [Parallel Patterns](xwiki/0221_OPT_PARA_Patterns)
-    - [SIMD](xwiki/0286_OPT_PARA_SIMD)
-    - [并行计算理论](xwiki/0290_OPT_PARA_Theory)
-  - [绑定 Socket & Core](xwiki/0033_OPT_BindSocketCore)
-  - [性能优化库](xwiki/0195_OPT_LIB)
-    - [IPP Intel Integrated Performance Primitives](xwiki/0032_OPT_LIB_IPP)
-    - [OneAPI](xwiki/0076_OPT_LIB_OneAPI)
-      - [IntelMKL](xwiki/0074_OPT_LIB_OneAPI_IntelMKL)
-      - [Level Zero](xwiki/0037_OPT_LIB_OneAPI_LevelZero)
-      - [OneAPI iGPU](xwiki/0210_OPT_LIB_OneAPI_iGPU)
-      - [Intel OneAPI oneDPL](xwiki/0075_OPT_LIB_OneAPI_oneDPL)
-    - [Highway](xwiki/0284_OPT_LIB_highway)
-  - [性能优化工具](xwiki/0261_OPT_Tools)
-    - [Intel Advisor](xwiki/0217_OPT_Tools_Advisor)
-    - [Linux 程序性能分析工具](xwiki/0291_OPT_Tools_Linux)
-    - [Intel Vtune](xwiki/0019_OPT_Tools_Vtune)
-      - [Vtune CommandLine Mode](xwiki/0020_OPT_Tools_Vtune_CommandLine)
-      - [Vtune Debug API](xwiki/0283_OPT_Tools_Vtune_DebugAPI)
-      - [Intel Vtune iGPU Analysis](xwiki/0245_OPT_Tools_Vtune_iGPU)
-  - [GPU 性能优化](xwiki/0220_OPT_GPU)
-  - [TMA](xwiki/0021_OPT_TMA)
 - [Pandas](xwiki/0181_Pandas)
   - [Series](xwiki/0184_Pandas_Series)
   - [DataFrame](xwiki/0182_Pandas_DataFrame)
@@ -427,7 +380,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1607360420</sub></kbd>
+<kbd><sub>@1415390421</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -946,7 +899,7 @@
     - [Intel OneAPI oneDPL](opt/0043_LIB_OneAPI_oneDPL)
 - [Loop](opt/0049_Loop)
 
-<kbd><sub>@1107180421</sub></kbd>
+<kbd><sub>@1416060421</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
