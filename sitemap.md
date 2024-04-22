@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.04.22 07:16:00`
+> `@2024.04.22 09:13:15`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -872,19 +872,19 @@
   - [Intel Advisor](opt/0008_Tools_Advisor)
   - [Linux 程序性能分析工具](opt/0005_Tools_Linux)
   - [Intel Vtune](opt/0006_Tools_Vtune)
-    - [Vtune Anomaly Detection](opt/0061_Tools_Vtune_AD)
     - [Vtune Analysis Type](opt/0062_Tools_Vtune_AT)
+      - [Vtune Anomaly Detection](opt/0061_Tools_Vtune_AT_AD)
       - [Vtune Hotspots](opt/0057_Tools_Vtune_AT_Hotspots)
+      - [Vtune Memory Access](opt/0059_Tools_Vtune_AT_MA)
+      - [Vtune Memory Consumption](opt/0060_Tools_Vtune_AT_MC)
+      - [Vtune Microarchitecture](opt/0058_Tools_Vtune_AT_Microarchitecture)
+      - [Vtune Performance Snapshot](opt/0051_Tools_Vtune_AT_PS)
     - [Vtune CommandLine Mode](opt/0007_Tools_Vtune_CommandLine)
     - [Vtune Debug API](opt/0010_Tools_Vtune_DebugAPI)
     - [Hardware Event-based Sampling Collection](opt/0053_Tools_Vtune_HWE)
     - [Vtune Linux](opt/0054_Tools_Vtune_Linux)
       - [Vtune on Remote Linux](opt/0055_Tools_Vtune_Linux_Remote)
-    - [Vtune Memory Access](opt/0059_Tools_Vtune_MA)
-    - [Vtune Memory Consumption](opt/0060_Tools_Vtune_MC)
     - [Vtune Metrics](opt/0056_Tools_Vtune_Metrics)
-    - [Vtune Microarchitecture](opt/0058_Tools_Vtune_Microarchitecture)
-    - [Vtune Performance Snapshot](opt/0051_Tools_Vtune_PerformanceSnapshot)
     - [User-Mode Sampling and Tracing Colllection](opt/0052_Tools_Vtune_UMS)
     - [Vtune Windows](opt/0050_Tools_Vtune_Windows)
     - [Intel Vtune iGPU Analysis](opt/0009_Tools_Vtune_iGPU)
@@ -899,7 +899,7 @@
     - [Intel OneAPI oneDPL](opt/0043_LIB_OneAPI_oneDPL)
 - [Loop](opt/0049_Loop)
 
-<kbd><sub>@1614550421</sub></kbd>
+<kbd><sub>@0912150422</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
