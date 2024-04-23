@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.04.23 09:12:09`
+> `@2024.04.23 10:26:25`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -144,14 +144,15 @@
     - [logging](xwiki/0097_Programing_Python_logging)
     - [Argparse](xwiki/0258_Programing_Python_Argparse)
     - [编译可执行文件](xwiki/0089_Programing_Python_BuildExe)
-    - [代码分析工具](xwiki/0090_Programing_Python_CodeAnalysis)
-      - [bandit](xwiki/0091_Programing_Python_CodeAnalysis_bandit)
-      - [pylint](xwiki/0092_Programing_Python_CodeAnalysis_pylint)
-      - [yapf](xwiki/0093_Programing_Python_CodeAnalysis_yapf)
-    - [Config Tools](xwiki/0296_Programing_Python_ConfigTools)
-      - [hydra](xwiki/0298_Programing_Python_ConfigTools_hydra)
     - [Decorator 装饰器](xwiki/0088_Programing_Python_Decorator)
     - [文件操作](xwiki/0297_Programing_Python_File)
+    - [工具](xwiki/0090_Programing_Python_Tools)
+      - [bandit 代码安全分析](xwiki/0091_Programing_Python_Tools_bandit)
+      - [hydra](xwiki/0298_Programing_Python_Tools_hydra)
+      - [Config Tools](xwiki/0296_Programing_Python_Tools_omegaconf)
+      - [pdb](xwiki/0303_Programing_Python_Tools_pdb)
+      - [pylint 代码分析工具](xwiki/0092_Programing_Python_Tools_pylint)
+      - [yapf 代码格式化工具](xwiki/0093_Programing_Python_Tools_yapf)
     - Web
       - [Streamlit](xwiki/0294_Programing_Python_Web_Streamlit)
     - [assert](xwiki/0094_Programing_Python_assert)
@@ -380,7 +381,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1609200422</sub></kbd>
+<kbd><sub>@1025320423</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)

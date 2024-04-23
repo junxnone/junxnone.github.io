@@ -1,3 +1,4 @@
+- 2024-04-23        [Programing Python Tools pdb](xwiki/0303_Programing_Python_Tools_pdb)
 - 2024-04-21        [Tools Vtune AT](opt/0062_Tools_Vtune_AT)
 - 2024-04-20        [Tools Vtune Windows](opt/0050_Tools_Vtune_Windows)
 - 2024-04-20        [Tools Vtune UMS](opt/0052_Tools_Vtune_UMS)
@@ -27,11 +28,11 @@
 - 2023-11-14        [RL Taks](aiwiki/0457_RL_Taks)
 - 2023-11-08        [Hot AIGC Tools](aiwiki/0456_Hot_AIGC_Tools)
 - 2023-11-06        [Ubuntu Issues tabdelay](linux/0126_Ubuntu_Issues_tabdelay)
-- 2023-11-03        [Programing Python ConfigTools hydra](xwiki/0298_Programing_Python_ConfigTools_hydra)
+- 2023-11-03        [Programing Python Tools hydra](xwiki/0298_Programing_Python_Tools_hydra)
 - 2023-11-02        [Programing Python File](xwiki/0297_Programing_Python_File)
 - 2023-11-01        [Hot LatentSpace](aiwiki/0455_Hot_LatentSpace)
 - 2023-10-31        [RL Tools](aiwiki/0454_RL_Tools)
-- 2023-10-31        [Programing Python ConfigTools](xwiki/0296_Programing_Python_ConfigTools)
+- 2023-10-31        [Programing Python Tools omegaconf](xwiki/0296_Programing_Python_Tools_omegaconf)
 - 2023-10-30        [x Model Precision](aiwiki/0450_x_Model_Precision)
 - 2023-10-30        [Tools OV NNCF](aiwiki/0451_Tools_OV_NNCF)
 - 2023-10-30        [Tools IsaacGym](aiwiki/0452_Tools_IsaacGym)
@@ -611,7 +612,7 @@
 - 2020-03-19        [Hypervisor Docker MoveData](xwiki/0052_Hypervisor_Docker_MoveData)
 - 2020-03-18        [Tools OV INT8Model](aiwiki/0182_Tools_OV_INT8Model)
 - 2020-03-18        [PARA OpenCL Install](opt/0034_PARA_OpenCL_Install)
-- 2020-03-16        [Programing Python CodeAnalysis](xwiki/0090_Programing_Python_CodeAnalysis)
+- 2020-03-16        [Programing Python Tools](xwiki/0090_Programing_Python_Tools)
 - 2020-03-08        [Tools File ln](linux/0033_Tools_File_ln)
 - 2020-03-03        [ML Metrics Segmentation](aiwiki/0231_ML_Metrics_Segmentation)
 - 2020-03-03        [Datasets Image2D Segmentation CamVid](aiwiki/0088_Datasets_Image2D_Segmentation_CamVid)
@@ -660,9 +661,9 @@
 - 2019-11-15        [Tools Gitlab CICD](xwiki/0134_Tools_Gitlab_CICD)
 - 2019-11-15        [Programing Python assert](xwiki/0094_Programing_Python_assert)
 - 2019-11-14        [Tools Git precommit](xwiki/0117_Tools_Git_precommit)
-- 2019-11-14        [Programing Python CodeAnalysis yapf](xwiki/0093_Programing_Python_CodeAnalysis_yapf)
-- 2019-11-13        [Programing Python CodeAnalysis pylint](xwiki/0092_Programing_Python_CodeAnalysis_pylint)
-- 2019-11-13        [Programing Python CodeAnalysis bandit](xwiki/0091_Programing_Python_CodeAnalysis_bandit)
+- 2019-11-14        [Programing Python Tools yapf](xwiki/0093_Programing_Python_Tools_yapf)
+- 2019-11-13        [Programing Python Tools pylint](xwiki/0092_Programing_Python_Tools_pylint)
+- 2019-11-13        [Programing Python Tools bandit](xwiki/0091_Programing_Python_Tools_bandit)
 - 2019-11-02        [Programing Python datetime](xwiki/0212_Programing_Python_datetime)
 - 2019-10-29        [Tools Jupyter UseLocalPackage](xwiki/0068_Tools_Jupyter_UseLocalPackage)
 - 2019-10-25        [Tools Text sort](linux/0031_Tools_Text_sort)
@@ -884,4 +885,4 @@
 
 
 
-> `@2024.04.23 09:12:10`
+> `@2024.04.23 10:26:26`
