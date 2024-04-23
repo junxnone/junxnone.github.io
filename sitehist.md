@@ -41,7 +41,7 @@
 - 2023-10-26        [Tools OS Memory](linux/0125_Tools_OS_Memory)
 - 2023-10-18        [Math MarkovProcess](aiwiki/0449_Math_MarkovProcess)
 - 2023-10-17        [Hot CLIP](aiwiki/0448_Hot_CLIP)
-- 2023-10-15        [Programing Python Web Streamlit](xwiki/0294_Programing_Python_Web_Streamlit)
+- 2023-10-15        [Programing Python Tools Streamlit](xwiki/0294_Programing_Python_Tools_Streamlit)
 - 2023-10-13        [x Q](aiwiki/0447_x_Q)
 - 2023-10-12        [Windows Issues cmdCannotIntoD](xwiki/0293_Windows_Issues_cmdCannotIntoD)
 - 2023-10-12        [Hot StableDiffusion Algos](aiwiki/0445_Hot_StableDiffusion_Algos)
@@ -198,7 +198,7 @@
 - 2023-02-02        [ML OML](aiwiki/0367_ML_OML)
 - 2023-02-02        [ML Arch HP](aiwiki/0368_ML_Arch_HP)
 - 2023-01-31        [ML Op](aiwiki/0366_ML_Op)
-- 2022-12-28        [Programing Python calendar](xwiki/0211_Programing_Python_calendar)
+- 2022-12-28        [Programing Python Tools calendar](xwiki/0211_Programing_Python_Tools_calendar)
 - 2022-12-28        [OpenCV data](aiwiki/0364_OpenCV_data)
 - 2022-12-27        [OpenCV UC](aiwiki/0362_OpenCV_UC)
 - 2022-12-27        [OpenCV IP Filter](aiwiki/0363_OpenCV_IP_Filter)
@@ -464,7 +464,7 @@
 - 2021-03-22        [Math GaussianDistribution](aiwiki/0023_Math_GaussianDistribution)
 - 2021-03-22        [ML AutoML HPO BO SMBO](aiwiki/0218_ML_AutoML_HPO_BO_SMBO)
 - 2021-03-22        [ML AutoML HPO BO History](aiwiki/0398_ML_AutoML_HPO_BO_History)
-- 2021-03-10        [Programing Python psutil](xwiki/0098_Programing_Python_psutil)
+- 2021-03-10        [Programing Python Tools psutil](xwiki/0098_Programing_Python_Tools_psutil)
 - 2021-03-04        [Tools Networks Port](linux/0056_Tools_Networks_Port)
 - 2021-03-04        [ML Transformer TiT](aiwiki/0360_ML_Transformer_TiT)
 - 2021-03-02        [Ubuntu InstallSteam](linux/0063_Ubuntu_InstallSteam)
@@ -664,7 +664,7 @@
 - 2019-11-14        [Programing Python Tools yapf](xwiki/0093_Programing_Python_Tools_yapf)
 - 2019-11-13        [Programing Python Tools pylint](xwiki/0092_Programing_Python_Tools_pylint)
 - 2019-11-13        [Programing Python Tools bandit](xwiki/0091_Programing_Python_Tools_bandit)
-- 2019-11-02        [Programing Python datetime](xwiki/0212_Programing_Python_datetime)
+- 2019-11-02        [Programing Python Tools datetime](xwiki/0212_Programing_Python_Tools_datetime)
 - 2019-10-29        [Tools Jupyter UseLocalPackage](xwiki/0068_Tools_Jupyter_UseLocalPackage)
 - 2019-10-25        [Tools Text sort](linux/0031_Tools_Text_sort)
 - 2019-10-25        [Tools Git tag](xwiki/0116_Tools_Git_tag)
@@ -706,7 +706,7 @@
 - 2019-07-25        [Tools File ls](linux/0023_Tools_File_ls)
 - 2019-07-25        [Programing Shell if](xwiki/0102_Programing_Shell_if)
 - 2019-07-20        [CV Feature](aiwiki/0064_CV_Feature)
-- 2019-07-19        [Programing Python tqdm](xwiki/0099_Programing_Python_tqdm)
+- 2019-07-19        [Programing Python Tools tqdm](xwiki/0099_Programing_Python_Tools_tqdm)
 - 2019-07-19        [Programing Python FormatString](xwiki/0087_Programing_Python_FormatString)
 - 2019-07-17        [Tools Github Pages Mirror](xwiki/0128_Tools_Github_Pages_Mirror)
 - 2019-07-15        [Programing Shell Function](xwiki/0100_Programing_Shell_Function)
@@ -885,4 +885,4 @@
 
 
 
-> `@2024.04.23 10:26:26`
+> `@2024.04.23 11:17:33`
