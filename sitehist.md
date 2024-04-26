@@ -1,3 +1,6 @@
+- 2024-04-26        [paper YOLOWorld](aiwiki/0465_paper_YOLOWorld)
+- 2024-04-26        [paper GroundingDINO](aiwiki/0464_paper_GroundingDINO)
+- 2024-04-26        [paper AnomalyCLIP](aiwiki/0466_paper_AnomalyCLIP)
 - 2024-04-23        [Programing Python Tools pdb](xwiki/0303_Programing_Python_Tools_pdb)
 - 2024-04-21        [Tools Vtune AT](opt/0062_Tools_Vtune_AT)
 - 2024-04-20        [Tools Vtune Windows](opt/0050_Tools_Vtune_Windows)
@@ -885,4 +888,4 @@
 
 
 
-> `@2024.04.26 15:16:25`
+> `@2024.04.26 16:20:11`
