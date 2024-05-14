@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.05.14 14:24:37`
+> `@2024.05.14 15:16:53`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -147,6 +147,7 @@
     - [Decorator 装饰器](xwiki/0088_Programing_Python_Decorator)
     - [文件操作](xwiki/0297_Programing_Python_File)
     - [工具](xwiki/0090_Programing_Python_Tools)
+      - [PySnooper](xwiki/0304_Programing_Python_Tools_PySnooper)
       - [Streamlit](xwiki/0294_Programing_Python_Tools_Streamlit)
       - [bandit 代码安全分析](xwiki/0091_Programing_Python_Tools_bandit)
       - [calendar 日历](xwiki/0211_Programing_Python_Tools_calendar)
@@ -380,7 +381,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1610050513</sub></kbd>
+<kbd><sub>@1512580514</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
