@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.05.14 16:22:37`
+> `@2024.05.14 17:18:20`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -594,7 +594,7 @@
       - [Spatial Pyramid Pooling - 空间金字塔池化](aiwiki/0365_ML_Op_Pooling_SPP)
     - [Regularization  正则化](aiwiki/0252_ML_Op_Regularization)
   - [Metrics 评价指标](aiwiki/0138_ML_Metrics)
-    - [Classification](aiwiki/0137_ML_Metrics_Classification)
+    - [Metrics for Classification](aiwiki/0137_ML_Metrics_Classification)
     - [CrossValidation 交叉验证](aiwiki/0249_ML_Metrics_CrossValidation)
     - [Detection](aiwiki/0230_ML_Metrics_Detection)
       - [AP & mAP & AR](aiwiki/0382_ML_Metrics_Detection_APmAPAR)
@@ -841,7 +841,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1617380514</sub></kbd>
+<kbd><sub>@1711310514</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
