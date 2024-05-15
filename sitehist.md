@@ -1,3 +1,4 @@
+- 2024-05-15        [paper MuSC](aiwiki/0467_paper_MuSC)
 - 2024-05-14        [Programing Python Tools PySnooper](xwiki/0304_Programing_Python_Tools_PySnooper)
 - 2024-04-26        [paper YOLOWorld](aiwiki/0465_paper_YOLOWorld)
 - 2024-04-26        [paper GroundingDINO](aiwiki/0464_paper_GroundingDINO)
@@ -889,4 +890,4 @@
 
 
 
-> `@2024.05.15 09:14:43`
+> `@2024.05.15 10:31:50`
