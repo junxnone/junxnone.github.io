@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.05.15 10:31:49`
+> `@2024.05.15 11:21:30`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -712,7 +712,7 @@
     - [Tips](aiwiki/0261_Tools_Darknet_AlexeyAB)
     - [Config Files](aiwiki/0262_Tools_Darknet_cfgFiles)
   - [anomalib](aiwiki/0321_Tools_anomalib)
-  - [可视化](aiwiki/0133_Tools_VIS)
+  - [模型可视化](aiwiki/0133_Tools_VIS)
     - [ONNX 可视化工具](aiwiki/0134_Tools_VIS_ONNX)
     - [Quiver](aiwiki/0136_Tools_VIS_Quiver)
     - [netron](aiwiki/0135_Tools_VIS_netron)
@@ -842,7 +842,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1000540515</sub></kbd>
+<kbd><sub>@1109350515</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
