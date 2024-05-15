@@ -10,6 +10,7 @@
   - [Samples](https://junxnone.github.io/samples/)
   - [History](https://junxnone.github.io/wht)
 - <kbd>📐</kbd>
+  - [Equation Editor](https://junxnone.github.io/m/)
   - [TextDiff](https://junxnone.github.io/textdiff/)
   - [🚅](https://junxnone.github.io/at/)
   - [Graph Mermaid](https://mermaid-js.github.io/mermaid-live-editor)
