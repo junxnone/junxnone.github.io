@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.05.15 14:22:39`
+> `@2024.05.15 15:16:27`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -715,7 +715,7 @@
   - [模型可视化](aiwiki/0133_Tools_VIS)
     - [ONNX 可视化工具](aiwiki/0134_Tools_VIS_ONNX)
     - [Quiver](aiwiki/0136_Tools_VIS_Quiver)
-    - [netron](aiwiki/0135_Tools_VIS_netron)
+    - [模型结构可视化工具 netron](aiwiki/0135_Tools_VIS_netron)
   - [标注工具](aiwiki/0006_Tools_Label)
     - [CVAT](aiwiki/0073_Tools_Label_CVAT)
     - [LabelImg](aiwiki/0250_Tools_Label_LabelImg)
@@ -842,7 +842,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1419130515</sub></kbd>
+<kbd><sub>@1428500515</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

@@ -817,7 +817,7 @@
 - 2018-12-14        [Tools Git](xwiki/0111_Tools_Git)
 - 2018-12-14        [Tools Git config](xwiki/0112_Tools_Git_config)
 - 2018-12-14        [Tools File rename](linux/0050_Tools_File_rename)
-- 2018-12-13&nbsp;&nbsp; [netron](aiwiki/0135_Tools_VIS_netron)&nbsp;&nbsp; :bookmark:Tools :bookmark:VIS :bookmark:netron
+- 2018-12-13&nbsp;&nbsp; [模型结构可视化工具 netron](aiwiki/0135_Tools_VIS_netron)&nbsp;&nbsp; :bookmark:Tools :bookmark:VIS :bookmark:netron
 - 2018-12-13&nbsp;&nbsp; [CVAT](aiwiki/0073_Tools_Label_CVAT)&nbsp;&nbsp; :bookmark:Tools :bookmark:Label :bookmark:CVAT
 - 2018-12-12&nbsp;&nbsp; [Quiver](aiwiki/0136_Tools_VIS_Quiver)&nbsp;&nbsp; :bookmark:Tools :bookmark:VIS :bookmark:Quiver
 - 2018-12-12&nbsp;&nbsp; [Gradient Descent & Optimizer](aiwiki/0147_ML_Arch_GD)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:GD
@@ -890,4 +890,4 @@
 
 
 
-> `@2024.05.15 14:22:40`
+> `@2024.05.15 15:16:27`
