@@ -740,7 +740,7 @@
 - 2019-05-22&nbsp;&nbsp; [读取文件](xwiki/0104_Programing_Shell_ReadFile)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:ReadFile
 - 2019-05-21&nbsp;&nbsp; [UseCase](xwiki/0108_Programing_Shell_UseCase)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:UseCase
 - 2019-05-18&nbsp;&nbsp; [SIFT 尺度不变特征变换](aiwiki/0069_CV_Feature_SIFT)&nbsp;&nbsp; :bookmark:CV :bookmark:Feature :bookmark:SIFT
-- 2019-05-14&nbsp;&nbsp; [Slice](xwiki/0086_Programing_Python_Slice)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Slice
+- 2019-05-14&nbsp;&nbsp; [Python slice 切片 操作](xwiki/0086_Programing_Python_Slice)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Slice
 - 2019-05-12&nbsp;&nbsp; [Classification](aiwiki/0061_ML_Tasks_Image_Classification)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Classification
 - 2019-05-11&nbsp;&nbsp; [SVM 支持向量机](aiwiki/0115_ML_OML_SVM)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:SVM
 - 2019-05-11&nbsp;&nbsp; [JupyterHub](xwiki/0066_Tools_Jupyter_JupyterHub)&nbsp;&nbsp; :bookmark:Tools :bookmark:Jupyter :bookmark:JupyterHub
@@ -890,4 +890,4 @@
 
 
 
-> `@2024.05.17 23:18:08`
+> `@2024.05.18 00:20:35`

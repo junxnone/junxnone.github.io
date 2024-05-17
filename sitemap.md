@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.05.17 23:18:07`
+> `@2024.05.18 00:20:35`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -138,7 +138,7 @@
     - [virtualenvwrapper](xwiki/0175_Programing_Python_virtualenvwrapper)
     - [time](xwiki/0096_Programing_Python_time)
     - [列表](xwiki/0085_Programing_Python_List)
-    - [Slice](xwiki/0086_Programing_Python_Slice)
+    - [Python slice 切片 操作](xwiki/0086_Programing_Python_Slice)
     - [格式化字符串](xwiki/0087_Programing_Python_FormatString)
     - [re 正则表达式模块](xwiki/0207_Programing_Python_re)
     - [logging](xwiki/0097_Programing_Python_logging)
@@ -381,7 +381,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@2315580517</sub></kbd>
+<kbd><sub>@2339020517</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
