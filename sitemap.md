@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.05.20 09:15:01`
+> `@2024.05.20 10:31:36`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -842,7 +842,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1614280519</sub></kbd>
+<kbd><sub>@0949470520</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
