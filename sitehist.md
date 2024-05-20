@@ -804,8 +804,8 @@
 - 2019-01-25&nbsp;&nbsp; [Pytorch](aiwiki/0168_Tools_Pytorch)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch
 - 2019-01-24&nbsp;&nbsp; [Oxford-IIIT Pets](aiwiki/0029_Datasets_Image2D_Classification_Pets)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Classification :bookmark:Pets
 - 2019-01-24&nbsp;&nbsp; [Instance Segmentation 实例分割](aiwiki/0167_ML_Tasks_Image_Segmentation_Instance)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Segmentation :bookmark:Instance
-- 2019-01-18&nbsp;&nbsp; [mnist](aiwiki/0030_Datasets_Image2D_Classification_mnist)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Classification :bookmark:mnist
 - 2019-01-18&nbsp;&nbsp; [VIA VGG Image Annotator](aiwiki/0075_Tools_Label_VGG)&nbsp;&nbsp; :bookmark:Tools :bookmark:Label :bookmark:VGG
+- 2019-01-18&nbsp;&nbsp; [Mnist](aiwiki/0030_Datasets_Image2D_Classification_mnist)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Classification :bookmark:mnist
 - 2019-01-17&nbsp;&nbsp; [ImageNet](aiwiki/0031_Datasets_Image2D_Classification_ImageNet)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Classification :bookmark:ImageNet
 - 2019-01-16&nbsp;&nbsp; [Detection](aiwiki/0230_ML_Metrics_Detection)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection
 - 2019-01-15&nbsp;&nbsp; [history 命令行历史管理](linux/0049_Tools_history)&nbsp;&nbsp; :bookmark:Tools :bookmark:history
@@ -890,4 +890,4 @@
 
 
 
-> `@2024.05.20 16:21:33`
+> `@2024.05.20 17:20:58`

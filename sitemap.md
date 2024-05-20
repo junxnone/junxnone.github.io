@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.05.20 16:21:33`
+> `@2024.05.20 17:20:58`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -733,7 +733,7 @@
       - [Cifar](aiwiki/0032_Datasets_Image2D_Classification_Cifar)
       - [ImageNet](aiwiki/0031_Datasets_Image2D_Classification_ImageNet)
       - [Oxford-IIIT Pets](aiwiki/0029_Datasets_Image2D_Classification_Pets)
-      - [mnist](aiwiki/0030_Datasets_Image2D_Classification_mnist)
+      - [Mnist](aiwiki/0030_Datasets_Image2D_Classification_mnist)
     - [Detection](aiwiki/0237_Datasets_Image2D_Detection)
       - [BIT-Vehicle](aiwiki/0246_Datasets_Image2D_Detection_BITVehicle)
     - [Segmentation](aiwiki/0097_Datasets_Image2D_Segmentation)
@@ -842,7 +842,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1616300520</sub></kbd>
+<kbd><sub>@1706220520</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
