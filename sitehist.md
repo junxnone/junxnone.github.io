@@ -250,7 +250,7 @@
 - 2022-07-16&nbsp;&nbsp; [Datasets](aiwiki/0313_Tools_TF_Datasets)&nbsp;&nbsp; :bookmark:Tools :bookmark:TF :bookmark:Datasets
 - 2022-07-11&nbsp;&nbsp; [Base64](xwiki/0208_X_Base64)&nbsp;&nbsp; :bookmark:X :bookmark:Base64
 - 2022-07-04&nbsp;&nbsp; [absdiff 检测物体运动](aiwiki/0353_OpenCV_Core_absdiff)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:Core :bookmark:absdiff
-- 2022-06-16&nbsp;&nbsp; [for](xwiki/0101_Programing_Shell_for)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:for
+- 2022-06-16&nbsp;&nbsp; [Shell for](xwiki/0101_Programing_Shell_for)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:for
 - 2022-05-27&nbsp;&nbsp; [switch](xwiki/0081_Programing_CPP_switch)&nbsp;&nbsp; :bookmark:Programing :bookmark:CPP :bookmark:switch
 - 2022-05-26&nbsp;&nbsp; [CodeCompile](xwiki/0150_Hardware_SIMD_AVX_CodeCompile)&nbsp;&nbsp; :bookmark:Hardware :bookmark:SIMD :bookmark:AVX :bookmark:CodeCompile
 - 2022-05-24&nbsp;&nbsp; [NVIDIA GPU Driver 问题](linux/0110_Ubuntu_Issues_NVIDIAGPUDriver)&nbsp;&nbsp; :bookmark:Ubuntu :bookmark:Issues :bookmark:NVIDIAGPUDriver
@@ -890,4 +890,4 @@
 
 
 
-> `@2024.05.30 09:15:56`
+> `@2024.05.30 10:31:26`

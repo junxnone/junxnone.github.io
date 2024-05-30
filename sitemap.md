@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.05.30 09:15:55`
+> `@2024.05.30 10:31:25`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -179,7 +179,7 @@
     - [运算符重载](xwiki/0222_Programing_CPP_opoverloading)
   - [Shell](xwiki/0079_Programing_Shell)
     - [if  判断](xwiki/0102_Programing_Shell_if)
-    - [for](xwiki/0101_Programing_Shell_for)
+    - [Shell for](xwiki/0101_Programing_Shell_for)
     - [case](xwiki/0103_Programing_Shell_case)
     - [函数](xwiki/0100_Programing_Shell_Function)
     - [参数](xwiki/0106_Programing_Shell_ARG)
@@ -381,7 +381,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1610150529</sub></kbd>
+<kbd><sub>@1021070530</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
