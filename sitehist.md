@@ -1,3 +1,4 @@
+- 2024-06-11&nbsp;&nbsp; [Shell Tips](xwiki/0305_Programing_Shell_Tips)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:Tips
 - 2024-05-15&nbsp;&nbsp; [MuSC](aiwiki/0467_paper_MuSC)&nbsp;&nbsp; :bookmark:paper :bookmark:MuSC
 - 2024-05-14&nbsp;&nbsp; [PySnooper](xwiki/0304_Programing_Python_Tools_PySnooper)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:PySnooper
 - 2024-04-26&nbsp;&nbsp; [YOLO-World](aiwiki/0465_paper_YOLOWorld)&nbsp;&nbsp; :bookmark:paper :bookmark:YOLOWorld
@@ -595,8 +596,8 @@
 - 2020-05-07&nbsp;&nbsp; [OCR](aiwiki/0240_Datasets_Image2D_OCR)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:OCR
 - 2020-05-07&nbsp;&nbsp; [OCR](aiwiki/0200_ML_Tasks_Image_OCR)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:OCR
 - 2020-05-07&nbsp;&nbsp; [CAFCN](aiwiki/0186_ML_Tasks_Image_OCR_CAFCN)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:OCR :bookmark:CAFCN
-- 2020-05-04&nbsp;&nbsp; [this is comment test](xwiki/0105_Programing_Shell_comment)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:comment
-- 2020-05-04&nbsp;&nbsp; [case](xwiki/0103_Programing_Shell_case)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:case
+- 2020-05-04&nbsp;&nbsp; [Shell case](xwiki/0103_Programing_Shell_case)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:case
+- 2020-05-04&nbsp;&nbsp; [Shell Comment](xwiki/0105_Programing_Shell_comment)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:comment
 - 2020-04-26&nbsp;&nbsp; [ONNX 可视化工具](aiwiki/0134_Tools_VIS_ONNX)&nbsp;&nbsp; :bookmark:Tools :bookmark:VIS :bookmark:ONNX
 - 2020-04-23&nbsp;&nbsp; [文件换行 Windows Linux CRLF LF](xwiki/0145_X_CRLF)&nbsp;&nbsp; :bookmark:X :bookmark:CRLF
 - 2020-04-22&nbsp;&nbsp; [开机相关信息](linux/0061_Tools_OS_ShowBootInfo)&nbsp;&nbsp; :bookmark:Tools :bookmark:OS :bookmark:ShowBootInfo
@@ -738,7 +739,7 @@
 - 2019-05-24&nbsp;&nbsp; [OpenCV 二值化](aiwiki/0330_OpenCV_IP_misc_BIN)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IP :bookmark:misc :bookmark:BIN
 - 2019-05-23&nbsp;&nbsp; [re 正则表达式模块](xwiki/0207_Programing_Python_re)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:re
 - 2019-05-22&nbsp;&nbsp; [读取文件](xwiki/0104_Programing_Shell_ReadFile)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:ReadFile
-- 2019-05-21&nbsp;&nbsp; [UseCase](xwiki/0108_Programing_Shell_UseCase)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:UseCase
+- 2019-05-21&nbsp;&nbsp; [Shell UseCase](xwiki/0108_Programing_Shell_UseCase)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:UseCase
 - 2019-05-18&nbsp;&nbsp; [SIFT 尺度不变特征变换](aiwiki/0069_CV_Feature_SIFT)&nbsp;&nbsp; :bookmark:CV :bookmark:Feature :bookmark:SIFT
 - 2019-05-14&nbsp;&nbsp; [Python slice 切片 操作](xwiki/0086_Programing_Python_Slice)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Slice
 - 2019-05-12&nbsp;&nbsp; [Classification](aiwiki/0061_ML_Tasks_Image_Classification)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Classification
@@ -890,4 +891,4 @@
 
 
 
-> `@2024.06.11 19:15:51`
+> `@2024.06.11 20:34:27`

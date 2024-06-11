@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.06.11 19:15:50`
+> `@2024.06.11 20:34:27`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -180,13 +180,14 @@
   - [Shell](xwiki/0079_Programing_Shell)
     - [if  判断](xwiki/0102_Programing_Shell_if)
     - [Shell for](xwiki/0101_Programing_Shell_for)
-    - [case](xwiki/0103_Programing_Shell_case)
+    - [Shell case](xwiki/0103_Programing_Shell_case)
     - [函数](xwiki/0100_Programing_Shell_Function)
     - [参数](xwiki/0106_Programing_Shell_ARG)
     - [错误检查](xwiki/0107_Programing_Shell_ErrorCheck)
     - [读取文件](xwiki/0104_Programing_Shell_ReadFile)
-    - [this is comment test](xwiki/0105_Programing_Shell_comment)
-    - [UseCase](xwiki/0108_Programing_Shell_UseCase)
+    - [Shell Comment](xwiki/0105_Programing_Shell_comment)
+    - [Shell UseCase](xwiki/0108_Programing_Shell_UseCase)
+    - [Shell Tips](xwiki/0305_Programing_Shell_Tips)
   - [编译器](xwiki/0012_Programing_Compiler)
     - [GCC](xwiki/0159_Programing_Compiler_GCC)
       - [Ubuntu Install](xwiki/0166_Programing_Compiler_GCC_UbuntuInstall)
@@ -381,7 +382,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1610180611</sub></kbd>
+<kbd><sub>@1941060611</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
