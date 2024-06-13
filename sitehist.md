@@ -1,3 +1,4 @@
+- 2024-06-13&nbsp;&nbsp; [`@property` decorator](xwiki/0306_Programing_Python_Decorator_property)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Decorator :bookmark:property
 - 2024-06-13&nbsp;&nbsp; [WinCLIP](aiwiki/0468_paper_WinCLIP)&nbsp;&nbsp; :bookmark:paper :bookmark:WinCLIP
 - 2024-06-11&nbsp;&nbsp; [Shell Tips](xwiki/0305_Programing_Shell_Tips)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:Tips
 - 2024-05-15&nbsp;&nbsp; [MuSC](aiwiki/0467_paper_MuSC)&nbsp;&nbsp; :bookmark:paper :bookmark:MuSC
@@ -892,4 +893,4 @@
 
 
 
-> `@2024.06.13 16:22:11`
+> `@2024.06.13 17:19:26`

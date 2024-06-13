@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.06.13 16:22:10`
+> `@2024.06.13 17:19:25`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -145,6 +145,7 @@
     - [Argparse](xwiki/0258_Programing_Python_Argparse)
     - [编译可执行文件](xwiki/0089_Programing_Python_BuildExe)
     - [Decorator 装饰器](xwiki/0088_Programing_Python_Decorator)
+      - [`@property` decorator](xwiki/0306_Programing_Python_Decorator_property)
     - [文件操作](xwiki/0297_Programing_Python_File)
     - [工具](xwiki/0090_Programing_Python_Tools)
       - [PySnooper](xwiki/0304_Programing_Python_Tools_PySnooper)
@@ -382,7 +383,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1609480613</sub></kbd>
+<kbd><sub>@1710400613</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
