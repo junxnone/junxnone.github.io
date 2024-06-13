@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.06.13 09:17:19`
+> `@2024.06.13 10:32:59`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -382,7 +382,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1609280612</sub></kbd>
+<kbd><sub>@1005040613</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -833,6 +833,7 @@
   - [ControlNet](aiwiki/0407_paper_ControlNet)
   - [Grounding DINO](aiwiki/0464_paper_GroundingDINO)
   - [MuSC](aiwiki/0467_paper_MuSC)
+  - [WinCLIP](aiwiki/0468_paper_WinCLIP)
   - [YOLO-World](aiwiki/0465_paper_YOLOWorld)
 - [x](aiwiki/0418_x)
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
@@ -843,7 +844,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1616340612</sub></kbd>
+<kbd><sub>@0927030613</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

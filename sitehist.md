@@ -1,3 +1,4 @@
+- 2024-06-13&nbsp;&nbsp; [WinCLIP](aiwiki/0468_paper_WinCLIP)&nbsp;&nbsp; :bookmark:paper :bookmark:WinCLIP
 - 2024-06-11&nbsp;&nbsp; [Shell Tips](xwiki/0305_Programing_Shell_Tips)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:Tips
 - 2024-05-15&nbsp;&nbsp; [MuSC](aiwiki/0467_paper_MuSC)&nbsp;&nbsp; :bookmark:paper :bookmark:MuSC
 - 2024-05-14&nbsp;&nbsp; [PySnooper](xwiki/0304_Programing_Python_Tools_PySnooper)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:PySnooper
@@ -891,4 +892,4 @@
 
 
 
-> `@2024.06.13 09:17:20`
+> `@2024.06.13 10:33:00`
