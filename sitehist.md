@@ -663,7 +663,7 @@
 - 2019-11-29&nbsp;&nbsp; [Deeplab](aiwiki/0162_ML_Tasks_Image_Segmentation_Deeplab)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Segmentation :bookmark:Deeplab
 - 2019-11-27&nbsp;&nbsp; [FCN](aiwiki/0160_ML_Tasks_Image_Segmentation_FCN)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Segmentation :bookmark:FCN
 - 2019-11-20&nbsp;&nbsp; [网络工具 nmap](linux/0062_Tools_nmap)&nbsp;&nbsp; :bookmark:Tools :bookmark:nmap
-- 2019-11-19&nbsp;&nbsp; [Sigmoid](aiwiki/0280_ML_Op_AF_Sigmoid)&nbsp;&nbsp; :bookmark:ML :bookmark:Op :bookmark:AF :bookmark:Sigmoid
+- 2019-11-19&nbsp;&nbsp; [sigmoid](aiwiki/0280_ML_Op_AF_Sigmoid)&nbsp;&nbsp; :bookmark:ML :bookmark:Op :bookmark:AF :bookmark:Sigmoid
 - 2019-11-18&nbsp;&nbsp; [Dockerfile](xwiki/0048_Hypervisor_Docker_Dockerfile)&nbsp;&nbsp; :bookmark:Hypervisor :bookmark:Docker :bookmark:Dockerfile
 - 2019-11-16&nbsp;&nbsp; [Github Actions](xwiki/0122_Tools_Github_actions)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:actions
 - 2019-11-15&nbsp;&nbsp; [assert](xwiki/0094_Programing_Python_assert)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:assert
@@ -893,4 +893,4 @@
 
 
 
-> `@2024.06.18 10:33:53`
+> `@2024.06.18 11:20:28`

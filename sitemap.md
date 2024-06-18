@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.06.18 10:33:52`
+> `@2024.06.18 11:20:27`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -583,7 +583,7 @@
     - [MetricLearning](aiwiki/0157_ML_Tasks_MetricLearning)
   - [Op](aiwiki/0366_ML_Op)
     - [Activation Function 激活函数](aiwiki/0279_ML_Op_AF)
-      - [Sigmoid](aiwiki/0280_ML_Op_AF_Sigmoid)
+      - [sigmoid](aiwiki/0280_ML_Op_AF_Sigmoid)
       - [Softmax](aiwiki/0335_ML_Op_AF_Softmax)
     - [Convolution](aiwiki/0009_ML_Op_Convolution)
       - [ConvFlops](aiwiki/0396_ML_Op_Convolution_ConvFlops)
@@ -845,7 +845,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1616520617</sub></kbd>
+<kbd><sub>@1057050618</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
