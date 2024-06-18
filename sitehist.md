@@ -49,7 +49,7 @@
 - 2023-10-30&nbsp;&nbsp; [Gym -> Gymnasium](aiwiki/0453_Tools_Gym)&nbsp;&nbsp; :bookmark:Tools :bookmark:Gym
 - 2023-10-26&nbsp;&nbsp; [Memory 监测工具](linux/0125_Tools_OS_Memory)&nbsp;&nbsp; :bookmark:Tools :bookmark:OS :bookmark:Memory
 - 2023-10-18&nbsp;&nbsp; [马尔可夫过程](aiwiki/0449_Math_MarkovProcess)&nbsp;&nbsp; :bookmark:Math :bookmark:MarkovProcess
-- 2023-10-17&nbsp;&nbsp; [CLIP](aiwiki/0448_Hot_CLIP)&nbsp;&nbsp; :bookmark:Hot :bookmark:CLIP
+- 2023-10-17&nbsp;&nbsp; [CLIP](aiwiki/0448_paper_CLIP)&nbsp;&nbsp; :bookmark:paper :bookmark:CLIP
 - 2023-10-15&nbsp;&nbsp; [Streamlit](xwiki/0294_Programing_Python_Tools_Streamlit)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:Streamlit
 - 2023-10-13&nbsp;&nbsp; [Question](aiwiki/0447_x_Q)&nbsp;&nbsp; :bookmark:x :bookmark:Q
 - 2023-10-12&nbsp;&nbsp; [命令行不能进入 D 盘](xwiki/0293_Windows_Issues_cmdCannotIntoD)&nbsp;&nbsp; :bookmark:Windows :bookmark:Issues :bookmark:cmdCannotIntoD
@@ -894,4 +894,4 @@
 
 
 
-> `@2024.06.18 15:17:46`
+> `@2024.06.18 16:22:47`
