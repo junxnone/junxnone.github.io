@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.06.20 13:16:41`
+> `@2024.06.20 14:24:34`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -285,7 +285,8 @@
       - [docsify](xwiki/0130_Tools_Github_Pages_docsify)
       - [jekyll](xwiki/0129_Tools_Github_Pages_jekyll)
     - [Github Pull Requests](xwiki/0301_Tools_Github_PullRequests)
-    - [Github Access with ssh key](xwiki/0123_Tools_Github_Token)
+    - [Github Access with ssh key](xwiki/0123_Tools_Github_SSHKey)
+    - [Develop with Github `personal access token`](xwiki/0307_Tools_Github_Token)
     - [Github Actions](xwiki/0122_Tools_Github_actions)
     - [backup](xwiki/0121_Tools_Github_backup)
     - [Github fork other fork](xwiki/0267_Tools_Github_forkfork)
@@ -383,7 +384,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1609360619</sub></kbd>
+<kbd><sub>@1412550620</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
