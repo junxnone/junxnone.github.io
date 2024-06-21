@@ -1,3 +1,4 @@
+- 2024-06-21&nbsp;&nbsp; [RoadMap](linux/0130_Linux_RoadMap)&nbsp;&nbsp; :bookmark:Linux :bookmark:RoadMap
 - 2024-06-20&nbsp;&nbsp; [Develop with Github `personal access token`](xwiki/0307_Tools_Github_Token)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:Token
 - 2024-06-18&nbsp;&nbsp; [SAA+](aiwiki/0469_paper_SAAplus)&nbsp;&nbsp; :bookmark:paper :bookmark:SAAplus
 - 2024-06-13&nbsp;&nbsp; [`@property` decorator](xwiki/0306_Programing_Python_Decorator_property)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Decorator :bookmark:property
@@ -895,4 +896,4 @@
 
 
 
-> `@2024.06.22 01:17:31`
+> `@2024.06.22 02:23:54`
