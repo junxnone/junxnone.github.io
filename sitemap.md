@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.06.22 17:17:59`
+> `@2024.06.22 18:18:20`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -364,6 +364,7 @@
   - [BLAS](xwiki/0179_X_BLAS)
   - [Base64](xwiki/0208_X_Base64)
   - [文件换行 Windows Linux CRLF LF](xwiki/0145_X_CRLF)
+  - [JIT vs AOT](xwiki/0308_X_JITvsAOT)
   - [LAPACK](xwiki/0180_X_LAPACK)
   - [Open Source License](xwiki/0147_X_OpenSourceLicense)
   - [PECOFF](xwiki/0152_X_PECOFF)
@@ -385,7 +386,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1609330622</sub></kbd>
+<kbd><sub>@1747020622</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -834,6 +835,7 @@
   - [CLIP](aiwiki/0448_paper_CLIP)
   - [CSPNet](aiwiki/0385_paper_CSPNet)
   - [ControlNet](aiwiki/0407_paper_ControlNet)
+  - [Eureka](aiwiki/0470_paper_Eureka)
   - [Grounding DINO](aiwiki/0464_paper_GroundingDINO)
   - [MuSC](aiwiki/0467_paper_MuSC)
   - [SAA+](aiwiki/0469_paper_SAAplus)
@@ -848,7 +850,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1616080622</sub></kbd>
+<kbd><sub>@1744400622</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
