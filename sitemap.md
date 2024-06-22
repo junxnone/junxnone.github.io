@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.06.23 01:14:07`
+> `@2024.06.23 02:21:57`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -271,6 +271,7 @@
     - [Git diff](xwiki/0277_Tools_Git_diff)
     - [precommit](xwiki/0117_Tools_Git_precommit)
   - [Conda](xwiki/0073_Tools_Conda)
+    - [Anaconda -> Miniforge](xwiki/0309_Tools_Conda_anaconda2miniforge)
   - [Github](xwiki/0259_Tools_Github)
     - [ChromeExtensions](xwiki/0124_Tools_Github_ChromeExtensions)
       - [Sourcegraph](xwiki/0125_Tools_Github_ChromeExtensions_Sourcegraph)
@@ -386,7 +387,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1747020622</sub></kbd>
+<kbd><sub>@0117290623</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -850,7 +851,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1744400622</sub></kbd>
+<kbd><sub>@0126590623</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

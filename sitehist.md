@@ -1,5 +1,6 @@
 - 2024-06-22&nbsp;&nbsp; [JIT vs AOT](xwiki/0308_X_JITvsAOT)&nbsp;&nbsp; :bookmark:X :bookmark:JITvsAOT
 - 2024-06-22&nbsp;&nbsp; [Eureka](aiwiki/0470_paper_Eureka)&nbsp;&nbsp; :bookmark:paper :bookmark:Eureka
+- 2024-06-22&nbsp;&nbsp; [Anaconda -> Miniforge](xwiki/0309_Tools_Conda_anaconda2miniforge)&nbsp;&nbsp; :bookmark:Tools :bookmark:Conda :bookmark:anaconda2miniforge
 - 2024-06-21&nbsp;&nbsp; [RoadMap](linux/0130_Linux_RoadMap)&nbsp;&nbsp; :bookmark:Linux :bookmark:RoadMap
 - 2024-06-20&nbsp;&nbsp; [Develop with Github `personal access token`](xwiki/0307_Tools_Github_Token)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:Token
 - 2024-06-18&nbsp;&nbsp; [SAA+](aiwiki/0469_paper_SAAplus)&nbsp;&nbsp; :bookmark:paper :bookmark:SAAplus
@@ -898,4 +899,4 @@
 
 
 
-> `@2024.06.23 01:14:08`
+> `@2024.06.23 02:21:57`
