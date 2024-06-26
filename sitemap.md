@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.06.26 13:16:43`
+> `@2024.06.26 14:25:44`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -135,8 +135,6 @@
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
     - [pip](xwiki/0095_Programing_Python_pip)
-    - [virtualenv](xwiki/0176_Programing_Python_virtualenv)
-    - [virtualenvwrapper](xwiki/0175_Programing_Python_virtualenvwrapper)
     - [time](xwiki/0096_Programing_Python_time)
     - [列表](xwiki/0085_Programing_Python_List)
     - [Python slice 切片 操作](xwiki/0086_Programing_Python_Slice)
@@ -160,6 +158,8 @@
       - [psutil](xwiki/0098_Programing_Python_Tools_psutil)
       - [pylint 代码分析工具](xwiki/0092_Programing_Python_Tools_pylint)
       - [tqdm 进度条工具](xwiki/0099_Programing_Python_Tools_tqdm)
+      - [virtualenv](xwiki/0176_Programing_Python_Tools_virtualenv)
+      - [virtualenvwrapper](xwiki/0175_Programing_Python_Tools_virtualenvwrapper)
       - [yapf 代码格式化工具](xwiki/0093_Programing_Python_Tools_yapf)
     - [assert](xwiki/0094_Programing_Python_assert)
     - [json](xwiki/0292_Programing_Python_json)
@@ -387,7 +387,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1610540625</sub></kbd>
+<kbd><sub>@1406310626</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)

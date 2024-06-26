@@ -797,7 +797,7 @@
 - 2019-02-20&nbsp;&nbsp; [Siamese Network](aiwiki/0153_ML_Tasks_Image_Retrieval_CBIR_SiameseNetwork)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Retrieval :bookmark:CBIR :bookmark:SiameseNetwork
 - 2019-02-20&nbsp;&nbsp; [Hardware Information  查看工具](linux/0068_Tools_OS_HardwareInfo)&nbsp;&nbsp; :bookmark:Tools :bookmark:OS :bookmark:HardwareInfo
 - 2019-02-19&nbsp;&nbsp; [添加账户 adduser vs useradd](linux/0069_Tools_OS_adduser)&nbsp;&nbsp; :bookmark:Tools :bookmark:OS :bookmark:adduser
-- 2019-02-19&nbsp;&nbsp; [virtualenvwrapper](xwiki/0175_Programing_Python_virtualenvwrapper)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:virtualenvwrapper
+- 2019-02-19&nbsp;&nbsp; [virtualenvwrapper](xwiki/0175_Programing_Python_Tools_virtualenvwrapper)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:virtualenvwrapper
 - 2019-02-19&nbsp;&nbsp; [bashrc](linux/0102_Linux_bashrc)&nbsp;&nbsp; :bookmark:Linux :bookmark:bashrc
 - 2019-02-19&nbsp;&nbsp; [VLAD](aiwiki/0154_ML_Tasks_Image_Retrieval_CBIR_VLAD)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Retrieval :bookmark:CBIR :bookmark:VLAD
 - 2019-02-19&nbsp;&nbsp; [CBIR](aiwiki/0155_ML_Tasks_Image_Retrieval_CBIR)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Retrieval :bookmark:CBIR
@@ -850,7 +850,7 @@
 - 2018-11-29&nbsp;&nbsp; [CentOS 安装桌面](linux/0107_Desktop_CentOS)&nbsp;&nbsp; :bookmark:Desktop :bookmark:CentOS
 - 2018-11-27&nbsp;&nbsp; [gst-launch](aiwiki/0110_Media_Tools_GStreamer_gstlaunch)&nbsp;&nbsp; :bookmark:Media :bookmark:Tools :bookmark:GStreamer :bookmark:gstlaunch
 - 2018-11-27&nbsp;&nbsp; [GStreamer 流媒体应用框架](aiwiki/0109_Media_Tools_GStreamer)&nbsp;&nbsp; :bookmark:Media :bookmark:Tools :bookmark:GStreamer
-- 2018-11-25&nbsp;&nbsp; [virtualenv](xwiki/0176_Programing_Python_virtualenv)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:virtualenv
+- 2018-11-25&nbsp;&nbsp; [virtualenv](xwiki/0176_Programing_Python_Tools_virtualenv)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:virtualenv
 - 2018-11-25&nbsp;&nbsp; [putty](xwiki/0161_Tools_putty)&nbsp;&nbsp; :bookmark:Tools :bookmark:putty
 - 2018-11-25&nbsp;&nbsp; [pip](xwiki/0095_Programing_Python_pip)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:pip
 - 2018-11-24&nbsp;&nbsp; [mosquitto](xwiki/0142_Tools_mosquitto)&nbsp;&nbsp; :bookmark:Tools :bookmark:mosquitto
@@ -899,4 +899,4 @@
 
 
 
-> `@2024.06.26 13:16:44`
+> `@2024.06.26 14:25:44`
