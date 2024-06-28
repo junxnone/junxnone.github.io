@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.06.28 23:18:27`
+> `@2024.06.29 00:21:33`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -617,10 +617,6 @@
       - [Cutout](aiwiki/0257_ML_PreP_DataAug_Cutout)
     - [Data Normalization 数据标准化](aiwiki/0251_ML_PreP_DataNorm)
   - [PostProcessing](aiwiki/0370_ML_PostP)
-    - [Knowledge Distillation 知识蒸馏](aiwiki/0207_ML_PostP_KD)
-      - [History](aiwiki/0336_ML_PostP_KD_History)
-      - [Distilling the Knowledge in a Neural Network](aiwiki/0208_ML_PostP_KD_s)
-    - [Quantization  量化](aiwiki/0312_ML_PostP_Quantization)
   - [AutoEncoder](aiwiki/0209_ML_AE)
   - [Attention 注意力](aiwiki/0210_ML_Attention)
     - [Bahdanau Attention](aiwiki/0214_ML_Attention_Bahdanau)
@@ -830,6 +826,11 @@
     - [Stable Diffusion 原理](aiwiki/0445_Hot_StableDiffusion_Algos)
     - [SD 应用 webui](aiwiki/0440_Hot_StableDiffusion_webui)
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
+- [模型性能优化技术](aiwiki/0471_MO)
+  - [Knowledge Distillation 知识蒸馏](aiwiki/0207_MO_KD)
+    - [KD History](aiwiki/0336_MO_KD_History)
+    - [Distilling the Knowledge in a Neural Network](aiwiki/0208_MO_KD_s)
+  - [量化](aiwiki/0312_MO_Quantization)
 - [资源参考](aiwiki/0380_Reference)
 - [paper](aiwiki/0386_paper)
   - [AnomalyCLIP](aiwiki/0466_paper_AnomalyCLIP)
@@ -851,7 +852,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1615520628</sub></kbd>
+<kbd><sub>@2330370628</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

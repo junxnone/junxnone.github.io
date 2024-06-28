@@ -1,3 +1,4 @@
+- 2024-06-28&nbsp;&nbsp; [模型性能优化技术](aiwiki/0471_MO)&nbsp;&nbsp; :bookmark:MO
 - 2024-06-22&nbsp;&nbsp; [JIT vs AOT](xwiki/0308_X_JITvsAOT)&nbsp;&nbsp; :bookmark:X :bookmark:JITvsAOT
 - 2024-06-22&nbsp;&nbsp; [Eureka](aiwiki/0470_paper_Eureka)&nbsp;&nbsp; :bookmark:paper :bookmark:Eureka
 - 2024-06-22&nbsp;&nbsp; [Anaconda -> Miniforge](xwiki/0309_Tools_Conda_anaconda2miniforge)&nbsp;&nbsp; :bookmark:Tools :bookmark:Conda :bookmark:anaconda2miniforge
@@ -457,12 +458,12 @@
 - 2021-04-28&nbsp;&nbsp; [Point Cloud Library](aiwiki/0077_3D_Tools_PCL)&nbsp;&nbsp; :bookmark:3D :bookmark:Tools :bookmark:PCL
 - 2021-04-26&nbsp;&nbsp; [定拍 vs 飞拍](aiwiki/0038_Media_Image_Camera_定拍飞拍)&nbsp;&nbsp; :bookmark:Media :bookmark:Image :bookmark:Camera :bookmark:定拍飞拍
 - 2021-04-26&nbsp;&nbsp; [低延迟](aiwiki/0037_Media_Image_Camera_LowLatency)&nbsp;&nbsp; :bookmark:Media :bookmark:Image :bookmark:Camera :bookmark:LowLatency
-- 2021-04-25&nbsp;&nbsp; [Distilling the Knowledge in a Neural Network](aiwiki/0208_ML_PostP_KD_s)&nbsp;&nbsp; :bookmark:ML :bookmark:PostP :bookmark:KD :bookmark:s
+- 2021-04-25&nbsp;&nbsp; [Distilling the Knowledge in a Neural Network](aiwiki/0208_MO_KD_s)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:s
 - 2021-04-21&nbsp;&nbsp; [IPP Intel Integrated Performance Primitives](opt/0038_LIB_IPP)&nbsp;&nbsp; :bookmark:LIB :bookmark:IPP
 - 2021-04-13&nbsp;&nbsp; [Traditional Image Segmentation 传统图像分割](aiwiki/0158_CV_TIS)&nbsp;&nbsp; :bookmark:CV :bookmark:TIS
 - 2021-04-13&nbsp;&nbsp; [Tips](aiwiki/0170_Tools_Pytorch_Tips)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Tips
-- 2021-04-12&nbsp;&nbsp; [Knowledge Distillation 知识蒸馏](aiwiki/0207_ML_PostP_KD)&nbsp;&nbsp; :bookmark:ML :bookmark:PostP :bookmark:KD
-- 2021-04-12&nbsp;&nbsp; [History](aiwiki/0336_ML_PostP_KD_History)&nbsp;&nbsp; :bookmark:ML :bookmark:PostP :bookmark:KD :bookmark:History
+- 2021-04-12&nbsp;&nbsp; [Knowledge Distillation 知识蒸馏](aiwiki/0207_MO_KD)&nbsp;&nbsp; :bookmark:MO :bookmark:KD
+- 2021-04-12&nbsp;&nbsp; [KD History](aiwiki/0336_MO_KD_History)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:History
 - 2021-04-08&nbsp;&nbsp; [Decorator 装饰器](xwiki/0088_Programing_Python_Decorator)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Decorator
 - 2021-04-06&nbsp;&nbsp; [History](aiwiki/0149_ML_Arch_GD_History)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:GD :bookmark:History
 - 2021-04-06&nbsp;&nbsp; [GD 原理推导](aiwiki/0151_ML_Arch_GD_原理)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:GD :bookmark:原理
@@ -870,7 +871,7 @@
 - 2018-10-22&nbsp;&nbsp; [Issues](xwiki/0162_Tools_Jupyter_Issues)&nbsp;&nbsp; :bookmark:Tools :bookmark:Jupyter :bookmark:Issues
 - 2018-10-21&nbsp;&nbsp; [Brisk  特征点匹配](aiwiki/0348_OpenCV_Brisk)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:Brisk
 - 2018-10-17&nbsp;&nbsp; [文本对比工具](linux/0054_Tools_TextCompare)&nbsp;&nbsp; :bookmark:Tools :bookmark:TextCompare
-- 2018-10-16&nbsp;&nbsp; [Quantization  量化](aiwiki/0312_ML_PostP_Quantization)&nbsp;&nbsp; :bookmark:ML :bookmark:PostP :bookmark:Quantization
+- 2018-10-16&nbsp;&nbsp; [量化](aiwiki/0312_MO_Quantization)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization
 - 2018-10-16&nbsp;&nbsp; [MediaInfo](linux/0053_Tools_Media_mediainfo)&nbsp;&nbsp; :bookmark:Tools :bookmark:Media :bookmark:mediainfo
 - 2018-10-11&nbsp;&nbsp; [常用命令](xwiki/0046_Hypervisor_Docker_UseCase)&nbsp;&nbsp; :bookmark:Hypervisor :bookmark:Docker :bookmark:UseCase
 - 2018-10-09&nbsp;&nbsp; [忘记密码](linux/0093_Ubuntu_ForgetPassword)&nbsp;&nbsp; :bookmark:Ubuntu :bookmark:ForgetPassword
@@ -899,4 +900,4 @@
 
 
 
-> `@2024.06.28 23:18:28`
+> `@2024.06.29 00:21:33`
