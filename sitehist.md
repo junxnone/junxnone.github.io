@@ -462,7 +462,7 @@
 - 2021-04-21&nbsp;&nbsp; [IPP Intel Integrated Performance Primitives](opt/0038_LIB_IPP)&nbsp;&nbsp; :bookmark:LIB :bookmark:IPP
 - 2021-04-13&nbsp;&nbsp; [Traditional Image Segmentation 传统图像分割](aiwiki/0158_CV_TIS)&nbsp;&nbsp; :bookmark:CV :bookmark:TIS
 - 2021-04-13&nbsp;&nbsp; [Tips](aiwiki/0170_Tools_Pytorch_Tips)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Tips
-- 2021-04-12&nbsp;&nbsp; [Knowledge Distillation 知识蒸馏](aiwiki/0207_MO_KD)&nbsp;&nbsp; :bookmark:MO :bookmark:KD
+- 2021-04-12&nbsp;&nbsp; [知识蒸馏](aiwiki/0207_MO_KD)&nbsp;&nbsp; :bookmark:MO :bookmark:KD
 - 2021-04-12&nbsp;&nbsp; [KD History](aiwiki/0336_MO_KD_History)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:History
 - 2021-04-08&nbsp;&nbsp; [Decorator 装饰器](xwiki/0088_Programing_Python_Decorator)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Decorator
 - 2021-04-06&nbsp;&nbsp; [History](aiwiki/0149_ML_Arch_GD_History)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:GD :bookmark:History
@@ -900,4 +900,4 @@
 
 
 
-> `@2024.06.29 15:16:58`
+> `@2024.06.29 16:21:30`

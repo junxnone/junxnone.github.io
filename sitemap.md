@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.06.29 15:16:57`
+> `@2024.06.29 16:21:30`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -130,7 +130,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1614190628</sub></kbd>
+<kbd><sub>@1614160629</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -387,7 +387,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1609210628</sub></kbd>
+<kbd><sub>@1609280629</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -827,7 +827,7 @@
     - [SD 应用 webui](aiwiki/0440_Hot_StableDiffusion_webui)
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
 - [模型性能优化技术](aiwiki/0471_MO)
-  - [Knowledge Distillation 知识蒸馏](aiwiki/0207_MO_KD)
+  - [知识蒸馏](aiwiki/0207_MO_KD)
     - [KD History](aiwiki/0336_MO_KD_History)
     - [Distilling the Knowledge in a Neural Network](aiwiki/0208_MO_KD_s)
   - [量化](aiwiki/0312_MO_Quantization)
@@ -852,7 +852,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@2330370628</sub></kbd>
+<kbd><sub>@1615420629</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -914,7 +914,7 @@
     - [Intel OneAPI oneDPL](opt/0043_LIB_OneAPI_oneDPL)
 - [Loop](opt/0049_Loop)
 
-<kbd><sub>@1617110628</sub></kbd>
+<kbd><sub>@1616590629</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
