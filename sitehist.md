@@ -312,7 +312,7 @@
 - 2021-12-27&nbsp;&nbsp; [Intel OneAPI oneDPL](opt/0043_LIB_OneAPI_oneDPL)&nbsp;&nbsp; :bookmark:LIB :bookmark:OneAPI :bookmark:oneDPL
 - 2021-12-22&nbsp;&nbsp; [库 动态库 静态库](xwiki/0010_Programing_Library)&nbsp;&nbsp; :bookmark:Programing :bookmark:Library
 - 2021-12-22&nbsp;&nbsp; [Tools](xwiki/0011_Programing_Library_Tools)&nbsp;&nbsp; :bookmark:Programing :bookmark:Library :bookmark:Tools
-- 2021-12-14&nbsp;&nbsp; [Loop](opt/0049_Loop)&nbsp;&nbsp; :bookmark:Loop
+- 2021-12-14&nbsp;&nbsp; [Loop Optimization](opt/0049_Loop)&nbsp;&nbsp; :bookmark:Loop
 - 2021-12-13&nbsp;&nbsp; [SYCL Projects](opt/0017_PARA_SYCL_Projects)&nbsp;&nbsp; :bookmark:PARA :bookmark:SYCL :bookmark:Projects
 - 2021-12-13&nbsp;&nbsp; [Issues](xwiki/0154_Hardware_GPU_iGPU_Issues)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:iGPU :bookmark:Issues
 - 2021-12-13&nbsp;&nbsp; [Intel iGPU Tools](xwiki/0153_Hardware_GPU_iGPU_Tools)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:iGPU :bookmark:Tools
@@ -900,4 +900,4 @@
 
 
 
-> `@2024.07.13 12:20:40`
+> `@2024.07.13 13:16:48`

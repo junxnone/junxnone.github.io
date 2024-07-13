@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.07.13 12:20:40`
+> `@2024.07.13 13:16:48`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -912,9 +912,9 @@
     - [Level Zero](opt/0042_LIB_OneAPI_LevelZero)
     - [OneAPI iGPU](opt/0040_LIB_OneAPI_iGPU)
     - [Intel OneAPI oneDPL](opt/0043_LIB_OneAPI_oneDPL)
-- [Loop](opt/0049_Loop)
+- [Loop Optimization](opt/0049_Loop)
 
-<kbd><sub>@1618350712</sub></kbd>
+<kbd><sub>@1316430713</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
