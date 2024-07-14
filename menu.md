@@ -54,6 +54,12 @@
 <!-- ko-fi :id=junxnone.github.io/jh :color=#1599d6 -->
     婚
 <!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/che :color=#1599d6 -->
+    车
+<!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/ywiki :color=#1599d6 -->
+    养娃
+<!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/i :color=#1599d6 -->
     Ideas
 <!-- ko-fi -->
