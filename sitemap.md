@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.07.14 15:18:08`
+> `@2024.07.14 16:23:50`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -130,7 +130,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1613230713</sub></kbd>
+<kbd><sub>@1617100714</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -387,7 +387,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1608220713</sub></kbd>
+<kbd><sub>@1610530714</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -852,7 +852,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1615120713</sub></kbd>
+<kbd><sub>@1618010714</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -914,7 +914,7 @@
     - [Intel OneAPI oneDPL](opt/0043_LIB_OneAPI_oneDPL)
 - [Loop Optimization](opt/0049_Loop)
 
-<kbd><sub>@1616050713</sub></kbd>
+<kbd><sub>@1619130714</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
