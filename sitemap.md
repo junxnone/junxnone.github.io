@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.07.16 06:16:59`
+> `@2024.07.16 07:18:39`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -1009,6 +1009,7 @@
 - [00_python_strings.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/00_python_strings.ipynb)
 - [01_python_numbers.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/01_python_numbers.ipynb)
 - [02_python_conditionals.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/02_python_conditionals.ipynb)
+- [03_python_lists.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/03_python_lists.ipynb)
 - [argparse.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/argparse.ipynb)
 - [python3_os.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python3_os.ipynb)
 - [python_datetime.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python_datetime.ipynb)
