@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.07.15 16:23:39`
+> `@2024.07.15 17:20:11`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -981,6 +981,7 @@
 
 ### numpy
 - [numpy_basic.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=numpy/numpy_basic.ipynb)
+- [numpy_compare_float.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=numpy/numpy_compare_float.ipynb)
 - [numpy_dot_product.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=numpy/numpy_dot_product.ipynb)
 
 ### opencv
@@ -1005,12 +1006,13 @@
 - [pandas_Series.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pandas/pandas_Series.ipynb)
 
 ### python
+- [00_python_strings.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/00_python_strings.ipynb)
+- [01_python_numbers.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/01_python_numbers.ipynb)
+- [02_python_conditionals.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/02_python_conditionals.ipynb)
 - [argparse.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/argparse.ipynb)
 - [python3_os.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python3_os.ipynb)
 - [python_datetime.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python_datetime.ipynb)
 - [python_files.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python_files.ipynb)
-- [python_float.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python_float.ipynb)
-- [python_strings.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python_strings.ipynb)
 - [python_tqdm.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python_tqdm.ipynb)
 - [random.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/random.ipynb)
 
