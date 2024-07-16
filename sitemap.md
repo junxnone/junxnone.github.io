@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.07.16 16:23:40`
+> `@2024.07.16 17:20:35`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -1014,6 +1014,7 @@
 - [05_python_tuples.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/05_python_tuples.ipynb)
 - [06_python_sets_booleans.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/06_python_sets_booleans.ipynb)
 - [07_python_for_loops.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/07_python_for_loops.ipynb)
+- [08_python_functions.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/08_python_functions.ipynb)
 - [argparse.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/argparse.ipynb)
 - [python3_os.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python3_os.ipynb)
 - [python_datetime.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python_datetime.ipynb)
