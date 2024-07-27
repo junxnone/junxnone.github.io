@@ -1,3 +1,4 @@
+- 2024-07-27&nbsp;&nbsp; [循环合并](opt/0063_Loop_Fusion)&nbsp;&nbsp; :bookmark:Loop :bookmark:Fusion
 - 2024-07-25&nbsp;&nbsp; [FiLo](aiwiki/0472_paper_FiLo)&nbsp;&nbsp; :bookmark:paper :bookmark:FiLo
 - 2024-06-28&nbsp;&nbsp; [模型性能优化技术](aiwiki/0471_MO)&nbsp;&nbsp; :bookmark:MO
 - 2024-06-22&nbsp;&nbsp; [JIT vs AOT](xwiki/0308_X_JITvsAOT)&nbsp;&nbsp; :bookmark:X :bookmark:JITvsAOT
@@ -901,4 +902,4 @@
 
 
 
-> `@2024.07.27 22:15:31`
+> `@2024.07.27 23:17:39`
