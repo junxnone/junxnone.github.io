@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.08.05 15:17:33`
+> `@2024.08.05 16:23:33`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -130,7 +130,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1613280804</sub></kbd>
+<kbd><sub>@1616140805</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -387,7 +387,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1608460804</sub></kbd>
+<kbd><sub>@1610550805</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
@@ -853,7 +853,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1615120804</sub></kbd>
+<kbd><sub>@1622320805</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -916,7 +916,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@1616030804</sub></kbd>
+<kbd><sub>@1618480805</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
@@ -1029,6 +1029,7 @@
 - [pytorch_LeNet_mnist.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pytorch/pytorch_LeNet_mnist.ipynb)
 - [pytorch_dataloader.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pytorch/pytorch_dataloader.ipynb)
 - [pytorch_datasets.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pytorch/pytorch_datasets.ipynb)
+- [pytorch_models_save.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pytorch/pytorch_models_save.ipynb)
 - [tensor_tutorial.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pytorch/tensor_tutorial.ipynb)
 - [tensor_usecase.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pytorch/tensor_usecase.ipynb)
 - [torch_optim_lr_scheduler.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pytorch/torch_optim_lr_scheduler.ipynb)
