@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.08.12 07:17:25`
+> `@2024.08.12 09:24:00`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -11,6 +11,7 @@
     - [Tools](linux/0087_Linux_IPC_SharedMemory)
   - [Unix History](linux/0113_Linux_History)
   - [Linux Kernel](linux/0013_Linux_Kernel)
+  - [LVM](linux/0131_Linux_LVM)
   - [POSIX VS SystemV](linux/0082_Linux_POSIX与SystemV)
   - [RoadMap](linux/0130_Linux_RoadMap)
 - [Linux Tools](linux/0059_Tools)
@@ -130,7 +131,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1613510811</sub></kbd>
+<kbd><sub>@0851040812</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
