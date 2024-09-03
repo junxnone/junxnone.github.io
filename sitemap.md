@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.09.03 09:24:55`
+> `@2024.09.03 10:40:41`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -333,8 +333,8 @@
       - [iGPU Drivers](xwiki/0244_Hardware_GPU_iGPU_Drivers)
       - [Issues](xwiki/0154_Hardware_GPU_iGPU_Issues)
       - [Intel iGPU Tools](xwiki/0153_Hardware_GPU_iGPU_Tools)
+        - [intel-gpu-tools](xwiki/0169_Hardware_GPU_iGPU_Tools_intelgputools)
         - [intel-telemetry-tool](xwiki/0171_Hardware_GPU_iGPU_Tools_telemetry)
-        - [xorg-intel-gpu-tools](xwiki/0169_Hardware_GPU_iGPU_Tools_xorgintelgpu)
       - [Data Center GPUs](xwiki/0223_Hardware_GPU_iGPU_dGPU)
       - [Intel GPUs Table](xwiki/0224_Hardware_GPU_iGPU_table)
   - [Memory](xwiki/0004_Hardware_Memory)
@@ -389,7 +389,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1811560902</sub></kbd>
+<kbd><sub>@1010360903</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
