@@ -813,7 +813,7 @@
 - 2019-02-03&nbsp;&nbsp; [Sourcegraph](xwiki/0125_Tools_Github_ChromeExtensions_Sourcegraph)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:ChromeExtensions :bookmark:Sourcegraph
 - 2019-02-03&nbsp;&nbsp; [ChromeExtensions](xwiki/0124_Tools_Github_ChromeExtensions)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:ChromeExtensions
 - 2019-01-31&nbsp;&nbsp; [OpenMPI](opt/0035_PARA_OpenMPI)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenMPI
-- 2019-01-29&nbsp;&nbsp; [netdata](linux/0108_Tools_OS_netdata)&nbsp;&nbsp; :bookmark:Tools :bookmark:OS :bookmark:netdata
+- 2019-01-29&nbsp;&nbsp; [netdata web资源监控工具](linux/0108_Tools_OS_netdata)&nbsp;&nbsp; :bookmark:Tools :bookmark:OS :bookmark:netdata
 - 2019-01-28&nbsp;&nbsp; [Tools](aiwiki/0175_ML_AL_Tools)&nbsp;&nbsp; :bookmark:ML :bookmark:AL :bookmark:Tools
 - 2019-01-28&nbsp;&nbsp; [Semi-Supervised Learning 半监督学习](aiwiki/0271_ML_SSL)&nbsp;&nbsp; :bookmark:ML :bookmark:SSL
 - 2019-01-28&nbsp;&nbsp; [RCNN VS Fast RCNN VS Faster RCNN](aiwiki/0060_ML_Tasks_Image_Detection_RCNNs)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Detection :bookmark:RCNNs
@@ -906,4 +906,4 @@
 
 
 
-> `@2024.09.24 09:38:17`
+> `@2024.09.24 10:50:52`

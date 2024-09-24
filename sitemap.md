@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.09.24 09:38:16`
+> `@2024.09.24 10:50:51`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -61,7 +61,7 @@
     - [hostname 管理](linux/0072_Tools_OS_hostname)
     - [iostat IO性能监控](linux/0045_Tools_OS_iostat)
     - [log 相关工具](linux/0127_Tools_OS_log)
-    - [netdata](linux/0108_Tools_OS_netdata)
+    - [netdata web资源监控工具](linux/0108_Tools_OS_netdata)
     - [snap 软件管理工具](linux/0021_Tools_OS_snap)
     - [ulimit 多用户 资源限制工具](linux/0041_Tools_OS_ulimit)
     - [updatealternatives 多版本软件管理工具](linux/0016_Tools_OS_updatealternatives)
@@ -133,7 +133,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@2252150923</sub></kbd>
+<kbd><sub>@1000120924</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
