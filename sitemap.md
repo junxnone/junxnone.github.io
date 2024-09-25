@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.09.25 10:53:02`
+> `@2024.09.25 11:27:17`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -81,6 +81,7 @@
     - [kill 停止进程](linux/0019_Tools_Process_kill)
     - [taskset 设定程序运行在的CPU](linux/0034_Tools_Process_taskset)
     - [top](linux/0009_Tools_Process_top)
+  - [Shell](linux/0134_Tools_Shell)
   - [任务管理工具](linux/0040_Tools_TaskSchedule)
     - [at 定时任务管理工具](linux/0037_Tools_TaskSchedule_at)
     - [batch 基于 at 任务管理工具](linux/0038_Tools_TaskSchedule_batch)
@@ -133,7 +134,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1618100924</sub></kbd>
+<kbd><sub>@1125070925</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
