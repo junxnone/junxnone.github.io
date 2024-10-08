@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.10.08 11:27:21`
+> `@2024.10.08 12:24:19`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -851,6 +851,7 @@
   - [WinCLIP](aiwiki/0468_paper_WinCLIP)
   - [YOLO-World](aiwiki/0465_paper_YOLOWorld)
 - [x](aiwiki/0418_x)
+  - [CoOP](aiwiki/0474_x_CoOP)
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
   - Model
@@ -859,7 +860,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1617571007</sub></kbd>
+<kbd><sub>@1132011008</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
