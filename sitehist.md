@@ -1,3 +1,4 @@
+- 2024-10-09&nbsp;&nbsp; [Tip-Adapter](aiwiki/0475_x_TipAdapter)&nbsp;&nbsp; :bookmark:x :bookmark:TipAdapter
 - 2024-10-08&nbsp;&nbsp; [CoOP](aiwiki/0474_x_CoOP)&nbsp;&nbsp; :bookmark:x :bookmark:CoOP
 - 2024-09-25&nbsp;&nbsp; [Shell](linux/0134_Tools_Shell)&nbsp;&nbsp; :bookmark:Tools :bookmark:Shell
 - 2024-09-25&nbsp;&nbsp; [Shell 快捷键](linux/0135_Tools_Shell_hotkey)&nbsp;&nbsp; :bookmark:Tools :bookmark:Shell :bookmark:hotkey
@@ -909,4 +910,4 @@
 
 
 
-> `@2024.10.09 09:37:39`
+> `@2024.10.09 10:50:59`
