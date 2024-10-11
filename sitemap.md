@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.10.11 10:50:10`
+> `@2024.10.11 11:24:41`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -851,10 +851,12 @@
   - [WinCLIP](aiwiki/0468_paper_WinCLIP)
   - [YOLO-World](aiwiki/0465_paper_YOLOWorld)
 - [x](aiwiki/0418_x)
+  - [BitFit](aiwiki/0478_x_BitFit)
   - [CaFo](aiwiki/0476_x_CaFo)
   - [CoOP](aiwiki/0474_x_CoOP)
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
+  - [MTA](aiwiki/0479_x_MTA)
   - Model
     - [Model Precision](aiwiki/0450_x_Model_Precision)
   - [Question](aiwiki/0447_x_Q)
@@ -863,7 +865,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1024041011</sub></kbd>
+<kbd><sub>@1114571011</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

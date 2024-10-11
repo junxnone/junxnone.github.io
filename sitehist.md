@@ -1,5 +1,7 @@
 - 2024-10-11&nbsp;&nbsp; [VPT - Visual Prompt Tuning](aiwiki/0477_x_VPT)&nbsp;&nbsp; :bookmark:x :bookmark:VPT
+- 2024-10-11&nbsp;&nbsp; [MTA](aiwiki/0479_x_MTA)&nbsp;&nbsp; :bookmark:x :bookmark:MTA
 - 2024-10-11&nbsp;&nbsp; [CaFo](aiwiki/0476_x_CaFo)&nbsp;&nbsp; :bookmark:x :bookmark:CaFo
+- 2024-10-11&nbsp;&nbsp; [BitFit](aiwiki/0478_x_BitFit)&nbsp;&nbsp; :bookmark:x :bookmark:BitFit
 - 2024-10-09&nbsp;&nbsp; [Tip-Adapter](aiwiki/0475_x_TipAdapter)&nbsp;&nbsp; :bookmark:x :bookmark:TipAdapter
 - 2024-10-08&nbsp;&nbsp; [CoOP](aiwiki/0474_x_CoOP)&nbsp;&nbsp; :bookmark:x :bookmark:CoOP
 - 2024-09-25&nbsp;&nbsp; [Shell](linux/0134_Tools_Shell)&nbsp;&nbsp; :bookmark:Tools :bookmark:Shell
@@ -912,4 +914,4 @@
 
 
 
-> `@2024.10.11 10:50:10`
+> `@2024.10.11 11:24:42`
