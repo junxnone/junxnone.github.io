@@ -1,5 +1,6 @@
 - 2024-10-11&nbsp;&nbsp; [VPT - Visual Prompt Tuning](aiwiki/0477_x_VPT)&nbsp;&nbsp; :bookmark:x :bookmark:VPT
 - 2024-10-11&nbsp;&nbsp; [MTA](aiwiki/0479_x_MTA)&nbsp;&nbsp; :bookmark:x :bookmark:MTA
+- 2024-10-11&nbsp;&nbsp; [LFA](aiwiki/0480_x_LFA)&nbsp;&nbsp; :bookmark:x :bookmark:LFA
 - 2024-10-11&nbsp;&nbsp; [CaFo](aiwiki/0476_x_CaFo)&nbsp;&nbsp; :bookmark:x :bookmark:CaFo
 - 2024-10-11&nbsp;&nbsp; [BitFit](aiwiki/0478_x_BitFit)&nbsp;&nbsp; :bookmark:x :bookmark:BitFit
 - 2024-10-09&nbsp;&nbsp; [Tip-Adapter](aiwiki/0475_x_TipAdapter)&nbsp;&nbsp; :bookmark:x :bookmark:TipAdapter
@@ -914,4 +915,4 @@
 
 
 
-> `@2024.10.11 12:24:20`
+> `@2024.10.11 13:19:12`
