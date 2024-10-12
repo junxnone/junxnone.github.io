@@ -1,3 +1,4 @@
+- 2024-10-12&nbsp;&nbsp; [DTD-Synthetic](aiwiki/0482_Datasets_Image2D_DTDSynthetic)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:DTDSynthetic
 - 2024-10-12&nbsp;&nbsp; [DTD - Describable Textures Dataset](aiwiki/0481_Datasets_Image2D_DTD)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:DTD
 - 2024-10-11&nbsp;&nbsp; [VPT - Visual Prompt Tuning](aiwiki/0477_x_VPT)&nbsp;&nbsp; :bookmark:x :bookmark:VPT
 - 2024-10-11&nbsp;&nbsp; [MTA](aiwiki/0479_x_MTA)&nbsp;&nbsp; :bookmark:x :bookmark:MTA
@@ -916,4 +917,4 @@
 
 
 
-> `@2024.10.12 11:23:17`
+> `@2024.10.12 12:23:29`

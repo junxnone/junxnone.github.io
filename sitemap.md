@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.10.12 11:23:16`
+> `@2024.10.12 12:23:28`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -762,6 +762,7 @@
     - [OC](aiwiki/0239_Datasets_Image2D_OC)
     - [COCO](aiwiki/0247_Datasets_Image2D_COCO)
     - [DTD - Describable Textures Dataset](aiwiki/0481_Datasets_Image2D_DTD)
+    - [DTD-Synthetic](aiwiki/0482_Datasets_Image2D_DTDSynthetic)
     - [Edge Detection](aiwiki/0098_Datasets_Image2D_EdgeDetection)
     - [PascalVOC](aiwiki/0092_Datasets_Image2D_PascalVOC)
   - [Image3D](aiwiki/0087_Datasets_Image3D)
@@ -867,7 +868,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1052261012</sub></kbd>
+<kbd><sub>@1128391012</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
