@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.10.13 19:15:13`
+> `@2024.10.13 20:36:40`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -135,7 +135,7 @@
   - [GNOME](linux/0118_Desktop_GNOME)
   - [KDE](linux/0117_Desktop_KDE)
 
-<kbd><sub>@1616051013</sub></kbd>
+<kbd><sub>@2002081013</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
