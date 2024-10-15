@@ -1,3 +1,4 @@
+- 2024-10-15&nbsp;&nbsp; [Grounding DINO](aiwiki/0485_paper_GroundingDINO_cn)&nbsp;&nbsp; :bookmark:paper :bookmark:GroundingDINO :bookmark:cn
 - 2024-10-15&nbsp;&nbsp; [Deformable DETR](aiwiki/0484_paper_DeformableDETR)&nbsp;&nbsp; :bookmark:paper :bookmark:DeformableDETR
 - 2024-10-14&nbsp;&nbsp; [DINO](aiwiki/0483_paper_DINO)&nbsp;&nbsp; :bookmark:paper :bookmark:DINO
 - 2024-10-12&nbsp;&nbsp; [DTD-Synthetic](aiwiki/0482_Datasets_Image2D_DTDSynthetic)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:DTDSynthetic
@@ -919,4 +920,4 @@
 
 
 
-> `@2024.10.15 18:23:13`
+> `@2024.10.15 19:17:00`
