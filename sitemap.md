@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.10.15 11:26:35`
+> `@2024.10.15 12:24:36`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -846,6 +846,7 @@
   - [CSPNet](aiwiki/0385_paper_CSPNet)
   - [ControlNet](aiwiki/0407_paper_ControlNet)
   - [DINO](aiwiki/0483_paper_DINO)
+  - [Deformable DETR](aiwiki/0484_paper_DeformableDETR)
   - [Eureka](aiwiki/0470_paper_Eureka)
   - [FiLo](aiwiki/0472_paper_FiLo)
   - [Grounding DINO](aiwiki/0464_paper_GroundingDINO)
@@ -869,7 +870,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@2239571014</sub></kbd>
+<kbd><sub>@1202301015</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
