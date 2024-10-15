@@ -518,7 +518,7 @@
 - 2021-02-05&nbsp;&nbsp; [gst-discoverer](aiwiki/0111_Media_Tools_GStreamer_gstdiscoverer)&nbsp;&nbsp; :bookmark:Media :bookmark:Tools :bookmark:GStreamer :bookmark:gstdiscoverer
 - 2021-02-02&nbsp;&nbsp; [POT](aiwiki/0177_Tools_OV_POT)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:POT
 - 2021-02-01&nbsp;&nbsp; [ViT](aiwiki/0223_ML_Transformer_ViT)&nbsp;&nbsp; :bookmark:ML :bookmark:Transformer :bookmark:ViT
-- 2021-02-01&nbsp;&nbsp; [DETR](aiwiki/0165_ML_Transformer_DETR)&nbsp;&nbsp; :bookmark:ML :bookmark:Transformer :bookmark:DETR
+- 2021-02-01&nbsp;&nbsp; [DETR](aiwiki/0165_paper_DETR)&nbsp;&nbsp; :bookmark:paper :bookmark:DETR
 - 2021-01-29&nbsp;&nbsp; [Position Encoding](aiwiki/0213_ML_Attention_PE)&nbsp;&nbsp; :bookmark:ML :bookmark:Attention :bookmark:PE
 - 2021-01-27&nbsp;&nbsp; [Transformer 在视觉方面的应用](aiwiki/0226_ML_Transformer_Vision)&nbsp;&nbsp; :bookmark:ML :bookmark:Transformer :bookmark:Vision
 - 2021-01-25&nbsp;&nbsp; [OpenCL](opt/0033_PARA_OpenCL)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenCL
@@ -919,4 +919,4 @@
 
 
 
-> `@2024.10.15 17:21:55`
+> `@2024.10.15 18:23:13`

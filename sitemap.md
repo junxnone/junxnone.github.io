@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.10.15 17:21:54`
+> `@2024.10.15 18:23:12`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -630,7 +630,6 @@
     - [Attention Is All You Need](aiwiki/0212_ML_Attention_S)
   - [Transformer](aiwiki/0229_ML_Transformer)
     - [Bottleneck Transformers](aiwiki/0228_ML_Transformer_BT)
-    - [DETR](aiwiki/0165_ML_Transformer_DETR)
     - [DeiT](aiwiki/0253_ML_Transformer_DeiT)
     - [Efficient Attention](aiwiki/0225_ML_Transformer_EfficientAttention)
     - [Linformer](aiwiki/0224_ML_Transformer_Linformer)
@@ -845,6 +844,7 @@
   - [CLIP](aiwiki/0448_paper_CLIP)
   - [CSPNet](aiwiki/0385_paper_CSPNet)
   - [ControlNet](aiwiki/0407_paper_ControlNet)
+  - [DETR](aiwiki/0165_paper_DETR)
   - [DINO](aiwiki/0483_paper_DINO)
   - [Deformable DETR](aiwiki/0484_paper_DeformableDETR)
   - [Eureka](aiwiki/0470_paper_Eureka)
@@ -870,7 +870,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1636401015</sub></kbd>
+<kbd><sub>@1802461015</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
