@@ -77,7 +77,6 @@
 - 2023-10-30&nbsp;&nbsp; [Hyper-Threading 超线程](xwiki/0295_Hardware_CPU_HT)&nbsp;&nbsp; :bookmark:Hardware :bookmark:CPU :bookmark:HT
 - 2023-10-30&nbsp;&nbsp; [Gym -> Gymnasium](aiwiki/0453_Tools_Gym)&nbsp;&nbsp; :bookmark:Tools :bookmark:Gym
 - 2023-10-26&nbsp;&nbsp; [Memory 监测工具](linux/0125_Tools_OS_Memory)&nbsp;&nbsp; :bookmark:Tools :bookmark:OS :bookmark:Memory
-- 2023-10-18&nbsp;&nbsp; [马尔可夫过程](aiwiki/0449_Math_MarkovProcess)&nbsp;&nbsp; :bookmark:Math :bookmark:MarkovProcess
 - 2023-10-17&nbsp;&nbsp; [CLIP](aiwiki/0448_paper_CLIP)&nbsp;&nbsp; :bookmark:paper :bookmark:CLIP
 - 2023-10-15&nbsp;&nbsp; [Streamlit](xwiki/0294_Programing_Python_Tools_Streamlit)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:Streamlit
 - 2023-10-13&nbsp;&nbsp; [Question](aiwiki/0447_x_Q)&nbsp;&nbsp; :bookmark:x :bookmark:Q
@@ -224,7 +223,6 @@
 - 2023-02-15&nbsp;&nbsp; [资源参考](aiwiki/0380_Reference)&nbsp;&nbsp; :bookmark:Reference
 - 2023-02-14&nbsp;&nbsp; [YOLO V5](aiwiki/0379_ML_Tasks_Image_Detection_YOLO_V5)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Detection :bookmark:YOLO :bookmark:V5
 - 2023-02-06&nbsp;&nbsp; [Loss/Cost/ Object Function - 损失代价目标函数](aiwiki/0378_ML_Arch_Func)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:Func
-- 2023-02-04&nbsp;&nbsp; [Derivative 导数](aiwiki/0377_Math_Derivative)&nbsp;&nbsp; :bookmark:Math :bookmark:Derivative
 - 2023-02-03&nbsp;&nbsp; [ML 架构](aiwiki/0376_ML_Arch)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch
 - 2023-02-03&nbsp;&nbsp; [ChatGPT](aiwiki/0373_Hot_AIGC_ChatGPT)&nbsp;&nbsp; :bookmark:Hot :bookmark:AIGC :bookmark:ChatGPT
 - 2023-02-03&nbsp;&nbsp; [CV 计算机视觉](aiwiki/0371_CV)&nbsp;&nbsp; :bookmark:CV
@@ -293,8 +291,6 @@
 - 2022-04-27&nbsp;&nbsp; [CPU](xwiki/0002_Hardware_CPU)&nbsp;&nbsp; :bookmark:Hardware :bookmark:CPU
 - 2022-04-25&nbsp;&nbsp; [性能优化](opt/0003_OPT)&nbsp;&nbsp; :bookmark:OPT
 - 2022-04-25&nbsp;&nbsp; [Cache Memory](xwiki/0016_Hardware_CPU_Cache)&nbsp;&nbsp; :bookmark:Hardware :bookmark:CPU :bookmark:Cache
-- 2022-04-19&nbsp;&nbsp; [矩阵](aiwiki/0311_Math_Matrix)&nbsp;&nbsp; :bookmark:Math :bookmark:Matrix
-- 2022-04-15&nbsp;&nbsp; [Dynamic Programming 动态规划](aiwiki/0310_Math_DynamicProgramming)&nbsp;&nbsp; :bookmark:Math :bookmark:DynamicProgramming
 - 2022-04-14&nbsp;&nbsp; [计时方法](xwiki/0084_Programing_CPP_CountTime)&nbsp;&nbsp; :bookmark:Programing :bookmark:CPP :bookmark:CountTime
 - 2022-04-06&nbsp;&nbsp; [结构光3D Camera](aiwiki/0308_3D_Camera_结构光)&nbsp;&nbsp; :bookmark:3D :bookmark:Camera :bookmark:结构光
 - 2022-04-06&nbsp;&nbsp; [相移法重建](aiwiki/0309_3D_Camera_结构光_相移法重建)&nbsp;&nbsp; :bookmark:3D :bookmark:Camera :bookmark:结构光 :bookmark:相移法重建
@@ -303,18 +299,11 @@
 - 2022-04-01&nbsp;&nbsp; [3D 重建](aiwiki/0305_3D_Algos_Reconstruction)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Reconstruction
 - 2022-04-01&nbsp;&nbsp; [3D Cloud Curvature 点云曲率](aiwiki/0304_3D_Cloud_Features_Curvature)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features :bookmark:Curvature
 - 2022-03-23&nbsp;&nbsp; [ISS KeyPoint](aiwiki/0302_3D_Cloud_Features_ISS)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features :bookmark:ISS
-- 2022-03-19&nbsp;&nbsp; [Determinant  行列式](aiwiki/0301_Math_Determinant)&nbsp;&nbsp; :bookmark:Math :bookmark:Determinant
 - 2022-03-16&nbsp;&nbsp; [SAC-IA](aiwiki/0300_3D_Algos_Registration_SACIA)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:SACIA
 - 2022-03-14&nbsp;&nbsp; [FPFH](aiwiki/0299_3D_Cloud_Features_FPFH)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features :bookmark:FPFH
 - 2022-03-10&nbsp;&nbsp; [GICP](aiwiki/0296_3D_Algos_Registration_ICP_GICP)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:ICP :bookmark:GICP
 - 2022-03-09&nbsp;&nbsp; [NDT Normal Distributions Transform](aiwiki/0295_3D_Algos_Registration_NDT)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:NDT
-- 2022-03-07&nbsp;&nbsp; [RANSAC](aiwiki/0293_Math_RANSAC)&nbsp;&nbsp; :bookmark:Math :bookmark:RANSAC
-- 2022-03-07&nbsp;&nbsp; [Least Squares 最小二乘法](aiwiki/0294_Math_LeastSquares)&nbsp;&nbsp; :bookmark:Math :bookmark:LeastSquares
-- 2022-02-22&nbsp;&nbsp; [向量](aiwiki/0292_Math_Vector)&nbsp;&nbsp; :bookmark:Math :bookmark:Vector
 - 2022-02-22&nbsp;&nbsp; [ctags](linux/0003_Tools_ctags)&nbsp;&nbsp; :bookmark:Tools :bookmark:ctags
-- 2022-02-22&nbsp;&nbsp; [Moving Least Squares 移动最小二乘法](aiwiki/0291_Math_LeastSquares_Moving)&nbsp;&nbsp; :bookmark:Math :bookmark:LeastSquares :bookmark:Moving
-- 2022-02-11&nbsp;&nbsp; [数学基础](aiwiki/0288_Math)&nbsp;&nbsp; :bookmark:Math
-- 2022-02-11&nbsp;&nbsp; [Quaternion 四元数](aiwiki/0289_Math_Quaternion)&nbsp;&nbsp; :bookmark:Math :bookmark:Quaternion
 - 2022-02-09&nbsp;&nbsp; [降采样](aiwiki/0285_3D_Cloud_Sampling)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Sampling
 - 2022-02-08&nbsp;&nbsp; [离群点移除](aiwiki/0287_3D_Cloud_SOR)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:SOR
 - 2022-02-08&nbsp;&nbsp; [Merge](aiwiki/0286_3D_Cloud_Merge)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Merge
@@ -405,7 +394,6 @@
 - 2021-09-19&nbsp;&nbsp; [Linux Kernel](linux/0013_Linux_Kernel)&nbsp;&nbsp; :bookmark:Linux :bookmark:Kernel
 - 2021-09-14&nbsp;&nbsp; [Reference](aiwiki/0354_3D_Camera_激光测量)&nbsp;&nbsp; :bookmark:3D :bookmark:Camera :bookmark:激光测量
 - 2021-09-13&nbsp;&nbsp; [FLOPs Parameters 计算](aiwiki/0026_Tools_FPCalculate)&nbsp;&nbsp; :bookmark:Tools :bookmark:FPCalculate
-- 2021-09-09&nbsp;&nbsp; [Stochastic process 随机过程](aiwiki/0355_Math_SC)&nbsp;&nbsp; :bookmark:Math :bookmark:SC
 - 2021-09-09&nbsp;&nbsp; [Bayesian Optimization](aiwiki/0022_ML_AutoML_HPO_BO)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:HPO :bookmark:BO
 - 2021-09-08&nbsp;&nbsp; [Video](aiwiki/0019_Datasets_Video)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Video
 - 2021-09-08&nbsp;&nbsp; [NLP](aiwiki/0021_Datasets_NLP)&nbsp;&nbsp; :bookmark:Datasets :bookmark:NLP
@@ -424,7 +412,6 @@
 - 2021-08-24&nbsp;&nbsp; [for](xwiki/0229_Windows_batch_for)&nbsp;&nbsp; :bookmark:Windows :bookmark:batch :bookmark:for
 - 2021-08-24&nbsp;&nbsp; [Windows 命令行执行命令时卡住](xwiki/0234_Windows_Issues_CommandLineHang)&nbsp;&nbsp; :bookmark:Windows :bookmark:Issues :bookmark:CommandLineHang
 - 2021-08-20&nbsp;&nbsp; [Nearest Neighbor Search 最近邻搜索](aiwiki/0102_ML_NNS)&nbsp;&nbsp; :bookmark:ML :bookmark:NNS
-- 2021-08-19&nbsp;&nbsp; [QuadTree/OCTree - 四叉树/八叉树](aiwiki/0356_Math_QuadTree)&nbsp;&nbsp; :bookmark:Math :bookmark:QuadTree
 - 2021-08-18&nbsp;&nbsp; [Hierarchical Navigable Small World](aiwiki/0334_ML_NNS_ANN_HNSW)&nbsp;&nbsp; :bookmark:ML :bookmark:NNS :bookmark:ANN :bookmark:HNSW
 - 2021-08-18&nbsp;&nbsp; [Approximate Nearest Neighbors Oh Yeah](aiwiki/0333_ML_NNS_ANN_Annoy)&nbsp;&nbsp; :bookmark:ML :bookmark:NNS :bookmark:ANN :bookmark:Annoy
 - 2021-08-18&nbsp;&nbsp; [Approximate Nearest Neighbor 近似最近邻](aiwiki/0103_ML_NNS_ANN)&nbsp;&nbsp; :bookmark:ML :bookmark:NNS :bookmark:ANN
@@ -491,16 +478,13 @@
 - 2021-04-06&nbsp;&nbsp; [History](aiwiki/0149_ML_Arch_GD_History)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:GD :bookmark:History
 - 2021-04-06&nbsp;&nbsp; [GD 原理推导](aiwiki/0151_ML_Arch_GD_原理)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:GD :bookmark:原理
 - 2021-03-30&nbsp;&nbsp; [TPE](aiwiki/0221_ML_AutoML_HPO_BO_TPE)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:HPO :bookmark:BO :bookmark:TPE
-- 2021-03-30&nbsp;&nbsp; [Simulated annealing 模拟退火](aiwiki/0357_Math_SA)&nbsp;&nbsp; :bookmark:Math :bookmark:SA
 - 2021-03-30&nbsp;&nbsp; [SMAC](aiwiki/0220_ML_AutoML_HPO_BO_SMAC)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:HPO :bookmark:BO :bookmark:SMAC
 - 2021-03-30&nbsp;&nbsp; [Random Forest 随机森林](aiwiki/0114_ML_OML_RandomForest)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:RandomForest
 - 2021-03-30&nbsp;&nbsp; [Decision Tree 决策树](aiwiki/0113_ML_OML_DecisionTree)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:DecisionTree
 - 2021-03-30&nbsp;&nbsp; [BOHB](aiwiki/0219_ML_AutoML_HPO_BO_BOHB)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:HPO :bookmark:BO :bookmark:BOHB
 - 2021-03-30&nbsp;&nbsp; [Acquisition Function](aiwiki/0222_ML_AutoML_HPO_BO_AF)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:HPO :bookmark:BO :bookmark:AF
 - 2021-03-29&nbsp;&nbsp; [SVM 原理推导](aiwiki/0116_ML_OML_SVM_原理)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:SVM :bookmark:原理
-- 2021-03-26&nbsp;&nbsp; [Lagrange Multiplier Method 拉格朗日乘数法](aiwiki/0358_Math_LMM)&nbsp;&nbsp; :bookmark:Math :bookmark:LMM
 - 2021-03-22&nbsp;&nbsp; [SMBO](aiwiki/0218_ML_AutoML_HPO_BO_SMBO)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:HPO :bookmark:BO :bookmark:SMBO
-- 2021-03-22&nbsp;&nbsp; [Gaussian Distribution 高斯分布](aiwiki/0023_Math_GaussianDistribution)&nbsp;&nbsp; :bookmark:Math :bookmark:GaussianDistribution
 - 2021-03-22&nbsp;&nbsp; [Bayesian Optimization History](aiwiki/0398_ML_AutoML_HPO_BO_History)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:HPO :bookmark:BO :bookmark:History
 - 2021-03-10&nbsp;&nbsp; [psutil](xwiki/0098_Programing_Python_Tools_psutil)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:psutil
 - 2021-03-04&nbsp;&nbsp; [查看端口](linux/0056_Tools_Networks_Port)&nbsp;&nbsp; :bookmark:Tools :bookmark:Networks :bookmark:Port
@@ -565,7 +549,6 @@
 - 2020-10-09&nbsp;&nbsp; [snap 软件管理工具](linux/0021_Tools_OS_snap)&nbsp;&nbsp; :bookmark:Tools :bookmark:OS :bookmark:snap
 - 2020-09-30&nbsp;&nbsp; [AIDE](aiwiki/0270_ML_AL_Tools_AIDE)&nbsp;&nbsp; :bookmark:ML :bookmark:AL :bookmark:Tools :bookmark:AIDE
 - 2020-09-24&nbsp;&nbsp; [distanceTransform 处理区域粘连](aiwiki/0346_OpenCV_IP_misc_distanceTransform)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IP :bookmark:misc :bookmark:distanceTransform
-- 2020-09-17&nbsp;&nbsp; [Gaussian Filter 高斯滤波器](aiwiki/0215_Math_GaussianFilter)&nbsp;&nbsp; :bookmark:Math :bookmark:GaussianFilter
 - 2020-09-10&nbsp;&nbsp; [OC](aiwiki/0239_Datasets_Image2D_OC)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:OC
 - 2020-08-20&nbsp;&nbsp; [多 GPUs](aiwiki/0338_Tools_Pytorch_mGPUs)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:mGPUs
 - 2020-08-19&nbsp;&nbsp; [Pipeline](aiwiki/0173_Tools_Pytorch_Pipeline)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Pipeline
@@ -581,8 +564,6 @@
 - 2020-07-17&nbsp;&nbsp; [One-Shot](aiwiki/0393_ML_AutoML_NAS_OneShot)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:NAS :bookmark:OneShot
 - 2020-07-17&nbsp;&nbsp; [NAS Metrics](aiwiki/0394_ML_AutoML_NAS_Metrics)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:NAS :bookmark:Metrics
 - 2020-07-17&nbsp;&nbsp; [AutoML](aiwiki/0244_Datasets_Image2D_AutoML)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:AutoML
-- 2020-07-15&nbsp;&nbsp; [Gaussian Process 高斯过程](aiwiki/0216_Math_GaussianProcess)&nbsp;&nbsp; :bookmark:Math :bookmark:GaussianProcess
-- 2020-07-14&nbsp;&nbsp; [贝叶斯定理](aiwiki/0217_Math_BT)&nbsp;&nbsp; :bookmark:Math :bookmark:BT
 - 2020-07-10&nbsp;&nbsp; [Feature Engineering](aiwiki/0206_ML_AutoML_FE)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:FE
 - 2020-07-10&nbsp;&nbsp; [AutoAugment](aiwiki/0256_ML_PreP_DataAug_AutoAugment)&nbsp;&nbsp; :bookmark:ML :bookmark:PreP :bookmark:DataAug :bookmark:AutoAugment
 - 2020-07-06&nbsp;&nbsp; [Uncertainty Sampling](aiwiki/0275_ML_AL_QS_UncertaintySampling)&nbsp;&nbsp; :bookmark:ML :bookmark:AL :bookmark:QS :bookmark:UncertaintySampling
@@ -738,7 +719,6 @@
 - 2019-08-07&nbsp;&nbsp; [YAML](xwiki/0140_Doc_YAML)&nbsp;&nbsp; :bookmark:Doc :bookmark:YAML
 - 2019-08-07&nbsp;&nbsp; [ColorMaps](aiwiki/0349_OpenCV_IP_Colormaps)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IP :bookmark:Colormaps
 - 2019-08-06&nbsp;&nbsp; [grep 文本过滤工具](linux/0025_Tools_Text_grep)&nbsp;&nbsp; :bookmark:Tools :bookmark:Text :bookmark:grep
-- 2019-08-05&nbsp;&nbsp; [norm 范数](aiwiki/0254_Math_norm)&nbsp;&nbsp; :bookmark:Math :bookmark:norm
 - 2019-08-03&nbsp;&nbsp; [backup](xwiki/0121_Tools_Github_backup)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:backup
 - 2019-08-01&nbsp;&nbsp; [date - 时间管理工具](linux/0024_Tools_date)&nbsp;&nbsp; :bookmark:Tools :bookmark:date
 - 2019-07-25&nbsp;&nbsp; [ls](linux/0023_Tools_File_ls)&nbsp;&nbsp; :bookmark:Tools :bookmark:File :bookmark:ls
@@ -913,7 +893,6 @@
 - 2018-09-06&nbsp;&nbsp; [Docker Compose](xwiki/0047_Hypervisor_Docker_Compose)&nbsp;&nbsp; :bookmark:Hypervisor :bookmark:Docker :bookmark:Compose
 - 2018-09-06&nbsp;&nbsp; [Darknet](aiwiki/0260_Tools_Darknet)&nbsp;&nbsp; :bookmark:Tools :bookmark:Darknet
 - 2018-09-03&nbsp;&nbsp; [time](xwiki/0096_Programing_Python_time)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:time
-- 2018-09-03&nbsp;&nbsp; [SVD](aiwiki/0297_Math_SVD)&nbsp;&nbsp; :bookmark:Math :bookmark:SVD
 - 2018-09-02&nbsp;&nbsp; [CMake](xwiki/0053_Build_Cmake)&nbsp;&nbsp; :bookmark:Build :bookmark:Cmake
 - 2018-09-02&nbsp;&nbsp; [Argparse](xwiki/0258_Programing_Python_Argparse)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Argparse
 - 2018-08-29&nbsp;&nbsp; [Cifar](aiwiki/0032_Datasets_Image2D_Classification_Cifar)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Classification :bookmark:Cifar
@@ -923,4 +902,4 @@
 
 
 
-> `@2024.10.16 18:21:14`
+> `@2024.10.16 19:17:29`

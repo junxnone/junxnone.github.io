@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.10.16 18:21:14`
+> `@2024.10.16 19:17:29`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -395,27 +395,6 @@
 
 <kbd><sub>@1611301016</sub></kbd>
 ## AI
-- [数学基础](aiwiki/0288_Math)
-  - [向量](aiwiki/0292_Math_Vector)
-  - [Determinant  行列式](aiwiki/0301_Math_Determinant)
-  - [矩阵](aiwiki/0311_Math_Matrix)
-  - [Least Squares 最小二乘法](aiwiki/0294_Math_LeastSquares)
-    - [Moving Least Squares 移动最小二乘法](aiwiki/0291_Math_LeastSquares_Moving)
-  - [贝叶斯定理](aiwiki/0217_Math_BT)
-  - [Derivative 导数](aiwiki/0377_Math_Derivative)
-  - [Dynamic Programming 动态规划](aiwiki/0310_Math_DynamicProgramming)
-  - [Gaussian Distribution 高斯分布](aiwiki/0023_Math_GaussianDistribution)
-  - [Gaussian Filter 高斯滤波器](aiwiki/0215_Math_GaussianFilter)
-  - [Gaussian Process 高斯过程](aiwiki/0216_Math_GaussianProcess)
-  - [Lagrange Multiplier Method 拉格朗日乘数法](aiwiki/0358_Math_LMM)
-  - [马尔可夫过程](aiwiki/0449_Math_MarkovProcess)
-  - [QuadTree/OCTree - 四叉树/八叉树](aiwiki/0356_Math_QuadTree)
-  - [Quaternion 四元数](aiwiki/0289_Math_Quaternion)
-  - [RANSAC](aiwiki/0293_Math_RANSAC)
-  - [Simulated annealing 模拟退火](aiwiki/0357_Math_SA)
-  - [Stochastic process 随机过程](aiwiki/0355_Math_SC)
-  - [SVD](aiwiki/0297_Math_SVD)
-  - [norm 范数](aiwiki/0254_Math_norm)
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
     - [2D 图像](aiwiki/0035_Media_Image_2DImage)
@@ -874,7 +853,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1724351016</sub></kbd>
+<kbd><sub>@1843051016</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
