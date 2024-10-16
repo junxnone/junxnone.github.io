@@ -1,3 +1,4 @@
+- 2024-10-16&nbsp;&nbsp; [系统信息获取](xwiki/0310_Programing_Python_OSInfo)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:OSInfo
 - 2024-10-15&nbsp;&nbsp; [Grounding DINO 翻译](aiwiki/0485_paper_GroundingDINO_cn)&nbsp;&nbsp; :bookmark:paper :bookmark:GroundingDINO :bookmark:cn
 - 2024-10-15&nbsp;&nbsp; [Deformable DETR](aiwiki/0484_paper_DeformableDETR)&nbsp;&nbsp; :bookmark:paper :bookmark:DeformableDETR
 - 2024-10-14&nbsp;&nbsp; [DINO](aiwiki/0483_paper_DINO)&nbsp;&nbsp; :bookmark:paper :bookmark:DINO
@@ -610,7 +611,7 @@
 - 2020-05-28&nbsp;&nbsp; [EAST](aiwiki/0193_ML_Tasks_Image_OCR_EAST)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:OCR :bookmark:EAST
 - 2020-05-28&nbsp;&nbsp; [CTPN](aiwiki/0197_ML_Tasks_Image_OCR_CTPN)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:OCR :bookmark:CTPN
 - 2020-05-28&nbsp;&nbsp; [CRNN](aiwiki/0196_ML_Tasks_Image_OCR_CRNN)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:OCR :bookmark:CRNN
-- 2020-05-26&nbsp;&nbsp; [logging](xwiki/0097_Programing_Python_logging)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:logging
+- 2020-05-26&nbsp;&nbsp; [Logging](xwiki/0097_Programing_Python_logging)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:logging
 - 2020-05-19&nbsp;&nbsp; [ConvFlops](aiwiki/0396_ML_Op_Convolution_ConvFlops)&nbsp;&nbsp; :bookmark:ML :bookmark:Op :bookmark:Convolution :bookmark:ConvFlops
 - 2020-05-18&nbsp;&nbsp; [Metrics](aiwiki/0190_ML_Tasks_Image_OCR_Metrics)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:OCR :bookmark:Metrics
 - 2020-05-15&nbsp;&nbsp; [TextScanner](aiwiki/0192_ML_Tasks_Image_OCR_TextScanner)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:OCR :bookmark:TextScanner
@@ -920,4 +921,4 @@
 
 
 
-> `@2024.10.16 13:19:50`
+> `@2024.10.16 14:28:35`

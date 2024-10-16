@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.10.16 13:19:50`
+> `@2024.10.16 14:28:35`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -145,12 +145,13 @@
     - [Python slice 切片 操作](xwiki/0086_Programing_Python_Slice)
     - [格式化字符串](xwiki/0087_Programing_Python_FormatString)
     - [re 正则表达式模块](xwiki/0207_Programing_Python_re)
-    - [logging](xwiki/0097_Programing_Python_logging)
+    - [Logging](xwiki/0097_Programing_Python_logging)
     - [Argparse](xwiki/0258_Programing_Python_Argparse)
     - [编译可执行文件](xwiki/0089_Programing_Python_BuildExe)
     - [Decorator 装饰器](xwiki/0088_Programing_Python_Decorator)
       - [`@property` decorator](xwiki/0306_Programing_Python_Decorator_property)
     - [文件操作](xwiki/0297_Programing_Python_File)
+    - [系统信息获取](xwiki/0310_Programing_Python_OSInfo)
     - [工具](xwiki/0090_Programing_Python_Tools)
       - [PySnooper](xwiki/0304_Programing_Python_Tools_PySnooper)
       - [Streamlit](xwiki/0294_Programing_Python_Tools_Streamlit)
@@ -392,7 +393,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1611411015</sub></kbd>
+<kbd><sub>@1331221016</sub></kbd>
 ## AI
 - [数学基础](aiwiki/0288_Math)
   - [向量](aiwiki/0292_Math_Vector)
