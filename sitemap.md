@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.10.16 17:22:07`
+> `@2024.10.16 18:21:14`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -844,8 +844,10 @@
   - [AnomalyCLIP](aiwiki/0466_paper_AnomalyCLIP)
   - [BitFit](aiwiki/0478_paper_BitFit)
   - [CLIP](aiwiki/0448_paper_CLIP)
+    - [CLIP Finetune](aiwiki/0487_paper_CLIP_Finetune)
   - [CSPNet](aiwiki/0385_paper_CSPNet)
   - [CaFo](aiwiki/0476_paper_CaFo)
+  - [CoOP](aiwiki/0474_paper_CoOP)
   - [ControlNet](aiwiki/0407_paper_ControlNet)
   - [DETR](aiwiki/0165_paper_DETR)
   - [DINO](aiwiki/0483_paper_DINO)
@@ -854,6 +856,7 @@
   - [FiLo](aiwiki/0472_paper_FiLo)
   - [Grounding DINO](aiwiki/0464_paper_GroundingDINO)
     - [Grounding DINO 翻译](aiwiki/0485_paper_GroundingDINO_cn)
+  - [LFA](aiwiki/0480_paper_LFA)
   - [MTA](aiwiki/0479_paper_MTA)
   - [MuSC](aiwiki/0467_paper_MuSC)
   - [SAA+](aiwiki/0469_paper_SAAplus)
@@ -862,10 +865,8 @@
   - [WinCLIP](aiwiki/0468_paper_WinCLIP)
   - [YOLO-World](aiwiki/0465_paper_YOLOWorld)
 - [x](aiwiki/0418_x)
-  - [CoOP](aiwiki/0474_x_CoOP)
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
-  - [LFA](aiwiki/0480_x_LFA)
   - Model
     - [Model Precision](aiwiki/0450_x_Model_Precision)
   - [Optuna](aiwiki/0486_x_Optuna)
@@ -873,7 +874,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1717111016</sub></kbd>
+<kbd><sub>@1724351016</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

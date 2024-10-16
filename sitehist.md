@@ -1,5 +1,6 @@
 - 2024-10-16&nbsp;&nbsp; [系统信息获取](xwiki/0310_Programing_Python_OSInfo)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:OSInfo
 - 2024-10-16&nbsp;&nbsp; [Optuna](aiwiki/0486_x_Optuna)&nbsp;&nbsp; :bookmark:x :bookmark:Optuna
+- 2024-10-16&nbsp;&nbsp; [CLIP Finetune](aiwiki/0487_paper_CLIP_Finetune)&nbsp;&nbsp; :bookmark:paper :bookmark:CLIP :bookmark:Finetune
 - 2024-10-15&nbsp;&nbsp; [Grounding DINO 翻译](aiwiki/0485_paper_GroundingDINO_cn)&nbsp;&nbsp; :bookmark:paper :bookmark:GroundingDINO :bookmark:cn
 - 2024-10-15&nbsp;&nbsp; [Deformable DETR](aiwiki/0484_paper_DeformableDETR)&nbsp;&nbsp; :bookmark:paper :bookmark:DeformableDETR
 - 2024-10-14&nbsp;&nbsp; [DINO](aiwiki/0483_paper_DINO)&nbsp;&nbsp; :bookmark:paper :bookmark:DINO
@@ -7,11 +8,11 @@
 - 2024-10-12&nbsp;&nbsp; [DTD - Describable Textures Dataset](aiwiki/0481_Datasets_Image2D_DTD)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:DTD
 - 2024-10-11&nbsp;&nbsp; [VPT - Visual Prompt Tuning](aiwiki/0477_paper_VPT)&nbsp;&nbsp; :bookmark:paper :bookmark:VPT
 - 2024-10-11&nbsp;&nbsp; [MTA](aiwiki/0479_paper_MTA)&nbsp;&nbsp; :bookmark:paper :bookmark:MTA
-- 2024-10-11&nbsp;&nbsp; [LFA](aiwiki/0480_x_LFA)&nbsp;&nbsp; :bookmark:x :bookmark:LFA
+- 2024-10-11&nbsp;&nbsp; [LFA](aiwiki/0480_paper_LFA)&nbsp;&nbsp; :bookmark:paper :bookmark:LFA
 - 2024-10-11&nbsp;&nbsp; [CaFo](aiwiki/0476_paper_CaFo)&nbsp;&nbsp; :bookmark:paper :bookmark:CaFo
 - 2024-10-11&nbsp;&nbsp; [BitFit](aiwiki/0478_paper_BitFit)&nbsp;&nbsp; :bookmark:paper :bookmark:BitFit
 - 2024-10-09&nbsp;&nbsp; [Tip-Adapter](aiwiki/0475_paper_TipAdapter)&nbsp;&nbsp; :bookmark:paper :bookmark:TipAdapter
-- 2024-10-08&nbsp;&nbsp; [CoOP](aiwiki/0474_x_CoOP)&nbsp;&nbsp; :bookmark:x :bookmark:CoOP
+- 2024-10-08&nbsp;&nbsp; [CoOP](aiwiki/0474_paper_CoOP)&nbsp;&nbsp; :bookmark:paper :bookmark:CoOP
 - 2024-09-25&nbsp;&nbsp; [Shell](linux/0134_Tools_Shell)&nbsp;&nbsp; :bookmark:Tools :bookmark:Shell
 - 2024-09-25&nbsp;&nbsp; [Shell 快捷键](linux/0135_Tools_Shell_hotkey)&nbsp;&nbsp; :bookmark:Tools :bookmark:Shell :bookmark:hotkey
 - 2024-09-23&nbsp;&nbsp; [端口占用](linux/0133_Tools_OS_Port)&nbsp;&nbsp; :bookmark:Tools :bookmark:OS :bookmark:Port
@@ -922,4 +923,4 @@
 
 
 
-> `@2024.10.16 17:22:08`
+> `@2024.10.16 18:21:14`
