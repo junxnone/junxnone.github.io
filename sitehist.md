@@ -806,6 +806,7 @@
 - 2019-02-19&nbsp;&nbsp; [VLAD](aiwiki/0154_ML_Tasks_Image_Retrieval_CBIR_VLAD)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Retrieval :bookmark:CBIR :bookmark:VLAD
 - 2019-02-19&nbsp;&nbsp; [CBIR](aiwiki/0155_ML_Tasks_Image_Retrieval_CBIR)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Retrieval :bookmark:CBIR
 - 2019-02-18&nbsp;&nbsp; [移除 stage 文件](xwiki/0119_Tools_Git_RMStageFile)&nbsp;&nbsp; :bookmark:Tools :bookmark:Git :bookmark:RMStageFile
+- 2019-02-18&nbsp;&nbsp; [os package](xwiki/0311_Programing_Python_os)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:os
 - 2019-02-12&nbsp;&nbsp; [ResNet](aiwiki/0051_ML_Tasks_Image_Classification_ResNet)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Classification :bookmark:ResNet
 - 2019-02-03&nbsp;&nbsp; [Sourcegraph](xwiki/0125_Tools_Github_ChromeExtensions_Sourcegraph)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:ChromeExtensions :bookmark:Sourcegraph
 - 2019-02-03&nbsp;&nbsp; [ChromeExtensions](xwiki/0124_Tools_Github_ChromeExtensions)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:ChromeExtensions
@@ -902,4 +903,4 @@
 
 
 
-> `@2024.10.17 15:19:33`
+> `@2024.10.17 16:26:28`
