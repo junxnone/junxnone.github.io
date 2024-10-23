@@ -1,3 +1,4 @@
+- 2024-10-23&nbsp;&nbsp; [Linux Logs](linux/0136_Logs)&nbsp;&nbsp; :bookmark:Logs
 - 2024-10-16&nbsp;&nbsp; [系统信息获取](xwiki/0310_Programing_Python_OSInfo)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:OSInfo
 - 2024-10-16&nbsp;&nbsp; [Optuna](aiwiki/0486_x_Optuna)&nbsp;&nbsp; :bookmark:x :bookmark:Optuna
 - 2024-10-16&nbsp;&nbsp; [CLIP Finetune](aiwiki/0487_paper_CLIP_Finetune)&nbsp;&nbsp; :bookmark:paper :bookmark:CLIP :bookmark:Finetune
@@ -903,4 +904,4 @@
 
 
 
-> `@2024.10.23 15:19:53`
+> `@2024.10.23 16:26:30`
