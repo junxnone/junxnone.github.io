@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.11.19 13:19:56`
+> `@2024.11.19 14:29:49`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -395,7 +395,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1612551118</sub></kbd>
+<kbd><sub>@1423551119</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
