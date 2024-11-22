@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.11.22 10:58:25`
+> `@2024.11.22 11:34:04`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -725,6 +725,7 @@
     - [Detection](aiwiki/0237_Datasets_Image2D_Detection)
       - [BBox Format](aiwiki/0488_Datasets_Image2D_Detection_BBox)
       - [BIT-Vehicle](aiwiki/0246_Datasets_Image2D_Detection_BITVehicle)
+      - [CPPE-5](aiwiki/0489_Datasets_Image2D_Detection_CPPE5)
     - [Segmentation](aiwiki/0097_Datasets_Image2D_Segmentation)
       - [Balloon](aiwiki/0090_Datasets_Image2D_Segmentation_Balloon)
       - [CHAOS](aiwiki/0096_Datasets_Image2D_Segmentation_CHAOS)
@@ -856,7 +857,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1619591121</sub></kbd>
+<kbd><sub>@1124231122</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

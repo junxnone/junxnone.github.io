@@ -1,3 +1,4 @@
+- 2024-11-22&nbsp;&nbsp; [CPPE-5](aiwiki/0489_Datasets_Image2D_Detection_CPPE5)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Detection :bookmark:CPPE5
 - 2024-11-18&nbsp;&nbsp; [BBox Format](aiwiki/0488_Datasets_Image2D_Detection_BBox)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Detection :bookmark:BBox
 - 2024-10-23&nbsp;&nbsp; [Linux Logs](linux/0136_Logs)&nbsp;&nbsp; :bookmark:Logs
 - 2024-10-16&nbsp;&nbsp; [系统信息获取](xwiki/0310_Programing_Python_OSInfo)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:OSInfo
@@ -905,4 +906,4 @@
 
 
 
-> `@2024.11.22 10:58:25`
+> `@2024.11.22 11:34:05`
