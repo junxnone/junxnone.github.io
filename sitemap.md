@@ -1,5 +1,5 @@
 # Junxnone
-> `@2024.12.23 16:26:33`
+> `@2024.12.23 17:21:33`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -683,6 +683,7 @@
     - [多 GPUs](aiwiki/0338_Tools_Pytorch_mGPUs)
     - [Tips](aiwiki/0170_Tools_Pytorch_Tips)
     - [Data](aiwiki/0359_Tools_Pytorch_Data)
+    - [TorchScript](aiwiki/0490_Tools_Pytorch_TorchScript)
   - [OpenVINO](aiwiki/0185_Tools_OV)
     - [Model Optimizer](aiwiki/0181_Tools_OV_MO)
     - [Inference Engine](aiwiki/0180_Tools_OV_IE)
@@ -857,7 +858,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1619461223</sub></kbd>
+<kbd><sub>@1644021223</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
