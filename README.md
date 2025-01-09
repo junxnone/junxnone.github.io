@@ -21,10 +21,10 @@
     3D Knowledge Graph
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/jstools/mdmarkmap/?md=https://junxnone.github.io/sitemap :color=#1599d6 -->
-    Site Map
+    MarkMap
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/#/sitehist :color=#1599d6 -->
-    Site History
+    History
 <!-- ko-fi -->
 
 
