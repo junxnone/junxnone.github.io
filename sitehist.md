@@ -1,3 +1,4 @@
+- 2025-01-09&nbsp;&nbsp; [存储](xwiki/0312_Hardware_Storage)&nbsp;&nbsp; :bookmark:Hardware :bookmark:Storage
 - 2024-12-23&nbsp;&nbsp; [TorchScript](aiwiki/0490_Tools_Pytorch_TorchScript)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:TorchScript
 - 2024-11-22&nbsp;&nbsp; [CPPE-5](aiwiki/0489_Datasets_Image2D_Detection_CPPE5)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Detection :bookmark:CPPE5
 - 2024-11-18&nbsp;&nbsp; [BBox Format](aiwiki/0488_Datasets_Image2D_Detection_BBox)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Detection :bookmark:BBox
@@ -907,4 +908,4 @@
 
 
 
-> `@2025.01.09 13:19:05`
+> `@2025.01.09 14:28:10`
