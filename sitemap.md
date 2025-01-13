@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.01.13 10:56:16`
+> `@2025.01.13 11:30:27`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -808,6 +808,7 @@
   - [Large Language Models](aiwiki/0446_Hot_LLMs)
   - [大模型](aiwiki/0408_Hot_LM)
     - [大模型微调](aiwiki/0410_Hot_LM_Tuning)
+      - [AdaLoRA](aiwiki/0491_Hot_LM_Tuning_AdaLoRA)
       - [Adapter FineTuning](aiwiki/0412_Hot_LM_Tuning_Adapter)
       - [DreamBooth](aiwiki/0405_Hot_LM_Tuning_DreamBooth)
       - [LoRA](aiwiki/0406_Hot_LM_Tuning_LoRA)
@@ -859,7 +860,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@0957580113</sub></kbd>
+<kbd><sub>@1121390113</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

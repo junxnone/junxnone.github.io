@@ -1,3 +1,4 @@
+- 2025-01-13&nbsp;&nbsp; [AdaLoRA](aiwiki/0491_Hot_LM_Tuning_AdaLoRA)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:AdaLoRA
 - 2025-01-09&nbsp;&nbsp; [存储](xwiki/0312_Hardware_Storage)&nbsp;&nbsp; :bookmark:Hardware :bookmark:Storage
 - 2024-12-23&nbsp;&nbsp; [TorchScript](aiwiki/0490_Tools_Pytorch_TorchScript)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:TorchScript
 - 2024-11-22&nbsp;&nbsp; [CPPE-5](aiwiki/0489_Datasets_Image2D_Detection_CPPE5)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Detection :bookmark:CPPE5
@@ -908,4 +909,4 @@
 
 
 
-> `@2025.01.13 10:56:17`
+> `@2025.01.13 11:30:28`
