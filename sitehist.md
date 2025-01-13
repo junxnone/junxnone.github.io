@@ -1,3 +1,5 @@
+- 2025-01-13&nbsp;&nbsp; [LoKr](aiwiki/0493_Hot_LM_Tuning_LoKr)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:LoKr
+- 2025-01-13&nbsp;&nbsp; [LoHa](aiwiki/0492_Hot_LM_Tuning_LoHa)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:LoHa
 - 2025-01-13&nbsp;&nbsp; [AdaLoRA](aiwiki/0491_Hot_LM_Tuning_AdaLoRA)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:AdaLoRA
 - 2025-01-09&nbsp;&nbsp; [存储](xwiki/0312_Hardware_Storage)&nbsp;&nbsp; :bookmark:Hardware :bookmark:Storage
 - 2024-12-23&nbsp;&nbsp; [TorchScript](aiwiki/0490_Tools_Pytorch_TorchScript)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:TorchScript
@@ -909,4 +911,4 @@
 
 
 
-> `@2025.01.13 16:27:36`
+> `@2025.01.13 17:23:03`
