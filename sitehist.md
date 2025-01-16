@@ -1,3 +1,5 @@
+- 2025-01-16&nbsp;&nbsp; [OFT/BOFT](aiwiki/0495_Hot_LM_Tuning_OFT)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:OFT
+- 2025-01-16&nbsp;&nbsp; [IA3](aiwiki/0494_Hot_LM_Tuning_IA3)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:IA3
 - 2025-01-13&nbsp;&nbsp; [LoKr](aiwiki/0493_Hot_LM_Tuning_LoKr)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:LoKr
 - 2025-01-13&nbsp;&nbsp; [LoHa](aiwiki/0492_Hot_LM_Tuning_LoHa)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:LoHa
 - 2025-01-13&nbsp;&nbsp; [AdaLoRA](aiwiki/0491_Hot_LM_Tuning_AdaLoRA)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:AdaLoRA
@@ -911,4 +913,4 @@
 
 
 
-> `@2025.01.16 10:44:09`
+> `@2025.01.16 11:21:20`
