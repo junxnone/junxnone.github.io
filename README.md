@@ -51,7 +51,51 @@
 ![](https://img.shields.io/badge/%DB%A9-EmbeddingOS-lightgrey)  
 
 
-[markmap show](https://junxnone.github.io/jstools/mdmarkmap/?md=https://junxnone.github.io/skills.md ':include :type=iframe width=50% height=800px')
+```markmap
+# Skills
 
+- Linux
+  - Ubuntu
+  - Yocto
+  - CentOS
+  - Shell
+  - Docker
+  - KVM
+- ML/DL
+  - Tools
+    - Scikit-Learn
+    - Pytorch
+    - Tensorflow
+    - OpenVINO
+  - Tasks
+    - Classification
+    - Detection
+    - Segmentation
+    - Retrivel
+    - OCR
+    - Anomaly Detection
+  - Active Learning
+  - AutoML
+  - HPO
+  - Data Augmentation
+- Python
+  - OpenCV
+  - Numpy
+  - Pandas
+- C/C++
+- Performance Optimation
+  - OneAPI
+  - OpenMP
+  - Memory
+- CMake
+- Hardware
+- 3D
+  - PCL
+    - Filter
+    - PPF
+    - ICP
+    - Measurement
+    - Visualization
+```
 
 
