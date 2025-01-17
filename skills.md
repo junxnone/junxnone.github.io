@@ -1,48 +1,72 @@
 ```markmap
 # Skills
 
-## AI
-- ML Tasks(Training/Finetune/Deploy)
+## [AI](https://junxnone.github.io/aiwiki/#/)
+- ML Tasks(Training/Finetune/Evaluate/Deploy)
   - Classification
   - Detection
   - Segmentation
-  - Retrivel
+  - Image Retrivel
   - OCR
   - Anomaly Detection
-- Active Learning
-- AutoML
-- HPO
 - Data Prepare
+  - Filter
   - Annotation
   - Augmentation
 - OpenVINO/ONNX
   - Model Convert
   - Inference Deploy
-- LLMs
-  - Testing/Deploy
+- Research(Finetune/Testing/Deploy)
+  - Active Learning
+  - AutoML
+  - HPO
+  - LLMs
+    - Chat
+    - RAG
+    - Image Generate
+  - RL
 
-## Others
-
-- Performance optimization
+## [Performance Optimization](https://junxnone.github.io/opt/#/)
+- Parallel Programming
   - SIMD/AVX
   - OneAPI/sycl
+    - MKL
+    - IPP
   - OpenMP
-  - Memory optimization
-  - ICX
-  - Vtune
   - Data Tile
-  - Loop Optimation
-- Linux(Ubuntu/Yocto/CentOS)
-  - Shell Script
-- Docker
-- KVM
-- Python
-- C/C++
-- 3D
+- Compiler Optimization
+  - ICX
+- Debug Tools
+  - Vtune
+- Loop Optimation
+- Memory Optimization
+
+## 3D
   - PCL
     - Filter
-    - PPF
-    - ICP
+    - Registration
+      - PPF
+      - ICP
+      - ...
     - Measurement
-    - Visualization 
+    - Visualization
+
+## [Linux](https://junxnone.github.io/linux/#/)
+- Drivers
+- Tools
+- Shell Script
+
+## [Others](https://junxnone.github.io/xwiki/#/)
+- OpenCV
+- Python
+- C/C++
+- Docker
+- KVM
+- Drivers
+  - Android Camera
+  - Linux Audio
+- RTOS
+- Hardware
+
+
 ```
