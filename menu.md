@@ -1,13 +1,16 @@
 # 技术
 
+<!-- ko-fi :id=junxnone.github.io/aiwiki :color=#1599d6 -->
+    AI Wiki
+<!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/opt :color=#1599d6 -->
+    Optmization
+<!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/xwiki :color=#1599d6 -->
     X-Wiki
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/linux :color=#1599d6 -->
     Linux
-<!-- ko-fi -->
-<!-- ko-fi :id=junxnone.github.io/aiwiki :color=#1599d6 -->
-    AI Wiki
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/leetcode :color=#1599d6 -->
     Leetcode
