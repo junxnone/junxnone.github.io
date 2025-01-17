@@ -1,21 +1,14 @@
 
 
 ----
-
+<!-- ko-fi :id=junxnone.github.io/aiwiki :color=#1599d6 -->
+    AI
+<!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/xwiki :color=#1599d6 -->
     X-Wiki
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/linux :color=#1599d6 -->
     Linux
-<!-- ko-fi -->
-<!-- ko-fi :id=junxnone.github.io/aiwiki :color=#1599d6 -->
-    AI
-<!-- ko-fi -->
-<!-- ko-fi :id=junxnone.github.io/t :color=#1599d6 -->
-    旅行
-<!-- ko-fi -->
-<!-- ko-fi :id=junxnone.github.io/#/menu :color=#1599d6 -->
-    其他
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/jstools/3dkg/?json=https://junxnone.github.io/kg.json :color=#1599d6 -->
     3D Knowledge Graph
@@ -26,6 +19,16 @@
 <!-- ko-fi :id=junxnone.github.io/#/sitehist :color=#1599d6 -->
     History
 <!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/t :color=#1599d6 -->
+    旅行
+<!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/#/menu :color=#1599d6 -->
+    其他
+<!-- ko-fi -->
+
+----
+ 
+[skills](skills.md ':include')
 
 
 ----
@@ -33,24 +36,7 @@
 ![](https://raw.githubusercontent.com/junxnone/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
- 
-![](https://img.shields.io/badge/%E2%9C%8C-CV-green)
-![](https://img.shields.io/badge/%E2%9C%8C-ML&DL-green)
-![](https://img.shields.io/badge/%E2%9C%8C-Python-green)
-![](https://img.shields.io/badge/%E2%9C%8C-C/C++-green)
-![](https://img.shields.io/badge/%E2%9C%8C-Shell-green)
-![](https://img.shields.io/badge/%E2%9C%8C-Linux-green)
-![](https://img.shields.io/badge/%E2%9C%8C-Docker-green)
-![](https://img.shields.io/badge/%E2%9C%8D-AL-blue)
-![](https://img.shields.io/badge/%E2%9C%8D-AutoML-blue)
-![](https://img.shields.io/badge/%E2%9C%8D-RL-blue)
-![](https://img.shields.io/badge/%E2%9C%8D-NLP-blue)
-![](https://img.shields.io/badge/%DB%A9-Android-lightgrey)
-![](https://img.shields.io/badge/%DB%A9-Camera-lightgrey)
-![](https://img.shields.io/badge/%DB%A9-Hardware-lightgrey)
-![](https://img.shields.io/badge/%DB%A9-EmbeddingOS-lightgrey)  
 
-[skills](skills.md ':include')
 
 
 
