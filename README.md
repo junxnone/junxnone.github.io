@@ -50,6 +50,8 @@
 ![](https://img.shields.io/badge/%DB%A9-Hardware-lightgrey)
 ![](https://img.shields.io/badge/%DB%A9-EmbeddingOS-lightgrey)  
 
+[skills](skills.md ':include')
+
 
 ```markmap
 # Skills
