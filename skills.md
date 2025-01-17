@@ -51,12 +51,12 @@
     - Measurement
     - Visualization
 
-## [Linux](https://junxnone.github.io/linux/#/)
+## [Linux ](https://junxnone.github.io/linux/#/)
 - Drivers
 - Tools
 - Shell Script
 
-## [Others](https://junxnone.github.io/xwiki/#/)
+## [Others ](https://junxnone.github.io/xwiki/#/)
 - OpenCV
 - Python
 - C/C++
