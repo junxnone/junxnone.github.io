@@ -1,8 +1,8 @@
-- 2025-01-16&nbsp;&nbsp; [OFT/BOFT](aiwiki/0495_Hot_LM_Tuning_OFT)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:OFT
-- 2025-01-16&nbsp;&nbsp; [IA3](aiwiki/0494_Hot_LM_Tuning_IA3)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:IA3
-- 2025-01-13&nbsp;&nbsp; [LoKr](aiwiki/0493_Hot_LM_Tuning_LoKr)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:LoKr
-- 2025-01-13&nbsp;&nbsp; [LoHa](aiwiki/0492_Hot_LM_Tuning_LoHa)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:LoHa
-- 2025-01-13&nbsp;&nbsp; [AdaLoRA](aiwiki/0491_Hot_LM_Tuning_AdaLoRA)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:AdaLoRA
+- 2025-01-16&nbsp;&nbsp; [OFT/BOFT](aiwiki/0495_LM_FT_OFT)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:OFT
+- 2025-01-16&nbsp;&nbsp; [IA3](aiwiki/0494_LM_FT_IA3)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:IA3
+- 2025-01-13&nbsp;&nbsp; [LoKr](aiwiki/0493_LM_FT_LoKr)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:LoKr
+- 2025-01-13&nbsp;&nbsp; [LoHa](aiwiki/0492_LM_FT_LoHa)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:LoHa
+- 2025-01-13&nbsp;&nbsp; [AdaLoRA](aiwiki/0491_LM_FT_AdaLoRA)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:AdaLoRA
 - 2025-01-09&nbsp;&nbsp; [存储](xwiki/0312_Hardware_Storage)&nbsp;&nbsp; :bookmark:Hardware :bookmark:Storage
 - 2024-12-23&nbsp;&nbsp; [TorchScript](aiwiki/0490_Tools_Pytorch_TorchScript)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:TorchScript
 - 2024-11-22&nbsp;&nbsp; [CPPE-5](aiwiki/0489_Datasets_Image2D_Detection_CPPE5)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Detection :bookmark:CPPE5
@@ -61,12 +61,12 @@
 - 2024-04-20&nbsp;&nbsp; [User-Mode Sampling and Tracing Colllection](opt/0052_Tools_Vtune_UMS)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:UMS
 - 2024-04-20&nbsp;&nbsp; [Hardware Event-based Sampling Collection](opt/0053_Tools_Vtune_HWE)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:HWE
 - 2024-04-11&nbsp;&nbsp; [Hybrid](xwiki/0302_Hardware_CPU_Hybrid)&nbsp;&nbsp; :bookmark:Hardware :bookmark:CPU :bookmark:Hybrid
-- 2024-04-09&nbsp;&nbsp; [GLIP](aiwiki/0463_Hot_GLIP)&nbsp;&nbsp; :bookmark:Hot :bookmark:GLIP
+- 2024-04-09&nbsp;&nbsp; [GLIP](aiwiki/0463_LM_VLM_GLIP)&nbsp;&nbsp; :bookmark:LM :bookmark:VLM :bookmark:GLIP
 - 2024-04-06&nbsp;&nbsp; [Github Pull Requests](xwiki/0301_Tools_Github_PullRequests)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:PullRequests
 - 2024-03-13&nbsp;&nbsp; [Benchmark Tools](linux/0129_Tools_Benchmark)&nbsp;&nbsp; :bookmark:Tools :bookmark:Benchmark
 - 2024-03-12&nbsp;&nbsp; [7z](linux/0128_Tools_File_Archiver_7z)&nbsp;&nbsp; :bookmark:Tools :bookmark:File :bookmark:Archiver :bookmark:7z
 - 2024-02-22&nbsp;&nbsp; [有趣的工具](aiwiki/0462_有趣的工具)&nbsp;&nbsp; :bookmark:有趣的工具
-- 2024-02-20&nbsp;&nbsp; [RAG](aiwiki/0461_Hot_AIGC_RAG)&nbsp;&nbsp; :bookmark:Hot :bookmark:AIGC :bookmark:RAG
+- 2024-02-20&nbsp;&nbsp; [RAG](aiwiki/0461_LM_RAG)&nbsp;&nbsp; :bookmark:LM :bookmark:RAG
 - 2024-01-15&nbsp;&nbsp; [ESIMD](opt/0011_PARA_SYCL_ESIMD)&nbsp;&nbsp; :bookmark:PARA :bookmark:SYCL :bookmark:ESIMD
 - 2023-12-11&nbsp;&nbsp; [Visual Studio Code](xwiki/0299_Windows_VSCode)&nbsp;&nbsp; :bookmark:Windows :bookmark:VSCode
 - 2023-12-05&nbsp;&nbsp; [log 相关工具](linux/0127_Tools_OS_log)&nbsp;&nbsp; :bookmark:Tools :bookmark:OS :bookmark:log
@@ -78,7 +78,7 @@
 - 2023-11-06&nbsp;&nbsp; [Terminal 按 tab 键卡死一段时间](linux/0126_Ubuntu_Issues_tabdelay)&nbsp;&nbsp; :bookmark:Ubuntu :bookmark:Issues :bookmark:tabdelay
 - 2023-11-03&nbsp;&nbsp; [hydra](xwiki/0298_Programing_Python_Tools_hydra)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:hydra
 - 2023-11-02&nbsp;&nbsp; [文件操作](xwiki/0297_Programing_Python_File)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:File
-- 2023-11-01&nbsp;&nbsp; [Latent Space 潜在空间](aiwiki/0455_Hot_LatentSpace)&nbsp;&nbsp; :bookmark:Hot :bookmark:LatentSpace
+- 2023-11-01&nbsp;&nbsp; [Latent Space 潜在空间](aiwiki/0455_LM_VLM_LatentSpace)&nbsp;&nbsp; :bookmark:LM :bookmark:VLM :bookmark:LatentSpace
 - 2023-10-31&nbsp;&nbsp; [omegaconf](xwiki/0296_Programing_Python_Tools_omegaconf)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:omegaconf
 - 2023-10-31&nbsp;&nbsp; [RL Tools](aiwiki/0454_RL_Tools)&nbsp;&nbsp; :bookmark:RL :bookmark:Tools
 - 2023-10-30&nbsp;&nbsp; [NNCF](aiwiki/0451_Tools_OV_NNCF)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:NNCF
@@ -91,8 +91,8 @@
 - 2023-10-15&nbsp;&nbsp; [Streamlit](xwiki/0294_Programing_Python_Tools_Streamlit)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:Streamlit
 - 2023-10-13&nbsp;&nbsp; [Question](aiwiki/0447_x_Q)&nbsp;&nbsp; :bookmark:x :bookmark:Q
 - 2023-10-12&nbsp;&nbsp; [命令行不能进入 D 盘](xwiki/0293_Windows_Issues_cmdCannotIntoD)&nbsp;&nbsp; :bookmark:Windows :bookmark:Issues :bookmark:cmdCannotIntoD
-- 2023-10-12&nbsp;&nbsp; [Stable Diffusion 原理](aiwiki/0445_Hot_StableDiffusion_Algos)&nbsp;&nbsp; :bookmark:Hot :bookmark:StableDiffusion :bookmark:Algos
-- 2023-10-12&nbsp;&nbsp; [Large Language Models](aiwiki/0446_Hot_LLMs)&nbsp;&nbsp; :bookmark:Hot :bookmark:LLMs
+- 2023-10-12&nbsp;&nbsp; [Stable Diffusion 原理](aiwiki/0445_LM_VLM_StableDiffusion_Algos)&nbsp;&nbsp; :bookmark:LM :bookmark:VLM :bookmark:StableDiffusion :bookmark:Algos
+- 2023-10-12&nbsp;&nbsp; [Large Language Models](aiwiki/0446_LM_LLMs)&nbsp;&nbsp; :bookmark:LM :bookmark:LLMs
 - 2023-09-20&nbsp;&nbsp; [用于边缘检测的线性滤波器 Sobel](aiwiki/0443_OpenCV_IP_Filter_Sobel)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IP :bookmark:Filter :bookmark:Sobel
 - 2023-09-20&nbsp;&nbsp; [medianBlur 中值滤波](aiwiki/0442_OpenCV_IP_Filter_medianBlur)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IP :bookmark:Filter :bookmark:medianBlur
 - 2023-09-20&nbsp;&nbsp; [blur 模糊处理](aiwiki/0441_OpenCV_IP_Filter_blur)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IP :bookmark:Filter :bookmark:blur
@@ -126,7 +126,7 @@
 - 2023-07-04&nbsp;&nbsp; [JavaScript](xwiki/0276_Programing_js)&nbsp;&nbsp; :bookmark:Programing :bookmark:js
 - 2023-06-30&nbsp;&nbsp; [VCS 版本控制系统](xwiki/0275_X_VCS)&nbsp;&nbsp; :bookmark:X :bookmark:VCS
 - 2023-06-29&nbsp;&nbsp; [应用](aiwiki/0428_应用)&nbsp;&nbsp; :bookmark:应用
-- 2023-06-29&nbsp;&nbsp; [DragGAN](aiwiki/0429_Hot_DragGAN)&nbsp;&nbsp; :bookmark:Hot :bookmark:DragGAN
+- 2023-06-29&nbsp;&nbsp; [DragGAN](aiwiki/0429_LM_VLM_DragGAN)&nbsp;&nbsp; :bookmark:LM :bookmark:VLM :bookmark:DragGAN
 - 2023-06-26&nbsp;&nbsp; [Git Rebase](xwiki/0274_Tools_Git_Rebase)&nbsp;&nbsp; :bookmark:Tools :bookmark:Git :bookmark:Rebase
 - 2023-06-24&nbsp;&nbsp; [文档工具](xwiki/0271_Doc_Tools)&nbsp;&nbsp; :bookmark:Doc :bookmark:Tools
 - 2023-06-24&nbsp;&nbsp; [Pandoc](xwiki/0268_Doc_Tools_pandoc)&nbsp;&nbsp; :bookmark:Doc :bookmark:Tools :bookmark:pandoc
@@ -167,30 +167,30 @@
 - 2023-06-09&nbsp;&nbsp; [GNOME](linux/0118_Desktop_GNOME)&nbsp;&nbsp; :bookmark:Desktop :bookmark:GNOME
 - 2023-06-09&nbsp;&nbsp; [APT Source](linux/0119_Ubuntu_APT_Source)&nbsp;&nbsp; :bookmark:Ubuntu :bookmark:APT :bookmark:Source
 - 2023-06-08&nbsp;&nbsp; [KDE](linux/0117_Desktop_KDE)&nbsp;&nbsp; :bookmark:Desktop :bookmark:KDE
-- 2023-06-07&nbsp;&nbsp; [SAM](aiwiki/0414_Hot_SAM)&nbsp;&nbsp; :bookmark:Hot :bookmark:SAM
-- 2023-06-07&nbsp;&nbsp; [Imagen](aiwiki/0413_Hot_Imagen)&nbsp;&nbsp; :bookmark:Hot :bookmark:Imagen
-- 2023-06-05&nbsp;&nbsp; [大模型微调](aiwiki/0410_Hot_LM_Tuning)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning
-- 2023-06-05&nbsp;&nbsp; [Prefix Tuning](aiwiki/0411_Hot_LM_Tuning_PrefixTuning)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:PrefixTuning
+- 2023-06-07&nbsp;&nbsp; [SAM](aiwiki/0414_LM_VLM_SAM)&nbsp;&nbsp; :bookmark:LM :bookmark:VLM :bookmark:SAM
+- 2023-06-07&nbsp;&nbsp; [Imagen](aiwiki/0413_LM_VLM_Imagen)&nbsp;&nbsp; :bookmark:LM :bookmark:VLM :bookmark:Imagen
+- 2023-06-05&nbsp;&nbsp; [大模型微调](aiwiki/0410_LM_FT)&nbsp;&nbsp; :bookmark:LM :bookmark:FT
+- 2023-06-05&nbsp;&nbsp; [Prefix Tuning](aiwiki/0411_LM_FT_PrefixTuning)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:PrefixTuning
 - 2023-06-05&nbsp;&nbsp; [Compiler Explorer](xwiki/0253_Tools_CompilerExplorer)&nbsp;&nbsp; :bookmark:Tools :bookmark:CompilerExplorer
-- 2023-06-05&nbsp;&nbsp; [Adapter FineTuning](aiwiki/0412_Hot_LM_Tuning_Adapter)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:Adapter
+- 2023-06-05&nbsp;&nbsp; [Adapter FineTuning](aiwiki/0412_LM_FT_Adapter)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:Adapter
 - 2023-06-04&nbsp;&nbsp; [MSVC STL](xwiki/0250_Programing_CPP_STD_MSVC)&nbsp;&nbsp; :bookmark:Programing :bookmark:CPP :bookmark:STD :bookmark:MSVC
 - 2023-06-04&nbsp;&nbsp; [GNU STD](xwiki/0251_Programing_CPP_STD_GNU)&nbsp;&nbsp; :bookmark:Programing :bookmark:CPP :bookmark:STD :bookmark:GNU
 - 2023-06-04&nbsp;&nbsp; [Cool Demo](aiwiki/0409_x_Demo)&nbsp;&nbsp; :bookmark:x :bookmark:Demo
 - 2023-06-04&nbsp;&nbsp; [API Vs ABI](xwiki/0252_X_APIvsABI)&nbsp;&nbsp; :bookmark:X :bookmark:APIvsABI
-- 2023-06-03&nbsp;&nbsp; [大模型](aiwiki/0408_Hot_LM)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM
+- 2023-06-03&nbsp;&nbsp; [大模型](aiwiki/0408_LM)&nbsp;&nbsp; :bookmark:LM
 - 2023-06-02&nbsp;&nbsp; [参考资源](xwiki/0247_Reference)&nbsp;&nbsp; :bookmark:Reference
 - 2023-06-02&nbsp;&nbsp; [reStructuredText](xwiki/0246_Doc_reStructuredText)&nbsp;&nbsp; :bookmark:Doc :bookmark:reStructuredText
 - 2023-06-02&nbsp;&nbsp; [Policy 策略设计模式](xwiki/0249_Programing_CPP_Policy)&nbsp;&nbsp; :bookmark:Programing :bookmark:CPP :bookmark:Policy
-- 2023-06-02&nbsp;&nbsp; [LoRA](aiwiki/0406_Hot_LM_Tuning_LoRA)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:LoRA
-- 2023-06-02&nbsp;&nbsp; [DreamBooth](aiwiki/0405_Hot_LM_Tuning_DreamBooth)&nbsp;&nbsp; :bookmark:Hot :bookmark:LM :bookmark:Tuning :bookmark:DreamBooth
+- 2023-06-02&nbsp;&nbsp; [LoRA](aiwiki/0406_LM_FT_LoRA)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:LoRA
+- 2023-06-02&nbsp;&nbsp; [DreamBooth](aiwiki/0405_LM_FT_DreamBooth)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:DreamBooth
 - 2023-06-02&nbsp;&nbsp; [ControlNet](aiwiki/0407_paper_ControlNet)&nbsp;&nbsp; :bookmark:paper :bookmark:ControlNet
 - 2023-06-02&nbsp;&nbsp; [C++ 模板](xwiki/0248_Programing_CPP_Template)&nbsp;&nbsp; :bookmark:Programing :bookmark:CPP :bookmark:Template
-- 2023-05-31&nbsp;&nbsp; [LaMa - Image Inpainting](aiwiki/0404_Hot_LaMa)&nbsp;&nbsp; :bookmark:Hot :bookmark:LaMa
+- 2023-05-31&nbsp;&nbsp; [LaMa - Image Inpainting](aiwiki/0404_LM_VLM_LaMa)&nbsp;&nbsp; :bookmark:LM :bookmark:VLM :bookmark:LaMa
 - 2023-05-30&nbsp;&nbsp; [缺陷图片生成](aiwiki/0403_x_DefectGen)&nbsp;&nbsp; :bookmark:x :bookmark:DefectGen
 - 2023-05-25&nbsp;&nbsp; [iGPU Drivers](xwiki/0244_Hardware_GPU_iGPU_Drivers)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:iGPU :bookmark:Drivers
 - 2023-05-25&nbsp;&nbsp; [PMUs](xwiki/0243_Hardware_PMUs)&nbsp;&nbsp; :bookmark:Hardware :bookmark:PMUs
 - 2023-05-25&nbsp;&nbsp; [Intel Vtune iGPU Analysis](opt/0009_Tools_Vtune_iGPU)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:iGPU
-- 2023-05-16&nbsp;&nbsp; [Stable Diffusion](aiwiki/0402_Hot_StableDiffusion)&nbsp;&nbsp; :bookmark:Hot :bookmark:StableDiffusion
+- 2023-05-16&nbsp;&nbsp; [Stable Diffusion](aiwiki/0402_LM_VLM_StableDiffusion)&nbsp;&nbsp; :bookmark:LM :bookmark:VLM :bookmark:StableDiffusion
 - 2023-05-08&nbsp;&nbsp; [Mermaid](xwiki/0242_Doc_Mermaid)&nbsp;&nbsp; :bookmark:Doc :bookmark:Mermaid
 - 2023-04-18&nbsp;&nbsp; [STL 容器](xwiki/0241_Programing_CPP_STD_STL_Container)&nbsp;&nbsp; :bookmark:Programing :bookmark:CPP :bookmark:STD :bookmark:STL :bookmark:Container
 - 2023-04-07&nbsp;&nbsp; [表格识别工具](xwiki/0240_X_SheetOCRTools)&nbsp;&nbsp; :bookmark:X :bookmark:SheetOCRTools
@@ -913,4 +913,4 @@
 
 
 
-> `@2025.01.24 10:47:16`
+> `@2025.01.24 11:22:01`
