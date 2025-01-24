@@ -154,12 +154,12 @@
 - 2023-06-17&nbsp;&nbsp; [3D 算法](aiwiki/0422_3D_Algos)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos
 - 2023-06-17&nbsp;&nbsp; [3D Cloud 点云](aiwiki/0423_3D_Cloud)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud
 - 2023-06-17&nbsp;&nbsp; [3D Cloud Features](aiwiki/0424_3D_Cloud_Features)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features
+- 2023-06-16&nbsp;&nbsp; [机器学习/深度学习](aiwiki/0416_ML)&nbsp;&nbsp; :bookmark:ML
 - 2023-06-16&nbsp;&nbsp; [x](aiwiki/0418_x)&nbsp;&nbsp; :bookmark:x
 - 2023-06-16&nbsp;&nbsp; [git bash](xwiki/0256_Tools_Git_Bash)&nbsp;&nbsp; :bookmark:Tools :bookmark:Git :bookmark:Bash
 - 2023-06-16&nbsp;&nbsp; [Ubuntu](linux/0120_Ubuntu)&nbsp;&nbsp; :bookmark:Ubuntu
 - 2023-06-16&nbsp;&nbsp; [Tools](xwiki/0257_Tools)&nbsp;&nbsp; :bookmark:Tools
 - 2023-06-16&nbsp;&nbsp; [Media](aiwiki/0417_Media)&nbsp;&nbsp; :bookmark:Media
-- 2023-06-16&nbsp;&nbsp; [ML](aiwiki/0416_ML)&nbsp;&nbsp; :bookmark:ML
 - 2023-06-16&nbsp;&nbsp; [AI Tools](aiwiki/0415_Tools)&nbsp;&nbsp; :bookmark:Tools
 - 2023-06-16&nbsp;&nbsp; [3D Tools](aiwiki/0419_3D_Tools)&nbsp;&nbsp; :bookmark:3D :bookmark:Tools
 - 2023-06-13&nbsp;&nbsp; [数据库 Database](xwiki/0254_Programing_database)&nbsp;&nbsp; :bookmark:Programing :bookmark:database
@@ -913,4 +913,4 @@
 
 
 
-> `@2025.01.24 11:22:01`
+> `@2025.01.24 12:23:44`
