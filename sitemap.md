@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.02.05 13:20:36`
+> `@2025.02.05 14:28:03`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -853,6 +853,7 @@
   - [AIGC](aiwiki/0374_Hot_AIGC)
     - [ChatGPT](aiwiki/0373_Hot_AIGC_ChatGPT)
     - [AIGC Tools](aiwiki/0456_Hot_AIGC_Tools)
+  - [DeepSeek](aiwiki/0496_Hot_DeepSeek)
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
 - [资源参考](aiwiki/0380_Reference)
 - [x](aiwiki/0418_x)
@@ -865,7 +866,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1026160205</sub></kbd>
+<kbd><sub>@1321230205</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

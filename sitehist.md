@@ -1,3 +1,4 @@
+- 2025-02-05&nbsp;&nbsp; [DeepSeek](aiwiki/0496_Hot_DeepSeek)&nbsp;&nbsp; :bookmark:Hot :bookmark:DeepSeek
 - 2025-01-16&nbsp;&nbsp; [OFT/BOFT](aiwiki/0495_LM_FT_OFT)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:OFT
 - 2025-01-16&nbsp;&nbsp; [IA3](aiwiki/0494_LM_FT_IA3)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:IA3
 - 2025-01-13&nbsp;&nbsp; [LoKr](aiwiki/0493_LM_FT_LoKr)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:LoKr
@@ -913,4 +914,4 @@
 
 
 
-> `@2025.02.05 13:20:38`
+> `@2025.02.05 14:28:04`
