@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.02.05 09:37:55`
+> `@2025.02.05 10:48:59`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -769,6 +769,7 @@
     - [SAM](aiwiki/0414_LM_VLM_SAM)
     - [Stable Diffusion](aiwiki/0402_LM_VLM_StableDiffusion)
       - [Stable Diffusion 原理](aiwiki/0445_LM_VLM_StableDiffusion_Algos)
+      - [SD 应用 webui](aiwiki/0440_LM_VLM_StableDiffusion_WebUI)
 - [模型性能优化技术](aiwiki/0471_MO)
   - [知识蒸馏](aiwiki/0207_MO_KD)
     - [KD History](aiwiki/0336_MO_KD_History)
@@ -852,8 +853,6 @@
   - [AIGC](aiwiki/0374_Hot_AIGC)
     - [ChatGPT](aiwiki/0373_Hot_AIGC_ChatGPT)
     - [AIGC Tools](aiwiki/0456_Hot_AIGC_Tools)
-  - StableDiffusion
-    - [SD 应用 webui](aiwiki/0440_Hot_StableDiffusion_webui)
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
 - [资源参考](aiwiki/0380_Reference)
 - [x](aiwiki/0418_x)
@@ -866,7 +865,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1619010204</sub></kbd>
+<kbd><sub>@1026160205</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

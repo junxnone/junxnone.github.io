@@ -97,7 +97,7 @@
 - 2023-09-20&nbsp;&nbsp; [medianBlur 中值滤波](aiwiki/0442_OpenCV_IP_Filter_medianBlur)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IP :bookmark:Filter :bookmark:medianBlur
 - 2023-09-20&nbsp;&nbsp; [blur 模糊处理](aiwiki/0441_OpenCV_IP_Filter_blur)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IP :bookmark:Filter :bookmark:blur
 - 2023-09-20&nbsp;&nbsp; [bitwise_xxx](aiwiki/0444_OpenCV_Core_bitwisexxx)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:Core :bookmark:bitwisexxx
-- 2023-09-20&nbsp;&nbsp; [SD 应用 webui](aiwiki/0440_Hot_StableDiffusion_webui)&nbsp;&nbsp; :bookmark:Hot :bookmark:StableDiffusion :bookmark:webui
+- 2023-09-20&nbsp;&nbsp; [SD 应用 webui](aiwiki/0440_LM_VLM_StableDiffusion_WebUI)&nbsp;&nbsp; :bookmark:LM :bookmark:VLM :bookmark:StableDiffusion :bookmark:WebUI
 - 2023-09-04&nbsp;&nbsp; [ldd](linux/0124_Tools_ldd)&nbsp;&nbsp; :bookmark:Tools :bookmark:ldd
 - 2023-09-01&nbsp;&nbsp; [并行计算理论](opt/0012_PARA_Theory)&nbsp;&nbsp; :bookmark:PARA :bookmark:Theory
 - 2023-09-01&nbsp;&nbsp; [Linux 程序性能分析工具](opt/0005_Tools_Linux)&nbsp;&nbsp; :bookmark:Tools :bookmark:Linux
@@ -913,4 +913,4 @@
 
 
 
-> `@2025.02.05 09:37:57`
+> `@2025.02.05 10:49:01`
