@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.02.08 10:43:11`
+> `@2025.02.08 11:21:36`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -689,8 +689,10 @@
   - [Attention 注意力](aiwiki/0210_ML_Attention)
     - [Bahdanau Attention](aiwiki/0214_ML_Attention_Bahdanau)
     - [Luong Attention](aiwiki/0211_ML_Attention_Luong)
+    - [Multi-Head Attention](aiwiki/0500_ML_Attention_MHA)
     - [Position Encoding](aiwiki/0213_ML_Attention_PE)
     - [Attention Is All You Need](aiwiki/0212_ML_Attention_S)
+    - [Scaled Dot-Product Attention](aiwiki/0499_ML_Attention_SDPA)
   - [Transformer](aiwiki/0229_ML_Transformer)
     - [Bottleneck Transformers](aiwiki/0228_ML_Transformer_BT)
     - [DeiT](aiwiki/0253_ML_Transformer_DeiT)
@@ -868,7 +870,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1031310208</sub></kbd>
+<kbd><sub>@1111510208</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
