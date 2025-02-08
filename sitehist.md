@@ -1,5 +1,10 @@
+- 2025-02-08&nbsp;&nbsp; [多模态大模型](aiwiki/0505_LM_LMMs)&nbsp;&nbsp; :bookmark:LM :bookmark:LMMs
 - 2025-02-08&nbsp;&nbsp; [Scaled Dot-Product Attention](aiwiki/0499_ML_Attention_SDPA)&nbsp;&nbsp; :bookmark:ML :bookmark:Attention :bookmark:SDPA
+- 2025-02-08&nbsp;&nbsp; [OPEA](aiwiki/0501_LM_Tools_OPEA)&nbsp;&nbsp; :bookmark:LM :bookmark:Tools :bookmark:OPEA
 - 2025-02-08&nbsp;&nbsp; [Multi-Head Attention](aiwiki/0500_ML_Attention_MHA)&nbsp;&nbsp; :bookmark:ML :bookmark:Attention :bookmark:MHA
+- 2025-02-08&nbsp;&nbsp; [LLaMA](aiwiki/0504_LM_LLMs_LLaMA)&nbsp;&nbsp; :bookmark:LM :bookmark:LLMs :bookmark:LLaMA
+- 2025-02-08&nbsp;&nbsp; [LLMs Metrics](aiwiki/0503_LM_LLMs_Metrics)&nbsp;&nbsp; :bookmark:LM :bookmark:LLMs :bookmark:Metrics
+- 2025-02-08&nbsp;&nbsp; [LLM Parameters](aiwiki/0502_LM_LLMs_Parameters)&nbsp;&nbsp; :bookmark:LM :bookmark:LLMs :bookmark:Parameters
 - 2025-02-06&nbsp;&nbsp; [大模型分布图](aiwiki/0498_LM_map)&nbsp;&nbsp; :bookmark:LM :bookmark:map
 - 2025-02-05&nbsp;&nbsp; [大模型相关工具](aiwiki/0497_LM_Tools)&nbsp;&nbsp; :bookmark:LM :bookmark:Tools
 - 2025-02-05&nbsp;&nbsp; [DeepSeek](aiwiki/0496_Hot_DeepSeek)&nbsp;&nbsp; :bookmark:Hot :bookmark:DeepSeek
@@ -918,4 +923,4 @@
 
 
 
-> `@2025.02.08 15:17:57`
+> `@2025.02.08 16:24:32`

@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.02.08 15:17:56`
+> `@2025.02.08 16:24:31`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -136,7 +136,7 @@
   - [KDE](linux/0117_Desktop_KDE)
 - [Linux Logs](linux/0136_Logs)
 
-<kbd><sub>@1617050207</sub></kbd>
+<kbd><sub>@1615480208</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -396,7 +396,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1611280207</sub></kbd>
+<kbd><sub>@1610080208</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
@@ -761,8 +761,13 @@
     - [OFT/BOFT](aiwiki/0495_LM_FT_OFT)
     - [Prefix Tuning](aiwiki/0411_LM_FT_PrefixTuning)
   - [Large Language Models](aiwiki/0446_LM_LLMs)
+    - [LLaMA](aiwiki/0504_LM_LLMs_LLaMA)
+    - [LLMs Metrics](aiwiki/0503_LM_LLMs_Metrics)
+    - [LLM Parameters](aiwiki/0502_LM_LLMs_Parameters)
+  - [多模态大模型](aiwiki/0505_LM_LMMs)
   - [RAG](aiwiki/0461_LM_RAG)
   - [大模型相关工具](aiwiki/0497_LM_Tools)
+    - [OPEA](aiwiki/0501_LM_Tools_OPEA)
   - VLM
     - [DragGAN](aiwiki/0429_LM_VLM_DragGAN)
     - [GLIP](aiwiki/0463_LM_VLM_GLIP)
@@ -870,7 +875,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1427050208</sub></kbd>
+<kbd><sub>@1617260208</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -933,7 +938,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@1619390207</sub></kbd>
+<kbd><sub>@1618370208</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
