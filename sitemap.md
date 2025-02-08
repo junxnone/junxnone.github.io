@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.02.08 16:24:31`
+> `@2025.02.08 17:18:23`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -768,7 +768,7 @@
   - [RAG](aiwiki/0461_LM_RAG)
   - [大模型相关工具](aiwiki/0497_LM_Tools)
     - [OPEA](aiwiki/0501_LM_Tools_OPEA)
-  - VLM
+  - [VLM](aiwiki/0506_LM_VLM)
     - [DragGAN](aiwiki/0429_LM_VLM_DragGAN)
     - [GLIP](aiwiki/0463_LM_VLM_GLIP)
     - [Imagen](aiwiki/0413_LM_VLM_Imagen)
@@ -875,7 +875,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1617260208</sub></kbd>
+<kbd><sub>@1632300208</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
