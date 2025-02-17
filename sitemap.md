@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.02.17 09:41:32`
+> `@2025.02.17 10:52:54`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -864,6 +864,8 @@
     - [AIGC Tools](aiwiki/0456_Hot_AIGC_Tools)
   - [DeepSeek](aiwiki/0496_Hot_DeepSeek)
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
+- RDT
+  - [RDT-1B 一种用于双手操作的扩散基础模型](aiwiki/0507_RDT_1B)
 - [资源参考](aiwiki/0380_Reference)
 - [x](aiwiki/0418_x)
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
@@ -875,7 +877,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1617100216</sub></kbd>
+<kbd><sub>@1038590217</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
