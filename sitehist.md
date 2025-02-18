@@ -1,5 +1,5 @@
-- 2025-02-18&nbsp;&nbsp; [RDT-1B](aiwiki/0508_paper_RDT_1B_CN)&nbsp;&nbsp; :bookmark:paper :bookmark:RDT :bookmark:1B :bookmark:CN
-- 2025-02-17&nbsp;&nbsp; [RDT-1B 一种用于双手操作的扩散基础模型](aiwiki/0507_paper_RDT_1B)&nbsp;&nbsp; :bookmark:paper :bookmark:RDT :bookmark:1B
+- 2025-02-18&nbsp;&nbsp; [RDT-1B](aiwiki/0508_paper_RDT_CN)&nbsp;&nbsp; :bookmark:paper :bookmark:RDT :bookmark:CN
+- 2025-02-17&nbsp;&nbsp; [RDT-1B 一种用于双手操作的扩散基础模型](aiwiki/0507_paper_RDT)&nbsp;&nbsp; :bookmark:paper :bookmark:RDT
 - 2025-02-08&nbsp;&nbsp; [多模态大模型](aiwiki/0505_LM_LMMs)&nbsp;&nbsp; :bookmark:LM :bookmark:LMMs
 - 2025-02-08&nbsp;&nbsp; [VLM](aiwiki/0506_LM_VLM)&nbsp;&nbsp; :bookmark:LM :bookmark:VLM
 - 2025-02-08&nbsp;&nbsp; [Scaled Dot-Product Attention](aiwiki/0499_ML_Attention_SDPA)&nbsp;&nbsp; :bookmark:ML :bookmark:Attention :bookmark:SDPA
@@ -926,4 +926,4 @@
 
 
 
-> `@2025.02.18 11:23:17`
+> `@2025.02.18 12:24:16`

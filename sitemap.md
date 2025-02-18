@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.02.18 11:23:17`
+> `@2025.02.18 12:24:15`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -809,9 +809,8 @@
   - [LFA](aiwiki/0480_paper_LFA)
   - [MTA](aiwiki/0479_paper_MTA)
   - [MuSC](aiwiki/0467_paper_MuSC)
-  - RDT
-    - [RDT-1B 一种用于双手操作的扩散基础模型](aiwiki/0507_paper_RDT_1B)
-      - [RDT-1B](aiwiki/0508_paper_RDT_1B_CN)
+  - [RDT-1B 一种用于双手操作的扩散基础模型](aiwiki/0507_paper_RDT)
+    - [RDT-1B](aiwiki/0508_paper_RDT_CN)
   - [SAA+](aiwiki/0469_paper_SAAplus)
   - [Tip-Adapter](aiwiki/0475_paper_TipAdapter)
   - [VPT - Visual Prompt Tuning](aiwiki/0477_paper_VPT)
@@ -878,7 +877,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1121430218</sub></kbd>
+<kbd><sub>@1157460218</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
