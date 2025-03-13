@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.03.13 07:21:04`
+> `@2025.03.13 09:44:31`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -268,7 +268,7 @@
     - [Git Configs](xwiki/0112_Tools_Git_config)
     - [Git Branch](xwiki/0115_Tools_Git_branch)
     - [tag](xwiki/0116_Tools_Git_tag)
-    - [submodule](xwiki/0114_Tools_Git_submodule)
+    - [Git Submodule](xwiki/0114_Tools_Git_submodule)
     - [Proxy Setup](xwiki/0113_Tools_Git_proxy)
     - [移除 stage 文件](xwiki/0119_Tools_Git_RMStageFile)
     - [git bash](xwiki/0256_Tools_Git_Bash)
@@ -396,7 +396,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1612180312</sub></kbd>
+<kbd><sub>@0939210313</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)

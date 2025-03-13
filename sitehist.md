@@ -861,8 +861,8 @@
 - 2018-12-12&nbsp;&nbsp; [Github Access with ssh key](xwiki/0123_Tools_Github_SSHKey)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:SSHKey
 - 2018-12-12&nbsp;&nbsp; [Cost Function 代价函数](aiwiki/0282_ML_Arch_Func_CostFunction)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:Func :bookmark:CostFunction
 - 2018-12-11&nbsp;&nbsp; [Image](aiwiki/0361_OpenCV_IO_Image)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IO :bookmark:Image
-- 2018-12-10&nbsp;&nbsp; [submodule](xwiki/0114_Tools_Git_submodule)&nbsp;&nbsp; :bookmark:Tools :bookmark:Git :bookmark:submodule
 - 2018-12-10&nbsp;&nbsp; [Proxy Setup](xwiki/0113_Tools_Git_proxy)&nbsp;&nbsp; :bookmark:Tools :bookmark:Git :bookmark:proxy
+- 2018-12-10&nbsp;&nbsp; [Git Submodule](xwiki/0114_Tools_Git_submodule)&nbsp;&nbsp; :bookmark:Tools :bookmark:Git :bookmark:submodule
 - 2018-12-09&nbsp;&nbsp; [YOLO 系列](aiwiki/0053_ML_Tasks_Image_Detection_YOLO)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Detection :bookmark:YOLO
 - 2018-12-09&nbsp;&nbsp; [Detection](aiwiki/0152_ML_Tasks_Image_Detection)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Detection
 - 2018-12-07&nbsp;&nbsp; [RTSP Server live555](linux/0070_Tools_Media_live555)&nbsp;&nbsp; :bookmark:Tools :bookmark:Media :bookmark:live555
@@ -926,4 +926,4 @@
 
 
 
-> `@2025.03.13 07:21:05`
+> `@2025.03.13 09:44:31`
