@@ -1,3 +1,4 @@
+- 2025-04-10&nbsp;&nbsp; [AdaBLDM](aiwiki/0510_paper_AdaBLDM)&nbsp;&nbsp; :bookmark:paper :bookmark:AdaBLDM
 - 2025-03-31&nbsp;&nbsp; [OpenVINO 优化](aiwiki/0509_Tools_OV_Optimizations)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Optimizations
 - 2025-02-18&nbsp;&nbsp; [RDT-1B 翻译](aiwiki/0508_paper_RDT_CN)&nbsp;&nbsp; :bookmark:paper :bookmark:RDT :bookmark:CN
 - 2025-02-17&nbsp;&nbsp; [RDT-1B 一种用于双手操作的扩散基础模型](aiwiki/0507_paper_RDT)&nbsp;&nbsp; :bookmark:paper :bookmark:RDT
@@ -927,4 +928,4 @@
 
 
 
-> `@2025.04.10 14:31:36`
+> `@2025.04.10 15:21:54`
