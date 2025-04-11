@@ -1,3 +1,4 @@
+- 2025-04-11&nbsp;&nbsp; [A Survey on Industrial Anomalies Synthesis](aiwiki/0511_paper_AnomaliesSynthesisSurvey)&nbsp;&nbsp; :bookmark:paper :bookmark:AnomaliesSynthesisSurvey
 - 2025-04-10&nbsp;&nbsp; [AdaBLDM](aiwiki/0510_paper_AdaBLDM)&nbsp;&nbsp; :bookmark:paper :bookmark:AdaBLDM
 - 2025-03-31&nbsp;&nbsp; [OpenVINO 优化](aiwiki/0509_Tools_OV_Optimizations)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Optimizations
 - 2025-02-18&nbsp;&nbsp; [RDT-1B 翻译](aiwiki/0508_paper_RDT_CN)&nbsp;&nbsp; :bookmark:paper :bookmark:RDT :bookmark:CN
@@ -928,4 +929,4 @@
 
 
 
-> `@2025.04.11 15:21:09`
+> `@2025.04.11 16:29:23`
