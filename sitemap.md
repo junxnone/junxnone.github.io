@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.04.14 11:08:44`
+> `@2025.04.14 12:26:11`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -871,6 +871,7 @@
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
 - [资源参考](aiwiki/0380_Reference)
 - [x](aiwiki/0418_x)
+  - [Diffusion Model](aiwiki/0512_x_DM)
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
   - Model
@@ -880,7 +881,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1035130414</sub></kbd>
+<kbd><sub>@1135240414</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
