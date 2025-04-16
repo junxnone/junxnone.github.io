@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.04.16 15:21:52`
+> `@2025.04.16 16:30:36`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -136,7 +136,7 @@
   - [KDE](linux/0117_Desktop_KDE)
 - [Linux Logs](linux/0136_Logs)
 
-<kbd><sub>@1620070415</sub></kbd>
+<kbd><sub>@1619500416</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -396,7 +396,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [for](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1458580416</sub></kbd>
+<kbd><sub>@1613170416</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
@@ -873,6 +873,7 @@
 - [资源参考](aiwiki/0380_Reference)
 - [x](aiwiki/0418_x)
   - [Diffusion Model](aiwiki/0512_x_DM)
+    - [BLDM](aiwiki/0514_x_DM_BLDM)
   - [缺陷图片生成](aiwiki/0403_x_DefectGen)
   - [Cool Demo](aiwiki/0409_x_Demo)
   - Model
@@ -882,7 +883,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1424320416</sub></kbd>
+<kbd><sub>@1622140416</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -945,7 +946,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@1624080415</sub></kbd>
+<kbd><sub>@1623500416</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
