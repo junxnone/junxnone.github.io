@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.05.12 11:16:51`
+> `@2025.05.12 12:28:04`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -792,6 +792,7 @@
   - [RL Tools](aiwiki/0454_RL_Tools)
 - [paper](aiwiki/0386_paper)
   - [AdaBLDM](aiwiki/0510_paper_AdaBLDM)
+    - [Inference Code 分析](aiwiki/0516_paper_AdaBLDM_InferenceCode)
     - [AdaBLDM 译文](aiwiki/0515_paper_AdaBLDM_cn)
   - [A Survey on Industrial Anomalies Synthesis](aiwiki/0511_paper_AnomaliesSynthesisSurvey)
   - [AnomalyCLIP](aiwiki/0466_paper_AnomalyCLIP)
@@ -884,7 +885,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1058380512</sub></kbd>
+<kbd><sub>@1137260512</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
