@@ -1,3 +1,4 @@
+- 2025-05-19&nbsp;&nbsp; [异常缺陷生成](aiwiki/0517_ML_Tasks_Image_Anomaly_Synthesis)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Anomaly :bookmark:Synthesis
 - 2025-05-12&nbsp;&nbsp; [Inference Code 分析](aiwiki/0516_paper_AdaBLDM_InferenceCode)&nbsp;&nbsp; :bookmark:paper :bookmark:AdaBLDM :bookmark:InferenceCode
 - 2025-05-08&nbsp;&nbsp; [AdaBLDM 译文](aiwiki/0515_paper_AdaBLDM_cn)&nbsp;&nbsp; :bookmark:paper :bookmark:AdaBLDM :bookmark:cn
 - 2025-04-16&nbsp;&nbsp; [BLDM](aiwiki/0514_x_DM_BLDM)&nbsp;&nbsp; :bookmark:x :bookmark:DM :bookmark:BLDM
@@ -934,4 +935,4 @@
 
 
 
-> `@2025.05.19 06:20:11`
+> `@2025.05.19 11:21:20`

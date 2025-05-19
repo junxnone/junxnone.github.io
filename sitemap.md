@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.05.19 06:20:11`
+> `@2025.05.19 11:21:19`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -651,6 +651,7 @@
         - [MVTec](aiwiki/0323_ML_Tasks_Image_Anomaly_MVTec)
         - [PaDiM](aiwiki/0322_ML_Tasks_Image_Anomaly_PaDiM)
         - [STFPM](aiwiki/0324_ML_Tasks_Image_Anomaly_STFPM)
+        - [异常缺陷生成](aiwiki/0517_ML_Tasks_Image_Anomaly_Synthesis)
     - [Motion Detection 运动侦测](aiwiki/0243_ML_Tasks_MD)
     - [MetricLearning](aiwiki/0157_ML_Tasks_MetricLearning)
   - [Op](aiwiki/0366_ML_Op)
@@ -885,7 +886,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1619270518</sub></kbd>
+<kbd><sub>@0924070519</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
