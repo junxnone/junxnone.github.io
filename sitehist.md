@@ -441,7 +441,7 @@
 - 2021-08-31&nbsp;&nbsp; [Training & Inference Tools History](aiwiki/0005_Tools_TIHistory)&nbsp;&nbsp; :bookmark:Tools :bookmark:TIHistory
 - 2021-08-31&nbsp;&nbsp; [ML/DL 常见任务](aiwiki/0003_ML_Tasks)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks
 - 2021-08-30&nbsp;&nbsp; [DL](aiwiki/0233_3D_DL)&nbsp;&nbsp; :bookmark:3D :bookmark:DL
-- 2021-08-24&nbsp;&nbsp; [for](xwiki/0229_Windows_batch_for)&nbsp;&nbsp; :bookmark:Windows :bookmark:batch :bookmark:for
+- 2021-08-24&nbsp;&nbsp; [batch for 循环](xwiki/0229_Windows_batch_for)&nbsp;&nbsp; :bookmark:Windows :bookmark:batch :bookmark:for
 - 2021-08-24&nbsp;&nbsp; [Windows 命令行执行命令时卡住](xwiki/0234_Windows_Issues_CommandLineHang)&nbsp;&nbsp; :bookmark:Windows :bookmark:Issues :bookmark:CommandLineHang
 - 2021-08-20&nbsp;&nbsp; [Nearest Neighbor Search 最近邻搜索](aiwiki/0102_ML_NNS)&nbsp;&nbsp; :bookmark:ML :bookmark:NNS
 - 2021-08-18&nbsp;&nbsp; [Hierarchical Navigable Small World](aiwiki/0334_ML_NNS_ANN_HNSW)&nbsp;&nbsp; :bookmark:ML :bookmark:NNS :bookmark:ANN :bookmark:HNSW
@@ -935,4 +935,4 @@
 
 
 
-> `@2025.05.21 15:22:06`
+> `@2025.05.21 16:30:45`

@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.05.21 15:22:05`
+> `@2025.05.21 16:30:44`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -136,7 +136,7 @@
   - [KDE](linux/0117_Desktop_KDE)
 - [Linux Logs](linux/0136_Logs)
 
-<kbd><sub>@1620540520</sub></kbd>
+<kbd><sub>@1620180521</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -394,9 +394,9 @@
   - [Visual Studio Code](xwiki/0299_Windows_VSCode)
   - [Win11 关闭右键菜单折叠](xwiki/0282_Windows_W11collapse)
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
-    - [for](xwiki/0229_Windows_batch_for)
+    - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1614160520</sub></kbd>
+<kbd><sub>@1613290521</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
@@ -886,7 +886,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1623370520</sub></kbd>
+<kbd><sub>@1622180521</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -949,7 +949,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@1625100520</sub></kbd>
+<kbd><sub>@1624110521</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
