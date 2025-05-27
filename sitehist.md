@@ -293,8 +293,8 @@
 - 2022-12-15&nbsp;&nbsp; [manim](xwiki/0141_Tools_manim)&nbsp;&nbsp; :bookmark:Tools :bookmark:manim
 - 2022-12-13&nbsp;&nbsp; [Numpy](aiwiki/0328_Tools_Numpy)&nbsp;&nbsp; :bookmark:Tools :bookmark:Numpy
 - 2022-12-12&nbsp;&nbsp; [图像](aiwiki/0325_Media_Image)&nbsp;&nbsp; :bookmark:Media :bookmark:Image
-- 2022-12-09&nbsp;&nbsp; [STFPM](aiwiki/0324_ML_Tasks_Image_Anomaly_STFPM)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Anomaly :bookmark:STFPM
-- 2022-12-05&nbsp;&nbsp; [PaDiM](aiwiki/0322_ML_Tasks_Image_Anomaly_PaDiM)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Anomaly :bookmark:PaDiM
+- 2022-12-09&nbsp;&nbsp; [STFPM](aiwiki/0324_paper_STFPM)&nbsp;&nbsp; :bookmark:paper :bookmark:STFPM
+- 2022-12-05&nbsp;&nbsp; [PaDiM](aiwiki/0322_paper_PaDiM)&nbsp;&nbsp; :bookmark:paper :bookmark:PaDiM
 - 2022-12-05&nbsp;&nbsp; [MVTec](aiwiki/0323_ML_Tasks_Image_Anomaly_MVTec)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Anomaly :bookmark:MVTec
 - 2022-11-30&nbsp;&nbsp; [anomalib](aiwiki/0321_Tools_anomalib)&nbsp;&nbsp; :bookmark:Tools :bookmark:anomalib
 - 2022-11-29&nbsp;&nbsp; [boxFilter](aiwiki/0319_OpenCV_IP_Filter_boxFilter)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IP :bookmark:Filter :bookmark:boxFilter
@@ -935,4 +935,4 @@
 
 
 
-> `@2025.05.27 07:20:42`
+> `@2025.05.27 09:53:11`

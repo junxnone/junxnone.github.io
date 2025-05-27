@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.05.27 07:20:41`
+> `@2025.05.27 09:53:10`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -649,8 +649,6 @@
           - [TextRecognitionDataGenerator](aiwiki/0187_ML_Tasks_Image_OCR_Tools_TextRecognitionDataGenerator)
       - [Image Anomaly Detection](aiwiki/0277_ML_Tasks_Image_Anomaly)
         - [MVTec](aiwiki/0323_ML_Tasks_Image_Anomaly_MVTec)
-        - [PaDiM](aiwiki/0322_ML_Tasks_Image_Anomaly_PaDiM)
-        - [STFPM](aiwiki/0324_ML_Tasks_Image_Anomaly_STFPM)
         - [异常缺陷生成](aiwiki/0517_ML_Tasks_Image_Anomaly_Synthesis)
     - [Motion Detection 运动侦测](aiwiki/0243_ML_Tasks_MD)
     - [MetricLearning](aiwiki/0157_ML_Tasks_MetricLearning)
@@ -815,9 +813,11 @@
   - [LFA](aiwiki/0480_paper_LFA)
   - [MTA](aiwiki/0479_paper_MTA)
   - [MuSC](aiwiki/0467_paper_MuSC)
+  - [PaDiM](aiwiki/0322_paper_PaDiM)
   - [RDT-1B 一种用于双手操作的扩散基础模型](aiwiki/0507_paper_RDT)
     - [RDT-1B 翻译](aiwiki/0508_paper_RDT_CN)
   - [SAA+](aiwiki/0469_paper_SAAplus)
+  - [STFPM](aiwiki/0324_paper_STFPM)
   - [Tip-Adapter](aiwiki/0475_paper_TipAdapter)
   - [VPT - Visual Prompt Tuning](aiwiki/0477_paper_VPT)
   - [WinCLIP](aiwiki/0468_paper_WinCLIP)
@@ -886,7 +886,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1718500526</sub></kbd>
+<kbd><sub>@0947020527</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
