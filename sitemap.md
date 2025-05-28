@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.05.28 14:33:18`
+> `@2025.05.28 15:22:26`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -562,7 +562,7 @@
     - [DTD-Synthetic](aiwiki/0482_Datasets_Image2D_DTDSynthetic)
     - [Edge Detection](aiwiki/0098_Datasets_Image2D_EdgeDetection)
     - [PascalVOC](aiwiki/0092_Datasets_Image2D_PascalVOC)
-  - [Image3D](aiwiki/0087_Datasets_Image3D)
+  - [3D Images](aiwiki/0087_Datasets_Image3D)
   - [Audio](aiwiki/0020_Datasets_Audio)
   - [NLP](aiwiki/0021_Datasets_NLP)
   - [Video](aiwiki/0019_Datasets_Video)
@@ -886,7 +886,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1622450527</sub></kbd>
+<kbd><sub>@1455500528</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
