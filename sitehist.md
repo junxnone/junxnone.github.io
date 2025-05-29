@@ -1,3 +1,4 @@
+- 2025-05-29&nbsp;&nbsp; [Resizable BAR](xwiki/0313_Hardware_GPU_iGPU_ResizableBAR)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:iGPU :bookmark:ResizableBAR
 - 2025-05-19&nbsp;&nbsp; [异常缺陷生成](aiwiki/0517_ML_Tasks_Image_Anomaly_Synthesis)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Anomaly :bookmark:Synthesis
 - 2025-05-12&nbsp;&nbsp; [Inference Code 分析](aiwiki/0516_paper_AdaBLDM_InferenceCode)&nbsp;&nbsp; :bookmark:paper :bookmark:AdaBLDM :bookmark:InferenceCode
 - 2025-05-08&nbsp;&nbsp; [AdaBLDM 译文](aiwiki/0515_paper_AdaBLDM_cn)&nbsp;&nbsp; :bookmark:paper :bookmark:AdaBLDM :bookmark:cn
@@ -379,7 +380,7 @@
 - 2021-11-15&nbsp;&nbsp; [Proxy](linux/0080_Tools_Networks_Proxy)&nbsp;&nbsp; :bookmark:Tools :bookmark:Networks :bookmark:Proxy
 - 2021-11-11&nbsp;&nbsp; [Memory](xwiki/0004_Hardware_Memory)&nbsp;&nbsp; :bookmark:Hardware :bookmark:Memory
 - 2021-11-10&nbsp;&nbsp; [硬件](xwiki/0001_Hardware)&nbsp;&nbsp; :bookmark:Hardware
-- 2021-11-10&nbsp;&nbsp; [Intel GPUs - iGPU](xwiki/0005_Hardware_GPU_iGPU)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:iGPU
+- 2021-11-10&nbsp;&nbsp; [Intel GPUs - iGPU/dGPU](xwiki/0005_Hardware_GPU_Intel)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:Intel
 - 2021-11-09&nbsp;&nbsp; [Driver](linux/0005_Driver)&nbsp;&nbsp; :bookmark:Driver
 - 2021-11-08&nbsp;&nbsp; [iso3dfd](xwiki/0209_X_iso3dfd)&nbsp;&nbsp; :bookmark:X :bookmark:iso3dfd
 - 2021-11-05&nbsp;&nbsp; [并行计算](opt/0023_PARA)&nbsp;&nbsp; :bookmark:PARA
@@ -935,4 +936,4 @@
 
 
 
-> `@2025.05.29 09:54:52`
+> `@2025.05.29 11:15:42`

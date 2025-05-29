@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.05.29 09:54:51`
+> `@2025.05.29 11:15:42`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -332,12 +332,14 @@
     - [Intel CPU](xwiki/0003_Hardware_CPU_Intel)
       - [P-Core & E-Core](xwiki/0215_Hardware_CPU_Intel_PECore)
   - [GPU](xwiki/0218_Hardware_GPU)
+    - [Intel GPUs - iGPU/dGPU](xwiki/0005_Hardware_GPU_Intel)
     - [GPU Metrics](xwiki/0280_Hardware_GPU_Metrics)
     - [NVIDIA GPU](xwiki/0006_Hardware_GPU_NVIDIA)
-    - [Intel GPUs - iGPU](xwiki/0005_Hardware_GPU_iGPU)
+    - iGPU
       - [Intel GPUs Arch](xwiki/0225_Hardware_GPU_iGPU_Arch)
       - [iGPU Drivers](xwiki/0244_Hardware_GPU_iGPU_Drivers)
       - [Issues](xwiki/0154_Hardware_GPU_iGPU_Issues)
+      - [Resizable BAR](xwiki/0313_Hardware_GPU_iGPU_ResizableBAR)
       - [Intel iGPU Tools](xwiki/0153_Hardware_GPU_iGPU_Tools)
         - [intel-gpu-tools](xwiki/0169_Hardware_GPU_iGPU_Tools_intelgputools)
         - [intel-telemetry-tool](xwiki/0171_Hardware_GPU_iGPU_Tools_telemetry)
@@ -396,7 +398,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1613350528</sub></kbd>
+<kbd><sub>@1038370529</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
