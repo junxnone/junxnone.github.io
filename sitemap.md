@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.05.29 11:15:42`
+> `@2025.05.29 12:29:20`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -832,6 +832,7 @@
     - [Early Stopping](aiwiki/0172_Tools_Pytorch_ES)
     - [Visualization 可视化](aiwiki/0171_Tools_Pytorch_VIS)
     - [加速](aiwiki/0169_Tools_Pytorch_Speed)
+      - [torch.compile](aiwiki/0518_Tools_Pytorch_Speed_compile)
     - [多 GPUs](aiwiki/0338_Tools_Pytorch_mGPUs)
     - [Tips](aiwiki/0170_Tools_Pytorch_Tips)
     - [Data](aiwiki/0359_Tools_Pytorch_Data)
@@ -888,7 +889,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1622440528</sub></kbd>
+<kbd><sub>@1135270529</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

@@ -1,3 +1,4 @@
+- 2025-05-29&nbsp;&nbsp; [torch.compile](aiwiki/0518_Tools_Pytorch_Speed_compile)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Speed :bookmark:compile
 - 2025-05-29&nbsp;&nbsp; [Resizable BAR](xwiki/0313_Hardware_GPU_iGPU_ResizableBAR)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:iGPU :bookmark:ResizableBAR
 - 2025-05-19&nbsp;&nbsp; [异常缺陷生成](aiwiki/0517_ML_Tasks_Image_Anomaly_Synthesis)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Anomaly :bookmark:Synthesis
 - 2025-05-12&nbsp;&nbsp; [Inference Code 分析](aiwiki/0516_paper_AdaBLDM_InferenceCode)&nbsp;&nbsp; :bookmark:paper :bookmark:AdaBLDM :bookmark:InferenceCode
@@ -936,4 +937,4 @@
 
 
 
-> `@2025.05.29 11:15:42`
+> `@2025.05.29 12:29:20`
