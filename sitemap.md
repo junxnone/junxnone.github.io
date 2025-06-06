@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.06.06 09:54:56`
+> `@2025.06.06 11:18:00`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -393,12 +393,13 @@
   - [Windows Issues](xwiki/0265_Windows_Issues)
     - [Windows 命令行执行命令时卡住](xwiki/0234_Windows_Issues_CommandLineHang)
     - [命令行不能进入 D 盘](xwiki/0293_Windows_Issues_cmdCannotIntoD)
+    - [python执行缓慢](xwiki/0314_Windows_Issues_python执行缓慢)
   - [Visual Studio Code](xwiki/0299_Windows_VSCode)
   - [Win11 关闭右键菜单折叠](xwiki/0282_Windows_W11collapse)
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1613520605</sub></kbd>
+<kbd><sub>@1112530606</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)

@@ -1,3 +1,4 @@
+- 2025-06-06&nbsp;&nbsp; [python执行缓慢](xwiki/0314_Windows_Issues_python执行缓慢)&nbsp;&nbsp; :bookmark:Windows :bookmark:Issues :bookmark:python执行缓慢
 - 2025-06-03&nbsp;&nbsp; [AnomalyAny](aiwiki/0519_paper_AnomalyAny)&nbsp;&nbsp; :bookmark:paper :bookmark:AnomalyAny
 - 2025-06-03&nbsp;&nbsp; [AnomalyAny CN](aiwiki/0520_paper_AnomalyAny_cn)&nbsp;&nbsp; :bookmark:paper :bookmark:AnomalyAny :bookmark:cn
 - 2025-05-29&nbsp;&nbsp; [torch.compile](aiwiki/0518_Tools_Pytorch_Speed_compile)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Speed :bookmark:compile
@@ -939,4 +940,4 @@
 
 
 
-> `@2025.06.06 09:54:57`
+> `@2025.06.06 11:18:00`
