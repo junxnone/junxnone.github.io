@@ -1,3 +1,4 @@
+- 2025-06-09&nbsp;&nbsp; [算法落地实践](aiwiki/0521_ML_Tasks_Image_Anomaly_Pipeline)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Anomaly :bookmark:Pipeline
 - 2025-06-06&nbsp;&nbsp; [python执行缓慢](xwiki/0314_Windows_Issues_python执行缓慢)&nbsp;&nbsp; :bookmark:Windows :bookmark:Issues :bookmark:python执行缓慢
 - 2025-06-03&nbsp;&nbsp; [AnomalyAny](aiwiki/0519_paper_AnomalyAny)&nbsp;&nbsp; :bookmark:paper :bookmark:AnomalyAny
 - 2025-06-03&nbsp;&nbsp; [AnomalyAny CN](aiwiki/0520_paper_AnomalyAny_cn)&nbsp;&nbsp; :bookmark:paper :bookmark:AnomalyAny :bookmark:cn
@@ -940,4 +941,4 @@
 
 
 
-> `@2025.06.09 07:21:07`
+> `@2025.06.09 10:02:31`

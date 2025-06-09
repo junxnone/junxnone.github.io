@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.06.09 07:21:06`
+> `@2025.06.09 10:02:31`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -652,6 +652,7 @@
           - [TextRecognitionDataGenerator](aiwiki/0187_ML_Tasks_Image_OCR_Tools_TextRecognitionDataGenerator)
       - [Image Anomaly Detection](aiwiki/0277_ML_Tasks_Image_Anomaly)
         - [MVTec](aiwiki/0323_ML_Tasks_Image_Anomaly_MVTec)
+        - [算法落地实践](aiwiki/0521_ML_Tasks_Image_Anomaly_Pipeline)
         - [异常缺陷生成](aiwiki/0517_ML_Tasks_Image_Anomaly_Synthesis)
     - [Motion Detection 运动侦测](aiwiki/0243_ML_Tasks_MD)
     - [MetricLearning](aiwiki/0157_ML_Tasks_MetricLearning)
@@ -892,7 +893,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1619590608</sub></kbd>
+<kbd><sub>@0830070609</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
