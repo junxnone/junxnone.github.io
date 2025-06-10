@@ -254,7 +254,7 @@
 - 2023-03-02&nbsp;&nbsp; [P-Core & E-Core](xwiki/0215_Hardware_CPU_Intel_PECore)&nbsp;&nbsp; :bookmark:Hardware :bookmark:CPU :bookmark:Intel :bookmark:PECore
 - 2023-03-01&nbsp;&nbsp; [lambda](xwiki/0214_Programing_CPP_lambda)&nbsp;&nbsp; :bookmark:Programing :bookmark:CPP :bookmark:lambda
 - 2023-02-28&nbsp;&nbsp; [存储为 csv 再读入后, 单元格值 `list` 类型会变成 `str` 类型](xwiki/0213_Pandas_Issues_csvliststr)&nbsp;&nbsp; :bookmark:Pandas :bookmark:Issues :bookmark:csvliststr
-- 2023-02-21&nbsp;&nbsp; [paper](aiwiki/0386_paper)&nbsp;&nbsp; :bookmark:paper
+- 2023-02-21&nbsp;&nbsp; [Papers](aiwiki/0386_paper)&nbsp;&nbsp; :bookmark:paper
 - 2023-02-21&nbsp;&nbsp; [CSPNet](aiwiki/0385_paper_CSPNet)&nbsp;&nbsp; :bookmark:paper :bookmark:CSPNet
 - 2023-02-16&nbsp;&nbsp; [TPR & FPR](aiwiki/0381_ML_Metrics_Detection_TPRFPR)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:TPRFPR
 - 2023-02-16&nbsp;&nbsp; [IoU - Intersection Over Union](aiwiki/0383_ML_Metrics_Detection_IoU)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:IoU
@@ -943,4 +943,4 @@
 
 
 
-> `@2025.06.10 16:32:05`
+> `@2025.06.10 17:25:53`

@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.06.10 16:32:04`
+> `@2025.06.10 17:25:53`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -793,7 +793,7 @@
   - [Robot 基础知识](aiwiki/0458_RL_Robot)
   - [RL Tasks](aiwiki/0457_RL_Taks)
   - [RL Tools](aiwiki/0454_RL_Tools)
-- [paper](aiwiki/0386_paper)
+- [Papers](aiwiki/0386_paper)
   - [AdaBLDM](aiwiki/0510_paper_AdaBLDM)
     - [Inference Code 分析](aiwiki/0516_paper_AdaBLDM_InferenceCode)
     - [AdaBLDM 译文](aiwiki/0515_paper_AdaBLDM_cn)
@@ -895,7 +895,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1623480610</sub></kbd>
+<kbd><sub>@1640280610</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
