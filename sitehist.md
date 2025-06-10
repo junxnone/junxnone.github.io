@@ -1,3 +1,5 @@
+- 2025-06-10&nbsp;&nbsp; [DualAnoDiff](aiwiki/0522_paper_DualAnoDiff)&nbsp;&nbsp; :bookmark:paper :bookmark:DualAnoDiff
+- 2025-06-10&nbsp;&nbsp; [DualAnoDiff CN](aiwiki/0523_paper_DualAnoDiff_cn)&nbsp;&nbsp; :bookmark:paper :bookmark:DualAnoDiff :bookmark:cn
 - 2025-06-09&nbsp;&nbsp; [算法落地实践](aiwiki/0521_ML_Tasks_Image_Anomaly_Pipeline)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Anomaly :bookmark:Pipeline
 - 2025-06-06&nbsp;&nbsp; [python执行缓慢](xwiki/0314_Windows_Issues_python执行缓慢)&nbsp;&nbsp; :bookmark:Windows :bookmark:Issues :bookmark:python执行缓慢
 - 2025-06-03&nbsp;&nbsp; [AnomalyAny](aiwiki/0519_paper_AnomalyAny)&nbsp;&nbsp; :bookmark:paper :bookmark:AnomalyAny
@@ -941,4 +943,4 @@
 
 
 
-> `@2025.06.10 09:58:48`
+> `@2025.06.10 11:21:45`

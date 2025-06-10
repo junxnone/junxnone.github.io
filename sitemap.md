@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.06.10 09:58:47`
+> `@2025.06.10 11:21:44`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -812,6 +812,8 @@
   - [DETR](aiwiki/0165_paper_DETR)
   - [DINO](aiwiki/0483_paper_DINO)
   - [Deformable DETR](aiwiki/0484_paper_DeformableDETR)
+  - [DualAnoDiff](aiwiki/0522_paper_DualAnoDiff)
+    - [DualAnoDiff CN](aiwiki/0523_paper_DualAnoDiff_cn)
   - [Eureka](aiwiki/0470_paper_Eureka)
   - [FiLo](aiwiki/0472_paper_FiLo)
   - [Grounding DINO](aiwiki/0464_paper_GroundingDINO)
@@ -893,7 +895,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1625060609</sub></kbd>
+<kbd><sub>@1056540610</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
