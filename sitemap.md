@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.06.12 15:22:52`
+> `@2025.06.12 16:31:26`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -136,7 +136,7 @@
   - [KDE](linux/0117_Desktop_KDE)
 - [Linux Logs](linux/0136_Logs)
 
-<kbd><sub>@1620400611</sub></kbd>
+<kbd><sub>@1620410612</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -161,7 +161,7 @@
       - [datetime](xwiki/0212_Programing_Python_Tools_datetime)
       - [hydra](xwiki/0298_Programing_Python_Tools_hydra)
       - [omegaconf](xwiki/0296_Programing_Python_Tools_omegaconf)
-      - [pdb](xwiki/0303_Programing_Python_Tools_pdb)
+      - [pdb/ipdb](xwiki/0303_Programing_Python_Tools_pdb)
       - [psutil](xwiki/0098_Programing_Python_Tools_psutil)
       - [pylint 代码分析工具](xwiki/0092_Programing_Python_Tools_pylint)
       - [tqdm 进度条工具](xwiki/0099_Programing_Python_Tools_tqdm)
@@ -399,7 +399,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1613360611</sub></kbd>
+<kbd><sub>@1621440612</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
@@ -895,7 +895,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@0942220612</sub></kbd>
+<kbd><sub>@1622550612</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -958,7 +958,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@1625070611</sub></kbd>
+<kbd><sub>@1624470612</sub></kbd>
 ## Jupyter Notebooks Samples
 
 

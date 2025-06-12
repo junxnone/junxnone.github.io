@@ -76,7 +76,7 @@
 - 2024-04-26&nbsp;&nbsp; [YOLO-World](aiwiki/0465_paper_YOLOWorld)&nbsp;&nbsp; :bookmark:paper :bookmark:YOLOWorld
 - 2024-04-26&nbsp;&nbsp; [Grounding DINO](aiwiki/0464_paper_GroundingDINO)&nbsp;&nbsp; :bookmark:paper :bookmark:GroundingDINO
 - 2024-04-26&nbsp;&nbsp; [AnomalyCLIP](aiwiki/0466_paper_AnomalyCLIP)&nbsp;&nbsp; :bookmark:paper :bookmark:AnomalyCLIP
-- 2024-04-23&nbsp;&nbsp; [pdb](xwiki/0303_Programing_Python_Tools_pdb)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:pdb
+- 2024-04-23&nbsp;&nbsp; [pdb/ipdb](xwiki/0303_Programing_Python_Tools_pdb)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:pdb
 - 2024-04-21&nbsp;&nbsp; [Vtune Analysis Type](opt/0062_Tools_Vtune_AT)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT
 - 2024-04-20&nbsp;&nbsp; [Vtune on Remote Linux](opt/0055_Tools_Vtune_Linux_Remote)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Linux :bookmark:Remote
 - 2024-04-20&nbsp;&nbsp; [Vtune Windows](opt/0050_Tools_Vtune_Windows)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Windows
@@ -943,4 +943,4 @@
 
 
 
-> `@2025.06.12 15:22:53`
+> `@2025.06.12 16:31:27`
