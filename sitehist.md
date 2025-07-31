@@ -1,3 +1,4 @@
+- 2025-07-31&nbsp;&nbsp; [uv](xwiki/0315_Programing_Python_Tools_uv)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:uv
 - 2025-06-10&nbsp;&nbsp; [DualAnoDiff](aiwiki/0522_paper_DualAnoDiff)&nbsp;&nbsp; :bookmark:paper :bookmark:DualAnoDiff
 - 2025-06-10&nbsp;&nbsp; [DualAnoDiff CN](aiwiki/0523_paper_DualAnoDiff_cn)&nbsp;&nbsp; :bookmark:paper :bookmark:DualAnoDiff :bookmark:cn
 - 2025-06-09&nbsp;&nbsp; [算法落地实践](aiwiki/0521_ML_Tasks_Image_Anomaly_Pipeline)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Anomaly :bookmark:Pipeline
@@ -943,4 +944,4 @@
 
 
 
-> `@2025.07.31 10:08:00`
+> `@2025.07.31 12:05:12`

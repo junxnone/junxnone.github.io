@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.07.31 10:07:59`
+> `@2025.07.31 12:05:11`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -165,6 +165,7 @@
       - [psutil](xwiki/0098_Programing_Python_Tools_psutil)
       - [pylint 代码分析工具](xwiki/0092_Programing_Python_Tools_pylint)
       - [tqdm 进度条工具](xwiki/0099_Programing_Python_Tools_tqdm)
+      - [uv](xwiki/0315_Programing_Python_Tools_uv)
       - [virtualenv](xwiki/0176_Programing_Python_Tools_virtualenv)
       - [virtualenvwrapper](xwiki/0175_Programing_Python_Tools_virtualenvwrapper)
       - [yapf 代码格式化工具](xwiki/0093_Programing_Python_Tools_yapf)
@@ -399,7 +400,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1614580730</sub></kbd>
+<kbd><sub>@1051280731</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
