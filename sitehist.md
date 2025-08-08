@@ -1,3 +1,4 @@
+- 2025-08-08&nbsp;&nbsp; [AdaBLDM 环境设置](aiwiki/0524_paper_AdaBLDM_envs)&nbsp;&nbsp; :bookmark:paper :bookmark:AdaBLDM :bookmark:envs
 - 2025-07-31&nbsp;&nbsp; [uv](xwiki/0315_Programing_Python_Tools_uv)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:uv
 - 2025-06-10&nbsp;&nbsp; [DualAnoDiff](aiwiki/0522_paper_DualAnoDiff)&nbsp;&nbsp; :bookmark:paper :bookmark:DualAnoDiff
 - 2025-06-10&nbsp;&nbsp; [DualAnoDiff CN](aiwiki/0523_paper_DualAnoDiff_cn)&nbsp;&nbsp; :bookmark:paper :bookmark:DualAnoDiff :bookmark:cn
@@ -944,4 +945,4 @@
 
 
 
-> `@2025.08.08 15:29:06`
+> `@2025.08.08 16:35:04`

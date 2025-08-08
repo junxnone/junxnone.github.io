@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.08.08 15:29:05`
+> `@2025.08.08 16:35:04`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -136,7 +136,7 @@
   - [KDE](linux/0117_Desktop_KDE)
 - [Linux Logs](linux/0136_Logs)
 
-<kbd><sub>@1623080807</sub></kbd>
+<kbd><sub>@1622560808</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -400,7 +400,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1615110807</sub></kbd>
+<kbd><sub>@1614550808</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
@@ -798,6 +798,7 @@
   - [AdaBLDM](aiwiki/0510_paper_AdaBLDM)
     - [Inference Code 分析](aiwiki/0516_paper_AdaBLDM_InferenceCode)
     - [AdaBLDM 译文](aiwiki/0515_paper_AdaBLDM_cn)
+    - [AdaBLDM 环境设置](aiwiki/0524_paper_AdaBLDM_envs)
   - [A Survey on Industrial Anomalies Synthesis](aiwiki/0511_paper_AnomaliesSynthesisSurvey)
   - [AnomalyAny](aiwiki/0519_paper_AnomalyAny)
     - [AnomalyAny CN](aiwiki/0520_paper_AnomalyAny_cn)
@@ -896,7 +897,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1625510807</sub></kbd>
+<kbd><sub>@1625430808</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -959,7 +960,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@1627540807</sub></kbd>
+<kbd><sub>@1627250808</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
