@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.10.27 07:20:20`
+> `@2025.10.27 09:59:00`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -267,10 +267,10 @@
     - [UseLocalPackage](xwiki/0068_Tools_Jupyter_UseLocalPackage)
   - [Git](xwiki/0111_Tools_Git)
     - [Git Configs](xwiki/0112_Tools_Git_config)
+      - [Proxy Setup](xwiki/0113_Tools_Git_config_proxy)
     - [Git Branch](xwiki/0115_Tools_Git_branch)
     - [tag](xwiki/0116_Tools_Git_tag)
     - [Git Submodule](xwiki/0114_Tools_Git_submodule)
-    - [Proxy Setup](xwiki/0113_Tools_Git_proxy)
     - [移除 stage 文件](xwiki/0119_Tools_Git_RMStageFile)
     - [git bash](xwiki/0256_Tools_Git_Bash)
     - [No newline at end of file](xwiki/0120_Tools_Git_NoNewline)
@@ -400,7 +400,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1611521026</sub></kbd>
+<kbd><sub>@0856451027</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
