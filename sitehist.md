@@ -1,3 +1,5 @@
+- 2025-11-13&nbsp;&nbsp; [Center Distance](aiwiki/0525_ML_Metrics_Detection_CD)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:CD
+- 2025-11-13&nbsp;&nbsp; [Boundary F1-Score](aiwiki/0526_ML_Metrics_Segmentation_BF1S)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:BF1S
 - 2025-08-08&nbsp;&nbsp; [AdaBLDM 环境设置](aiwiki/0524_paper_AdaBLDM_envs)&nbsp;&nbsp; :bookmark:paper :bookmark:AdaBLDM :bookmark:envs
 - 2025-07-31&nbsp;&nbsp; [uv](xwiki/0315_Programing_Python_Tools_uv)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:uv
 - 2025-06-10&nbsp;&nbsp; [DualAnoDiff](aiwiki/0522_paper_DualAnoDiff)&nbsp;&nbsp; :bookmark:paper :bookmark:DualAnoDiff
@@ -945,4 +947,4 @@
 
 
 
-> `@2025.11.13 15:22:38`
+> `@2025.11.13 16:31:55`

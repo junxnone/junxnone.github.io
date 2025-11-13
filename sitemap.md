@@ -1,5 +1,5 @@
 # Junxnone
-> `@2025.11.13 15:22:38`
+> `@2025.11.13 16:31:54`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -136,7 +136,7 @@
   - [KDE](linux/0117_Desktop_KDE)
 - [Linux Logs](linux/0136_Logs)
 
-<kbd><sub>@1621191112</sub></kbd>
+<kbd><sub>@1620561113</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -400,7 +400,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1614081112</sub></kbd>
+<kbd><sub>@1613401113</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
@@ -676,12 +676,14 @@
     - [CrossValidation 交叉验证](aiwiki/0249_ML_Metrics_CrossValidation)
     - [Detection](aiwiki/0230_ML_Metrics_Detection)
       - [AP & mAP & AR](aiwiki/0382_ML_Metrics_Detection_APmAPAR)
+      - [Center Distance](aiwiki/0525_ML_Metrics_Detection_CD)
       - [COCO Detection Metrics](aiwiki/0384_ML_Metrics_Detection_COCO)
       - [GIoU](aiwiki/0232_ML_Metrics_Detection_GIoU)
       - [IoU - Intersection Over Union](aiwiki/0383_ML_Metrics_Detection_IoU)
       - [TPR & FPR](aiwiki/0381_ML_Metrics_Detection_TPRFPR)
     - [Pairwise](aiwiki/0139_ML_Metrics_Pairwise)
     - [Segmentation](aiwiki/0231_ML_Metrics_Segmentation)
+      - [Boundary F1-Score](aiwiki/0526_ML_Metrics_Segmentation_BF1S)
   - [PreProcessing](aiwiki/0369_ML_PreP)
     - [Data Augmentation 数据增强](aiwiki/0255_ML_PreP_DataAug)
       - [AutoAugment](aiwiki/0256_ML_PreP_DataAug_AutoAugment)
@@ -897,7 +899,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1623451112</sub></kbd>
+<kbd><sub>@1623111113</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -960,7 +962,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@1626081112</sub></kbd>
+<kbd><sub>@1625301113</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
