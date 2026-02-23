@@ -1,3 +1,4 @@
+- 2026-01-29&nbsp;&nbsp; [OpenVINO Debug](aiwiki/0527_Tools_OV_Debug)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Debug
 - 2025-11-13&nbsp;&nbsp; [Center Distance](aiwiki/0525_ML_Metrics_Detection_CD)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:CD
 - 2025-11-13&nbsp;&nbsp; [Boundary F1-Score](aiwiki/0526_ML_Metrics_Segmentation_BF1S)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:BF1S
 - 2025-08-08&nbsp;&nbsp; [AdaBLDM 环境设置](aiwiki/0524_paper_AdaBLDM_envs)&nbsp;&nbsp; :bookmark:paper :bookmark:AdaBLDM :bookmark:envs
@@ -947,4 +948,4 @@
 
 
 
-> `@2026.02.23 15:11:31`
+> `@2026.02.23 16:56:18`
