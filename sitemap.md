@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.02.26 16:55:17`
+> `@2026.02.26 17:55:36`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -333,10 +333,9 @@
     - [Intel CPU](xwiki/0003_Hardware_CPU_Intel)
       - [P-Core & E-Core](xwiki/0215_Hardware_CPU_Intel_PECore)
   - [GPU](xwiki/0218_Hardware_GPU)
-    - [Intel GPUs - iGPU/dGPU](xwiki/0005_Hardware_GPU_Intel)
     - [GPU Metrics](xwiki/0280_Hardware_GPU_Metrics)
     - [NVIDIA GPU](xwiki/0006_Hardware_GPU_NVIDIA)
-    - [Intel iGPU](xwiki/0317_Hardware_GPU_iGPU)
+    - [Intel GPUs - iGPU/dGPU](xwiki/0005_Hardware_GPU_iGPU)
       - [Intel GPUs Arch](xwiki/0225_Hardware_GPU_iGPU_Arch)
       - [iGPU Drivers](xwiki/0244_Hardware_GPU_iGPU_Drivers)
       - [Issues](xwiki/0154_Hardware_GPU_iGPU_Issues)
@@ -345,6 +344,7 @@
         - [intel-gpu-tools](xwiki/0169_Hardware_GPU_iGPU_Tools_intelgputools)
         - [intel-telemetry-tool](xwiki/0171_Hardware_GPU_iGPU_Tools_telemetry)
       - [Data Center GPUs](xwiki/0223_Hardware_GPU_iGPU_dGPU)
+      - [Intel iGPU](xwiki/0317_Hardware_GPU_iGPU_iGPU)
       - [Intel GPUs Table](xwiki/0224_Hardware_GPU_iGPU_table)
   - [Memory](xwiki/0004_Hardware_Memory)
   - [NUMA 架构](xwiki/0158_Hardware_NUMA)
@@ -401,7 +401,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1653120226</sub></kbd>
+<kbd><sub>@1658100226</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)

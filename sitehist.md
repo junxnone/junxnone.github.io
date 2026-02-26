@@ -1,4 +1,4 @@
-- 2026-02-26&nbsp;&nbsp; [Intel iGPU](xwiki/0317_Hardware_GPU_iGPU)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:iGPU
+- 2026-02-26&nbsp;&nbsp; [Intel iGPU](xwiki/0317_Hardware_GPU_iGPU_iGPU)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:iGPU :bookmark:iGPU
 - 2026-02-26&nbsp;&nbsp; [BIOS](xwiki/0316_X_BIOS)&nbsp;&nbsp; :bookmark:X :bookmark:BIOS
 - 2026-01-29&nbsp;&nbsp; [OpenVINO Debug](aiwiki/0527_Tools_OV_Debug)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Debug
 - 2025-11-13&nbsp;&nbsp; [Center Distance](aiwiki/0525_ML_Metrics_Detection_CD)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:CD
@@ -394,7 +394,7 @@
 - 2021-11-15&nbsp;&nbsp; [Proxy](linux/0080_Tools_Networks_Proxy)&nbsp;&nbsp; :bookmark:Tools :bookmark:Networks :bookmark:Proxy
 - 2021-11-11&nbsp;&nbsp; [Memory](xwiki/0004_Hardware_Memory)&nbsp;&nbsp; :bookmark:Hardware :bookmark:Memory
 - 2021-11-10&nbsp;&nbsp; [硬件](xwiki/0001_Hardware)&nbsp;&nbsp; :bookmark:Hardware
-- 2021-11-10&nbsp;&nbsp; [Intel GPUs - iGPU/dGPU](xwiki/0005_Hardware_GPU_Intel)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:Intel
+- 2021-11-10&nbsp;&nbsp; [Intel GPUs - iGPU/dGPU](xwiki/0005_Hardware_GPU_iGPU)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:iGPU
 - 2021-11-09&nbsp;&nbsp; [Driver](linux/0005_Driver)&nbsp;&nbsp; :bookmark:Driver
 - 2021-11-08&nbsp;&nbsp; [iso3dfd](xwiki/0209_X_iso3dfd)&nbsp;&nbsp; :bookmark:X :bookmark:iso3dfd
 - 2021-11-05&nbsp;&nbsp; [并行计算](opt/0023_PARA)&nbsp;&nbsp; :bookmark:PARA
@@ -950,4 +950,4 @@
 
 
 
-> `@2026.02.26 16:55:18`
+> `@2026.02.26 17:55:36`
