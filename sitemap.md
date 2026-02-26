@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.02.26 15:12:48`
+> `@2026.02.26 16:55:17`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -136,7 +136,7 @@
   - [KDE](linux/0117_Desktop_KDE)
 - [Linux Logs](linux/0136_Logs)
 
-<kbd><sub>@1641210225</sub></kbd>
+<kbd><sub>@1640290226</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -336,7 +336,7 @@
     - [Intel GPUs - iGPU/dGPU](xwiki/0005_Hardware_GPU_Intel)
     - [GPU Metrics](xwiki/0280_Hardware_GPU_Metrics)
     - [NVIDIA GPU](xwiki/0006_Hardware_GPU_NVIDIA)
-    - iGPU
+    - [Intel iGPU](xwiki/0317_Hardware_GPU_iGPU)
       - [Intel GPUs Arch](xwiki/0225_Hardware_GPU_iGPU_Arch)
       - [iGPU Drivers](xwiki/0244_Hardware_GPU_iGPU_Drivers)
       - [Issues](xwiki/0154_Hardware_GPU_iGPU_Issues)
@@ -374,6 +374,7 @@
   - [reStructuredText](xwiki/0246_Doc_reStructuredText)
 - [未分类](xwiki/0263_X)
   - [API Vs ABI](xwiki/0252_X_APIvsABI)
+  - [BIOS](xwiki/0316_X_BIOS)
   - [BLAS](xwiki/0179_X_BLAS)
   - [Base64](xwiki/0208_X_Base64)
   - [文件换行 Windows Linux CRLF LF](xwiki/0145_X_CRLF)
@@ -400,7 +401,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1634000225</sub></kbd>
+<kbd><sub>@1653120226</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
@@ -900,7 +901,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1644180225</sub></kbd>
+<kbd><sub>@1642480226</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -963,7 +964,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@1647270225</sub></kbd>
+<kbd><sub>@1647090226</sub></kbd>
 ## Jupyter Notebooks Samples
 
 

@@ -1,3 +1,5 @@
+- 2026-02-26&nbsp;&nbsp; [Intel iGPU](xwiki/0317_Hardware_GPU_iGPU)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:iGPU
+- 2026-02-26&nbsp;&nbsp; [BIOS](xwiki/0316_X_BIOS)&nbsp;&nbsp; :bookmark:X :bookmark:BIOS
 - 2026-01-29&nbsp;&nbsp; [OpenVINO Debug](aiwiki/0527_Tools_OV_Debug)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Debug
 - 2025-11-13&nbsp;&nbsp; [Center Distance](aiwiki/0525_ML_Metrics_Detection_CD)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:CD
 - 2025-11-13&nbsp;&nbsp; [Boundary F1-Score](aiwiki/0526_ML_Metrics_Segmentation_BF1S)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:BF1S
@@ -948,4 +950,4 @@
 
 
 
-> `@2026.02.26 15:12:48`
+> `@2026.02.26 16:55:18`
