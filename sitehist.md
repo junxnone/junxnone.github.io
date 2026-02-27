@@ -1,3 +1,4 @@
+- 2026-02-27&nbsp;&nbsp; [Debug pytorch with vtune](opt/0064_Tools_Vtune_pytorch)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:pytorch
 - 2026-02-26&nbsp;&nbsp; [Intel iGPU](xwiki/0317_Hardware_GPU_iGPU_iGPU)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:iGPU :bookmark:iGPU
 - 2026-02-26&nbsp;&nbsp; [BIOS](xwiki/0316_X_BIOS)&nbsp;&nbsp; :bookmark:X :bookmark:BIOS
 - 2026-01-29&nbsp;&nbsp; [OpenVINO Debug](aiwiki/0527_Tools_OV_Debug)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Debug
@@ -950,4 +951,4 @@
 
 
 
-> `@2026.02.27 10:31:59`
+> `@2026.02.27 12:48:21`

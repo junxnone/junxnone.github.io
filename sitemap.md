@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.02.27 10:31:58`
+> `@2026.02.27 12:48:20`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -952,6 +952,7 @@
     - [User-Mode Sampling and Tracing Colllection](opt/0052_Tools_Vtune_UMS)
     - [Vtune Windows](opt/0050_Tools_Vtune_Windows)
     - [Intel Vtune iGPU Analysis](opt/0009_Tools_Vtune_iGPU)
+    - [Debug pytorch with vtune](opt/0064_Tools_Vtune_pytorch)
 - [GPU 性能优化](opt/0046_GPU)
 - [性能优化库](opt/0044_LIB)
   - [Highway](opt/0045_LIB_Highway)
@@ -964,7 +965,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@1647090226</sub></kbd>
+<kbd><sub>@1127080227</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
