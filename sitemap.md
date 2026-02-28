@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.02.28 07:29:04`
+> `@2026.02.28 10:21:42`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -157,6 +157,7 @@
       - [PySnooper](xwiki/0304_Programing_Python_Tools_PySnooper)
       - [Streamlit](xwiki/0294_Programing_Python_Tools_Streamlit)
       - [bandit 代码安全分析](xwiki/0091_Programing_Python_Tools_bandit)
+      - [cProfile](xwiki/0318_Programing_Python_Tools_cProfile)
       - [calendar 日历](xwiki/0211_Programing_Python_Tools_calendar)
       - [datetime](xwiki/0212_Programing_Python_Tools_datetime)
       - [hydra](xwiki/0298_Programing_Python_Tools_hydra)
@@ -401,7 +402,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1628270227</sub></kbd>
+<kbd><sub>@0947270228</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
