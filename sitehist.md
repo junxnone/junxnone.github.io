@@ -1,3 +1,5 @@
+- 2026-03-16&nbsp;&nbsp; [OV Kernels](aiwiki/0528_Tools_OV_Kernels)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Kernels
+- 2026-03-16&nbsp;&nbsp; [OV GPU Kernels](aiwiki/0529_Tools_OV_Kernels_GPU)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Kernels :bookmark:GPU
 - 2026-03-02&nbsp;&nbsp; [VMD](xwiki/0319_X_BIOS_VMD)&nbsp;&nbsp; :bookmark:X :bookmark:BIOS :bookmark:VMD
 - 2026-02-28&nbsp;&nbsp; [cProfile](xwiki/0318_Programing_Python_Tools_cProfile)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:cProfile
 - 2026-02-27&nbsp;&nbsp; [Debug pytorch with vtune](opt/0064_Tools_Vtune_pytorch)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:pytorch
@@ -953,4 +955,4 @@
 
 
 
-> `@2026.03.16 15:25:02`
+> `@2026.03.16 17:03:06`
