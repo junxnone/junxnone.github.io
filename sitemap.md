@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.03.17 10:34:16`
+> `@2026.03.17 12:55:43`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -861,6 +861,7 @@
     - [OV Kernels](aiwiki/0528_Tools_OV_Kernels)
       - [GPU Kernels](aiwiki/0531_Tools_OV_Kernels_GPU)
         - [OV GPU Kernels Crop](aiwiki/0530_Tools_OV_Kernels_GPU_Crop)
+        - [OV GPU Kernels Permute](aiwiki/0532_Tools_OV_Kernels_GPU_Permute)
         - [OV GPU Kernels Reorder](aiwiki/0529_Tools_OV_Kernels_GPU_Reorder)
     - [NNCF](aiwiki/0451_Tools_OV_NNCF)
     - [OpenVINO 优化](aiwiki/0509_Tools_OV_Optimizations)
@@ -907,7 +908,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@0955130317</sub></kbd>
+<kbd><sub>@1042120317</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

@@ -1,3 +1,4 @@
+- 2026-03-17&nbsp;&nbsp; [OV GPU Kernels Permute](aiwiki/0532_Tools_OV_Kernels_GPU_Permute)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Kernels :bookmark:GPU :bookmark:Permute
 - 2026-03-17&nbsp;&nbsp; [OV GPU Kernels Crop](aiwiki/0530_Tools_OV_Kernels_GPU_Crop)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Kernels :bookmark:GPU :bookmark:Crop
 - 2026-03-17&nbsp;&nbsp; [GPU Kernels](aiwiki/0531_Tools_OV_Kernels_GPU)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Kernels :bookmark:GPU
 - 2026-03-16&nbsp;&nbsp; [OV Kernels](aiwiki/0528_Tools_OV_Kernels)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Kernels
@@ -957,4 +958,4 @@
 
 
 
-> `@2026.03.17 10:34:17`
+> `@2026.03.17 12:55:44`
