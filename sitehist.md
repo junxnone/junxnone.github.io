@@ -1,4 +1,5 @@
 - 2026-03-20&nbsp;&nbsp; [OpenVINO Ops Impl](aiwiki/0533_Tools_OV_OPs_Impl)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:Impl
+- 2026-03-20&nbsp;&nbsp; [OPs CPU Impl](aiwiki/0534_Tools_OV_OPs_CPUImpl)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:CPUImpl
 - 2026-03-17&nbsp;&nbsp; [OPs GPU Impl](aiwiki/0531_Tools_OV_OPs_GPUImpl)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:GPUImpl
 - 2026-03-17&nbsp;&nbsp; [GPU Impl Permute](aiwiki/0532_Tools_OV_OPs_GPUImpl_Permute)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:GPUImpl :bookmark:Permute
 - 2026-03-17&nbsp;&nbsp; [GPU Impl Crop](aiwiki/0530_Tools_OV_OPs_GPUImpl_Crop)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:GPUImpl :bookmark:Crop
@@ -959,4 +960,4 @@
 
 
 
-> `@2026.03.20 15:02:48`
+> `@2026.03.20 16:49:38`
