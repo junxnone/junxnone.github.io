@@ -1,8 +1,9 @@
-- 2026-03-17&nbsp;&nbsp; [OV GPU Kernels Permute](aiwiki/0532_Tools_OV_Kernels_GPU_Permute)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Kernels :bookmark:GPU :bookmark:Permute
-- 2026-03-17&nbsp;&nbsp; [OV GPU Kernels Crop](aiwiki/0530_Tools_OV_Kernels_GPU_Crop)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Kernels :bookmark:GPU :bookmark:Crop
-- 2026-03-17&nbsp;&nbsp; [GPU Kernels](aiwiki/0531_Tools_OV_Kernels_GPU)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Kernels :bookmark:GPU
-- 2026-03-16&nbsp;&nbsp; [OV Kernels](aiwiki/0528_Tools_OV_Kernels)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Kernels
-- 2026-03-16&nbsp;&nbsp; [OV GPU Kernels Reorder](aiwiki/0529_Tools_OV_Kernels_GPU_Reorder)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Kernels :bookmark:GPU :bookmark:Reorder
+- 2026-03-20&nbsp;&nbsp; [OpenVINO Ops Impl](aiwiki/0533_Tools_OV_OPs_Impl)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:Impl
+- 2026-03-17&nbsp;&nbsp; [OPs GPU Impl](aiwiki/0531_Tools_OV_OPs_GPUImpl)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:GPUImpl
+- 2026-03-17&nbsp;&nbsp; [GPU Impl Permute](aiwiki/0532_Tools_OV_OPs_GPUImpl_Permute)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:GPUImpl :bookmark:Permute
+- 2026-03-17&nbsp;&nbsp; [GPU Impl Crop](aiwiki/0530_Tools_OV_OPs_GPUImpl_Crop)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:GPUImpl :bookmark:Crop
+- 2026-03-16&nbsp;&nbsp; [OpenVINO Ops](aiwiki/0528_Tools_OV_OPs)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs
+- 2026-03-16&nbsp;&nbsp; [GPU Impl Reorder](aiwiki/0529_Tools_OV_OPs_GPUImpl_Reorder)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:GPUImpl :bookmark:Reorder
 - 2026-03-02&nbsp;&nbsp; [VMD](xwiki/0319_X_BIOS_VMD)&nbsp;&nbsp; :bookmark:X :bookmark:BIOS :bookmark:VMD
 - 2026-02-28&nbsp;&nbsp; [cProfile](xwiki/0318_Programing_Python_Tools_cProfile)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:cProfile
 - 2026-02-27&nbsp;&nbsp; [Debug pytorch with vtune](opt/0064_Tools_Vtune_pytorch)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:pytorch
@@ -958,4 +959,4 @@
 
 
 
-> `@2026.03.20 07:34:23`
+> `@2026.03.20 10:33:07`

@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.03.20 07:34:22`
+> `@2026.03.20 10:33:07`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -858,12 +858,13 @@
     - [OpenVINO Debug](aiwiki/0527_Tools_OV_Debug)
     - [DevCloud](aiwiki/0179_Tools_OV_DevCloud)
     - [OpenVINO INT8 Model](aiwiki/0182_Tools_OV_INT8Model)
-    - [OV Kernels](aiwiki/0528_Tools_OV_Kernels)
-      - [GPU Kernels](aiwiki/0531_Tools_OV_Kernels_GPU)
-        - [OV GPU Kernels Crop](aiwiki/0530_Tools_OV_Kernels_GPU_Crop)
-        - [OV GPU Kernels Permute](aiwiki/0532_Tools_OV_Kernels_GPU_Permute)
-        - [OV GPU Kernels Reorder](aiwiki/0529_Tools_OV_Kernels_GPU_Reorder)
     - [NNCF](aiwiki/0451_Tools_OV_NNCF)
+    - [OpenVINO Ops](aiwiki/0528_Tools_OV_OPs)
+      - [OPs GPU Impl](aiwiki/0531_Tools_OV_OPs_GPUImpl)
+        - [GPU Impl Crop](aiwiki/0530_Tools_OV_OPs_GPUImpl_Crop)
+        - [GPU Impl Permute](aiwiki/0532_Tools_OV_OPs_GPUImpl_Permute)
+        - [GPU Impl Reorder](aiwiki/0529_Tools_OV_OPs_GPUImpl_Reorder)
+      - [OpenVINO Ops Impl](aiwiki/0533_Tools_OV_OPs_Impl)
     - [OpenVINO 优化](aiwiki/0509_Tools_OV_Optimizations)
     - [Security](aiwiki/0176_Tools_OV_Security)
     - [Tips](aiwiki/0184_Tools_OV_Tips)
@@ -908,7 +909,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1638550319</sub></kbd>
+<kbd><sub>@1001100320</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
