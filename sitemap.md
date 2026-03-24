@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.03.24 15:55:39`
+> `@2026.03.24 16:59:25`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -136,7 +136,7 @@
   - [KDE](linux/0117_Desktop_KDE)
 - [Linux Logs](linux/0136_Logs)
 
-<kbd><sub>@1649340323</sub></kbd>
+<kbd><sub>@1644380324</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -404,7 +404,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1417380324</sub></kbd>
+<kbd><sub>@1637150324</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
@@ -830,6 +830,7 @@
   - [MTA](aiwiki/0479_paper_MTA)
   - [MuSC](aiwiki/0467_paper_MuSC)
   - [PaDiM](aiwiki/0322_paper_PaDiM)
+  - [PatchCore](aiwiki/0535_paper_PatchCore)
   - [RDT-1B 一种用于双手操作的扩散基础模型](aiwiki/0507_paper_RDT)
     - [RDT-1B 翻译](aiwiki/0508_paper_RDT_CN)
   - [SAA+](aiwiki/0469_paper_SAAplus)
@@ -911,7 +912,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1652040323</sub></kbd>
+<kbd><sub>@1650350324</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -975,7 +976,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@1654120323</sub></kbd>
+<kbd><sub>@1652120324</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
