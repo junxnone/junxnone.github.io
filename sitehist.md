@@ -1,3 +1,4 @@
+- 2026-03-26&nbsp;&nbsp; [Python Debug](xwiki/0321_Programing_Python_Debug)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Debug
 - 2026-03-24&nbsp;&nbsp; [uv](xwiki/0320_Programing_Python_uv)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:uv
 - 2026-03-24&nbsp;&nbsp; [PatchCore](aiwiki/0535_paper_PatchCore)&nbsp;&nbsp; :bookmark:paper :bookmark:PatchCore
 - 2026-03-20&nbsp;&nbsp; [OpenVINO Ops Impl](aiwiki/0533_Tools_OV_OPs_Impl)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:Impl
@@ -962,4 +963,4 @@
 
 
 
-> `@2026.03.26 15:16:08`
+> `@2026.03.26 17:03:05`
