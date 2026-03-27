@@ -1,3 +1,4 @@
+- 2026-03-27&nbsp;&nbsp; [PatchCore 持续学习](aiwiki/0537_ML_IL_PatchCore)&nbsp;&nbsp; :bookmark:ML :bookmark:IL :bookmark:PatchCore
 - 2026-03-26&nbsp;&nbsp; [Python Debug](xwiki/0321_Programing_Python_Debug)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Debug
 - 2026-03-24&nbsp;&nbsp; [uv](xwiki/0320_Programing_Python_uv)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:uv
 - 2026-03-24&nbsp;&nbsp; [PatchCore](aiwiki/0535_paper_PatchCore)&nbsp;&nbsp; :bookmark:paper :bookmark:PatchCore
@@ -626,6 +627,7 @@
 - 2020-07-17&nbsp;&nbsp; [AutoML](aiwiki/0244_Datasets_Image2D_AutoML)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:AutoML
 - 2020-07-10&nbsp;&nbsp; [Feature Engineering](aiwiki/0206_ML_AutoML_FE)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:FE
 - 2020-07-10&nbsp;&nbsp; [AutoAugment](aiwiki/0256_ML_PreP_DataAug_AutoAugment)&nbsp;&nbsp; :bookmark:ML :bookmark:PreP :bookmark:DataAug :bookmark:AutoAugment
+- 2020-07-06&nbsp;&nbsp; [增量学习/持续学习](aiwiki/0536_ML_IL)&nbsp;&nbsp; :bookmark:ML :bookmark:IL
 - 2020-07-06&nbsp;&nbsp; [Uncertainty Sampling](aiwiki/0275_ML_AL_QS_UncertaintySampling)&nbsp;&nbsp; :bookmark:ML :bookmark:AL :bookmark:QS :bookmark:UncertaintySampling
 - 2020-07-06&nbsp;&nbsp; [Query Strategy 查询/抽样 策略](aiwiki/0276_ML_AL_QS)&nbsp;&nbsp; :bookmark:ML :bookmark:AL :bookmark:QS
 - 2020-07-02&nbsp;&nbsp; [Active Learning](aiwiki/0118_ML_AL)&nbsp;&nbsp; :bookmark:ML :bookmark:AL
@@ -963,4 +965,4 @@
 
 
 
-> `@2026.03.27 07:36:57`
+> `@2026.03.27 10:49:19`

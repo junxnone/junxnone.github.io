@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.03.27 07:36:55`
+> `@2026.03.27 10:49:19`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -748,6 +748,8 @@
       - [Uncertainty Sampling](aiwiki/0275_ML_AL_QS_UncertaintySampling)
     - [Tools](aiwiki/0175_ML_AL_Tools)
       - [AIDE](aiwiki/0270_ML_AL_Tools_AIDE)
+  - [增量学习/持续学习](aiwiki/0536_ML_IL)
+    - [PatchCore 持续学习](aiwiki/0537_ML_IL_PatchCore)
   - [Nearest Neighbor Search 最近邻搜索](aiwiki/0102_ML_NNS)
     - [Approximate Nearest Neighbor 近似最近邻](aiwiki/0103_ML_NNS_ANN)
       - [Approximate Nearest Neighbors Oh Yeah](aiwiki/0333_ML_NNS_ANN_Annoy)
@@ -913,7 +915,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1652070326</sub></kbd>
+<kbd><sub>@1021560327</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
