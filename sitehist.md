@@ -1,4 +1,6 @@
 - 2026-04-24&nbsp;&nbsp; [py-spy](xwiki/0322_Programing_Python_Tools_pyspy)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:pyspy
+- 2026-04-24&nbsp;&nbsp; [Uformer](aiwiki/0539_paper_Uformer)&nbsp;&nbsp; :bookmark:paper :bookmark:Uformer
+- 2026-04-24&nbsp;&nbsp; [SpecularityNet-PSD](aiwiki/0538_paper_SpecularityNet)&nbsp;&nbsp; :bookmark:paper :bookmark:SpecularityNet
 - 2026-03-27&nbsp;&nbsp; [PatchCore 持续学习](aiwiki/0537_ML_IL_PatchCore)&nbsp;&nbsp; :bookmark:ML :bookmark:IL :bookmark:PatchCore
 - 2026-03-26&nbsp;&nbsp; [Python Debug](xwiki/0321_Programing_Python_Debug)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Debug
 - 2026-03-24&nbsp;&nbsp; [uv](xwiki/0320_Programing_Python_uv)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:uv
@@ -966,4 +968,4 @@
 
 
 
-> `@2026.04.24 11:23:32`
+> `@2026.04.24 14:11:09`

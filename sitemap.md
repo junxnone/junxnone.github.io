@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.04.24 11:23:32`
+> `@2026.04.24 14:11:08`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -839,7 +839,9 @@
     - [RDT-1B 翻译](aiwiki/0508_paper_RDT_CN)
   - [SAA+](aiwiki/0469_paper_SAAplus)
   - [STFPM](aiwiki/0324_paper_STFPM)
+  - [SpecularityNet-PSD](aiwiki/0538_paper_SpecularityNet)
   - [Tip-Adapter](aiwiki/0475_paper_TipAdapter)
+  - [Uformer](aiwiki/0539_paper_Uformer)
   - [VPT - Visual Prompt Tuning](aiwiki/0477_paper_VPT)
   - [WinCLIP](aiwiki/0468_paper_WinCLIP)
   - [YOLO-World](aiwiki/0465_paper_YOLOWorld)
@@ -916,7 +918,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1724540423</sub></kbd>
+<kbd><sub>@1408370424</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
