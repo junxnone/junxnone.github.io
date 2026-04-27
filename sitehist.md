@@ -1,3 +1,4 @@
+- 2026-04-27&nbsp;&nbsp; [Specular Highlight Removal](aiwiki/0540_ML_Tasks_Image_SHR)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:SHR
 - 2026-04-24&nbsp;&nbsp; [py-spy](xwiki/0322_Programing_Python_Tools_pyspy)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:pyspy
 - 2026-04-24&nbsp;&nbsp; [Uformer](aiwiki/0539_paper_Uformer)&nbsp;&nbsp; :bookmark:paper :bookmark:Uformer
 - 2026-04-24&nbsp;&nbsp; [SpecularityNet-PSD](aiwiki/0538_paper_SpecularityNet)&nbsp;&nbsp; :bookmark:paper :bookmark:SpecularityNet
@@ -968,4 +969,4 @@
 
 
 
-> `@2026.04.27 14:31:39`
+> `@2026.04.27 17:22:21`
