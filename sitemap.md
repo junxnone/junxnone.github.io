@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.04.29 11:54:32`
+> `@2026.04.29 14:27:21`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -328,6 +328,7 @@
     - [移动数据到新位置](xwiki/0052_Hypervisor_Docker_MoveData)
     - [Issues](xwiki/0149_Hypervisor_Docker_Issues)
 - [硬件](xwiki/0001_Hardware)
+  - [Board 完整板子层级](xwiki/0323_Hardware_Board)
   - [CPU](xwiki/0002_Hardware_CPU)
     - [Branch Prediction](xwiki/0219_Hardware_CPU_BP)
     - [Cache Memory](xwiki/0016_Hardware_CPU_Cache)
@@ -406,7 +407,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1803150428</sub></kbd>
+<kbd><sub>@1404240429</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
