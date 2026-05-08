@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.05.08 07:56:49`
+> `@2026.05.08 11:45:11`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -837,6 +837,7 @@
   - [MuSC](aiwiki/0467_paper_MuSC)
   - [PaDiM](aiwiki/0322_paper_PaDiM)
   - [PatchCore](aiwiki/0535_paper_PatchCore)
+  - [PointNet++](aiwiki/0541_paper_PointNet)
   - [RDT-1B 一种用于双手操作的扩散基础模型](aiwiki/0507_paper_RDT)
     - [RDT-1B 翻译](aiwiki/0508_paper_RDT_CN)
   - [SAA+](aiwiki/0469_paper_SAAplus)
@@ -920,7 +921,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1821570507</sub></kbd>
+<kbd><sub>@1136550508</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
