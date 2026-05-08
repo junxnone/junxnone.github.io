@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.05.08 11:45:11`
+> `@2026.05.08 14:00:54`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -175,6 +175,7 @@
     - [assert](xwiki/0094_Programing_Python_assert)
     - [json](xwiki/0292_Programing_Python_json)
     - [os package](xwiki/0311_Programing_Python_os)
+    - [Python user site 详解](xwiki/0324_Programing_Python_usersite)
     - [uv](xwiki/0320_Programing_Python_uv)
   - [C++](xwiki/0077_Programing_CPP)
     - [Vector](xwiki/0080_Programing_CPP_Vector)
@@ -407,7 +408,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1811390507</sub></kbd>
+<kbd><sub>@1350350508</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)

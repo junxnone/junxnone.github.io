@@ -1,3 +1,4 @@
+- 2026-05-08&nbsp;&nbsp; [Python user site 详解](xwiki/0324_Programing_Python_usersite)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:usersite
 - 2026-05-08&nbsp;&nbsp; [PointNet++](aiwiki/0541_paper_PointNet)&nbsp;&nbsp; :bookmark:paper :bookmark:PointNet
 - 2026-04-29&nbsp;&nbsp; [Board 完整板子层级](xwiki/0323_Hardware_Board)&nbsp;&nbsp; :bookmark:Hardware :bookmark:Board
 - 2026-04-27&nbsp;&nbsp; [Specular Highlight Removal](aiwiki/0540_ML_Tasks_Image_SHR)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:SHR
@@ -971,4 +972,4 @@
 
 
 
-> `@2026.05.08 11:45:11`
+> `@2026.05.08 14:00:55`
