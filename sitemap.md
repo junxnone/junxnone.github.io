@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.05.19 12:00:38`
+> `@2026.05.19 16:29:32`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -403,12 +403,13 @@
     - [Windows 命令行执行命令时卡住](xwiki/0234_Windows_Issues_CommandLineHang)
     - [命令行不能进入 D 盘](xwiki/0293_Windows_Issues_cmdCannotIntoD)
     - [python执行缓慢](xwiki/0314_Windows_Issues_python执行缓慢)
+  - [Windows Tips](xwiki/0325_Windows_Tips)
   - [Visual Studio Code](xwiki/0299_Windows_VSCode)
   - [Win11 关闭右键菜单折叠](xwiki/0282_Windows_W11collapse)
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@0947550519</sub></kbd>
+<kbd><sub>@1352530519</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
@@ -831,6 +832,7 @@
     - [DualAnoDiff CN](aiwiki/0523_paper_DualAnoDiff_cn)
   - [Eureka](aiwiki/0470_paper_Eureka)
   - [FiLo](aiwiki/0472_paper_FiLo)
+  - [FoundationStereo 系列](aiwiki/0542_paper_FoundationStereo)
   - [Grounding DINO](aiwiki/0464_paper_GroundingDINO)
     - [Grounding DINO 翻译](aiwiki/0485_paper_GroundingDINO_cn)
   - [LFA](aiwiki/0480_paper_LFA)
@@ -922,7 +924,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1941390518</sub></kbd>
+<kbd><sub>@1408240519</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

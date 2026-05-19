@@ -1,3 +1,5 @@
+- 2026-05-19&nbsp;&nbsp; [Windows Tips](xwiki/0325_Windows_Tips)&nbsp;&nbsp; :bookmark:Windows :bookmark:Tips
+- 2026-05-19&nbsp;&nbsp; [FoundationStereo 系列](aiwiki/0542_paper_FoundationStereo)&nbsp;&nbsp; :bookmark:paper :bookmark:FoundationStereo
 - 2026-05-08&nbsp;&nbsp; [Python user site 详解](xwiki/0324_Programing_Python_usersite)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:usersite
 - 2026-05-08&nbsp;&nbsp; [PointNet++](aiwiki/0541_paper_PointNet)&nbsp;&nbsp; :bookmark:paper :bookmark:PointNet
 - 2026-04-29&nbsp;&nbsp; [Board 完整板子层级](xwiki/0323_Hardware_Board)&nbsp;&nbsp; :bookmark:Hardware :bookmark:Board
@@ -972,4 +974,4 @@
 
 
 
-> `@2026.05.19 12:00:38`
+> `@2026.05.19 16:29:33`
