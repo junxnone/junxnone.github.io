@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.05.22 08:07:39`
+> `@2026.05.22 13:04:32`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -833,6 +833,7 @@
   - [Eureka](aiwiki/0470_paper_Eureka)
   - [FiLo](aiwiki/0472_paper_FiLo)
   - [FoundationStereo 系列](aiwiki/0542_paper_FoundationStereo)
+    - [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching 读书笔记](aiwiki/0543_paper_FoundationStereo_FFDS)
   - [Grounding DINO](aiwiki/0464_paper_GroundingDINO)
     - [Grounding DINO 翻译](aiwiki/0485_paper_GroundingDINO_cn)
   - [LFA](aiwiki/0480_paper_LFA)
@@ -924,7 +925,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1919310521</sub></kbd>
+<kbd><sub>@1127050522</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

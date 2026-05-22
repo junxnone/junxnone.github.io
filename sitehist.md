@@ -1,3 +1,4 @@
+- 2026-05-22&nbsp;&nbsp; [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching 读书笔记](aiwiki/0543_paper_FoundationStereo_FFDS)&nbsp;&nbsp; :bookmark:paper :bookmark:FoundationStereo :bookmark:FFDS
 - 2026-05-19&nbsp;&nbsp; [Windows Tips](xwiki/0325_Windows_Tips)&nbsp;&nbsp; :bookmark:Windows :bookmark:Tips
 - 2026-05-19&nbsp;&nbsp; [FoundationStereo 系列](aiwiki/0542_paper_FoundationStereo)&nbsp;&nbsp; :bookmark:paper :bookmark:FoundationStereo
 - 2026-05-08&nbsp;&nbsp; [Python user site 详解](xwiki/0324_Programing_Python_usersite)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:usersite
@@ -974,4 +975,4 @@
 
 
 
-> `@2026.05.22 08:07:40`
+> `@2026.05.22 13:04:33`
