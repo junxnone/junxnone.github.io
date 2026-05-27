@@ -85,10 +85,156 @@
             const prefix = document.location.pathname.endsWith('/') ? '' : '..';
             const markmapUrl = new URL(prefix + 'markmap.html', document.location);
             const markdownUrl = new URL(prefix + vm.route.file, document.location);
-            
+
             return mdstr;
           }
         );
+
+        // 搜索功能实现
+        let searchIndex = [];
+        let indexLoaded = false;
+
+        // 定义子站点配置
+        const subsites = [
+          { name: 'AI Wiki', url: 'https://junxnone.github.io/aiwiki', sitemap: 'https://junxnone.github.io/aiwiki/sitemap.md' },
+          { name: 'Linux', url: 'https://junxnone.github.io/linux', sitemap: 'https://junxnone.github.io/linux/sitemap.md' },
+          { name: 'X Wiki', url: 'https://junxnone.github.io/xwiki', sitemap: 'https://junxnone.github.io/xwiki/sitemap.md' }
+        ];
+
+        // 构建搜索索引
+        hook.ready(function() {
+          buildSearchIndex();
+        });
+
+        async function buildSearchIndex() {
+          try {
+            console.log('开始构建搜索索引...');
+
+            for (const site of subsites) {
+              try {
+                // 获取站点地图
+                const response = await fetch(site.sitemap);
+                if (!response.ok) continue;
+
+                const content = await response.text();
+
+                // 解析 markdown 链接
+                const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
+                let match;
+
+                while ((match = linkRegex.exec(content)) !== null) {
+                  const title = match[1];
+                  const path = match[2];
+
+                  // 跳过外部链接和锚点
+                  if (path.startsWith('http') || path.startsWith('#')) continue;
+
+                  searchIndex.push({
+                    title: title,
+                    path: path,
+                    site: site.name,
+                    siteUrl: site.url
+                  });
+                }
+
+                console.log(`✓ ${site.name}: 已索引 ${searchIndex.filter(item => item.site === site.name).length} 篇文章`);
+              } catch (error) {
+                console.warn(`✗ ${site.name}: 索引失败`, error);
+              }
+            }
+
+            indexLoaded = true;
+            console.log(`搜索索引构建完成，共 ${searchIndex.length} 篇文章`);
+          } catch (error) {
+            console.error('构建搜索索引失败:', error);
+          }
+        }
+
+        // 主页搜索功能
+        hook.doneEach(function() {
+          const searchInput = document.querySelector('.homepage-search .search-input');
+          const resultsPanel = document.querySelector('.search-results-panel');
+
+          if (searchInput && resultsPanel && !searchInput.hasAttribute('data-listener')) {
+            searchInput.setAttribute('data-listener', 'true');
+
+            searchInput.addEventListener('input', function(e) {
+              const query = e.target.value.toLowerCase().trim();
+
+              if (query.length === 0) {
+                resultsPanel.classList.remove('active');
+                resultsPanel.innerHTML = '';
+                return;
+              }
+
+              performSearch(query, resultsPanel);
+            });
+
+            // 点击外部关闭搜索结果
+            document.addEventListener('click', function(e) {
+              if (!searchInput.contains(e.target) && !resultsPanel.contains(e.target)) {
+                resultsPanel.classList.remove('active');
+              }
+            });
+          }
+        });
+
+        function performSearch(query, resultsPanel) {
+          if (!indexLoaded || searchIndex.length === 0) {
+            resultsPanel.innerHTML = '<div class="search-no-results">正在加载搜索索引，请稍候...</div>';
+            resultsPanel.classList.add('active');
+            return;
+          }
+
+          const results = [];
+          const keywords = query.split(/\s+/).filter(k => k);
+
+          searchIndex.forEach(page => {
+            let score = 0;
+            const lowerTitle = page.title.toLowerCase();
+
+            // 标题匹配
+            if (lowerTitle.includes(query)) {
+              score += 10;
+            } else {
+              // 关键词匹配
+              keywords.forEach(keyword => {
+                if (lowerTitle.includes(keyword)) {
+                  score += 3;
+                }
+              });
+            }
+
+            if (score > 0) {
+              results.push({
+                title: page.title,
+                path: page.path,
+                site: page.site,
+                siteUrl: page.siteUrl,
+                score: score
+              });
+            }
+          });
+
+          // 按评分排序
+          results.sort((a, b) => b.score - a.score);
+
+          // 显示结果
+          if (results.length === 0) {
+            resultsPanel.innerHTML = '<div class="search-no-results">未找到相关结果</div>';
+          } else {
+            resultsPanel.innerHTML = results.slice(0, 15).map(result => `
+              <div class="search-result-item" onclick="window.open('${result.siteUrl}/#/${result.path}', '_blank')">
+                <div class="search-result-title">
+                  ${result.title}
+                  <span class="search-result-badge">${result.site}</span>
+                </div>
+              </div>
+            `).join('');
+          }
+
+          resultsPanel.classList.add('active');
+        }
       }
     );
 
