@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.06.08 08:13:36`
+> `@2026.06.08 13:54:33`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -853,6 +853,7 @@
   - [VPT - Visual Prompt Tuning](aiwiki/0477_paper_VPT)
   - [WinCLIP](aiwiki/0468_paper_WinCLIP)
   - [YOLO-World](aiwiki/0465_paper_YOLOWorld)
+  - [SAM-6D](aiwiki/0545_paper_sam6d)
 - [AI Tools](aiwiki/0415_Tools)
   - [Numpy](aiwiki/0328_Tools_Numpy)
   - [Pytorch](aiwiki/0168_Tools_Pytorch)
@@ -926,7 +927,7 @@
 - [应用](aiwiki/0428_应用)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1826290607</sub></kbd>
+<kbd><sub>@1350380608</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

@@ -1,3 +1,4 @@
+- 2026-06-08&nbsp;&nbsp; [SAM-6D](aiwiki/0545_paper_sam6d)&nbsp;&nbsp; :bookmark:paper :bookmark:sam6d
 - 2026-06-02&nbsp;&nbsp; [BOP](aiwiki/0544_Datasets_BOP)&nbsp;&nbsp; :bookmark:Datasets :bookmark:BOP
 - 2026-05-22&nbsp;&nbsp; [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching 读书笔记](aiwiki/0543_paper_FoundationStereo_FFDS)&nbsp;&nbsp; :bookmark:paper :bookmark:FoundationStereo :bookmark:FFDS
 - 2026-05-19&nbsp;&nbsp; [Windows Tips](xwiki/0325_Windows_Tips)&nbsp;&nbsp; :bookmark:Windows :bookmark:Tips
@@ -976,4 +977,4 @@
 
 
 
-> `@2026.06.08 08:13:37`
+> `@2026.06.08 13:54:33`
