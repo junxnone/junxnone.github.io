@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.07.29 12:15:38`
+> `@2026.07.29 15:45:24`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -403,13 +403,14 @@
     - [Windows 命令行执行命令时卡住](xwiki/0234_Windows_Issues_CommandLineHang)
     - [命令行不能进入 D 盘](xwiki/0293_Windows_Issues_cmdCannotIntoD)
     - [python执行缓慢](xwiki/0314_Windows_Issues_python执行缓慢)
+    - [RDP 远程不能复制粘体文件文本](xwiki/0326_Windows_Issues_rdp远程不能复制粘体文件文本)
   - [Windows Tips](xwiki/0325_Windows_Tips)
   - [Visual Studio Code](xwiki/0299_Windows_VSCode)
   - [Win11 关闭右键菜单折叠](xwiki/0282_Windows_W11collapse)
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1819530728</sub></kbd>
+<kbd><sub>@1329310729</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
