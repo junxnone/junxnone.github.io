@@ -1,3 +1,4 @@
+- 2026-08-12&nbsp;&nbsp; [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)&nbsp;&nbsp; :bookmark:应用 :bookmark:3DPinPicking
 - 2026-07-29&nbsp;&nbsp; [RDP 远程不能复制粘体文件文本](xwiki/0326_Windows_Issues_rdp远程不能复制粘体文件文本)&nbsp;&nbsp; :bookmark:Windows :bookmark:Issues :bookmark:rdp远程不能复制粘体文件文本
 - 2026-07-27&nbsp;&nbsp; [FoundationPose](aiwiki/0549_paper_FoundationPose)&nbsp;&nbsp; :bookmark:paper :bookmark:FoundationPose
 - 2026-07-10&nbsp;&nbsp; [相机坐标系](aiwiki/0548_Media_Image_Camera_相机坐标系)&nbsp;&nbsp; :bookmark:Media :bookmark:Image :bookmark:Camera :bookmark:相机坐标系
@@ -982,4 +983,4 @@
 
 
 
-> `@2026.08.12 12:50:13`
+> `@2026.08.12 14:17:04`

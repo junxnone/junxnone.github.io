@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.08.12 12:50:13`
+> `@2026.08.12 14:17:03`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -930,9 +930,10 @@
   - [Optuna](aiwiki/0486_x_Optuna)
   - [Question](aiwiki/0447_x_Q)
 - [应用](aiwiki/0428_应用)
+  - [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1650250811</sub></kbd>
+<kbd><sub>@1416170812</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
