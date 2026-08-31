@@ -1,3 +1,4 @@
+- 2026-08-31&nbsp;&nbsp; [PTAT](xwiki/0328_Hardware_PTAT)&nbsp;&nbsp; :bookmark:Hardware :bookmark:PTAT
 - 2026-08-14&nbsp;&nbsp; [Windows  RDP](xwiki/0327_Windows_RDP)&nbsp;&nbsp; :bookmark:Windows :bookmark:RDP
 - 2026-08-12&nbsp;&nbsp; [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)&nbsp;&nbsp; :bookmark:应用 :bookmark:3DPinPicking
 - 2026-07-29&nbsp;&nbsp; [RDP 远程不能复制粘体文件文本](xwiki/0326_Windows_Issues_rdp远程不能复制粘体文件文本)&nbsp;&nbsp; :bookmark:Windows :bookmark:Issues :bookmark:rdp远程不能复制粘体文件文本
@@ -984,4 +985,4 @@
 
 
 
-> `@2026.08.31 09:14:14`
+> `@2026.08.31 16:25:05`
