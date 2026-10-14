@@ -886,8 +886,8 @@
 - 2019-02-20&nbsp;&nbsp; [Hardware Information  查看工具](linux/0068_Tools_OS_HardwareInfo)&nbsp;&nbsp; :bookmark:Tools :bookmark:OS :bookmark:HardwareInfo
 - 2019-02-19&nbsp;&nbsp; [添加账户 adduser vs useradd](linux/0069_Tools_OS_adduser)&nbsp;&nbsp; :bookmark:Tools :bookmark:OS :bookmark:adduser
 - 2019-02-19&nbsp;&nbsp; [virtualenvwrapper](xwiki/0175_Programing_Python_Tools_virtualenvwrapper)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:virtualenvwrapper
-- 2019-02-19&nbsp;&nbsp; [bashrc](linux/0102_Linux_bashrc)&nbsp;&nbsp; :bookmark:Linux :bookmark:bashrc
 - 2019-02-19&nbsp;&nbsp; [VLAD](aiwiki/0154_ML_Tasks_Image_Retrieval_CBIR_VLAD)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Retrieval :bookmark:CBIR :bookmark:VLAD
+- 2019-02-19&nbsp;&nbsp; [Linux bashrc](linux/0102_Linux_bashrc)&nbsp;&nbsp; :bookmark:Linux :bookmark:bashrc
 - 2019-02-19&nbsp;&nbsp; [CBIR](aiwiki/0155_ML_Tasks_Image_Retrieval_CBIR)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Retrieval :bookmark:CBIR
 - 2019-02-18&nbsp;&nbsp; [移除 stage 文件](xwiki/0119_Tools_Git_RMStageFile)&nbsp;&nbsp; :bookmark:Tools :bookmark:Git :bookmark:RMStageFile
 - 2019-02-18&nbsp;&nbsp; [os package](xwiki/0311_Programing_Python_os)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:os
@@ -987,4 +987,4 @@
 
 
 
-> `@2026.10.14 08:59:36`
+> `@2026.10.14 14:02:17`

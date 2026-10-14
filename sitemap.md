@@ -1,9 +1,9 @@
 # Junxnone
-> `@2026.10.14 08:59:34`
+> `@2026.10.14 14:02:17`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
-  - [bashrc](linux/0102_Linux_bashrc)
+  - [Linux bashrc](linux/0102_Linux_bashrc)
   - [Yocto](linux/0084_Linux_Yocto)
     - [设置静态IP](linux/0085_Linux_Yocto_SetStaticIP)
   - [IPC](linux/0086_Linux_IPC)
@@ -138,7 +138,7 @@
   - [KDE](linux/0117_Desktop_KDE)
 - [Linux Logs](linux/0136_Logs)
 
-<kbd><sub>@2330341013</sub></kbd>
+<kbd><sub>@0934411014</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -1002,7 +1002,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@2335081013</sub></kbd>
+<kbd><sub>@1351431014</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
