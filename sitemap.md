@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.10.14 14:02:17`
+> `@2026.10.14 20:45:00`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -975,13 +975,19 @@
   - [Intel Vtune](opt/0006_Tools_Vtune)
     - [Vtune Analysis Type](opt/0062_Tools_Vtune_AT)
       - [Vtune Anomaly Detection](opt/0061_Tools_Vtune_AT_AD)
+      - [Vtune GPU Hotspots](opt/0069_Tools_Vtune_AT_GPUHotspots)
+      - [Vtune HPC Performance Characterization](opt/0066_Tools_Vtune_AT_HPC)
       - [Vtune Hotspots](opt/0057_Tools_Vtune_AT_Hotspots)
+      - [Vtune Input and Output](opt/0067_Tools_Vtune_AT_IO)
       - [Vtune Memory Access](opt/0059_Tools_Vtune_AT_MA)
       - [Vtune Memory Consumption](opt/0060_Tools_Vtune_AT_MC)
       - [Vtune Microarchitecture](opt/0058_Tools_Vtune_AT_Microarchitecture)
       - [Vtune Performance Snapshot](opt/0051_Tools_Vtune_AT_PS)
+      - [Vtune System Overview](opt/0070_Tools_Vtune_AT_SystemOverview)
+      - [Vtune Threading](opt/0065_Tools_Vtune_AT_Threading)
+      - [Vtune XPU Offload Analysis](opt/0068_Tools_Vtune_AT_XPU)
     - [Vtune CommandLine Mode](opt/0007_Tools_Vtune_CommandLine)
-    - [Vtune Debug API](opt/0010_Tools_Vtune_DebugAPI)
+    - [Vtune ITTJIT APIs](opt/0010_Tools_Vtune_DebugAPI)
     - [Hardware Event-based Sampling Collection](opt/0053_Tools_Vtune_HWE)
     - [Vtune Linux](opt/0054_Tools_Vtune_Linux)
       - [Vtune on Remote Linux](opt/0055_Tools_Vtune_Linux_Remote)
@@ -1002,7 +1008,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@1351431014</sub></kbd>
+<kbd><sub>@1723001014</sub></kbd>
 ## Jupyter Notebooks Samples
 
 

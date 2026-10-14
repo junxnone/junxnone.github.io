@@ -1,3 +1,9 @@
+- 2026-10-14&nbsp;&nbsp; [Vtune XPU Offload Analysis](opt/0068_Tools_Vtune_AT_XPU)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:XPU
+- 2026-10-14&nbsp;&nbsp; [Vtune Threading](opt/0065_Tools_Vtune_AT_Threading)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:Threading
+- 2026-10-14&nbsp;&nbsp; [Vtune System Overview](opt/0070_Tools_Vtune_AT_SystemOverview)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:SystemOverview
+- 2026-10-14&nbsp;&nbsp; [Vtune Input and Output](opt/0067_Tools_Vtune_AT_IO)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:IO
+- 2026-10-14&nbsp;&nbsp; [Vtune HPC Performance Characterization](opt/0066_Tools_Vtune_AT_HPC)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:HPC
+- 2026-10-14&nbsp;&nbsp; [Vtune GPU Hotspots](opt/0069_Tools_Vtune_AT_GPUHotspots)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:GPUHotspots
 - 2026-10-13&nbsp;&nbsp; [ncdu](linux/0137_Tools_OS_Disk_ncdu)&nbsp;&nbsp; :bookmark:Tools :bookmark:OS :bookmark:Disk :bookmark:ncdu
 - 2026-10-13&nbsp;&nbsp; [GitHub / Git CLI 多账号切换](xwiki/0329_Tools_Github_多账号切换)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:多账号切换
 - 2026-08-31&nbsp;&nbsp; [PTAT](xwiki/0328_Hardware_PTAT)&nbsp;&nbsp; :bookmark:Hardware :bookmark:PTAT
@@ -189,7 +195,7 @@
 - 2023-07-26&nbsp;&nbsp; [SIMD](opt/0013_PARA_SIMD)&nbsp;&nbsp; :bookmark:PARA :bookmark:SIMD
 - 2023-07-25&nbsp;&nbsp; [FlameGraph](xwiki/0285_Doc_FlameGraph)&nbsp;&nbsp; :bookmark:Doc :bookmark:FlameGraph
 - 2023-07-24&nbsp;&nbsp; [Highway](opt/0045_LIB_Highway)&nbsp;&nbsp; :bookmark:LIB :bookmark:Highway
-- 2023-07-20&nbsp;&nbsp; [Vtune Debug API](opt/0010_Tools_Vtune_DebugAPI)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:DebugAPI
+- 2023-07-20&nbsp;&nbsp; [Vtune ITTJIT APIs](opt/0010_Tools_Vtune_DebugAPI)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:DebugAPI
 - 2023-07-18&nbsp;&nbsp; [Win11 关闭右键菜单折叠](xwiki/0282_Windows_W11collapse)&nbsp;&nbsp; :bookmark:Windows :bookmark:W11collapse
 - 2023-07-14&nbsp;&nbsp; [Precision](xwiki/0281_Hardware_Precision)&nbsp;&nbsp; :bookmark:Hardware :bookmark:Precision
 - 2023-07-13&nbsp;&nbsp; [GPU Metrics](xwiki/0280_Hardware_GPU_Metrics)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:Metrics
@@ -987,4 +993,4 @@
 
 
 
-> `@2026.10.14 14:02:17`
+> `@2026.10.14 20:45:01`
