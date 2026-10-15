@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.10.15 13:42:03`
+> `@2026.10.15 19:07:51`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -923,6 +923,13 @@
     - [ChatGPT](aiwiki/0373_Hot_AIGC_ChatGPT)
     - [AIGC Tools](aiwiki/0456_Hot_AIGC_Tools)
   - [DeepSeek](aiwiki/0496_Hot_DeepSeek)
+  - [Agent Harness](aiwiki/0551_Hot_Harness)
+    - [Harness Benchmark](aiwiki/0557_Hot_Harness_Benchmark)
+    - [Harness Context Engineering](aiwiki/0552_Hot_Harness_Context)
+    - [Harness MCP](aiwiki/0556_Hot_Harness_MCP)
+    - [Harness Orchestration](aiwiki/0554_Hot_Harness_Orchestration)
+    - [Harness Sandbox](aiwiki/0555_Hot_Harness_Sandbox)
+    - [Harness Skills](aiwiki/0553_Hot_Harness_Skills)
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
 - [资源参考](aiwiki/0380_Reference)
 - [x](aiwiki/0418_x)
@@ -938,7 +945,7 @@
   - [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@2117131014</sub></kbd>
+<kbd><sub>@1724151015</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -992,6 +999,7 @@
     - [Vtune Linux](opt/0054_Tools_Vtune_Linux)
       - [Vtune on Remote Linux](opt/0055_Tools_Vtune_Linux_Remote)
     - [Vtune Metrics](opt/0056_Tools_Vtune_Metrics)
+    - [Tools Vtune Pipeline](opt/0071_Tools_Vtune_Pipeline)
     - [User-Mode Sampling and Tracing Colllection](opt/0052_Tools_Vtune_UMS)
     - [Vtune Windows](opt/0050_Tools_Vtune_Windows)
     - [Intel Vtune iGPU Analysis](opt/0009_Tools_Vtune_iGPU)
@@ -1008,7 +1016,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@0959111015</sub></kbd>
+<kbd><sub>@1451221015</sub></kbd>
 ## Jupyter Notebooks Samples
 
 

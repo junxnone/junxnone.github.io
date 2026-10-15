@@ -1,3 +1,11 @@
+- 2026-10-15&nbsp;&nbsp; [Tools Vtune Pipeline](opt/0071_Tools_Vtune_Pipeline)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Pipeline
+- 2026-10-15&nbsp;&nbsp; [Harness Skills](aiwiki/0553_Hot_Harness_Skills)&nbsp;&nbsp; :bookmark:Hot :bookmark:Harness :bookmark:Skills
+- 2026-10-15&nbsp;&nbsp; [Harness Sandbox](aiwiki/0555_Hot_Harness_Sandbox)&nbsp;&nbsp; :bookmark:Hot :bookmark:Harness :bookmark:Sandbox
+- 2026-10-15&nbsp;&nbsp; [Harness Orchestration](aiwiki/0554_Hot_Harness_Orchestration)&nbsp;&nbsp; :bookmark:Hot :bookmark:Harness :bookmark:Orchestration
+- 2026-10-15&nbsp;&nbsp; [Harness MCP](aiwiki/0556_Hot_Harness_MCP)&nbsp;&nbsp; :bookmark:Hot :bookmark:Harness :bookmark:MCP
+- 2026-10-15&nbsp;&nbsp; [Harness Context Engineering](aiwiki/0552_Hot_Harness_Context)&nbsp;&nbsp; :bookmark:Hot :bookmark:Harness :bookmark:Context
+- 2026-10-15&nbsp;&nbsp; [Harness Benchmark](aiwiki/0557_Hot_Harness_Benchmark)&nbsp;&nbsp; :bookmark:Hot :bookmark:Harness :bookmark:Benchmark
+- 2026-10-15&nbsp;&nbsp; [Agent Harness](aiwiki/0551_Hot_Harness)&nbsp;&nbsp; :bookmark:Hot :bookmark:Harness
 - 2026-10-14&nbsp;&nbsp; [Vtune XPU Offload Analysis](opt/0068_Tools_Vtune_AT_XPU)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:XPU
 - 2026-10-14&nbsp;&nbsp; [Vtune Threading](opt/0065_Tools_Vtune_AT_Threading)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:Threading
 - 2026-10-14&nbsp;&nbsp; [Vtune System Overview](opt/0070_Tools_Vtune_AT_SystemOverview)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:SystemOverview
@@ -993,4 +1001,4 @@
 
 
 
-> `@2026.10.15 13:42:04`
+> `@2026.10.15 19:07:51`
