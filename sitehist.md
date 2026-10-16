@@ -1,4 +1,8 @@
 - 2026-10-16&nbsp;&nbsp; [模型可解释性前沿状态](aiwiki/0558_Hot_Interpretability)&nbsp;&nbsp; :bookmark:Hot :bookmark:Interpretability
+- 2026-10-16&nbsp;&nbsp; [Mem TLB](opt/0073_Mem_TLB)&nbsp;&nbsp; :bookmark:Mem :bookmark:TLB
+- 2026-10-16&nbsp;&nbsp; [Mem NUMA](opt/0072_Mem_NUMA)&nbsp;&nbsp; :bookmark:Mem :bookmark:NUMA
+- 2026-10-16&nbsp;&nbsp; [Mem Bandwidth](opt/0075_Mem_Bandwidth)&nbsp;&nbsp; :bookmark:Mem :bookmark:Bandwidth
+- 2026-10-16&nbsp;&nbsp; [Mem Allocator](opt/0074_Mem_Allocator)&nbsp;&nbsp; :bookmark:Mem :bookmark:Allocator
 - 2026-10-15&nbsp;&nbsp; [Tools Vtune Pipeline](opt/0071_Tools_Vtune_Pipeline)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Pipeline
 - 2026-10-15&nbsp;&nbsp; [Harness Skills](aiwiki/0553_Hot_Harness_Skills)&nbsp;&nbsp; :bookmark:Hot :bookmark:Harness :bookmark:Skills
 - 2026-10-15&nbsp;&nbsp; [Harness Sandbox](aiwiki/0555_Hot_Harness_Sandbox)&nbsp;&nbsp; :bookmark:Hot :bookmark:Harness :bookmark:Sandbox
@@ -1002,4 +1006,4 @@
 
 
 
-> `@2026.10.16 11:56:02`
+> `@2026.10.16 16:54:56`

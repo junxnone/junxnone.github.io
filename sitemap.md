@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.10.16 11:56:02`
+> `@2026.10.16 16:54:55`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -946,7 +946,7 @@
   - [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@0932391016</sub></kbd>
+<kbd><sub>@1300111016</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -976,7 +976,11 @@
     - [SYCL SPIR](opt/0030_PARA_SYCL_SPIR)
   - [并行计算理论](opt/0012_PARA_Theory)
 - [内存优化](opt/0037_Mem)
+  - [Mem Allocator](opt/0074_Mem_Allocator)
+  - [Mem Bandwidth](opt/0075_Mem_Bandwidth)
   - [Memory Cacheline](opt/0036_Mem_CacheLine)
+  - [Mem NUMA](opt/0072_Mem_NUMA)
+  - [Mem TLB](opt/0073_Mem_TLB)
 - [性能优化工具](opt/0004_Tools)
   - [Intel Advisor](opt/0008_Tools_Advisor)
   - [Linux 程序性能分析工具](opt/0005_Tools_Linux)
@@ -1017,7 +1021,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@2103511015</sub></kbd>
+<kbd><sub>@1644221016</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
