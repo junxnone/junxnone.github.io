@@ -1,3 +1,4 @@
+- 2026-10-16&nbsp;&nbsp; [模型可解释性前沿状态](aiwiki/0558_Hot_Interpretability)&nbsp;&nbsp; :bookmark:Hot :bookmark:Interpretability
 - 2026-10-15&nbsp;&nbsp; [Tools Vtune Pipeline](opt/0071_Tools_Vtune_Pipeline)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Pipeline
 - 2026-10-15&nbsp;&nbsp; [Harness Skills](aiwiki/0553_Hot_Harness_Skills)&nbsp;&nbsp; :bookmark:Hot :bookmark:Harness :bookmark:Skills
 - 2026-10-15&nbsp;&nbsp; [Harness Sandbox](aiwiki/0555_Hot_Harness_Sandbox)&nbsp;&nbsp; :bookmark:Hot :bookmark:Harness :bookmark:Sandbox
@@ -1001,4 +1002,4 @@
 
 
 
-> `@2026.10.16 07:35:52`
+> `@2026.10.16 11:56:02`

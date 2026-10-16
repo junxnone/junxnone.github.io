@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.10.16 07:35:52`
+> `@2026.10.16 11:56:02`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -930,6 +930,7 @@
     - [Harness Orchestration](aiwiki/0554_Hot_Harness_Orchestration)
     - [Harness Sandbox](aiwiki/0555_Hot_Harness_Sandbox)
     - [Harness Skills](aiwiki/0553_Hot_Harness_Skills)
+  - [模型可解释性前沿状态](aiwiki/0558_Hot_Interpretability)
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
 - [资源参考](aiwiki/0380_Reference)
 - [x](aiwiki/0418_x)
@@ -945,7 +946,7 @@
   - [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@2102501015</sub></kbd>
+<kbd><sub>@0932391016</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
