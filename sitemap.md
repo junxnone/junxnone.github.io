@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.10.19 13:59:17`
+> `@2026.10.19 20:56:35`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -880,12 +880,12 @@
   - [OpenVINO](aiwiki/0185_Tools_OV)
     - [Model Optimizer](aiwiki/0181_Tools_OV_MO)
     - [Inference Engine](aiwiki/0180_Tools_OV_IE)
-    - [POT](aiwiki/0177_Tools_OV_POT)
+    - [~~POT~~](aiwiki/0177_Tools_OV_POT)
     - [Compile Tool](aiwiki/0183_Tools_OV_CompileTool)
     - [OpenVINO Debug](aiwiki/0527_Tools_OV_Debug)
     - [DevCloud](aiwiki/0179_Tools_OV_DevCloud)
     - [OpenVINO INT8 Model](aiwiki/0182_Tools_OV_INT8Model)
-    - [NNCF](aiwiki/0451_Tools_OV_NNCF)
+    - [NNCF - Neural Network Compression Framework](aiwiki/0451_Tools_OV_NNCF)
     - [OpenVINO Ops](aiwiki/0528_Tools_OV_OPs)
       - [OPs CPU Impl](aiwiki/0534_Tools_OV_OPs_CPUImpl)
       - [OPs GPU Impl](aiwiki/0531_Tools_OV_OPs_GPUImpl)
@@ -932,6 +932,15 @@
     - [Harness Skills](aiwiki/0553_Hot_Harness_Skills)
   - [模型可解释性前沿状态](aiwiki/0558_Hot_Interpretability)
 - [KnowledgeGraph](aiwiki/0329_KnowledgeGraph)
+- NNCF
+  - Post
+    - training
+      - [NNCF Post-training Quantization](aiwiki/0561_NNCF_Post_training_Quantization)
+  - Training
+    - time
+      - [NNCF Training-time Optimization](aiwiki/0562_NNCF_Training_time_Optimization)
+  - Weight
+    - [NNCF Weight Compression](aiwiki/0560_NNCF_Weight_Compression)
 - [资源参考](aiwiki/0380_Reference)
 - [x](aiwiki/0418_x)
   - [Diffusion Model](aiwiki/0512_x_DM)
@@ -942,11 +951,14 @@
     - [Model Precision](aiwiki/0450_x_Model_Precision)
   - [Optuna](aiwiki/0486_x_Optuna)
   - [Question](aiwiki/0447_x_Q)
+- 光流
+  - Optical
+    - [光流 Optical Flow](aiwiki/0559_光流_Optical_Flow)
 - [应用](aiwiki/0428_应用)
   - [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1324581019</sub></kbd>
+<kbd><sub>@1633571019</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

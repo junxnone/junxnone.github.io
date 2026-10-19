@@ -1,3 +1,7 @@
+- 2026-10-19&nbsp;&nbsp; [光流 Optical Flow](aiwiki/0559_光流_Optical_Flow)&nbsp;&nbsp; :bookmark:光流 :bookmark:Optical :bookmark:Flow
+- 2026-10-19&nbsp;&nbsp; [NNCF Weight Compression](aiwiki/0560_NNCF_Weight_Compression)&nbsp;&nbsp; :bookmark:NNCF :bookmark:Weight :bookmark:Compression
+- 2026-10-19&nbsp;&nbsp; [NNCF Training-time Optimization](aiwiki/0562_NNCF_Training_time_Optimization)&nbsp;&nbsp; :bookmark:NNCF :bookmark:Training :bookmark:time :bookmark:Optimization
+- 2026-10-19&nbsp;&nbsp; [NNCF Post-training Quantization](aiwiki/0561_NNCF_Post_training_Quantization)&nbsp;&nbsp; :bookmark:NNCF :bookmark:Post :bookmark:training :bookmark:Quantization
 - 2026-10-16&nbsp;&nbsp; [模型可解释性前沿状态](aiwiki/0558_Hot_Interpretability)&nbsp;&nbsp; :bookmark:Hot :bookmark:Interpretability
 - 2026-10-16&nbsp;&nbsp; [Mem TLB](opt/0073_Mem_TLB)&nbsp;&nbsp; :bookmark:Mem :bookmark:TLB
 - 2026-10-16&nbsp;&nbsp; [Mem NUMA](opt/0072_Mem_NUMA)&nbsp;&nbsp; :bookmark:Mem :bookmark:NUMA
@@ -173,7 +177,7 @@
 - 2023-11-01&nbsp;&nbsp; [Latent Space 潜在空间](aiwiki/0455_LM_VLM_LatentSpace)&nbsp;&nbsp; :bookmark:LM :bookmark:VLM :bookmark:LatentSpace
 - 2023-10-31&nbsp;&nbsp; [omegaconf](xwiki/0296_Programing_Python_Tools_omegaconf)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:omegaconf
 - 2023-10-31&nbsp;&nbsp; [RL Tools](aiwiki/0454_RL_Tools)&nbsp;&nbsp; :bookmark:RL :bookmark:Tools
-- 2023-10-30&nbsp;&nbsp; [NNCF](aiwiki/0451_Tools_OV_NNCF)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:NNCF
+- 2023-10-30&nbsp;&nbsp; [NNCF - Neural Network Compression Framework](aiwiki/0451_Tools_OV_NNCF)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:NNCF
 - 2023-10-30&nbsp;&nbsp; [Model Precision](aiwiki/0450_x_Model_Precision)&nbsp;&nbsp; :bookmark:x :bookmark:Model :bookmark:Precision
 - 2023-10-30&nbsp;&nbsp; [Isaac Gym - Nvidia](aiwiki/0452_Tools_IsaacGym)&nbsp;&nbsp; :bookmark:Tools :bookmark:IsaacGym
 - 2023-10-30&nbsp;&nbsp; [Hyper-Threading 超线程](xwiki/0295_Hardware_CPU_HT)&nbsp;&nbsp; :bookmark:Hardware :bookmark:CPU :bookmark:HT
@@ -606,7 +610,7 @@
 - 2021-02-06&nbsp;&nbsp; [Geojson Map](xwiki/0177_Tools_Github_Pages_GeojsonMap)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:Pages :bookmark:GeojsonMap
 - 2021-02-05&nbsp;&nbsp; [gst-inspect](aiwiki/0112_Media_Tools_GStreamer_gstinspect)&nbsp;&nbsp; :bookmark:Media :bookmark:Tools :bookmark:GStreamer :bookmark:gstinspect
 - 2021-02-05&nbsp;&nbsp; [gst-discoverer](aiwiki/0111_Media_Tools_GStreamer_gstdiscoverer)&nbsp;&nbsp; :bookmark:Media :bookmark:Tools :bookmark:GStreamer :bookmark:gstdiscoverer
-- 2021-02-02&nbsp;&nbsp; [POT](aiwiki/0177_Tools_OV_POT)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:POT
+- 2021-02-02&nbsp;&nbsp; [~~POT~~](aiwiki/0177_Tools_OV_POT)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:POT
 - 2021-02-01&nbsp;&nbsp; [ViT](aiwiki/0223_ML_Transformer_ViT)&nbsp;&nbsp; :bookmark:ML :bookmark:Transformer :bookmark:ViT
 - 2021-02-01&nbsp;&nbsp; [DETR](aiwiki/0165_paper_DETR)&nbsp;&nbsp; :bookmark:paper :bookmark:DETR
 - 2021-01-29&nbsp;&nbsp; [Position Encoding](aiwiki/0213_ML_Attention_PE)&nbsp;&nbsp; :bookmark:ML :bookmark:Attention :bookmark:PE
@@ -1006,4 +1010,4 @@
 
 
 
-> `@2026.10.19 13:59:18`
+> `@2026.10.19 20:56:36`
