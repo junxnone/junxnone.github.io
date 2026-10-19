@@ -336,8 +336,8 @@
 - 2023-02-02&nbsp;&nbsp; [PostProcessing](aiwiki/0370_ML_PostP)&nbsp;&nbsp; :bookmark:ML :bookmark:PostP
 - 2023-02-02&nbsp;&nbsp; [Hyperparameter 超参数](aiwiki/0368_ML_Arch_HP)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:HP
 - 2023-01-31&nbsp;&nbsp; [Op](aiwiki/0366_ML_Op)&nbsp;&nbsp; :bookmark:ML :bookmark:Op
-- 2022-12-28&nbsp;&nbsp; [数据结构](aiwiki/0364_OpenCV_data)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:data
 - 2022-12-28&nbsp;&nbsp; [calendar 日历](xwiki/0211_Programing_Python_Tools_calendar)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:calendar
+- 2022-12-28&nbsp;&nbsp; [OpenCV 数据结构](aiwiki/0364_OpenCV_data)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:data
 - 2022-12-27&nbsp;&nbsp; [OpenCV UseCase](aiwiki/0362_OpenCV_UC)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:UC
 - 2022-12-27&nbsp;&nbsp; [Image Filtering](aiwiki/0363_OpenCV_IP_Filter)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IP :bookmark:Filter
 - 2022-12-24&nbsp;&nbsp; [Softmax](aiwiki/0335_ML_Op_AF_Softmax)&nbsp;&nbsp; :bookmark:ML :bookmark:Op :bookmark:AF :bookmark:Softmax
@@ -409,7 +409,7 @@
 - 2022-02-09&nbsp;&nbsp; [降采样](aiwiki/0285_3D_Cloud_Sampling)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Sampling
 - 2022-02-08&nbsp;&nbsp; [离群点移除](aiwiki/0287_3D_Cloud_SOR)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:SOR
 - 2022-02-08&nbsp;&nbsp; [Merge](aiwiki/0286_3D_Cloud_Merge)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Merge
-- 2022-01-21&nbsp;&nbsp; [Retrieval](aiwiki/0278_ML_Tasks_Image_Retrieval)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Retrieval
+- 2022-01-21&nbsp;&nbsp; [Image Retrieval](aiwiki/0278_ML_Tasks_Image_Retrieval)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Retrieval
 - 2022-01-19&nbsp;&nbsp; [Random Search](aiwiki/0204_ML_AutoML_HPO_RandomSearch)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:HPO :bookmark:RandomSearch
 - 2022-01-18&nbsp;&nbsp; [DPCPP Debug](opt/0016_PARA_DPCPP_DEBUG)&nbsp;&nbsp; :bookmark:PARA :bookmark:DPCPP :bookmark:DEBUG
 - 2022-01-06&nbsp;&nbsp; [命令行](xwiki/0151_Build_Cmake_CMD)&nbsp;&nbsp; :bookmark:Build :bookmark:Cmake :bookmark:CMD
@@ -1006,4 +1006,4 @@
 
 
 
-> `@2026.10.19 08:57:43`
+> `@2026.10.19 13:59:18`

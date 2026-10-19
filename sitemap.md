@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.10.19 08:57:42`
+> `@2026.10.19 13:59:17`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -507,7 +507,7 @@
   - [OpenCV parallel_for_](aiwiki/0437_OpenCV_ParallelFor)
   - [OpenCV Performance Test](aiwiki/0431_OpenCV_PerfTest)
   - [TAPI - Transparent API](aiwiki/0436_OpenCV_TAPI)
-  - [数据结构](aiwiki/0364_OpenCV_data)
+  - [OpenCV 数据结构](aiwiki/0364_OpenCV_data)
   - [js](aiwiki/0339_OpenCV_js)
 - [3D](aiwiki/0076_3D)
   - [Camera](aiwiki/0040_3D_Camera)
@@ -647,7 +647,7 @@
         - [MSRCNN](aiwiki/0164_ML_Tasks_Image_Segmentation_MSRCNN)
         - [MaskRCNN](aiwiki/0163_ML_Tasks_Image_Segmentation_MaskRCNN)
         - [UNet](aiwiki/0161_ML_Tasks_Image_Segmentation_UNet)
-      - [Retrieval](aiwiki/0278_ML_Tasks_Image_Retrieval)
+      - [Image Retrieval](aiwiki/0278_ML_Tasks_Image_Retrieval)
         - [CBIR](aiwiki/0155_ML_Tasks_Image_Retrieval_CBIR)
           - [Siamese Network](aiwiki/0153_ML_Tasks_Image_Retrieval_CBIR_SiameseNetwork)
           - [Triplet Network](aiwiki/0156_ML_Tasks_Image_Retrieval_CBIR_TripletNetwork)
@@ -946,7 +946,7 @@
   - [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1737111018</sub></kbd>
+<kbd><sub>@1324581019</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
