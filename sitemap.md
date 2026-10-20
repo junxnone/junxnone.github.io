@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.10.20 12:14:09`
+> `@2026.10.20 17:53:05`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -782,13 +782,21 @@
   - [大模型微调](aiwiki/0410_LM_FT)
     - [AdaLoRA](aiwiki/0491_LM_FT_AdaLoRA)
     - [Adapter FineTuning](aiwiki/0412_LM_FT_Adapter)
+    - [AdapterFusion](aiwiki/0571_LM_FT_AdapterFusion)
+    - [大模型对齐训练：SFT / RLHF / DPO](aiwiki/0568_LM_FT_Alignment)
     - [DreamBooth](aiwiki/0405_LM_FT_DreamBooth)
+    - [微调效果评估](aiwiki/0574_LM_FT_Evaluation)
+    - [GaLore / ReLoRA：用低秩技巧做全参数训练](aiwiki/0569_LM_FT_GaLoreReLoRA)
     - [IA3](aiwiki/0494_LM_FT_IA3)
     - [LoHa](aiwiki/0492_LM_FT_LoHa)
     - [LoKr](aiwiki/0493_LM_FT_LoKr)
     - [LoRA](aiwiki/0406_LM_FT_LoRA)
+    - [模型合并（Model Merging）](aiwiki/0573_LM_FT_ModelMerging)
+    - [多 LoRA 生产部署（Multi-LoRA Serving）](aiwiki/0572_LM_FT_MultiLoRAServing)
     - [OFT/BOFT](aiwiki/0495_LM_FT_OFT)
     - [Prefix Tuning](aiwiki/0411_LM_FT_PrefixTuning)
+    - [QLoRA](aiwiki/0567_LM_FT_QLoRA)
+    - [Textual Inversion](aiwiki/0570_LM_FT_TextualInversion)
   - [Large Language Models](aiwiki/0446_LM_LLMs)
     - [LLaMA](aiwiki/0504_LM_LLMs_LLaMA)
     - [LLMs Metrics](aiwiki/0503_LM_LLMs_Metrics)
@@ -900,6 +908,7 @@
         - [GPU Impl Permute](aiwiki/0532_Tools_OV_OPs_GPUImpl_Permute)
         - [GPU Impl Reorder](aiwiki/0529_Tools_OV_OPs_GPUImpl_Reorder)
       - [OpenVINO Ops Impl](aiwiki/0533_Tools_OV_OPs_Impl)
+      - [OPs NPU Impl](aiwiki/0575_Tools_OV_OPs_NPUImpl)
     - [OpenVINO 优化](aiwiki/0509_Tools_OV_Optimizations)
     - [Security](aiwiki/0176_Tools_OV_Security)
     - [Tips](aiwiki/0184_Tools_OV_Tips)
@@ -954,7 +963,7 @@
   - [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1104341020</sub></kbd>
+<kbd><sub>@1700211020</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

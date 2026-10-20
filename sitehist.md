@@ -1,7 +1,16 @@
+- 2026-10-20&nbsp;&nbsp; [模型合并（Model Merging）](aiwiki/0573_LM_FT_ModelMerging)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:ModelMerging
+- 2026-10-20&nbsp;&nbsp; [微调效果评估](aiwiki/0574_LM_FT_Evaluation)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:Evaluation
+- 2026-10-20&nbsp;&nbsp; [大模型对齐训练：SFT / RLHF / DPO](aiwiki/0568_LM_FT_Alignment)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:Alignment
+- 2026-10-20&nbsp;&nbsp; [多 LoRA 生产部署（Multi-LoRA Serving）](aiwiki/0572_LM_FT_MultiLoRAServing)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:MultiLoRAServing
 - 2026-10-20&nbsp;&nbsp; [世界模型（World Model）](aiwiki/0566_Hot_WorldModel)&nbsp;&nbsp; :bookmark:Hot :bookmark:WorldModel
+- 2026-10-20&nbsp;&nbsp; [Textual Inversion](aiwiki/0570_LM_FT_TextualInversion)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:TextualInversion
+- 2026-10-20&nbsp;&nbsp; [QLoRA](aiwiki/0567_LM_FT_QLoRA)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:QLoRA
 - 2026-10-20&nbsp;&nbsp; [OpenVINO 算子融合（Operator Fusion）](aiwiki/0563_Tools_OV_MO_Fusion)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:MO :bookmark:Fusion
 - 2026-10-20&nbsp;&nbsp; [OpenVINO 布局重排（Layout Transformation）](aiwiki/0565_Tools_OV_MO_Layout)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:MO :bookmark:Layout
 - 2026-10-20&nbsp;&nbsp; [OpenVINO BatchNorm 折叠（BN Folding）](aiwiki/0564_Tools_OV_MO_BNFolding)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:MO :bookmark:BNFolding
+- 2026-10-20&nbsp;&nbsp; [OPs NPU Impl](aiwiki/0575_Tools_OV_OPs_NPUImpl)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:NPUImpl
+- 2026-10-20&nbsp;&nbsp; [GaLore / ReLoRA：用低秩技巧做全参数训练](aiwiki/0569_LM_FT_GaLoreReLoRA)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:GaLoreReLoRA
+- 2026-10-20&nbsp;&nbsp; [AdapterFusion](aiwiki/0571_LM_FT_AdapterFusion)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:AdapterFusion
 - 2026-10-19&nbsp;&nbsp; [光流 Optical Flow](aiwiki/0559_CV_OpticalFlow)&nbsp;&nbsp; :bookmark:CV :bookmark:OpticalFlow
 - 2026-10-19&nbsp;&nbsp; [NNCF Weight Compression](aiwiki/0560_Tools_OV_NNCF_WC)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:NNCF :bookmark:WC
 - 2026-10-19&nbsp;&nbsp; [NNCF Training-time Optimization](aiwiki/0562_Tools_OV_NNCF_TTOP)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:NNCF :bookmark:TTOP
@@ -1014,4 +1023,4 @@
 
 
 
-> `@2026.10.20 12:14:10`
+> `@2026.10.20 17:53:05`
