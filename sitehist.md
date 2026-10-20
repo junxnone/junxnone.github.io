@@ -1,7 +1,11 @@
-- 2026-10-19&nbsp;&nbsp; [光流 Optical Flow](aiwiki/0559_光流_Optical_Flow)&nbsp;&nbsp; :bookmark:光流 :bookmark:Optical :bookmark:Flow
-- 2026-10-19&nbsp;&nbsp; [NNCF Weight Compression](aiwiki/0560_NNCF_Weight_Compression)&nbsp;&nbsp; :bookmark:NNCF :bookmark:Weight :bookmark:Compression
-- 2026-10-19&nbsp;&nbsp; [NNCF Training-time Optimization](aiwiki/0562_NNCF_Training_time_Optimization)&nbsp;&nbsp; :bookmark:NNCF :bookmark:Training :bookmark:time :bookmark:Optimization
-- 2026-10-19&nbsp;&nbsp; [NNCF Post-training Quantization](aiwiki/0561_NNCF_Post_training_Quantization)&nbsp;&nbsp; :bookmark:NNCF :bookmark:Post :bookmark:training :bookmark:Quantization
+- 2026-10-20&nbsp;&nbsp; [世界模型（World Model）](aiwiki/0566_Hot_WorldModel)&nbsp;&nbsp; :bookmark:Hot :bookmark:WorldModel
+- 2026-10-20&nbsp;&nbsp; [OpenVINO 算子融合（Operator Fusion）](aiwiki/0563_Tools_OV_MO_Fusion)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:MO :bookmark:Fusion
+- 2026-10-20&nbsp;&nbsp; [OpenVINO 布局重排（Layout Transformation）](aiwiki/0565_Tools_OV_MO_Layout)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:MO :bookmark:Layout
+- 2026-10-20&nbsp;&nbsp; [OpenVINO BatchNorm 折叠（BN Folding）](aiwiki/0564_Tools_OV_MO_BNFolding)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:MO :bookmark:BNFolding
+- 2026-10-19&nbsp;&nbsp; [光流 Optical Flow](aiwiki/0559_CV_OpticalFlow)&nbsp;&nbsp; :bookmark:CV :bookmark:OpticalFlow
+- 2026-10-19&nbsp;&nbsp; [NNCF Weight Compression](aiwiki/0560_Tools_OV_NNCF_WC)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:NNCF :bookmark:WC
+- 2026-10-19&nbsp;&nbsp; [NNCF Training-time Optimization](aiwiki/0562_Tools_OV_NNCF_TTOP)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:NNCF :bookmark:TTOP
+- 2026-10-19&nbsp;&nbsp; [NNCF Post-training Quantization](aiwiki/0561_Tools_OV_NNCF_PTQ)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:NNCF :bookmark:PTQ
 - 2026-10-16&nbsp;&nbsp; [模型可解释性前沿状态](aiwiki/0558_Hot_Interpretability)&nbsp;&nbsp; :bookmark:Hot :bookmark:Interpretability
 - 2026-10-16&nbsp;&nbsp; [Mem TLB](opt/0073_Mem_TLB)&nbsp;&nbsp; :bookmark:Mem :bookmark:TLB
 - 2026-10-16&nbsp;&nbsp; [Mem NUMA](opt/0072_Mem_NUMA)&nbsp;&nbsp; :bookmark:Mem :bookmark:NUMA
@@ -971,7 +975,7 @@
 - 2018-11-22&nbsp;&nbsp; [Markdown](xwiki/0135_Doc_Markdown)&nbsp;&nbsp; :bookmark:Doc :bookmark:Markdown
 - 2018-11-21&nbsp;&nbsp; [卷积在 DL 中的应用](aiwiki/0011_ML_Op_Convolution_DL)&nbsp;&nbsp; :bookmark:ML :bookmark:Op :bookmark:Convolution :bookmark:DL
 - 2018-11-11&nbsp;&nbsp; [NASNet](aiwiki/0395_ML_AutoML_NAS_NASNet)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:NAS :bookmark:NASNet
-- 2018-11-11&nbsp;&nbsp; [Model Optimizer](aiwiki/0181_Tools_OV_MO)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:MO
+- 2018-11-11&nbsp;&nbsp; [Model Optimizer (Converter)](aiwiki/0181_Tools_OV_MO)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:MO
 - 2018-11-11&nbsp;&nbsp; [Inference Engine](aiwiki/0180_Tools_OV_IE)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:IE
 - 2018-11-06&nbsp;&nbsp; [桌面不显示](linux/0095_Ubuntu_Issues_DesktopDisplay)&nbsp;&nbsp; :bookmark:Ubuntu :bookmark:Issues :bookmark:DesktopDisplay
 - 2018-10-31&nbsp;&nbsp; [VGGNet](aiwiki/0146_ML_Tasks_Image_Classification_VGGNet)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Classification :bookmark:VGGNet
@@ -1010,4 +1014,4 @@
 
 
 
-> `@2026.10.20 07:28:41`
+> `@2026.10.20 12:14:10`
