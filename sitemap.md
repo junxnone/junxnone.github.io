@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.10.21 07:03:07`
+> `@2026.10.21 12:02:09`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -537,7 +537,7 @@
       - [PPF 粗配准](aiwiki/0085_3D_Algos_Registration_PPF)
       - [SAC-IA](aiwiki/0300_3D_Algos_Registration_SACIA)
     - [GreedyProjectionTriangulation](aiwiki/0399_3D_Algos_triangulation)
-  - [DL](aiwiki/0233_3D_DL)
+  - [3D 深度学习技术综述](aiwiki/0233_3D_DL)
   - [3D Tools](aiwiki/0419_3D_Tools)
     - [Point Cloud Library](aiwiki/0077_3D_Tools_PCL)
       - [Install PCL](aiwiki/0337_3D_Tools_PCL_Install)
@@ -893,23 +893,30 @@
       - [OpenVINO 布局重排（Layout Transformation）](aiwiki/0565_Tools_OV_MO_Layout)
     - [Inference Engine](aiwiki/0180_Tools_OV_IE)
     - [~~POT~~](aiwiki/0177_Tools_OV_POT)
-    - [Compile Tool](aiwiki/0183_Tools_OV_CompileTool)
+    - [OpenVINO Blob](aiwiki/0183_Tools_OV_CompileTool)
     - [OpenVINO Debug](aiwiki/0527_Tools_OV_Debug)
     - [DevCloud](aiwiki/0179_Tools_OV_DevCloud)
     - [OpenVINO INT8 Model](aiwiki/0182_Tools_OV_INT8Model)
+    - [静态 Shape vs 动态 Shape](aiwiki/0581_Tools_OV_InputShape)
+    - [LPT（Low Precision Transformations，低精度转换）](aiwiki/0579_Tools_OV_LPT)
     - [NNCF - Neural Network Compression Framework](aiwiki/0451_Tools_OV_NNCF)
       - [NNCF Post-training Quantization](aiwiki/0561_Tools_OV_NNCF_PTQ)
       - [NNCF Training-time Optimization](aiwiki/0562_Tools_OV_NNCF_TTOP)
       - [NNCF Weight Compression](aiwiki/0560_Tools_OV_NNCF_WC)
     - [OpenVINO Ops](aiwiki/0528_Tools_OV_OPs)
       - [OPs CPU Impl](aiwiki/0534_Tools_OV_OPs_CPUImpl)
+        - [Snippets（CPU 子图 JIT 编译器）](aiwiki/0576_Tools_OV_OPs_CPUImpl_Snippets)
       - [OPs GPU Impl](aiwiki/0531_Tools_OV_OPs_GPUImpl)
         - [GPU Impl Crop](aiwiki/0530_Tools_OV_OPs_GPUImpl_Crop)
         - [GPU Impl Permute](aiwiki/0532_Tools_OV_OPs_GPUImpl_Permute)
         - [GPU Impl Reorder](aiwiki/0529_Tools_OV_OPs_GPUImpl_Reorder)
       - [OpenVINO Ops Impl](aiwiki/0533_Tools_OV_OPs_Impl)
       - [OPs NPU Impl](aiwiki/0575_Tools_OV_OPs_NPUImpl)
+      - [AUTO / HETERO / MULTI 插件调度](aiwiki/0578_Tools_OV_OPs_PluginScheduling)
+    - OneDNN
+      - [oneDNN Post-ops](aiwiki/0577_Tools_OV_OneDNN_PostOps)
     - [OpenVINO 优化](aiwiki/0509_Tools_OV_Optimizations)
+    - [OpenVINO 性能分析工具合集](aiwiki/0580_Tools_OV_Profiling)
     - [Security](aiwiki/0176_Tools_OV_Security)
     - [Tips](aiwiki/0184_Tools_OV_Tips)
     - [Workbench](aiwiki/0178_Tools_OV_Workbench)
@@ -963,7 +970,7 @@
   - [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1700211020</sub></kbd>
+<kbd><sub>@1122161021</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

@@ -1,3 +1,9 @@
+- 2026-10-21&nbsp;&nbsp; [静态 Shape vs 动态 Shape](aiwiki/0581_Tools_OV_InputShape)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:InputShape
+- 2026-10-21&nbsp;&nbsp; [oneDNN Post-ops](aiwiki/0577_Tools_OV_OneDNN_PostOps)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OneDNN :bookmark:PostOps
+- 2026-10-21&nbsp;&nbsp; [Snippets（CPU 子图 JIT 编译器）](aiwiki/0576_Tools_OV_OPs_CPUImpl_Snippets)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:CPUImpl :bookmark:Snippets
+- 2026-10-21&nbsp;&nbsp; [OpenVINO 性能分析工具合集](aiwiki/0580_Tools_OV_Profiling)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Profiling
+- 2026-10-21&nbsp;&nbsp; [LPT（Low Precision Transformations，低精度转换）](aiwiki/0579_Tools_OV_LPT)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:LPT
+- 2026-10-21&nbsp;&nbsp; [AUTO / HETERO / MULTI 插件调度](aiwiki/0578_Tools_OV_OPs_PluginScheduling)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:PluginScheduling
 - 2026-10-20&nbsp;&nbsp; [模型合并（Model Merging）](aiwiki/0573_LM_FT_ModelMerging)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:ModelMerging
 - 2026-10-20&nbsp;&nbsp; [微调效果评估](aiwiki/0574_LM_FT_Evaluation)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:Evaluation
 - 2026-10-20&nbsp;&nbsp; [大模型对齐训练：SFT / RLHF / DPO](aiwiki/0568_LM_FT_Alignment)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:Alignment
@@ -527,7 +533,7 @@
 - 2021-08-31&nbsp;&nbsp; [标注工具](aiwiki/0006_Tools_Label)&nbsp;&nbsp; :bookmark:Tools :bookmark:Label
 - 2021-08-31&nbsp;&nbsp; [Training & Inference Tools History](aiwiki/0005_Tools_TIHistory)&nbsp;&nbsp; :bookmark:Tools :bookmark:TIHistory
 - 2021-08-31&nbsp;&nbsp; [ML/DL 常见任务](aiwiki/0003_ML_Tasks)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks
-- 2021-08-30&nbsp;&nbsp; [DL](aiwiki/0233_3D_DL)&nbsp;&nbsp; :bookmark:3D :bookmark:DL
+- 2021-08-30&nbsp;&nbsp; [3D 深度学习技术综述](aiwiki/0233_3D_DL)&nbsp;&nbsp; :bookmark:3D :bookmark:DL
 - 2021-08-24&nbsp;&nbsp; [batch for 循环](xwiki/0229_Windows_batch_for)&nbsp;&nbsp; :bookmark:Windows :bookmark:batch :bookmark:for
 - 2021-08-24&nbsp;&nbsp; [Windows 命令行执行命令时卡住](xwiki/0234_Windows_Issues_CommandLineHang)&nbsp;&nbsp; :bookmark:Windows :bookmark:Issues :bookmark:CommandLineHang
 - 2021-08-20&nbsp;&nbsp; [Nearest Neighbor Search 最近邻搜索](aiwiki/0102_ML_NNS)&nbsp;&nbsp; :bookmark:ML :bookmark:NNS
@@ -628,8 +634,8 @@
 - 2021-02-01&nbsp;&nbsp; [DETR](aiwiki/0165_paper_DETR)&nbsp;&nbsp; :bookmark:paper :bookmark:DETR
 - 2021-01-29&nbsp;&nbsp; [Position Encoding](aiwiki/0213_ML_Attention_PE)&nbsp;&nbsp; :bookmark:ML :bookmark:Attention :bookmark:PE
 - 2021-01-27&nbsp;&nbsp; [Transformer 在视觉方面的应用](aiwiki/0226_ML_Transformer_Vision)&nbsp;&nbsp; :bookmark:ML :bookmark:Transformer :bookmark:Vision
+- 2021-01-25&nbsp;&nbsp; [OpenVINO Blob](aiwiki/0183_Tools_OV_CompileTool)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:CompileTool
 - 2021-01-25&nbsp;&nbsp; [OpenCL](opt/0033_PARA_OpenCL)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenCL
-- 2021-01-25&nbsp;&nbsp; [Compile Tool](aiwiki/0183_Tools_OV_CompileTool)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:CompileTool
 - 2021-01-19&nbsp;&nbsp; [Semaphore](linux/0088_Linux_IPC_Semaphore)&nbsp;&nbsp; :bookmark:Linux :bookmark:IPC :bookmark:Semaphore
 - 2021-01-19&nbsp;&nbsp; [POSIX VS SystemV](linux/0082_Linux_POSIX与SystemV)&nbsp;&nbsp; :bookmark:Linux :bookmark:POSIX与SystemV
 - 2021-01-13&nbsp;&nbsp; [Linux Desktop](linux/0057_Desktop)&nbsp;&nbsp; :bookmark:Desktop
@@ -1023,4 +1029,4 @@
 
 
 
-> `@2026.10.21 07:03:08`
+> `@2026.10.21 12:02:10`
