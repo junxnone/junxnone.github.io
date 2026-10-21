@@ -1,9 +1,30 @@
 - 2026-10-21&nbsp;&nbsp; [静态 Shape vs 动态 Shape](aiwiki/0581_Tools_OV_InputShape)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:InputShape
+- 2026-10-21&nbsp;&nbsp; [张量并行 / 流水线并行](aiwiki/0599_Tools_Pytorch_mGPUs_Parallelism)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:mGPUs :bookmark:Parallelism
+- 2026-10-21&nbsp;&nbsp; [torch.export](aiwiki/0600_Tools_Pytorch_Export)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Export
 - 2026-10-21&nbsp;&nbsp; [oneDNN Post-ops](aiwiki/0577_Tools_OV_OneDNN_PostOps)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OneDNN :bookmark:PostOps
+- 2026-10-21&nbsp;&nbsp; [channels_last 内存格式](aiwiki/0602_Tools_Pytorch_Speed_ChannelsLast)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Speed :bookmark:ChannelsLast
+- 2026-10-21&nbsp;&nbsp; [VFH - Viewpoint Feature Histogram](aiwiki/0582_3D_Cloud_Features_VFH)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features :bookmark:VFH
+- 2026-10-21&nbsp;&nbsp; [Super4PCS](aiwiki/0590_3D_Algos_Registration_Super4PCS)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:Super4PCS
 - 2026-10-21&nbsp;&nbsp; [Snippets（CPU 子图 JIT 编译器）](aiwiki/0576_Tools_OV_OPs_CPUImpl_Snippets)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:CPUImpl :bookmark:Snippets
+- 2026-10-21&nbsp;&nbsp; [RSD - Radius-based Surface Descriptor](aiwiki/0585_3D_Cloud_Features_RSD)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features :bookmark:RSD
+- 2026-10-21&nbsp;&nbsp; [RIFT - Rotation Invariant Feature Transform](aiwiki/0584_3D_Cloud_Features_RIFT)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features :bookmark:RIFT
+- 2026-10-21&nbsp;&nbsp; [RANSAC - Random Sample Consensus](aiwiki/0595_3D_Algos_Registration_RANSAC)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:RANSAC
+- 2026-10-21&nbsp;&nbsp; [PLICP - Point-to-Line ICP](aiwiki/0593_3D_Algos_Registration_ICP_PLICP)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:ICP :bookmark:PLICP
 - 2026-10-21&nbsp;&nbsp; [OpenVINO 性能分析工具合集](aiwiki/0580_Tools_OV_Profiling)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Profiling
+- 2026-10-21&nbsp;&nbsp; [NICP - Normal Iterative Closest Point](aiwiki/0594_3D_Algos_Registration_ICP_NICP)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:ICP :bookmark:NICP
+- 2026-10-21&nbsp;&nbsp; [NARF - Normal Aligned Radial Feature](aiwiki/0586_3D_Cloud_Features_NARF)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features :bookmark:NARF
+- 2026-10-21&nbsp;&nbsp; [MBICP - Metric-Based ICP](aiwiki/0592_3D_Algos_Registration_ICP_MBICP)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:ICP :bookmark:MBICP
 - 2026-10-21&nbsp;&nbsp; [LPT（Low Precision Transformations，低精度转换）](aiwiki/0579_Tools_OV_LPT)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:LPT
+- 2026-10-21&nbsp;&nbsp; [Harris 3D 关键点](aiwiki/0588_3D_Cloud_Features_Harris)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features :bookmark:Harris
+- 2026-10-21&nbsp;&nbsp; [FSDP2 - Fully Sharded Data Parallel](aiwiki/0598_Tools_Pytorch_mGPUs_FSDP)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:mGPUs :bookmark:FSDP
+- 2026-10-21&nbsp;&nbsp; [FGR - Fast Global Registration](aiwiki/0591_3D_Algos_Registration_FGR)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:FGR
+- 2026-10-21&nbsp;&nbsp; [ExecuTorch](aiwiki/0601_Tools_Pytorch_ExecuTorch)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:ExecuTorch
+- 2026-10-21&nbsp;&nbsp; [DDP - DistributedDataParallel 底层机制](aiwiki/0597_Tools_Pytorch_mGPUs_DDP)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:mGPUs :bookmark:DDP
+- 2026-10-21&nbsp;&nbsp; [CVFH - Clustered Viewpoint Feature Histogram](aiwiki/0583_3D_Cloud_Features_CVFH)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features :bookmark:CVFH
 - 2026-10-21&nbsp;&nbsp; [AUTO / HETERO / MULTI 插件调度](aiwiki/0578_Tools_OV_OPs_PluginScheduling)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:PluginScheduling
+- 2026-10-21&nbsp;&nbsp; [AMP - Automatic Mixed Precision](aiwiki/0596_Tools_Pytorch_Speed_AMP)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Speed :bookmark:AMP
+- 2026-10-21&nbsp;&nbsp; [4PCS - 4-Point Congruent Sets](aiwiki/0589_3D_Algos_Registration_4PCS)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:4PCS
+- 2026-10-21&nbsp;&nbsp; [3DSC - 3D Shape Context](aiwiki/0587_3D_Cloud_Features_3DSC)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features :bookmark:3DSC
 - 2026-10-20&nbsp;&nbsp; [模型合并（Model Merging）](aiwiki/0573_LM_FT_ModelMerging)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:ModelMerging
 - 2026-10-20&nbsp;&nbsp; [微调效果评估](aiwiki/0574_LM_FT_Evaluation)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:Evaluation
 - 2026-10-20&nbsp;&nbsp; [大模型对齐训练：SFT / RLHF / DPO](aiwiki/0568_LM_FT_Alignment)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:Alignment
@@ -11,7 +32,7 @@
 - 2026-10-20&nbsp;&nbsp; [世界模型（World Model）](aiwiki/0566_Hot_WorldModel)&nbsp;&nbsp; :bookmark:Hot :bookmark:WorldModel
 - 2026-10-20&nbsp;&nbsp; [Textual Inversion](aiwiki/0570_LM_FT_TextualInversion)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:TextualInversion
 - 2026-10-20&nbsp;&nbsp; [QLoRA](aiwiki/0567_LM_FT_QLoRA)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:QLoRA
-- 2026-10-20&nbsp;&nbsp; [OpenVINO 算子融合（Operator Fusion）](aiwiki/0563_Tools_OV_MO_Fusion)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:MO :bookmark:Fusion
+- 2026-10-20&nbsp;&nbsp; [OpenVINO 算子融合](aiwiki/0563_Tools_OV_MO_Fusion)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:MO :bookmark:Fusion
 - 2026-10-20&nbsp;&nbsp; [OpenVINO 布局重排（Layout Transformation）](aiwiki/0565_Tools_OV_MO_Layout)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:MO :bookmark:Layout
 - 2026-10-20&nbsp;&nbsp; [OpenVINO BatchNorm 折叠（BN Folding）](aiwiki/0564_Tools_OV_MO_BNFolding)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:MO :bookmark:BNFolding
 - 2026-10-20&nbsp;&nbsp; [OPs NPU Impl](aiwiki/0575_Tools_OV_OPs_NPUImpl)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:NPUImpl
@@ -268,7 +289,7 @@
 - 2023-06-17&nbsp;&nbsp; [AutoML Tools](aiwiki/0427_ML_AutoML_Tools)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:Tools
 - 2023-06-17&nbsp;&nbsp; [3D 算法](aiwiki/0422_3D_Algos)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos
 - 2023-06-17&nbsp;&nbsp; [3D Cloud 点云](aiwiki/0423_3D_Cloud)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud
-- 2023-06-17&nbsp;&nbsp; [3D Cloud Features](aiwiki/0424_3D_Cloud_Features)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features
+- 2023-06-17&nbsp;&nbsp; [3D Cloud Features 点云特征描述子](aiwiki/0424_3D_Cloud_Features)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features
 - 2023-06-16&nbsp;&nbsp; [机器学习/深度学习](aiwiki/0416_ML)&nbsp;&nbsp; :bookmark:ML
 - 2023-06-16&nbsp;&nbsp; [x](aiwiki/0418_x)&nbsp;&nbsp; :bookmark:x
 - 2023-06-16&nbsp;&nbsp; [git bash](xwiki/0256_Tools_Git_Bash)&nbsp;&nbsp; :bookmark:Tools :bookmark:Git :bookmark:Bash
@@ -426,12 +447,12 @@
 - 2022-03-23&nbsp;&nbsp; [ISS KeyPoint](aiwiki/0302_3D_Cloud_Features_ISS)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features :bookmark:ISS
 - 2022-03-16&nbsp;&nbsp; [SAC-IA](aiwiki/0300_3D_Algos_Registration_SACIA)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:SACIA
 - 2022-03-14&nbsp;&nbsp; [FPFH](aiwiki/0299_3D_Cloud_Features_FPFH)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Features :bookmark:FPFH
-- 2022-03-10&nbsp;&nbsp; [GICP](aiwiki/0296_3D_Algos_Registration_ICP_GICP)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:ICP :bookmark:GICP
-- 2022-03-09&nbsp;&nbsp; [NDT Normal Distributions Transform](aiwiki/0295_3D_Algos_Registration_NDT)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:NDT
+- 2022-03-10&nbsp;&nbsp; [GICP - Generalized ICP](aiwiki/0296_3D_Algos_Registration_ICP_GICP)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:ICP :bookmark:GICP
+- 2022-03-09&nbsp;&nbsp; [NDT Normal Distributions Transform 正态分布变换](aiwiki/0295_3D_Algos_Registration_NDT)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:NDT
 - 2022-02-22&nbsp;&nbsp; [ctags](linux/0003_Tools_ctags)&nbsp;&nbsp; :bookmark:Tools :bookmark:ctags
-- 2022-02-09&nbsp;&nbsp; [降采样](aiwiki/0285_3D_Cloud_Sampling)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Sampling
+- 2022-02-09&nbsp;&nbsp; [降采样 (Point Cloud Downsampling)](aiwiki/0285_3D_Cloud_Sampling)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Sampling
 - 2022-02-08&nbsp;&nbsp; [离群点移除](aiwiki/0287_3D_Cloud_SOR)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:SOR
-- 2022-02-08&nbsp;&nbsp; [Merge](aiwiki/0286_3D_Cloud_Merge)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Merge
+- 2022-02-08&nbsp;&nbsp; [3D 点云拼接](aiwiki/0286_3D_Cloud_Merge)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:Merge
 - 2022-01-21&nbsp;&nbsp; [Image Retrieval](aiwiki/0278_ML_Tasks_Image_Retrieval)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Retrieval
 - 2022-01-19&nbsp;&nbsp; [Random Search](aiwiki/0204_ML_AutoML_HPO_RandomSearch)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:HPO :bookmark:RandomSearch
 - 2022-01-18&nbsp;&nbsp; [DPCPP Debug](opt/0016_PARA_DPCPP_DEBUG)&nbsp;&nbsp; :bookmark:PARA :bookmark:DPCPP :bookmark:DEBUG
@@ -577,7 +598,7 @@
 - 2021-05-24&nbsp;&nbsp; [BSTree 二叉排序树](aiwiki/0332_ML_NNS_BSTree)&nbsp;&nbsp; :bookmark:ML :bookmark:NNS :bookmark:BSTree
 - 2021-05-20&nbsp;&nbsp; [OpenMP](opt/0032_PARA_OpenMP)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenMP
 - 2021-05-19&nbsp;&nbsp; [Build PCL with Windows](aiwiki/0078_3D_Tools_PCL_Install_Windows)&nbsp;&nbsp; :bookmark:3D :bookmark:Tools :bookmark:PCL :bookmark:Install :bookmark:Windows
-- 2021-05-13&nbsp;&nbsp; [Metrics](aiwiki/0236_3D_Algos_Registration_Metrics)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:Metrics
+- 2021-05-13&nbsp;&nbsp; [Registration Metrics 配准评价指标](aiwiki/0236_3D_Algos_Registration_Metrics)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:Metrics
 - 2021-05-11&nbsp;&nbsp; [Rotation Matrix 旋转矩阵](aiwiki/0234_3D_Cloud_RM)&nbsp;&nbsp; :bookmark:3D :bookmark:Cloud :bookmark:RM
 - 2021-05-11&nbsp;&nbsp; [Read/Write](aiwiki/0080_3D_Tools_PCL_IO)&nbsp;&nbsp; :bookmark:3D :bookmark:Tools :bookmark:PCL :bookmark:IO
 - 2021-05-11&nbsp;&nbsp; [PPF](aiwiki/0083_3D_Tools_PCL_PPF)&nbsp;&nbsp; :bookmark:3D :bookmark:Tools :bookmark:PCL :bookmark:PPF
@@ -589,14 +610,14 @@
 - 2021-04-29&nbsp;&nbsp; [Registration 配准](aiwiki/0235_3D_Algos_Registration)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration
 - 2021-04-29&nbsp;&nbsp; [PPF 粗配准](aiwiki/0085_3D_Algos_Registration_PPF)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:PPF
 - 2021-04-29&nbsp;&nbsp; [ICP 精配准](aiwiki/0086_3D_Algos_Registration_ICP)&nbsp;&nbsp; :bookmark:3D :bookmark:Algos :bookmark:Registration :bookmark:ICP
-- 2021-04-28&nbsp;&nbsp; [加速](aiwiki/0169_Tools_Pytorch_Speed)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Speed
+- 2021-04-28&nbsp;&nbsp; [加速 Training/Inference](aiwiki/0169_Tools_Pytorch_Speed)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Speed
 - 2021-04-28&nbsp;&nbsp; [Point Cloud Library](aiwiki/0077_3D_Tools_PCL)&nbsp;&nbsp; :bookmark:3D :bookmark:Tools :bookmark:PCL
 - 2021-04-26&nbsp;&nbsp; [定拍 vs 飞拍](aiwiki/0038_Media_Image_Camera_定拍飞拍)&nbsp;&nbsp; :bookmark:Media :bookmark:Image :bookmark:Camera :bookmark:定拍飞拍
 - 2021-04-26&nbsp;&nbsp; [低延迟](aiwiki/0037_Media_Image_Camera_LowLatency)&nbsp;&nbsp; :bookmark:Media :bookmark:Image :bookmark:Camera :bookmark:LowLatency
 - 2021-04-25&nbsp;&nbsp; [Distilling the Knowledge in a Neural Network](aiwiki/0208_MO_KD_s)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:s
 - 2021-04-21&nbsp;&nbsp; [IPP Intel Integrated Performance Primitives](opt/0038_LIB_IPP)&nbsp;&nbsp; :bookmark:LIB :bookmark:IPP
 - 2021-04-13&nbsp;&nbsp; [Traditional Image Segmentation 传统图像分割](aiwiki/0158_CV_TIS)&nbsp;&nbsp; :bookmark:CV :bookmark:TIS
-- 2021-04-13&nbsp;&nbsp; [Tips](aiwiki/0170_Tools_Pytorch_Tips)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Tips
+- 2021-04-13&nbsp;&nbsp; [Pytorch Tips](aiwiki/0170_Tools_Pytorch_Tips)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Tips
 - 2021-04-12&nbsp;&nbsp; [知识蒸馏](aiwiki/0207_MO_KD)&nbsp;&nbsp; :bookmark:MO :bookmark:KD
 - 2021-04-12&nbsp;&nbsp; [KD History](aiwiki/0336_MO_KD_History)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:History
 - 2021-04-08&nbsp;&nbsp; [Decorator 装饰器](xwiki/0088_Programing_Python_Decorator)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Decorator
@@ -647,8 +668,8 @@
 - 2021-01-06&nbsp;&nbsp; [Ubuntu Remote Desktop](linux/0058_Ubuntu_RemoteDesktop)&nbsp;&nbsp; :bookmark:Ubuntu :bookmark:RemoteDesktop
 - 2020-12-18&nbsp;&nbsp; [网络性能测试工具](linux/0106_Tools_Networks_PerformanceTools)&nbsp;&nbsp; :bookmark:Tools :bookmark:Networks :bookmark:PerformanceTools
 - 2020-12-09&nbsp;&nbsp; [Tips](aiwiki/0184_Tools_OV_Tips)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:Tips
+- 2020-12-09&nbsp;&nbsp; [Pytorch Data](aiwiki/0359_Tools_Pytorch_Data)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Data
 - 2020-12-09&nbsp;&nbsp; [DevCloud](aiwiki/0179_Tools_OV_DevCloud)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:DevCloud
-- 2020-12-09&nbsp;&nbsp; [Data](aiwiki/0359_Tools_Pytorch_Data)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Data
 - 2020-12-03&nbsp;&nbsp; [Windows SSH 工具](xwiki/0173_Tools_WindowsSSHClient)&nbsp;&nbsp; :bookmark:Tools :bookmark:WindowsSSHClient
 - 2020-11-27&nbsp;&nbsp; [Histogram Equalization 直方图均衡](aiwiki/0100_CV_HE)&nbsp;&nbsp; :bookmark:CV :bookmark:HE
 - 2020-11-12&nbsp;&nbsp; [边缘](aiwiki/0065_CV_Edge)&nbsp;&nbsp; :bookmark:CV :bookmark:Edge
@@ -675,8 +696,8 @@
 - 2020-09-30&nbsp;&nbsp; [AIDE](aiwiki/0270_ML_AL_Tools_AIDE)&nbsp;&nbsp; :bookmark:ML :bookmark:AL :bookmark:Tools :bookmark:AIDE
 - 2020-09-24&nbsp;&nbsp; [distanceTransform 处理区域粘连](aiwiki/0346_OpenCV_IP_misc_distanceTransform)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IP :bookmark:misc :bookmark:distanceTransform
 - 2020-09-10&nbsp;&nbsp; [OC](aiwiki/0239_Datasets_Image2D_OC)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:OC
-- 2020-08-20&nbsp;&nbsp; [多 GPUs](aiwiki/0338_Tools_Pytorch_mGPUs)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:mGPUs
-- 2020-08-19&nbsp;&nbsp; [Pipeline](aiwiki/0173_Tools_Pytorch_Pipeline)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Pipeline
+- 2020-08-20&nbsp;&nbsp; [多 GPUs 训练](aiwiki/0338_Tools_Pytorch_mGPUs)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:mGPUs
+- 2020-08-19&nbsp;&nbsp; [Pytorch Pipeline](aiwiki/0173_Tools_Pytorch_Pipeline)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Pipeline
 - 2020-08-04&nbsp;&nbsp; [版本号定义](xwiki/0146_X_Version)&nbsp;&nbsp; :bookmark:X :bookmark:Version
 - 2020-07-28&nbsp;&nbsp; [CHAOS](aiwiki/0096_Datasets_Image2D_Segmentation_CHAOS)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Segmentation :bookmark:CHAOS
 - 2020-07-23&nbsp;&nbsp; [ProxylessNAS](aiwiki/0387_ML_AutoML_NAS_ProxylessNAS)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:NAS :bookmark:ProxylessNAS
@@ -777,7 +798,7 @@
 - 2020-01-13&nbsp;&nbsp; [YOLO V1](aiwiki/0054_ML_Tasks_Image_Detection_YOLO_V1)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Detection :bookmark:YOLO :bookmark:V1
 - 2020-01-10&nbsp;&nbsp; [Conda](xwiki/0073_Tools_Conda)&nbsp;&nbsp; :bookmark:Tools :bookmark:Conda
 - 2020-01-06&nbsp;&nbsp; [Visualization 可视化](aiwiki/0171_Tools_Pytorch_VIS)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:VIS
-- 2020-01-06&nbsp;&nbsp; [Optimizer](aiwiki/0174_Tools_Pytorch_Optimizer)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Optimizer
+- 2020-01-06&nbsp;&nbsp; [Pytorch Optimizer](aiwiki/0174_Tools_Pytorch_Optimizer)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:Optimizer
 - 2019-12-27&nbsp;&nbsp; [进程管理工具](linux/0032_Tools_Process)&nbsp;&nbsp; :bookmark:Tools :bookmark:Process
 - 2019-12-27&nbsp;&nbsp; [Intel CPU](xwiki/0003_Hardware_CPU_Intel)&nbsp;&nbsp; :bookmark:Hardware :bookmark:CPU :bookmark:Intel
 - 2019-12-19&nbsp;&nbsp; [SIMD](xwiki/0007_Hardware_SIMD)&nbsp;&nbsp; :bookmark:Hardware :bookmark:SIMD
@@ -1029,4 +1050,4 @@
 
 
 
-> `@2026.10.21 12:02:10`
+> `@2026.10.21 17:54:01`
