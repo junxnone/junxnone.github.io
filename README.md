@@ -22,7 +22,7 @@
 <!-- ko-fi :id=junxnone.github.io/#/sitehist :color=#1599d6 -->
     History
 <!-- ko-fi -->
-<!-- ko-fi :id=junxnone.github.io/#/tools :color=#1599d6 -->
+<!-- ko-fi :id=junxnone.github.io/tools :color=#1599d6 -->
     Tools
 <!-- ko-fi -->
 <!-- ko-fi :id=junxnone.github.io/#/menu :color=#1599d6 -->
