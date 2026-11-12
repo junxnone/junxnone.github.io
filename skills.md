@@ -1,4 +1,4 @@
-```markmap
+
 # Skills
 
 ## [AI](https://junxnone.github.io/aiwiki/#/)
@@ -69,4 +69,3 @@
 - Hardware
 
 
-```
