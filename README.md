@@ -34,10 +34,6 @@
 [skills](https://junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/skills.md
  ':include :type=iframe width=100% height=500px')
 
-----
-![](https://raw.githubusercontent.com/junxnone/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/junxnone/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
 
 
 
