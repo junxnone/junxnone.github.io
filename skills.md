@@ -1,4 +1,3 @@
-
 # Skills
 
 ## [AI](https://junxnone.github.io/aiwiki/#/)
