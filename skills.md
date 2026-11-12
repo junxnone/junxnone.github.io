@@ -50,7 +50,7 @@
     - Measurement
     - Visualization
 
-## [Linux_](https://junxnone.github.io/linux/#/)
+## [Linux](https://junxnone.github.io/linux/#/)
 - Drivers
 - Tools
 - Shell Script
