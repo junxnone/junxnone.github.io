@@ -1,3 +1,4 @@
+- 2026-11-13&nbsp;&nbsp; [ARIMA](aiwiki/0624_ML_Tasks_TimeSeries_Classical_ARIMA)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Classical :bookmark:ARIMA
 - 2026-11-11&nbsp;&nbsp; [时间序列数据集](aiwiki/0623_Datasets_TS)&nbsp;&nbsp; :bookmark:Datasets :bookmark:TS
 - 2026-11-11&nbsp;&nbsp; [TimesNet](aiwiki/0622_paper_TimesNet)&nbsp;&nbsp; :bookmark:paper :bookmark:TimesNet
 - 2026-11-10&nbsp;&nbsp; [经典统计时间序列模型：方法详解、理论骨架与发展脉络](aiwiki/0604_ML_Tasks_TimeSeries_Classical)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Classical
@@ -1073,4 +1074,4 @@
 
 
 
-> `@2026.11.13 02:44:41`
+> `@2026.11.13 14:26:16`
