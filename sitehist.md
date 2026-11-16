@@ -884,7 +884,7 @@
 - 2019-08-14&nbsp;&nbsp; [thinclient_drives cannot access](linux/0092_Ubuntu_Issues_thinclientdrives)&nbsp;&nbsp; :bookmark:Ubuntu :bookmark:Issues :bookmark:thinclientdrives
 - 2019-08-14&nbsp;&nbsp; [SettingWithCopyWarning](xwiki/0185_Pandas_Issues_SettingWithCopyWarning)&nbsp;&nbsp; :bookmark:Pandas :bookmark:Issues :bookmark:SettingWithCopyWarning
 - 2019-08-14&nbsp;&nbsp; [Series](xwiki/0184_Pandas_Series)&nbsp;&nbsp; :bookmark:Pandas :bookmark:Series
-- 2019-08-12&nbsp;&nbsp; [list2csv](xwiki/0183_Pandas_UseCase_list2csv)&nbsp;&nbsp; :bookmark:Pandas :bookmark:UseCase :bookmark:list2csv
+- 2019-08-12&nbsp;&nbsp; [list 保存为 csv](xwiki/0183_Pandas_UseCase_list2csv)&nbsp;&nbsp; :bookmark:Pandas :bookmark:UseCase :bookmark:list2csv
 - 2019-08-09&nbsp;&nbsp; [magnetW 磁力下载工具](linux/0055_Ubuntu_Download_magnetW)&nbsp;&nbsp; :bookmark:Ubuntu :bookmark:Download :bookmark:magnetW
 - 2019-08-09&nbsp;&nbsp; [Video](aiwiki/0352_OpenCV_IO_Video)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IO :bookmark:Video
 - 2019-08-07&nbsp;&nbsp; [YAML](xwiki/0140_Doc_YAML)&nbsp;&nbsp; :bookmark:Doc :bookmark:YAML
@@ -1074,4 +1074,4 @@
 
 
 
-> `@2026.11.14 05:50:28`
+> `@2026.11.17 04:07:11`

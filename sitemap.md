@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.11.14 05:50:27`
+> `@2026.11.17 04:07:10`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -257,7 +257,7 @@
     - [合并](xwiki/0205_Pandas_UseCase_Merge)
     - [Index 操作](xwiki/0202_Pandas_UseCase_Index)
     - [简单查看数据](xwiki/0197_Pandas_UseCase_ShowSummaryInfo)
-    - [list2csv](xwiki/0183_Pandas_UseCase_list2csv)
+    - [list 保存为 csv](xwiki/0183_Pandas_UseCase_list2csv)
   - [可视化](xwiki/0189_Pandas_Visualization)
   - [Pandas Issues](xwiki/0262_Pandas_Issues)
     - [SettingWithCopyWarning](xwiki/0185_Pandas_Issues_SettingWithCopyWarning)
@@ -417,7 +417,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@2345021113</sub></kbd>
+<kbd><sub>@1741031116</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
