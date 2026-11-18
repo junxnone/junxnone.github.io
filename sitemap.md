@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.11.17 04:07:10`
+> `@2026.11.18 20:48:46`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -700,6 +700,8 @@
       - [经典统计时间序列模型：方法详解、理论骨架与发展脉络](aiwiki/0604_ML_Tasks_TimeSeries_Classical)
         - [ARIMA](aiwiki/0624_ML_Tasks_TimeSeries_Classical_ARIMA)
       - [深度学习时间序列模型：方法详解、原理与发展脉络](aiwiki/0606_ML_Tasks_TimeSeries_Deep)
+        - [DeepAR](aiwiki/0625_ML_Tasks_TimeSeries_Deep_DeepAR)
+        - [TCN](aiwiki/0626_ML_Tasks_TimeSeries_Deep_TCN)
       - [时间序列基础模型：方法详解、原理与发展脉络](aiwiki/0608_ML_Tasks_TimeSeries_Foundation)
       - [生成式时间序列模型：方法详解、原理与发展脉络](aiwiki/0607_ML_Tasks_TimeSeries_Generative)
       - [机器学习时间序列模型：方法详解、原理与发展脉络](aiwiki/0605_ML_Tasks_TimeSeries_ML)
@@ -1015,7 +1017,7 @@
   - [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1341291113</sub></kbd>
+<kbd><sub>@1751251118</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
