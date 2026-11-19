@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.11.18 20:48:46`
+> `@2026.11.19 10:59:58`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -697,16 +697,53 @@
     - [MetricLearning](aiwiki/0157_ML_Tasks_MetricLearning)
     - [时间序列模型综述：从 ARIMA 到时序基础模型](aiwiki/0603_ML_Tasks_TimeSeries)
       - [时间序列异常检测：方法详解、评估与发展脉络](aiwiki/0609_ML_Tasks_TimeSeries_Anomaly)
+        - [Anomaly Transformer](aiwiki/0648_ML_Tasks_TimeSeries_Anomaly_AnomalyTransformer)
+        - [TranAD](aiwiki/0649_ML_Tasks_TimeSeries_Anomaly_TranAD)
       - [经典统计时间序列模型：方法详解、理论骨架与发展脉络](aiwiki/0604_ML_Tasks_TimeSeries_Classical)
         - [ARIMA](aiwiki/0624_ML_Tasks_TimeSeries_Classical_ARIMA)
       - [深度学习时间序列模型：方法详解、原理与发展脉络](aiwiki/0606_ML_Tasks_TimeSeries_Deep)
+        - [DLinear](aiwiki/0630_ML_Tasks_TimeSeries_Deep_DLinear)
         - [DeepAR](aiwiki/0625_ML_Tasks_TimeSeries_Deep_DeepAR)
+        - N
+          - [N-BEATS](aiwiki/0628_ML_Tasks_TimeSeries_Deep_N_BEATS)
+          - [N-HiTS](aiwiki/0629_ML_Tasks_TimeSeries_Deep_N_HiTS)
         - [TCN](aiwiki/0626_ML_Tasks_TimeSeries_Deep_TCN)
+        - [TSMixer](aiwiki/0632_ML_Tasks_TimeSeries_Deep_TSMixer)
+        - [TimeMixer](aiwiki/0633_ML_Tasks_TimeSeries_Deep_TimeMixer)
+        - [TimesNet](aiwiki/0631_ML_Tasks_TimeSeries_Deep_TimesNet)
       - [时间序列基础模型：方法详解、原理与发展脉络](aiwiki/0608_ML_Tasks_TimeSeries_Foundation)
+        - [GPT4TS](aiwiki/0650_ML_Tasks_TimeSeries_Foundation_GPT4TS)
+        - Lag
+          - [Lag-Llama](aiwiki/0653_ML_Tasks_TimeSeries_Foundation_Lag_Llama)
+        - [Moirai](aiwiki/0657_ML_Tasks_TimeSeries_Foundation_Moirai)
+        - [TTM](aiwiki/0655_ML_Tasks_TimeSeries_Foundation_TTM)
+        - Time
+          - [Time-LLM](aiwiki/0651_ML_Tasks_TimeSeries_Foundation_Time_LLM)
+        - TimeGPT
+          - [TimeGPT-1](aiwiki/0652_ML_Tasks_TimeSeries_Foundation_TimeGPT_1)
+        - [Timer](aiwiki/0656_ML_Tasks_TimeSeries_Foundation_Timer)
+        - [TimesFM](aiwiki/0654_ML_Tasks_TimeSeries_Foundation_TimesFM)
       - [生成式时间序列模型：方法详解、原理与发展脉络](aiwiki/0607_ML_Tasks_TimeSeries_Generative)
+        - [CSDI](aiwiki/0647_ML_Tasks_TimeSeries_Generative_CSDI)
+        - [TS2Vec](aiwiki/0646_ML_Tasks_TimeSeries_Generative_TS2Vec)
+        - [TimeGrad](aiwiki/0645_ML_Tasks_TimeSeries_Generative_TimeGrad)
       - [机器学习时间序列模型：方法详解、原理与发展脉络](aiwiki/0605_ML_Tasks_TimeSeries_ML)
+        - [ROCKET](aiwiki/0627_ML_Tasks_TimeSeries_ML_ROCKET)
       - [时间序列模型评估指标：公式、历史与现行评估方式、优缺点](aiwiki/0610_ML_Tasks_TimeSeries_Metrics)
       - [时间序列模型发展时间线](aiwiki/0611_ML_Tasks_TimeSeries_Timeline)
+      - Transformer
+        - [Autoformer](aiwiki/0636_ML_Tasks_TimeSeries_Transformer_Autoformer)
+        - [FEDformer](aiwiki/0637_ML_Tasks_TimeSeries_Transformer_FEDformer)
+        - [Informer](aiwiki/0635_ML_Tasks_TimeSeries_Transformer_Informer)
+        - [Mamba](aiwiki/0643_ML_Tasks_TimeSeries_Transformer_Mamba)
+        - [PatchTST](aiwiki/0638_ML_Tasks_TimeSeries_Transformer_PatchTST)
+        - S
+          - [S-Mamba](aiwiki/0644_ML_Tasks_TimeSeries_Transformer_S_Mamba)
+        - [S4](aiwiki/0642_ML_Tasks_TimeSeries_Transformer_S4)
+        - [SOFTS](aiwiki/0641_ML_Tasks_TimeSeries_Transformer_SOFTS)
+        - [TFT](aiwiki/0634_ML_Tasks_TimeSeries_Transformer_TFT)
+        - [TimeXer](aiwiki/0640_ML_Tasks_TimeSeries_Transformer_TimeXer)
+        - [iTransformer](aiwiki/0639_ML_Tasks_TimeSeries_Transformer_iTransformer)
   - [Op](aiwiki/0366_ML_Op)
     - [Activation Function 激活函数](aiwiki/0279_ML_Op_AF)
       - [ML Op AF ReLU 系与现代激活函数](aiwiki/0616_ML_Op_AF_ReLU)
@@ -1017,7 +1054,7 @@
   - [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1751251118</sub></kbd>
+<kbd><sub>@1043101119</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)

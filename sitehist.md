@@ -1,3 +1,34 @@
+- 2026-11-19&nbsp;&nbsp; [iTransformer](aiwiki/0639_ML_Tasks_TimeSeries_Transformer_iTransformer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Transformer :bookmark:iTransformer
+- 2026-11-19&nbsp;&nbsp; [TranAD](aiwiki/0649_ML_Tasks_TimeSeries_Anomaly_TranAD)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Anomaly :bookmark:TranAD
+- 2026-11-19&nbsp;&nbsp; [TimesNet](aiwiki/0631_ML_Tasks_TimeSeries_Deep_TimesNet)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep :bookmark:TimesNet
+- 2026-11-19&nbsp;&nbsp; [TimesFM](aiwiki/0654_ML_Tasks_TimeSeries_Foundation_TimesFM)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Foundation :bookmark:TimesFM
+- 2026-11-19&nbsp;&nbsp; [Timer](aiwiki/0656_ML_Tasks_TimeSeries_Foundation_Timer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Foundation :bookmark:Timer
+- 2026-11-19&nbsp;&nbsp; [TimeXer](aiwiki/0640_ML_Tasks_TimeSeries_Transformer_TimeXer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Transformer :bookmark:TimeXer
+- 2026-11-19&nbsp;&nbsp; [TimeMixer](aiwiki/0633_ML_Tasks_TimeSeries_Deep_TimeMixer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep :bookmark:TimeMixer
+- 2026-11-19&nbsp;&nbsp; [TimeGrad](aiwiki/0645_ML_Tasks_TimeSeries_Generative_TimeGrad)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Generative :bookmark:TimeGrad
+- 2026-11-19&nbsp;&nbsp; [TimeGPT-1](aiwiki/0652_ML_Tasks_TimeSeries_Foundation_TimeGPT_1)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Foundation :bookmark:TimeGPT :bookmark:1
+- 2026-11-19&nbsp;&nbsp; [Time-LLM](aiwiki/0651_ML_Tasks_TimeSeries_Foundation_Time_LLM)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Foundation :bookmark:Time :bookmark:LLM
+- 2026-11-19&nbsp;&nbsp; [TTM](aiwiki/0655_ML_Tasks_TimeSeries_Foundation_TTM)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Foundation :bookmark:TTM
+- 2026-11-19&nbsp;&nbsp; [TSMixer](aiwiki/0632_ML_Tasks_TimeSeries_Deep_TSMixer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep :bookmark:TSMixer
+- 2026-11-19&nbsp;&nbsp; [TS2Vec](aiwiki/0646_ML_Tasks_TimeSeries_Generative_TS2Vec)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Generative :bookmark:TS2Vec
+- 2026-11-19&nbsp;&nbsp; [TFT](aiwiki/0634_ML_Tasks_TimeSeries_Transformer_TFT)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Transformer :bookmark:TFT
+- 2026-11-19&nbsp;&nbsp; [SOFTS](aiwiki/0641_ML_Tasks_TimeSeries_Transformer_SOFTS)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Transformer :bookmark:SOFTS
+- 2026-11-19&nbsp;&nbsp; [S4](aiwiki/0642_ML_Tasks_TimeSeries_Transformer_S4)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Transformer :bookmark:S4
+- 2026-11-19&nbsp;&nbsp; [S-Mamba](aiwiki/0644_ML_Tasks_TimeSeries_Transformer_S_Mamba)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Transformer :bookmark:S :bookmark:Mamba
+- 2026-11-19&nbsp;&nbsp; [ROCKET](aiwiki/0627_ML_Tasks_TimeSeries_ML_ROCKET)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:ML :bookmark:ROCKET
+- 2026-11-19&nbsp;&nbsp; [PatchTST](aiwiki/0638_ML_Tasks_TimeSeries_Transformer_PatchTST)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Transformer :bookmark:PatchTST
+- 2026-11-19&nbsp;&nbsp; [N-HiTS](aiwiki/0629_ML_Tasks_TimeSeries_Deep_N_HiTS)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep :bookmark:N :bookmark:HiTS
+- 2026-11-19&nbsp;&nbsp; [N-BEATS](aiwiki/0628_ML_Tasks_TimeSeries_Deep_N_BEATS)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep :bookmark:N :bookmark:BEATS
+- 2026-11-19&nbsp;&nbsp; [Moirai](aiwiki/0657_ML_Tasks_TimeSeries_Foundation_Moirai)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Foundation :bookmark:Moirai
+- 2026-11-19&nbsp;&nbsp; [Mamba](aiwiki/0643_ML_Tasks_TimeSeries_Transformer_Mamba)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Transformer :bookmark:Mamba
+- 2026-11-19&nbsp;&nbsp; [Lag-Llama](aiwiki/0653_ML_Tasks_TimeSeries_Foundation_Lag_Llama)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Foundation :bookmark:Lag :bookmark:Llama
+- 2026-11-19&nbsp;&nbsp; [Informer](aiwiki/0635_ML_Tasks_TimeSeries_Transformer_Informer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Transformer :bookmark:Informer
+- 2026-11-19&nbsp;&nbsp; [GPT4TS](aiwiki/0650_ML_Tasks_TimeSeries_Foundation_GPT4TS)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Foundation :bookmark:GPT4TS
+- 2026-11-19&nbsp;&nbsp; [FEDformer](aiwiki/0637_ML_Tasks_TimeSeries_Transformer_FEDformer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Transformer :bookmark:FEDformer
+- 2026-11-19&nbsp;&nbsp; [DLinear](aiwiki/0630_ML_Tasks_TimeSeries_Deep_DLinear)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep :bookmark:DLinear
+- 2026-11-19&nbsp;&nbsp; [CSDI](aiwiki/0647_ML_Tasks_TimeSeries_Generative_CSDI)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Generative :bookmark:CSDI
+- 2026-11-19&nbsp;&nbsp; [Autoformer](aiwiki/0636_ML_Tasks_TimeSeries_Transformer_Autoformer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Transformer :bookmark:Autoformer
+- 2026-11-19&nbsp;&nbsp; [Anomaly Transformer](aiwiki/0648_ML_Tasks_TimeSeries_Anomaly_AnomalyTransformer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Anomaly :bookmark:AnomalyTransformer
 - 2026-11-18&nbsp;&nbsp; [TCN](aiwiki/0626_ML_Tasks_TimeSeries_Deep_TCN)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep :bookmark:TCN
 - 2026-11-18&nbsp;&nbsp; [DeepAR](aiwiki/0625_ML_Tasks_TimeSeries_Deep_DeepAR)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep :bookmark:DeepAR
 - 2026-11-13&nbsp;&nbsp; [ARIMA](aiwiki/0624_ML_Tasks_TimeSeries_Classical_ARIMA)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Classical :bookmark:ARIMA
@@ -1076,4 +1107,4 @@
 
 
 
-> `@2026.11.18 20:48:49`
+> `@2026.11.19 10:59:59`
