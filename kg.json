@@ -5095,6 +5095,15 @@
       "childLinks": []
     },
     {
+      "id": "aiwiki x needle",
+      "group": 2,
+      "title": "Needle",
+      "url": "https://junxnone.github.io/aiwiki/#/0665_x_needle",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "aiwiki ML Op Convolution",
       "group": 3,
       "title": "ML Op Convolution",
@@ -5610,7 +5619,7 @@
     {
       "id": "aiwiki ML Transformer Vision",
       "group": 3,
-      "title": "Transformer 在视觉方面的应用",
+      "title": "Vision",
       "url": "https://junxnone.github.io/aiwiki/#/0226_ML_Transformer_Vision",
       "visible": true,
       "expand": true,
@@ -5619,7 +5628,7 @@
     {
       "id": "aiwiki ML Transformer T2TViT",
       "group": 3,
-      "title": "T2TViT",
+      "title": "T2T-ViT",
       "url": "https://junxnone.github.io/aiwiki/#/0227_ML_Transformer_T2TViT",
       "visible": true,
       "expand": true,
@@ -6800,6 +6809,15 @@
       "group": 3,
       "title": "ML Op Shape 与数据搬运",
       "url": "https://junxnone.github.io/aiwiki/#/0621_ML_Op_Shape",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Transformer History",
+      "group": 3,
+      "title": "Transformer History",
+      "url": "https://junxnone.github.io/aiwiki/#/0664_ML_Transformer_History",
       "visible": true,
       "expand": true,
       "childLinks": []
@@ -8911,6 +8929,24 @@
       "childLinks": []
     },
     {
+      "id": "aiwiki ML Tasks TimeSeries Deep NBEATS",
+      "group": 5,
+      "title": "N-BEATS",
+      "url": "https://junxnone.github.io/aiwiki/#/0628_ML_Tasks_TimeSeries_Deep_NBEATS",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks TimeSeries Deep NHiTS",
+      "group": 5,
+      "title": "N-HiTS",
+      "url": "https://junxnone.github.io/aiwiki/#/0629_ML_Tasks_TimeSeries_Deep_NHiTS",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "aiwiki ML Tasks TimeSeries Deep DLinear",
       "group": 5,
       "title": "DLinear",
@@ -8947,91 +8983,100 @@
       "childLinks": []
     },
     {
-      "id": "aiwiki ML Tasks TimeSeries Transformer TFT",
+      "id": "aiwiki ML Tasks TimeSeries Deep TFT",
       "group": 5,
       "title": "TFT",
-      "url": "https://junxnone.github.io/aiwiki/#/0634_ML_Tasks_TimeSeries_Transformer_TFT",
+      "url": "https://junxnone.github.io/aiwiki/#/0634_ML_Tasks_TimeSeries_Deep_TFT",
       "visible": true,
       "expand": true,
       "childLinks": []
     },
     {
-      "id": "aiwiki ML Tasks TimeSeries Transformer Informer",
+      "id": "aiwiki ML Tasks TimeSeries Deep Informer",
       "group": 5,
       "title": "Informer",
-      "url": "https://junxnone.github.io/aiwiki/#/0635_ML_Tasks_TimeSeries_Transformer_Informer",
+      "url": "https://junxnone.github.io/aiwiki/#/0635_ML_Tasks_TimeSeries_Deep_Informer",
       "visible": true,
       "expand": true,
       "childLinks": []
     },
     {
-      "id": "aiwiki ML Tasks TimeSeries Transformer Autoformer",
+      "id": "aiwiki ML Tasks TimeSeries Deep Autoformer",
       "group": 5,
       "title": "Autoformer",
-      "url": "https://junxnone.github.io/aiwiki/#/0636_ML_Tasks_TimeSeries_Transformer_Autoformer",
+      "url": "https://junxnone.github.io/aiwiki/#/0636_ML_Tasks_TimeSeries_Deep_Autoformer",
       "visible": true,
       "expand": true,
       "childLinks": []
     },
     {
-      "id": "aiwiki ML Tasks TimeSeries Transformer FEDformer",
+      "id": "aiwiki ML Tasks TimeSeries Deep FEDformer",
       "group": 5,
       "title": "FEDformer",
-      "url": "https://junxnone.github.io/aiwiki/#/0637_ML_Tasks_TimeSeries_Transformer_FEDformer",
+      "url": "https://junxnone.github.io/aiwiki/#/0637_ML_Tasks_TimeSeries_Deep_FEDformer",
       "visible": true,
       "expand": true,
       "childLinks": []
     },
     {
-      "id": "aiwiki ML Tasks TimeSeries Transformer PatchTST",
+      "id": "aiwiki ML Tasks TimeSeries Deep PatchTST",
       "group": 5,
       "title": "PatchTST",
-      "url": "https://junxnone.github.io/aiwiki/#/0638_ML_Tasks_TimeSeries_Transformer_PatchTST",
+      "url": "https://junxnone.github.io/aiwiki/#/0638_ML_Tasks_TimeSeries_Deep_PatchTST",
       "visible": true,
       "expand": true,
       "childLinks": []
     },
     {
-      "id": "aiwiki ML Tasks TimeSeries Transformer iTransformer",
+      "id": "aiwiki ML Tasks TimeSeries Deep iTransformer",
       "group": 5,
       "title": "iTransformer",
-      "url": "https://junxnone.github.io/aiwiki/#/0639_ML_Tasks_TimeSeries_Transformer_iTransformer",
+      "url": "https://junxnone.github.io/aiwiki/#/0639_ML_Tasks_TimeSeries_Deep_iTransformer",
       "visible": true,
       "expand": true,
       "childLinks": []
     },
     {
-      "id": "aiwiki ML Tasks TimeSeries Transformer TimeXer",
+      "id": "aiwiki ML Tasks TimeSeries Deep TimeXer",
       "group": 5,
       "title": "TimeXer",
-      "url": "https://junxnone.github.io/aiwiki/#/0640_ML_Tasks_TimeSeries_Transformer_TimeXer",
+      "url": "https://junxnone.github.io/aiwiki/#/0640_ML_Tasks_TimeSeries_Deep_TimeXer",
       "visible": true,
       "expand": true,
       "childLinks": []
     },
     {
-      "id": "aiwiki ML Tasks TimeSeries Transformer SOFTS",
+      "id": "aiwiki ML Tasks TimeSeries Deep SOFTS",
       "group": 5,
       "title": "SOFTS",
-      "url": "https://junxnone.github.io/aiwiki/#/0641_ML_Tasks_TimeSeries_Transformer_SOFTS",
+      "url": "https://junxnone.github.io/aiwiki/#/0641_ML_Tasks_TimeSeries_Deep_SOFTS",
       "visible": true,
       "expand": true,
       "childLinks": []
     },
     {
-      "id": "aiwiki ML Tasks TimeSeries Transformer S4",
+      "id": "aiwiki ML Tasks TimeSeries Deep S4",
       "group": 5,
       "title": "S4",
-      "url": "https://junxnone.github.io/aiwiki/#/0642_ML_Tasks_TimeSeries_Transformer_S4",
+      "url": "https://junxnone.github.io/aiwiki/#/0642_ML_Tasks_TimeSeries_Deep_S4",
       "visible": true,
       "expand": true,
       "childLinks": []
     },
     {
-      "id": "aiwiki ML Tasks TimeSeries Transformer Mamba",
+      "id": "aiwiki ML Tasks TimeSeries Deep Mamba",
       "group": 5,
       "title": "Mamba",
-      "url": "https://junxnone.github.io/aiwiki/#/0643_ML_Tasks_TimeSeries_Transformer_Mamba",
+      "url": "https://junxnone.github.io/aiwiki/#/0643_ML_Tasks_TimeSeries_Deep_Mamba",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks TimeSeries Deep SMamba",
+      "group": 5,
+      "title": "S-Mamba",
+      "url": "https://junxnone.github.io/aiwiki/#/0644_ML_Tasks_TimeSeries_Deep_SMamba",
       "visible": true,
       "expand": true,
       "childLinks": []
@@ -9091,6 +9136,33 @@
       "childLinks": []
     },
     {
+      "id": "aiwiki ML Tasks TimeSeries Foundation TimeLLM",
+      "group": 5,
+      "title": "Time-LLM",
+      "url": "https://junxnone.github.io/aiwiki/#/0651_ML_Tasks_TimeSeries_Foundation_TimeLLM",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks TimeSeries Foundation TimeGPT1",
+      "group": 5,
+      "title": "TimeGPT-1",
+      "url": "https://junxnone.github.io/aiwiki/#/0652_ML_Tasks_TimeSeries_Foundation_TimeGPT1",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks TimeSeries Foundation LagLlama",
+      "group": 5,
+      "title": "Lag-Llama",
+      "url": "https://junxnone.github.io/aiwiki/#/0653_ML_Tasks_TimeSeries_Foundation_LagLlama",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "aiwiki ML Tasks TimeSeries Foundation TimesFM",
       "group": 5,
       "title": "TimesFM",
@@ -9122,6 +9194,60 @@
       "group": 5,
       "title": "Moirai",
       "url": "https://junxnone.github.io/aiwiki/#/0657_ML_Tasks_TimeSeries_Foundation_Moirai",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks TimeSeries ML GBDT",
+      "group": 5,
+      "title": "GBDT",
+      "url": "https://junxnone.github.io/aiwiki/#/0658_ML_Tasks_TimeSeries_ML_GBDT",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks TimeSeries Foundation MOMENT",
+      "group": 5,
+      "title": "MOMENT",
+      "url": "https://junxnone.github.io/aiwiki/#/0659_ML_Tasks_TimeSeries_Foundation_MOMENT",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks TimeSeries Foundation Chronos",
+      "group": 5,
+      "title": "Chronos",
+      "url": "https://junxnone.github.io/aiwiki/#/0660_ML_Tasks_TimeSeries_Foundation_Chronos",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks TimeSeries Foundation LLMUseful",
+      "group": 5,
+      "title": "LLM 对时序预测有用吗",
+      "url": "https://junxnone.github.io/aiwiki/#/0661_ML_Tasks_TimeSeries_Foundation_LLMUseful",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks TimeSeries Foundation TimeMoE",
+      "group": 5,
+      "title": "Time-MoE",
+      "url": "https://junxnone.github.io/aiwiki/#/0662_ML_Tasks_TimeSeries_Foundation_TimeMoE",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks TimeSeries Foundation Sundial",
+      "group": 5,
+      "title": "Sundial",
+      "url": "https://junxnone.github.io/aiwiki/#/0663_ML_Tasks_TimeSeries_Foundation_Sundial",
       "visible": true,
       "expand": true,
       "childLinks": []
@@ -9266,60 +9392,6 @@
       "group": 6,
       "title": "YOLO V5",
       "url": "https://junxnone.github.io/aiwiki/#/0379_ML_Tasks_Image_Detection_YOLO_V5",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "aiwiki ML Tasks TimeSeries Deep N BEATS",
-      "group": 6,
-      "title": "N-BEATS",
-      "url": "https://junxnone.github.io/aiwiki/#/0628_ML_Tasks_TimeSeries_Deep_N_BEATS",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "aiwiki ML Tasks TimeSeries Deep N HiTS",
-      "group": 6,
-      "title": "N-HiTS",
-      "url": "https://junxnone.github.io/aiwiki/#/0629_ML_Tasks_TimeSeries_Deep_N_HiTS",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "aiwiki ML Tasks TimeSeries Transformer S Mamba",
-      "group": 6,
-      "title": "S-Mamba",
-      "url": "https://junxnone.github.io/aiwiki/#/0644_ML_Tasks_TimeSeries_Transformer_S_Mamba",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "aiwiki ML Tasks TimeSeries Foundation Time LLM",
-      "group": 6,
-      "title": "Time-LLM",
-      "url": "https://junxnone.github.io/aiwiki/#/0651_ML_Tasks_TimeSeries_Foundation_Time_LLM",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "aiwiki ML Tasks TimeSeries Foundation TimeGPT 1",
-      "group": 6,
-      "title": "TimeGPT-1",
-      "url": "https://junxnone.github.io/aiwiki/#/0652_ML_Tasks_TimeSeries_Foundation_TimeGPT_1",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "aiwiki ML Tasks TimeSeries Foundation Lag Llama",
-      "group": 6,
-      "title": "Lag-Llama",
-      "url": "https://junxnone.github.io/aiwiki/#/0653_ML_Tasks_TimeSeries_Foundation_Lag_Llama",
       "visible": true,
       "expand": true,
       "childLinks": []
@@ -13981,6 +14053,13 @@
       "expand": true
     },
     {
+      "source": "aiwiki x",
+      "target": "aiwiki x needle",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "aiwiki 应用",
       "target": "aiwiki 应用 3DPinPicking",
       "value": 2,
@@ -14641,6 +14720,13 @@
     {
       "source": "aiwiki ML Transformer",
       "target": "aiwiki ML Transformer TiT",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Transformer",
+      "target": "aiwiki ML Transformer History",
       "value": 3,
       "visible": true,
       "expand": true
@@ -16914,6 +17000,13 @@
       "expand": true
     },
     {
+      "source": "aiwiki ML Tasks TimeSeries ML",
+      "target": "aiwiki ML Tasks TimeSeries ML GBDT",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "aiwiki ML Tasks TimeSeries Deep",
       "target": "aiwiki ML Tasks TimeSeries Deep DeepAR",
       "value": 5,
@@ -16923,6 +17016,20 @@
     {
       "source": "aiwiki ML Tasks TimeSeries Deep",
       "target": "aiwiki ML Tasks TimeSeries Deep TCN",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Deep",
+      "target": "aiwiki ML Tasks TimeSeries Deep NBEATS",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Deep",
+      "target": "aiwiki ML Tasks TimeSeries Deep NHiTS",
       "value": 5,
       "visible": true,
       "expand": true
@@ -16951,6 +17058,83 @@
     {
       "source": "aiwiki ML Tasks TimeSeries Deep",
       "target": "aiwiki ML Tasks TimeSeries Deep TimeMixer",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Deep",
+      "target": "aiwiki ML Tasks TimeSeries Deep TFT",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Deep",
+      "target": "aiwiki ML Tasks TimeSeries Deep Informer",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Deep",
+      "target": "aiwiki ML Tasks TimeSeries Deep Autoformer",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Deep",
+      "target": "aiwiki ML Tasks TimeSeries Deep FEDformer",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Deep",
+      "target": "aiwiki ML Tasks TimeSeries Deep PatchTST",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Deep",
+      "target": "aiwiki ML Tasks TimeSeries Deep iTransformer",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Deep",
+      "target": "aiwiki ML Tasks TimeSeries Deep TimeXer",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Deep",
+      "target": "aiwiki ML Tasks TimeSeries Deep SOFTS",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Deep",
+      "target": "aiwiki ML Tasks TimeSeries Deep S4",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Deep",
+      "target": "aiwiki ML Tasks TimeSeries Deep Mamba",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Deep",
+      "target": "aiwiki ML Tasks TimeSeries Deep SMamba",
       "value": 5,
       "visible": true,
       "expand": true
@@ -16985,6 +17169,27 @@
     },
     {
       "source": "aiwiki ML Tasks TimeSeries Foundation",
+      "target": "aiwiki ML Tasks TimeSeries Foundation TimeLLM",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Foundation",
+      "target": "aiwiki ML Tasks TimeSeries Foundation TimeGPT1",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Foundation",
+      "target": "aiwiki ML Tasks TimeSeries Foundation LagLlama",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Foundation",
       "target": "aiwiki ML Tasks TimeSeries Foundation TimesFM",
       "value": 5,
       "visible": true,
@@ -17007,6 +17212,41 @@
     {
       "source": "aiwiki ML Tasks TimeSeries Foundation",
       "target": "aiwiki ML Tasks TimeSeries Foundation Moirai",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Foundation",
+      "target": "aiwiki ML Tasks TimeSeries Foundation MOMENT",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Foundation",
+      "target": "aiwiki ML Tasks TimeSeries Foundation Chronos",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Foundation",
+      "target": "aiwiki ML Tasks TimeSeries Foundation LLMUseful",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Foundation",
+      "target": "aiwiki ML Tasks TimeSeries Foundation TimeMoE",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks TimeSeries Foundation",
+      "target": "aiwiki ML Tasks TimeSeries Foundation Sundial",
       "value": 5,
       "visible": true,
       "expand": true
