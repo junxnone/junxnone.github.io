@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.11.19 19:28:27`
+> `@2026.11.20 19:06:51`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -138,7 +138,7 @@
   - [KDE](linux/0117_Desktop_KDE)
 - [Linux Logs](linux/0136_Logs)
 
-<kbd><sub>@2352031113</sub></kbd>
+<kbd><sub>@1641521120</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -417,7 +417,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1741031116</sub></kbd>
+<kbd><sub>@1642011120</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
@@ -698,31 +698,52 @@
     - [时间序列模型综述：从 ARIMA 到时序基础模型](aiwiki/0603_ML_Tasks_TimeSeries)
       - [时间序列异常检测：方法详解、评估与发展脉络](aiwiki/0609_ML_Tasks_TimeSeries_Anomaly)
         - [Anomaly Transformer](aiwiki/0648_ML_Tasks_TimeSeries_Anomaly_AnomalyTransformer)
+        - [KANAD](aiwiki/0680_ML_Tasks_TimeSeries_Anomaly_KANAD)
         - [TranAD](aiwiki/0649_ML_Tasks_TimeSeries_Anomaly_TranAD)
       - [经典统计时间序列模型：方法详解、理论骨架与发展脉络](aiwiki/0604_ML_Tasks_TimeSeries_Classical)
         - [ARIMA](aiwiki/0624_ML_Tasks_TimeSeries_Classical_ARIMA)
       - [深度学习时间序列模型：方法详解、原理与发展脉络](aiwiki/0606_ML_Tasks_TimeSeries_Deep)
         - [Autoformer](aiwiki/0636_ML_Tasks_TimeSeries_Deep_Autoformer)
+        - [Crossformer](aiwiki/0685_ML_Tasks_TimeSeries_Deep_Crossformer)
         - [DLinear](aiwiki/0630_ML_Tasks_TimeSeries_Deep_DLinear)
         - [DeepAR](aiwiki/0625_ML_Tasks_TimeSeries_Deep_DeepAR)
+        - [ETSformer](aiwiki/0668_ML_Tasks_TimeSeries_Deep_ETSformer)
         - [FEDformer](aiwiki/0637_ML_Tasks_TimeSeries_Deep_FEDformer)
+        - [FiLM](aiwiki/0676_ML_Tasks_TimeSeries_Deep_FiLM)
+        - [FreTS](aiwiki/0673_ML_Tasks_TimeSeries_Deep_FreTS)
         - [Informer](aiwiki/0635_ML_Tasks_TimeSeries_Deep_Informer)
+        - [Koopa](aiwiki/0672_ML_Tasks_TimeSeries_Deep_Koopa)
+        - [LightTS](aiwiki/0667_ML_Tasks_TimeSeries_Deep_LightTS)
+        - [MICN](aiwiki/0683_ML_Tasks_TimeSeries_Deep_MICN)
+        - [MSGNet](aiwiki/0675_ML_Tasks_TimeSeries_Deep_MSGNet)
         - [Mamba](aiwiki/0643_ML_Tasks_TimeSeries_Deep_Mamba)
+        - [MambaSingleLayer](aiwiki/0687_ML_Tasks_TimeSeries_Deep_MambaSingleLayer)
+        - [MultiPatchFormer](aiwiki/0686_ML_Tasks_TimeSeries_Deep_MultiPatchFormer)
         - [N-BEATS](aiwiki/0628_ML_Tasks_TimeSeries_Deep_NBEATS)
         - [N-HiTS](aiwiki/0629_ML_Tasks_TimeSeries_Deep_NHiTS)
+        - [Non-stationary Transformers](aiwiki/0669_ML_Tasks_TimeSeries_Deep_NonstationaryTransformer)
+        - [PAttn](aiwiki/0679_ML_Tasks_TimeSeries_Deep_PAttn)
         - [PatchTST](aiwiki/0638_ML_Tasks_TimeSeries_Deep_PatchTST)
+        - [Pyraformer](aiwiki/0684_ML_Tasks_TimeSeries_Deep_Pyraformer)
+        - [Reformer](aiwiki/0670_ML_Tasks_TimeSeries_Deep_Reformer)
         - [S4](aiwiki/0642_ML_Tasks_TimeSeries_Deep_S4)
+        - [SCINet](aiwiki/0674_ML_Tasks_TimeSeries_Deep_SCINet)
         - [S-Mamba](aiwiki/0644_ML_Tasks_TimeSeries_Deep_SMamba)
         - [SOFTS](aiwiki/0641_ML_Tasks_TimeSeries_Deep_SOFTS)
+        - [SegRNN](aiwiki/0666_ML_Tasks_TimeSeries_Deep_SegRNN)
         - [TCN](aiwiki/0626_ML_Tasks_TimeSeries_Deep_TCN)
         - [TFT](aiwiki/0634_ML_Tasks_TimeSeries_Deep_TFT)
         - [TSMixer](aiwiki/0632_ML_Tasks_TimeSeries_Deep_TSMixer)
+        - [TiDE](aiwiki/0671_ML_Tasks_TimeSeries_Deep_TiDE)
+        - [TimeFilter](aiwiki/0678_ML_Tasks_TimeSeries_Deep_TimeFilter)
         - [TimeMixer](aiwiki/0633_ML_Tasks_TimeSeries_Deep_TimeMixer)
         - [TimeXer](aiwiki/0640_ML_Tasks_TimeSeries_Deep_TimeXer)
         - [TimesNet](aiwiki/0631_ML_Tasks_TimeSeries_Deep_TimesNet)
+        - [WPMixer](aiwiki/0677_ML_Tasks_TimeSeries_Deep_WPMixer)
         - [iTransformer](aiwiki/0639_ML_Tasks_TimeSeries_Deep_iTransformer)
       - [时间序列基础模型：方法详解、原理与发展脉络](aiwiki/0608_ML_Tasks_TimeSeries_Foundation)
         - [Chronos](aiwiki/0660_ML_Tasks_TimeSeries_Foundation_Chronos)
+        - [Chronos2](aiwiki/0682_ML_Tasks_TimeSeries_Foundation_Chronos2)
         - [GPT4TS](aiwiki/0650_ML_Tasks_TimeSeries_Foundation_GPT4TS)
         - [LLM 对时序预测有用吗](aiwiki/0661_ML_Tasks_TimeSeries_Foundation_LLMUseful)
         - [Lag-Llama](aiwiki/0653_ML_Tasks_TimeSeries_Foundation_LagLlama)
@@ -730,6 +751,7 @@
         - [Moirai](aiwiki/0657_ML_Tasks_TimeSeries_Foundation_Moirai)
         - [Sundial](aiwiki/0663_ML_Tasks_TimeSeries_Foundation_Sundial)
         - [TTM](aiwiki/0655_ML_Tasks_TimeSeries_Foundation_TTM)
+        - [TiRex](aiwiki/0681_ML_Tasks_TimeSeries_Foundation_TiRex)
         - [TimeGPT-1](aiwiki/0652_ML_Tasks_TimeSeries_Foundation_TimeGPT1)
         - [Time-LLM](aiwiki/0651_ML_Tasks_TimeSeries_Foundation_TimeLLM)
         - [Time-MoE](aiwiki/0662_ML_Tasks_TimeSeries_Foundation_TimeMoE)
@@ -895,9 +917,10 @@
   - [大模型分布图](aiwiki/0498_LM_map)
 - [模型性能优化技术](aiwiki/0471_MO)
   - [知识蒸馏](aiwiki/0207_MO_KD)
-    - [KD History](aiwiki/0336_MO_KD_History)
+    - [知识蒸馏发展历史](aiwiki/0336_MO_KD_History)
     - [Distilling the Knowledge in a Neural Network](aiwiki/0208_MO_KD_s)
   - [量化](aiwiki/0312_MO_Quantization)
+    - [量化发展历史](aiwiki/0688_MO_Quantization_History)
 - [RL 强化学习](aiwiki/0290_RL)
   - [Advantage Actor Critic](aiwiki/0460_RL_A2C)
   - [Actor Critic](aiwiki/0459_RL_AC)
@@ -1056,7 +1079,7 @@
   - [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1739571119</sub></kbd>
+<kbd><sub>@1745171120</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -1131,7 +1154,7 @@
 - [Loop Optimization](opt/0049_Loop)
   - [循环合并](opt/0063_Loop_Fusion)
 
-<kbd><sub>@2355001113</sub></kbd>
+<kbd><sub>@1641441120</sub></kbd>
 ## Jupyter Notebooks Samples
 
 
