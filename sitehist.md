@@ -6,9 +6,66 @@
 <!-- tabs:end -->
 <!-- tabs:end -->
 <!-- tabs:end -->
+- 2026-11-23&nbsp;&nbsp; [量化校准（Calibration）](aiwiki/0701_MO_Quantization_Calibration)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:Calibration
+- 2026-11-23&nbsp;&nbsp; [量化校准（Calibration）](aiwiki/0701_MO_Quantization_Calibration)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:Calibration
+- 2026-11-23&nbsp;&nbsp; [量化数据类型（FP8/MX/NF4）](aiwiki/0700_MO_Quantization_DataType)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:DataType
+- 2026-11-23&nbsp;&nbsp; [量化数据类型（FP8/MX/NF4）](aiwiki/0700_MO_Quantization_DataType)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:DataType
+- 2026-11-23&nbsp;&nbsp; [量化感知训练（QAT）](aiwiki/0703_MO_Quantization_QAT)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:QAT
+- 2026-11-23&nbsp;&nbsp; [量化感知训练（QAT）](aiwiki/0703_MO_Quantization_QAT)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:QAT
+- 2026-11-23&nbsp;&nbsp; [量化工具对比](aiwiki/0709_MO_Quantization_Tools)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:Tools
+- 2026-11-23&nbsp;&nbsp; [量化工具对比](aiwiki/0709_MO_Quantization_Tools)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:Tools
+- 2026-11-23&nbsp;&nbsp; [量化基础原理](aiwiki/0699_MO_Quantization_Basics)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:Basics
+- 2026-11-23&nbsp;&nbsp; [量化基础原理](aiwiki/0699_MO_Quantization_Basics)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:Basics
+- 2026-11-23&nbsp;&nbsp; [量化发展历史](aiwiki/0688_MO_Quantization_History)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:History
+- 2026-11-23&nbsp;&nbsp; [量化](aiwiki/0312_MO_Quantization)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization
+- 2026-11-23&nbsp;&nbsp; [训练后量化（PTQ）](aiwiki/0702_MO_Quantization_PTQ)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:PTQ
+- 2026-11-23&nbsp;&nbsp; [训练后量化（PTQ）](aiwiki/0702_MO_Quantization_PTQ)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:PTQ
+- 2026-11-23&nbsp;&nbsp; [蒸馏理论与实践](aiwiki/0698_MO_KD_Theory)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:Theory
+- 2026-11-23&nbsp;&nbsp; [蒸馏理论与实践](aiwiki/0698_MO_KD_Theory)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:Theory
+- 2026-11-23&nbsp;&nbsp; [自蒸馏（Self-Distillation）](aiwiki/0693_MO_KD_Self)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:Self
+- 2026-11-23&nbsp;&nbsp; [自蒸馏（Self-Distillation）](aiwiki/0693_MO_KD_Self)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:Self
+- 2026-11-23&nbsp;&nbsp; [经典统计时间序列模型](aiwiki/0604_ML_Tasks_TimeSeries_Classical)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Classical
+- 2026-11-23&nbsp;&nbsp; [知识蒸馏发展历史](aiwiki/0336_MO_KD_History)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:History
+- 2026-11-23&nbsp;&nbsp; [知识蒸馏](aiwiki/0207_MO_KD)&nbsp;&nbsp; :bookmark:MO :bookmark:KD
+- 2026-11-23&nbsp;&nbsp; [生成式时间序列模型](aiwiki/0607_ML_Tasks_TimeSeries_Generative)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Generative
+- 2026-11-23&nbsp;&nbsp; [特征蒸馏（Feature-based KD）](aiwiki/0690_MO_KD_Feature)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:Feature
+- 2026-11-23&nbsp;&nbsp; [特征蒸馏（Feature-based KD）](aiwiki/0690_MO_KD_Feature)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:Feature
+- 2026-11-23&nbsp;&nbsp; [混合精度量化](aiwiki/0705_MO_Quantization_MixedPrecision)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:MixedPrecision
+- 2026-11-23&nbsp;&nbsp; [混合精度量化](aiwiki/0705_MO_Quantization_MixedPrecision)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:MixedPrecision
+- 2026-11-23&nbsp;&nbsp; [深度学习时间序列模型](aiwiki/0606_ML_Tasks_TimeSeries_Deep)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep
+- 2026-11-23&nbsp;&nbsp; [模型性能优化技术](aiwiki/0471_MO)&nbsp;&nbsp; :bookmark:MO
+- 2026-11-23&nbsp;&nbsp; [检测/分割/ViT 蒸馏](aiwiki/0695_MO_KD_CV)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:CV
+- 2026-11-23&nbsp;&nbsp; [检测/分割/ViT 蒸馏](aiwiki/0695_MO_KD_CV)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:CV
+- 2026-11-23&nbsp;&nbsp; [机器学习时间序列模型](aiwiki/0605_ML_Tasks_TimeSeries_ML)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:ML
+- 2026-11-23&nbsp;&nbsp; [时间序列模型评估指标](aiwiki/0610_ML_Tasks_TimeSeries_Metrics)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Metrics
+- 2026-11-23&nbsp;&nbsp; [时间序列模型](aiwiki/0603_ML_Tasks_TimeSeries)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries
+- 2026-11-23&nbsp;&nbsp; [时间序列-异常检测](aiwiki/0609_ML_Tasks_TimeSeries_Anomaly)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Anomaly
+- 2026-11-23&nbsp;&nbsp; [时间序列-Foundation Model](aiwiki/0608_ML_Tasks_TimeSeries_Foundation)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Foundation
+- 2026-11-23&nbsp;&nbsp; [无数据蒸馏（Data-Free KD）](aiwiki/0694_MO_KD_DataFree)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:DataFree
+- 2026-11-23&nbsp;&nbsp; [无数据蒸馏（Data-Free KD）](aiwiki/0694_MO_KD_DataFree)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:DataFree
+- 2026-11-23&nbsp;&nbsp; [在线蒸馏（Online KD）](aiwiki/0692_MO_KD_Online)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:Online
+- 2026-11-23&nbsp;&nbsp; [在线蒸馏（Online KD）](aiwiki/0692_MO_KD_Online)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:Online
+- 2026-11-23&nbsp;&nbsp; [响应蒸馏（Response-based KD）](aiwiki/0689_MO_KD_Response)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:Response
+- 2026-11-23&nbsp;&nbsp; [响应蒸馏（Response-based KD）](aiwiki/0689_MO_KD_Response)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:Response
+- 2026-11-23&nbsp;&nbsp; [关系蒸馏（Relation-based KD）](aiwiki/0691_MO_KD_Relation)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:Relation
+- 2026-11-23&nbsp;&nbsp; [关系蒸馏（Relation-based KD）](aiwiki/0691_MO_KD_Relation)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:Relation
+- 2026-11-23&nbsp;&nbsp; [低比特量化（二值/三值）](aiwiki/0704_MO_Quantization_LowBit)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:LowBit
+- 2026-11-23&nbsp;&nbsp; [低比特量化（二值/三值）](aiwiki/0704_MO_Quantization_LowBit)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:LowBit
+- 2026-11-23&nbsp;&nbsp; [ruff](xwiki/0332_Programing_Python_Tools_ruff)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:ruff
+- 2026-11-23&nbsp;&nbsp; [ruff](xwiki/0332_Programing_Python_Tools_ruff)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:ruff
+- 2026-11-23&nbsp;&nbsp; [Specular Highlight Removal](aiwiki/0540_ML_Tasks_Image_SHR)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:SHR
+- 2026-11-23&nbsp;&nbsp; [LLM 黑盒蒸馏](aiwiki/0697_MO_KD_LLM_BlackBox)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:LLM :bookmark:BlackBox
+- 2026-11-23&nbsp;&nbsp; [LLM 黑盒蒸馏](aiwiki/0697_MO_KD_LLM_BlackBox)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:LLM :bookmark:BlackBox
+- 2026-11-23&nbsp;&nbsp; [LLM 白盒蒸馏](aiwiki/0696_MO_KD_LLM_WhiteBox)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:LLM :bookmark:WhiteBox
+- 2026-11-23&nbsp;&nbsp; [LLM 白盒蒸馏](aiwiki/0696_MO_KD_LLM_WhiteBox)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:LLM :bookmark:WhiteBox
+- 2026-11-23&nbsp;&nbsp; [LLM 权重量化](aiwiki/0706_MO_Quantization_LLM_Weight)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:LLM :bookmark:Weight
+- 2026-11-23&nbsp;&nbsp; [LLM 权重量化](aiwiki/0706_MO_Quantization_LLM_Weight)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:LLM :bookmark:Weight
+- 2026-11-23&nbsp;&nbsp; [LLM 权重+激活量化](aiwiki/0707_MO_Quantization_LLM_WA)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:LLM :bookmark:WA
+- 2026-11-23&nbsp;&nbsp; [LLM 权重+激活量化](aiwiki/0707_MO_Quantization_LLM_WA)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:LLM :bookmark:WA
+- 2026-11-23&nbsp;&nbsp; [KV Cache 量化](aiwiki/0708_MO_Quantization_KVCache)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:KVCache
+- 2026-11-23&nbsp;&nbsp; [KV Cache 量化](aiwiki/0708_MO_Quantization_KVCache)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:KVCache
+- 2026-11-23&nbsp;&nbsp; [Distilling the Knowledge in a Neural Network](aiwiki/0208_MO_KD_s)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:s
 - 2026-11-20&nbsp;&nbsp; [量化发展历史](aiwiki/0688_MO_Quantization_History)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:History
-- 2026-11-20&nbsp;&nbsp; [量化发展历史](aiwiki/0688_MO_Quantization_History)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:History
-- 2026-11-20&nbsp;&nbsp; [知识蒸馏发展历史](aiwiki/0336_MO_KD_History)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:History
 - 2026-11-20&nbsp;&nbsp; [iTransformer](aiwiki/0639_ML_Tasks_TimeSeries_Deep_iTransformer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep :bookmark:iTransformer
 - 2026-11-20&nbsp;&nbsp; [WPMixer](aiwiki/0677_ML_Tasks_TimeSeries_Deep_WPMixer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep :bookmark:WPMixer
 - 2026-11-20&nbsp;&nbsp; [WPMixer](aiwiki/0677_ML_Tasks_TimeSeries_Deep_WPMixer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep :bookmark:WPMixer
@@ -90,15 +147,7 @@
 - 2026-11-20&nbsp;&nbsp; [CSDI](aiwiki/0647_ML_Tasks_TimeSeries_Generative_CSDI)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Generative :bookmark:CSDI
 - 2026-11-20&nbsp;&nbsp; [Autoformer](aiwiki/0636_ML_Tasks_TimeSeries_Deep_Autoformer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep :bookmark:Autoformer
 - 2026-11-20&nbsp;&nbsp; [Anomaly Transformer](aiwiki/0648_ML_Tasks_TimeSeries_Anomaly_AnomalyTransformer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Anomaly :bookmark:AnomalyTransformer
-- 2026-11-19&nbsp;&nbsp; [经典统计时间序列模型：方法详解、理论骨架与发展脉络](aiwiki/0604_ML_Tasks_TimeSeries_Classical)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Classical
-- 2026-11-19&nbsp;&nbsp; [生成式时间序列模型：方法详解、原理与发展脉络](aiwiki/0607_ML_Tasks_TimeSeries_Generative)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Generative
-- 2026-11-19&nbsp;&nbsp; [深度学习时间序列模型：方法详解、原理与发展脉络](aiwiki/0606_ML_Tasks_TimeSeries_Deep)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep
-- 2026-11-19&nbsp;&nbsp; [机器学习时间序列模型：方法详解、原理与发展脉络](aiwiki/0605_ML_Tasks_TimeSeries_ML)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:ML
-- 2026-11-19&nbsp;&nbsp; [时间序列模型评估指标：公式、历史与现行评估方式、优缺点](aiwiki/0610_ML_Tasks_TimeSeries_Metrics)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Metrics
-- 2026-11-19&nbsp;&nbsp; [时间序列模型综述：从 ARIMA 到时序基础模型](aiwiki/0603_ML_Tasks_TimeSeries)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries
 - 2026-11-19&nbsp;&nbsp; [时间序列模型发展时间线](aiwiki/0611_ML_Tasks_TimeSeries_Timeline)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Timeline
-- 2026-11-19&nbsp;&nbsp; [时间序列异常检测：方法详解、评估与发展脉络](aiwiki/0609_ML_Tasks_TimeSeries_Anomaly)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Anomaly
-- 2026-11-19&nbsp;&nbsp; [时间序列基础模型：方法详解、原理与发展脉络](aiwiki/0608_ML_Tasks_TimeSeries_Foundation)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Foundation
 - 2026-11-19&nbsp;&nbsp; [iTransformer](aiwiki/0639_ML_Tasks_TimeSeries_Deep_iTransformer)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep :bookmark:iTransformer
 - 2026-11-19&nbsp;&nbsp; [Vision](aiwiki/0226_ML_Transformer_Vision)&nbsp;&nbsp; :bookmark:ML :bookmark:Transformer :bookmark:Vision
 - 2026-11-19&nbsp;&nbsp; [ViT](aiwiki/0223_ML_Transformer_ViT)&nbsp;&nbsp; :bookmark:ML :bookmark:Transformer :bookmark:ViT
@@ -229,16 +278,16 @@
 - 2026-11-11&nbsp;&nbsp; [Activation Function 激活函数](aiwiki/0279_ML_Op_AF)&nbsp;&nbsp; :bookmark:ML :bookmark:Op :bookmark:AF
 - 2026-11-11&nbsp;&nbsp; [3D 数据集](aiwiki/0087_Datasets_3D)&nbsp;&nbsp; :bookmark:Datasets :bookmark:3D
 - 2026-11-11&nbsp;&nbsp; [3D Camera](aiwiki/0040_3D_Camera)&nbsp;&nbsp; :bookmark:3D :bookmark:Camera
-- 2026-11-10&nbsp;&nbsp; [经典统计时间序列模型：方法详解、理论骨架与发展脉络](aiwiki/0604_ML_Tasks_TimeSeries_Classical)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Classical
+- 2026-11-10&nbsp;&nbsp; [经典统计时间序列模型](aiwiki/0604_ML_Tasks_TimeSeries_Classical)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Classical
 - 2026-11-10&nbsp;&nbsp; [移除 stage 文件](xwiki/0119_Tools_Git_RMStageFile)&nbsp;&nbsp; :bookmark:Tools :bookmark:Git :bookmark:RMStageFile
-- 2026-11-10&nbsp;&nbsp; [生成式时间序列模型：方法详解、原理与发展脉络](aiwiki/0607_ML_Tasks_TimeSeries_Generative)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Generative
-- 2026-11-10&nbsp;&nbsp; [深度学习时间序列模型：方法详解、原理与发展脉络](aiwiki/0606_ML_Tasks_TimeSeries_Deep)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep
-- 2026-11-10&nbsp;&nbsp; [机器学习时间序列模型：方法详解、原理与发展脉络](aiwiki/0605_ML_Tasks_TimeSeries_ML)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:ML
-- 2026-11-10&nbsp;&nbsp; [时间序列模型评估指标：公式、历史与现行评估方式、优缺点](aiwiki/0610_ML_Tasks_TimeSeries_Metrics)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Metrics
-- 2026-11-10&nbsp;&nbsp; [时间序列模型综述：从 ARIMA 到时序基础模型](aiwiki/0603_ML_Tasks_TimeSeries)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries
+- 2026-11-10&nbsp;&nbsp; [生成式时间序列模型](aiwiki/0607_ML_Tasks_TimeSeries_Generative)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Generative
+- 2026-11-10&nbsp;&nbsp; [深度学习时间序列模型](aiwiki/0606_ML_Tasks_TimeSeries_Deep)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Deep
+- 2026-11-10&nbsp;&nbsp; [机器学习时间序列模型](aiwiki/0605_ML_Tasks_TimeSeries_ML)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:ML
+- 2026-11-10&nbsp;&nbsp; [时间序列模型评估指标](aiwiki/0610_ML_Tasks_TimeSeries_Metrics)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Metrics
 - 2026-11-10&nbsp;&nbsp; [时间序列模型发展时间线](aiwiki/0611_ML_Tasks_TimeSeries_Timeline)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Timeline
-- 2026-11-10&nbsp;&nbsp; [时间序列异常检测：方法详解、评估与发展脉络](aiwiki/0609_ML_Tasks_TimeSeries_Anomaly)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Anomaly
-- 2026-11-10&nbsp;&nbsp; [时间序列基础模型：方法详解、原理与发展脉络](aiwiki/0608_ML_Tasks_TimeSeries_Foundation)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Foundation
+- 2026-11-10&nbsp;&nbsp; [时间序列模型](aiwiki/0603_ML_Tasks_TimeSeries)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries
+- 2026-11-10&nbsp;&nbsp; [时间序列-异常检测](aiwiki/0609_ML_Tasks_TimeSeries_Anomaly)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Anomaly
+- 2026-11-10&nbsp;&nbsp; [时间序列-Foundation Model](aiwiki/0608_ML_Tasks_TimeSeries_Foundation)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:TimeSeries :bookmark:Foundation
 - 2026-11-10&nbsp;&nbsp; [uv](xwiki/0315_Programing_Python_Tools_uv)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:uv
 - 2026-11-10&nbsp;&nbsp; [uv Internals](xwiki/0320_Programing_Python_Tools_uv_Internals)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:uv :bookmark:Internals
 - 2026-11-10&nbsp;&nbsp; [pipx](xwiki/0330_Programing_Python_Tools_pipx)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:pipx
@@ -414,7 +463,6 @@
 - 2026-10-19&nbsp;&nbsp; [Thresholding 二值化](aiwiki/0099_CV_BIN)&nbsp;&nbsp; :bookmark:CV :bookmark:BIN
 - 2026-10-19&nbsp;&nbsp; [TAPI - Transparent API](aiwiki/0436_OpenCV_TAPI)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:TAPI
 - 2026-10-19&nbsp;&nbsp; [Structure Tensor 结构张量](aiwiki/0070_CV_StructureTensor)&nbsp;&nbsp; :bookmark:CV :bookmark:StructureTensor
-- 2026-10-19&nbsp;&nbsp; [Specular Highlight Removal](aiwiki/0540_ML_Tasks_Image_SHR)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:SHR
 - 2026-10-19&nbsp;&nbsp; [OpenCV](aiwiki/0105_OpenCV)&nbsp;&nbsp; :bookmark:OpenCV
 - 2026-10-19&nbsp;&nbsp; [OpenCV 数据结构](aiwiki/0364_OpenCV_data)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:data
 - 2026-10-19&nbsp;&nbsp; [OpenCV CPU Optimizations](aiwiki/0438_OpenCV_CPUOpt)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:CPUOpt
@@ -430,9 +478,6 @@
 - 2026-10-19&nbsp;&nbsp; [Core functionality 核心功能函数](aiwiki/0425_OpenCV_Core)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:Core
 - 2026-10-19&nbsp;&nbsp; [Canny 边缘检测](aiwiki/0101_CV_Edge_Canny)&nbsp;&nbsp; :bookmark:CV :bookmark:Edge :bookmark:Canny
 - 2026-10-19&nbsp;&nbsp; [CV 计算机视觉](aiwiki/0371_CV)&nbsp;&nbsp; :bookmark:CV
-- 2026-10-18&nbsp;&nbsp; [量化](aiwiki/0312_MO_Quantization)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization
-- 2026-10-18&nbsp;&nbsp; [知识蒸馏](aiwiki/0207_MO_KD)&nbsp;&nbsp; :bookmark:MO :bookmark:KD
-- 2026-10-18&nbsp;&nbsp; [模型性能优化技术](aiwiki/0471_MO)&nbsp;&nbsp; :bookmark:MO
 - 2026-10-16&nbsp;&nbsp; [模型可解释性前沿状态](aiwiki/0558_Hot_Interpretability)&nbsp;&nbsp; :bookmark:Hot :bookmark:Interpretability
 - 2026-10-16&nbsp;&nbsp; [模型可解释性前沿状态](aiwiki/0558_Hot_Interpretability)&nbsp;&nbsp; :bookmark:Hot :bookmark:Interpretability
 - 2026-10-16&nbsp;&nbsp; [循环合并](opt/0063_Loop_Fusion)&nbsp;&nbsp; :bookmark:Loop :bookmark:Fusion
@@ -763,7 +808,6 @@
 - 2024-07-02&nbsp;&nbsp; [Develop with Github `personal access token`](xwiki/0307_Tools_Github_Token)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:Token
 - 2024-06-28&nbsp;&nbsp; [模型性能优化技术](aiwiki/0471_MO)&nbsp;&nbsp; :bookmark:MO
 - 2024-06-28&nbsp;&nbsp; [PostProcessing](aiwiki/0370_ML_PostP)&nbsp;&nbsp; :bookmark:ML :bookmark:PostP
-- 2024-06-28&nbsp;&nbsp; [Distilling the Knowledge in a Neural Network](aiwiki/0208_MO_KD_s)&nbsp;&nbsp; :bookmark:MO :bookmark:KD :bookmark:s
 - 2024-06-27&nbsp;&nbsp; [Jupyter](xwiki/0163_Tools_Jupyter)&nbsp;&nbsp; :bookmark:Tools :bookmark:Jupyter
 - 2024-06-26&nbsp;&nbsp; [virtualenvwrapper](xwiki/0175_Programing_Python_Tools_virtualenvwrapper)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:virtualenvwrapper
 - 2024-06-26&nbsp;&nbsp; [virtualenv](xwiki/0176_Programing_Python_Tools_virtualenv)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:virtualenv
@@ -2310,4 +2354,4 @@
 
 
 
-> `@2026.11.20 19:06:52`
+> `@2026.11.23 16:44:49`

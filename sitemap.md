@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.11.20 19:06:51`
+> `@2026.11.23 16:44:48`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -170,6 +170,7 @@
       - [psutil](xwiki/0098_Programing_Python_Tools_psutil)
       - [pylint 代码分析工具](xwiki/0092_Programing_Python_Tools_pylint)
       - [py-spy](xwiki/0322_Programing_Python_Tools_pyspy)
+      - [ruff](xwiki/0332_Programing_Python_Tools_ruff)
       - [tqdm 进度条工具](xwiki/0099_Programing_Python_Tools_tqdm)
       - [uv](xwiki/0315_Programing_Python_Tools_uv)
         - [uv Internals](xwiki/0320_Programing_Python_Tools_uv_Internals)
@@ -417,7 +418,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1642011120</sub></kbd>
+<kbd><sub>@1037481123</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [图像](aiwiki/0325_Media_Image)
@@ -695,14 +696,14 @@
       - [Specular Highlight Removal](aiwiki/0540_ML_Tasks_Image_SHR)
     - [Motion Detection 运动侦测](aiwiki/0243_ML_Tasks_MD)
     - [MetricLearning](aiwiki/0157_ML_Tasks_MetricLearning)
-    - [时间序列模型综述：从 ARIMA 到时序基础模型](aiwiki/0603_ML_Tasks_TimeSeries)
-      - [时间序列异常检测：方法详解、评估与发展脉络](aiwiki/0609_ML_Tasks_TimeSeries_Anomaly)
+    - [时间序列模型](aiwiki/0603_ML_Tasks_TimeSeries)
+      - [时间序列-异常检测](aiwiki/0609_ML_Tasks_TimeSeries_Anomaly)
         - [Anomaly Transformer](aiwiki/0648_ML_Tasks_TimeSeries_Anomaly_AnomalyTransformer)
         - [KANAD](aiwiki/0680_ML_Tasks_TimeSeries_Anomaly_KANAD)
         - [TranAD](aiwiki/0649_ML_Tasks_TimeSeries_Anomaly_TranAD)
-      - [经典统计时间序列模型：方法详解、理论骨架与发展脉络](aiwiki/0604_ML_Tasks_TimeSeries_Classical)
+      - [经典统计时间序列模型](aiwiki/0604_ML_Tasks_TimeSeries_Classical)
         - [ARIMA](aiwiki/0624_ML_Tasks_TimeSeries_Classical_ARIMA)
-      - [深度学习时间序列模型：方法详解、原理与发展脉络](aiwiki/0606_ML_Tasks_TimeSeries_Deep)
+      - [深度学习时间序列模型](aiwiki/0606_ML_Tasks_TimeSeries_Deep)
         - [Autoformer](aiwiki/0636_ML_Tasks_TimeSeries_Deep_Autoformer)
         - [Crossformer](aiwiki/0685_ML_Tasks_TimeSeries_Deep_Crossformer)
         - [DLinear](aiwiki/0630_ML_Tasks_TimeSeries_Deep_DLinear)
@@ -741,7 +742,7 @@
         - [TimesNet](aiwiki/0631_ML_Tasks_TimeSeries_Deep_TimesNet)
         - [WPMixer](aiwiki/0677_ML_Tasks_TimeSeries_Deep_WPMixer)
         - [iTransformer](aiwiki/0639_ML_Tasks_TimeSeries_Deep_iTransformer)
-      - [时间序列基础模型：方法详解、原理与发展脉络](aiwiki/0608_ML_Tasks_TimeSeries_Foundation)
+      - [时间序列-Foundation Model](aiwiki/0608_ML_Tasks_TimeSeries_Foundation)
         - [Chronos](aiwiki/0660_ML_Tasks_TimeSeries_Foundation_Chronos)
         - [Chronos2](aiwiki/0682_ML_Tasks_TimeSeries_Foundation_Chronos2)
         - [GPT4TS](aiwiki/0650_ML_Tasks_TimeSeries_Foundation_GPT4TS)
@@ -757,14 +758,14 @@
         - [Time-MoE](aiwiki/0662_ML_Tasks_TimeSeries_Foundation_TimeMoE)
         - [Timer](aiwiki/0656_ML_Tasks_TimeSeries_Foundation_Timer)
         - [TimesFM](aiwiki/0654_ML_Tasks_TimeSeries_Foundation_TimesFM)
-      - [生成式时间序列模型：方法详解、原理与发展脉络](aiwiki/0607_ML_Tasks_TimeSeries_Generative)
+      - [生成式时间序列模型](aiwiki/0607_ML_Tasks_TimeSeries_Generative)
         - [CSDI](aiwiki/0647_ML_Tasks_TimeSeries_Generative_CSDI)
         - [TS2Vec](aiwiki/0646_ML_Tasks_TimeSeries_Generative_TS2Vec)
         - [TimeGrad](aiwiki/0645_ML_Tasks_TimeSeries_Generative_TimeGrad)
-      - [机器学习时间序列模型：方法详解、原理与发展脉络](aiwiki/0605_ML_Tasks_TimeSeries_ML)
+      - [机器学习时间序列模型](aiwiki/0605_ML_Tasks_TimeSeries_ML)
         - [GBDT](aiwiki/0658_ML_Tasks_TimeSeries_ML_GBDT)
         - [ROCKET](aiwiki/0627_ML_Tasks_TimeSeries_ML_ROCKET)
-      - [时间序列模型评估指标：公式、历史与现行评估方式、优缺点](aiwiki/0610_ML_Tasks_TimeSeries_Metrics)
+      - [时间序列模型评估指标](aiwiki/0610_ML_Tasks_TimeSeries_Metrics)
       - [时间序列模型发展时间线](aiwiki/0611_ML_Tasks_TimeSeries_Timeline)
   - [Op](aiwiki/0366_ML_Op)
     - [Activation Function 激活函数](aiwiki/0279_ML_Op_AF)
@@ -917,10 +918,33 @@
   - [大模型分布图](aiwiki/0498_LM_map)
 - [模型性能优化技术](aiwiki/0471_MO)
   - [知识蒸馏](aiwiki/0207_MO_KD)
+    - [检测/分割/ViT 蒸馏](aiwiki/0695_MO_KD_CV)
+    - [无数据蒸馏（Data-Free KD）](aiwiki/0694_MO_KD_DataFree)
+    - [特征蒸馏（Feature-based KD）](aiwiki/0690_MO_KD_Feature)
     - [知识蒸馏发展历史](aiwiki/0336_MO_KD_History)
+    - LLM
+      - [LLM 黑盒蒸馏](aiwiki/0697_MO_KD_LLM_BlackBox)
+      - [LLM 白盒蒸馏](aiwiki/0696_MO_KD_LLM_WhiteBox)
+    - [在线蒸馏（Online KD）](aiwiki/0692_MO_KD_Online)
+    - [关系蒸馏（Relation-based KD）](aiwiki/0691_MO_KD_Relation)
+    - [响应蒸馏（Response-based KD）](aiwiki/0689_MO_KD_Response)
+    - [自蒸馏（Self-Distillation）](aiwiki/0693_MO_KD_Self)
+    - [蒸馏理论与实践](aiwiki/0698_MO_KD_Theory)
     - [Distilling the Knowledge in a Neural Network](aiwiki/0208_MO_KD_s)
   - [量化](aiwiki/0312_MO_Quantization)
+    - [量化基础原理](aiwiki/0699_MO_Quantization_Basics)
+    - [量化校准（Calibration）](aiwiki/0701_MO_Quantization_Calibration)
+    - [量化数据类型（FP8/MX/NF4）](aiwiki/0700_MO_Quantization_DataType)
     - [量化发展历史](aiwiki/0688_MO_Quantization_History)
+    - [KV Cache 量化](aiwiki/0708_MO_Quantization_KVCache)
+    - LLM
+      - [LLM 权重+激活量化](aiwiki/0707_MO_Quantization_LLM_WA)
+      - [LLM 权重量化](aiwiki/0706_MO_Quantization_LLM_Weight)
+    - [低比特量化（二值/三值）](aiwiki/0704_MO_Quantization_LowBit)
+    - [混合精度量化](aiwiki/0705_MO_Quantization_MixedPrecision)
+    - [训练后量化（PTQ）](aiwiki/0702_MO_Quantization_PTQ)
+    - [量化感知训练（QAT）](aiwiki/0703_MO_Quantization_QAT)
+    - [量化工具对比](aiwiki/0709_MO_Quantization_Tools)
 - [RL 强化学习](aiwiki/0290_RL)
   - [Advantage Actor Critic](aiwiki/0460_RL_A2C)
   - [Actor Critic](aiwiki/0459_RL_AC)
@@ -1079,7 +1103,7 @@
   - [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@1745171120</sub></kbd>
+<kbd><sub>@1418471123</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
