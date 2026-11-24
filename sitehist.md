@@ -6,6 +6,74 @@
 <!-- tabs:end -->
 <!-- tabs:end -->
 <!-- tabs:end -->
+- 2026-11-24&nbsp;&nbsp; [t-SNE 非线性降维](aiwiki/0732_ML_OML_tSNE)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:tSNE
+- 2026-11-24&nbsp;&nbsp; [t-SNE 非线性降维](aiwiki/0732_ML_OML_tSNE)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:tSNE
+- 2026-11-24&nbsp;&nbsp; [XGBoost 极端梯度提升](aiwiki/0728_ML_OML_Ensemble_XGBoost)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:Ensemble :bookmark:XGBoost
+- 2026-11-24&nbsp;&nbsp; [XGBoost 极端梯度提升](aiwiki/0728_ML_OML_Ensemble_XGBoost)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:Ensemble :bookmark:XGBoost
+- 2026-11-24&nbsp;&nbsp; [Traditional Machine Learning 传统机器学习](aiwiki/0367_ML_OML)&nbsp;&nbsp; :bookmark:ML :bookmark:OML
+- 2026-11-24&nbsp;&nbsp; [TPR & FPR 真正率与假正率](aiwiki/0381_ML_Metrics_Detection_TPRFPR)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:TPRFPR
+- 2026-11-24&nbsp;&nbsp; [Statistical Significance 统计显著性](aiwiki/0720_ML_Metrics_Statistics)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Statistics
+- 2026-11-24&nbsp;&nbsp; [Statistical Significance 统计显著性](aiwiki/0720_ML_Metrics_Statistics)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Statistics
+- 2026-11-24&nbsp;&nbsp; [Segmentation Metrics](aiwiki/0231_ML_Metrics_Segmentation)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation
+- 2026-11-24&nbsp;&nbsp; [SVM 支持向量机](aiwiki/0115_ML_OML_SVM)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:SVM
+- 2026-11-24&nbsp;&nbsp; [SVM 原理推导](aiwiki/0116_ML_OML_SVM_原理)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:SVM :bookmark:原理
+- 2026-11-24&nbsp;&nbsp; [Retrieval Metrics 检索指标](aiwiki/0712_ML_Metrics_Retrieval)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Retrieval
+- 2026-11-24&nbsp;&nbsp; [Retrieval Metrics 检索指标](aiwiki/0712_ML_Metrics_Retrieval)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Retrieval
+- 2026-11-24&nbsp;&nbsp; [Regression Metrics 回归指标](aiwiki/0710_ML_Metrics_Regression)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Regression
+- 2026-11-24&nbsp;&nbsp; [Regression Metrics 回归指标](aiwiki/0710_ML_Metrics_Regression)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Regression
+- 2026-11-24&nbsp;&nbsp; [Random Forest 随机森林](aiwiki/0114_ML_OML_RandomForest)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:RandomForest
+- 2026-11-24&nbsp;&nbsp; [Panoptic Quality 全景分割质量](aiwiki/0713_ML_Metrics_Segmentation_PQ)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:PQ
+- 2026-11-24&nbsp;&nbsp; [Panoptic Quality 全景分割质量](aiwiki/0713_ML_Metrics_Segmentation_PQ)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:PQ
+- 2026-11-24&nbsp;&nbsp; [Pairwise Metrics 成对相似度与距离](aiwiki/0139_ML_Metrics_Pairwise)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Pairwise
+- 2026-11-24&nbsp;&nbsp; [PCA 主成分分析](aiwiki/0731_ML_OML_PCA)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:PCA
+- 2026-11-24&nbsp;&nbsp; [PCA 主成分分析](aiwiki/0731_ML_OML_PCA)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:PCA
+- 2026-11-24&nbsp;&nbsp; [Naive Bayes 朴素贝叶斯](aiwiki/0725_ML_OML_NaiveBayes)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:NaiveBayes
+- 2026-11-24&nbsp;&nbsp; [Naive Bayes 朴素贝叶斯](aiwiki/0725_ML_OML_NaiveBayes)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:NaiveBayes
+- 2026-11-24&nbsp;&nbsp; [Metrics 评价指标](aiwiki/0138_ML_Metrics)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics
+- 2026-11-24&nbsp;&nbsp; [Metrics for Classification](aiwiki/0137_ML_Metrics_Classification)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Classification
+- 2026-11-24&nbsp;&nbsp; [Logistic Regression 逻辑回归](aiwiki/0723_ML_OML_LogisticRegression)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:LogisticRegression
+- 2026-11-24&nbsp;&nbsp; [Logistic Regression 逻辑回归](aiwiki/0723_ML_OML_LogisticRegression)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:LogisticRegression
+- 2026-11-24&nbsp;&nbsp; [Linear Regression 线性回归](aiwiki/0722_ML_OML_LinearRegression)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:LinearRegression
+- 2026-11-24&nbsp;&nbsp; [Linear Regression 线性回归](aiwiki/0722_ML_OML_LinearRegression)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:LinearRegression
+- 2026-11-24&nbsp;&nbsp; [Keypoint Metrics 关键点指标](aiwiki/0717_ML_Metrics_Keypoint)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Keypoint
+- 2026-11-24&nbsp;&nbsp; [Keypoint Metrics 关键点指标](aiwiki/0717_ML_Metrics_Keypoint)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Keypoint
+- 2026-11-24&nbsp;&nbsp; [KNN K 近邻](aiwiki/0724_ML_OML_KNN)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:KNN
+- 2026-11-24&nbsp;&nbsp; [KNN K 近邻](aiwiki/0724_ML_OML_KNN)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:KNN
+- 2026-11-24&nbsp;&nbsp; [K-Means K 均值聚类](aiwiki/0729_ML_OML_KMeans)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:KMeans
+- 2026-11-24&nbsp;&nbsp; [K-Means K 均值聚类](aiwiki/0729_ML_OML_KMeans)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:KMeans
+- 2026-11-24&nbsp;&nbsp; [Isolation Forest 孤立森林](aiwiki/0733_ML_OML_IsolationForest)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:IsolationForest
+- 2026-11-24&nbsp;&nbsp; [Isolation Forest 孤立森林](aiwiki/0733_ML_OML_IsolationForest)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:IsolationForest
+- 2026-11-24&nbsp;&nbsp; [IoU Loss Family 边界框回归损失](aiwiki/0716_ML_Metrics_Detection_DIoUCIoU)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:DIoUCIoU
+- 2026-11-24&nbsp;&nbsp; [IoU Loss Family 边界框回归损失](aiwiki/0716_ML_Metrics_Detection_DIoUCIoU)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:DIoUCIoU
+- 2026-11-24&nbsp;&nbsp; [Intersection over Union 交并比](aiwiki/0383_ML_Metrics_Detection_IoU)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:IoU
+- 2026-11-24&nbsp;&nbsp; [Image Generation Metrics 图像生成与重建指标](aiwiki/0718_ML_Metrics_Generation)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Generation
+- 2026-11-24&nbsp;&nbsp; [Image Generation Metrics 图像生成与重建指标](aiwiki/0718_ML_Metrics_Generation)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Generation
+- 2026-11-24&nbsp;&nbsp; [IS-Net：高精度二分图像分割（DIS）](aiwiki/0734_paper_ISNet)&nbsp;&nbsp; :bookmark:paper :bookmark:ISNet
+- 2026-11-24&nbsp;&nbsp; [IS-Net：高精度二分图像分割（DIS）](aiwiki/0734_paper_ISNet)&nbsp;&nbsp; :bookmark:paper :bookmark:ISNet
+- 2026-11-24&nbsp;&nbsp; [Hausdorff Distance 豪斯多夫距离](aiwiki/0715_ML_Metrics_Segmentation_Hausdorff)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:Hausdorff
+- 2026-11-24&nbsp;&nbsp; [Hausdorff Distance 豪斯多夫距离](aiwiki/0715_ML_Metrics_Segmentation_Hausdorff)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:Hausdorff
+- 2026-11-24&nbsp;&nbsp; [Generalized IoU 广义交并比](aiwiki/0232_ML_Metrics_Detection_GIoU)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:GIoU
+- 2026-11-24&nbsp;&nbsp; [GBDT 梯度提升决策树](aiwiki/0727_ML_OML_Ensemble_GBDT)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:Ensemble :bookmark:GBDT
+- 2026-11-24&nbsp;&nbsp; [GBDT 梯度提升决策树](aiwiki/0727_ML_OML_Ensemble_GBDT)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:Ensemble :bookmark:GBDT
+- 2026-11-24&nbsp;&nbsp; [Ensemble Learning 集成学习](aiwiki/0726_ML_OML_Ensemble)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:Ensemble
+- 2026-11-24&nbsp;&nbsp; [Ensemble Learning 集成学习](aiwiki/0726_ML_OML_Ensemble)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:Ensemble
+- 2026-11-24&nbsp;&nbsp; [Efficiency Metrics 模型效率指标](aiwiki/0721_ML_Metrics_Efficiency)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Efficiency
+- 2026-11-24&nbsp;&nbsp; [Efficiency Metrics 模型效率指标](aiwiki/0721_ML_Metrics_Efficiency)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Efficiency
+- 2026-11-24&nbsp;&nbsp; [Dice Coefficient 骰子系数](aiwiki/0714_ML_Metrics_Segmentation_Dice)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:Dice
+- 2026-11-24&nbsp;&nbsp; [Dice Coefficient 骰子系数](aiwiki/0714_ML_Metrics_Segmentation_Dice)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:Dice
+- 2026-11-24&nbsp;&nbsp; [Detection Metrics](aiwiki/0230_ML_Metrics_Detection)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection
+- 2026-11-24&nbsp;&nbsp; [Decision Tree 决策树](aiwiki/0113_ML_OML_DecisionTree)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:DecisionTree
+- 2026-11-24&nbsp;&nbsp; [DBSCAN 密度聚类](aiwiki/0730_ML_OML_DBSCAN)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:DBSCAN
+- 2026-11-24&nbsp;&nbsp; [DBSCAN 密度聚类](aiwiki/0730_ML_OML_DBSCAN)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:DBSCAN
+- 2026-11-24&nbsp;&nbsp; [Cross Validation 交叉验证](aiwiki/0249_ML_Metrics_CrossValidation)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:CrossValidation
+- 2026-11-24&nbsp;&nbsp; [Clustering Metrics 聚类指标](aiwiki/0719_ML_Metrics_Clustering)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Clustering
+- 2026-11-24&nbsp;&nbsp; [Clustering Metrics 聚类指标](aiwiki/0719_ML_Metrics_Clustering)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Clustering
+- 2026-11-24&nbsp;&nbsp; [Center Distance 中心点距离](aiwiki/0525_ML_Metrics_Detection_CD)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:CD
+- 2026-11-24&nbsp;&nbsp; [COCO Detection Metrics COCO 检测评估指标](aiwiki/0384_ML_Metrics_Detection_COCO)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:COCO
+- 2026-11-24&nbsp;&nbsp; [Boundary F1-Score 分割边界 F1](aiwiki/0526_ML_Metrics_Segmentation_BF1S)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:BF1S
+- 2026-11-24&nbsp;&nbsp; [Anomaly Detection Metrics 异常检测指标](aiwiki/0711_ML_Metrics_Anomaly)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Anomaly
+- 2026-11-24&nbsp;&nbsp; [Anomaly Detection Metrics 异常检测指标](aiwiki/0711_ML_Metrics_Anomaly)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Anomaly
+- 2026-11-24&nbsp;&nbsp; [AP & mAP & AR 平均精度与召回](aiwiki/0382_ML_Metrics_Detection_APmAPAR)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:APmAPAR
 - 2026-11-23&nbsp;&nbsp; [量化校准（Calibration）](aiwiki/0701_MO_Quantization_Calibration)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:Calibration
 - 2026-11-23&nbsp;&nbsp; [量化校准（Calibration）](aiwiki/0701_MO_Quantization_Calibration)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:Calibration
 - 2026-11-23&nbsp;&nbsp; [量化数据类型（FP8/MX/NF4）](aiwiki/0700_MO_Quantization_DataType)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:DataType
@@ -628,10 +696,8 @@
 - 2025-12-30&nbsp;&nbsp; [YOLO V3](aiwiki/0056_ML_Tasks_Image_Detection_YOLO_V3)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Detection :bookmark:YOLO :bookmark:V3
 - 2025-12-30&nbsp;&nbsp; [YOLO V2](aiwiki/0055_ML_Tasks_Image_Detection_YOLO_V2)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Detection :bookmark:YOLO :bookmark:V2
 - 2025-12-30&nbsp;&nbsp; [YOLO V1](aiwiki/0054_ML_Tasks_Image_Detection_YOLO_V1)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Detection :bookmark:YOLO :bookmark:V1
-- 2025-11-13&nbsp;&nbsp; [Center Distance](aiwiki/0525_ML_Metrics_Detection_CD)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:CD
-- 2025-11-13&nbsp;&nbsp; [Center Distance](aiwiki/0525_ML_Metrics_Detection_CD)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:CD
-- 2025-11-13&nbsp;&nbsp; [Boundary F1-Score](aiwiki/0526_ML_Metrics_Segmentation_BF1S)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:BF1S
-- 2025-11-13&nbsp;&nbsp; [Boundary F1-Score](aiwiki/0526_ML_Metrics_Segmentation_BF1S)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:BF1S
+- 2025-11-13&nbsp;&nbsp; [Center Distance 中心点距离](aiwiki/0525_ML_Metrics_Detection_CD)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:CD
+- 2025-11-13&nbsp;&nbsp; [Boundary F1-Score 分割边界 F1](aiwiki/0526_ML_Metrics_Segmentation_BF1S)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:BF1S
 - 2025-09-19&nbsp;&nbsp; [编译可执行文件](xwiki/0089_Programing_Python_BuildExe)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:BuildExe
 - 2025-08-22&nbsp;&nbsp; [AdaBLDM 环境设置](aiwiki/0524_paper_AdaBLDM_envs)&nbsp;&nbsp; :bookmark:paper :bookmark:AdaBLDM :bookmark:envs
 - 2025-08-08&nbsp;&nbsp; [AdaBLDM 环境设置](aiwiki/0524_paper_AdaBLDM_envs)&nbsp;&nbsp; :bookmark:paper :bookmark:AdaBLDM :bookmark:envs
@@ -843,7 +909,6 @@
 - 2024-06-11&nbsp;&nbsp; [Shell Comment](xwiki/0105_Programing_Shell_comment)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:comment
 - 2024-06-06&nbsp;&nbsp; [压缩解压](linux/0020_Tools_File_Archiver)&nbsp;&nbsp; :bookmark:Tools :bookmark:File :bookmark:Archiver
 - 2024-05-30&nbsp;&nbsp; [Shell for](xwiki/0101_Programing_Shell_for)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:for
-- 2024-05-21&nbsp;&nbsp; [Metrics for Classification](aiwiki/0137_ML_Metrics_Classification)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Classification
 - 2024-05-19&nbsp;&nbsp; [AnomalyCLIP](aiwiki/0466_paper_AnomalyCLIP)&nbsp;&nbsp; :bookmark:paper :bookmark:AnomalyCLIP
 - 2024-05-17&nbsp;&nbsp; [Python slice 切片 操作](xwiki/0086_Programing_Python_Slice)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Slice
 - 2024-05-15&nbsp;&nbsp; [比较 branch/commit](xwiki/0236_Tools_Github_Compare)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:Compare
@@ -1160,7 +1225,6 @@
 - 2023-06-16&nbsp;&nbsp; [Ubuntu](linux/0120_Ubuntu)&nbsp;&nbsp; :bookmark:Ubuntu
 - 2023-06-16&nbsp;&nbsp; [Tools](xwiki/0257_Tools)&nbsp;&nbsp; :bookmark:Tools
 - 2023-06-16&nbsp;&nbsp; [Point Cloud Library](aiwiki/0077_3D_Tools_PCL)&nbsp;&nbsp; :bookmark:3D :bookmark:Tools :bookmark:PCL
-- 2023-06-16&nbsp;&nbsp; [Metrics 评价指标](aiwiki/0138_ML_Metrics)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics
 - 2023-06-16&nbsp;&nbsp; [Media](aiwiki/0417_Media)&nbsp;&nbsp; :bookmark:Media
 - 2023-06-16&nbsp;&nbsp; [Media](aiwiki/0417_Media)&nbsp;&nbsp; :bookmark:Media
 - 2023-06-16&nbsp;&nbsp; [AI Tools](aiwiki/0415_Tools)&nbsp;&nbsp; :bookmark:Tools
@@ -1303,15 +1367,10 @@
 - 2023-02-21&nbsp;&nbsp; [Papers](aiwiki/0386_paper)&nbsp;&nbsp; :bookmark:paper
 - 2023-02-21&nbsp;&nbsp; [CSPNet](aiwiki/0385_paper_CSPNet)&nbsp;&nbsp; :bookmark:paper :bookmark:CSPNet
 - 2023-02-21&nbsp;&nbsp; [CSPNet](aiwiki/0385_paper_CSPNet)&nbsp;&nbsp; :bookmark:paper :bookmark:CSPNet
-- 2023-02-20&nbsp;&nbsp; [TPR & FPR](aiwiki/0381_ML_Metrics_Detection_TPRFPR)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:TPRFPR
-- 2023-02-20&nbsp;&nbsp; [Detection](aiwiki/0230_ML_Metrics_Detection)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection
-- 2023-02-20&nbsp;&nbsp; [AP & mAP & AR](aiwiki/0382_ML_Metrics_Detection_APmAPAR)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:APmAPAR
-- 2023-02-16&nbsp;&nbsp; [TPR & FPR](aiwiki/0381_ML_Metrics_Detection_TPRFPR)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:TPRFPR
-- 2023-02-16&nbsp;&nbsp; [IoU - Intersection Over Union](aiwiki/0383_ML_Metrics_Detection_IoU)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:IoU
-- 2023-02-16&nbsp;&nbsp; [IoU - Intersection Over Union](aiwiki/0383_ML_Metrics_Detection_IoU)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:IoU
-- 2023-02-16&nbsp;&nbsp; [COCO Detection Metrics](aiwiki/0384_ML_Metrics_Detection_COCO)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:COCO
-- 2023-02-16&nbsp;&nbsp; [COCO Detection Metrics](aiwiki/0384_ML_Metrics_Detection_COCO)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:COCO
-- 2023-02-16&nbsp;&nbsp; [AP & mAP & AR](aiwiki/0382_ML_Metrics_Detection_APmAPAR)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:APmAPAR
+- 2023-02-16&nbsp;&nbsp; [TPR & FPR 真正率与假正率](aiwiki/0381_ML_Metrics_Detection_TPRFPR)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:TPRFPR
+- 2023-02-16&nbsp;&nbsp; [Intersection over Union 交并比](aiwiki/0383_ML_Metrics_Detection_IoU)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:IoU
+- 2023-02-16&nbsp;&nbsp; [COCO Detection Metrics COCO 检测评估指标](aiwiki/0384_ML_Metrics_Detection_COCO)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:COCO
+- 2023-02-16&nbsp;&nbsp; [AP & mAP & AR 平均精度与召回](aiwiki/0382_ML_Metrics_Detection_APmAPAR)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:APmAPAR
 - 2023-02-15&nbsp;&nbsp; [资源参考](aiwiki/0380_Reference)&nbsp;&nbsp; :bookmark:Reference
 - 2023-02-15&nbsp;&nbsp; [YOLO 系列](aiwiki/0053_ML_Tasks_Image_Detection_YOLO)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Detection :bookmark:YOLO
 - 2023-02-14&nbsp;&nbsp; [YOLO V5](aiwiki/0379_ML_Tasks_Image_Detection_YOLO_V5)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Detection :bookmark:YOLO :bookmark:V5
@@ -1332,12 +1391,8 @@
 - 2023-02-03&nbsp;&nbsp; [AIGC](aiwiki/0374_Hot_AIGC)&nbsp;&nbsp; :bookmark:Hot :bookmark:AIGC
 - 2023-02-03&nbsp;&nbsp; [AI 热点](aiwiki/0375_Hot)&nbsp;&nbsp; :bookmark:Hot
 - 2023-02-02&nbsp;&nbsp; [学习率选择](aiwiki/0263_ML_Arch_LR_LRFinder)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:LR :bookmark:LRFinder
-- 2023-02-02&nbsp;&nbsp; [传统机器学习](aiwiki/0367_ML_OML)&nbsp;&nbsp; :bookmark:ML :bookmark:OML
-- 2023-02-02&nbsp;&nbsp; [传统机器学习](aiwiki/0367_ML_OML)&nbsp;&nbsp; :bookmark:ML :bookmark:OML
 - 2023-02-02&nbsp;&nbsp; [Training & Inference Tools History](aiwiki/0005_Tools_TIHistory)&nbsp;&nbsp; :bookmark:Tools :bookmark:TIHistory
-- 2023-02-02&nbsp;&nbsp; [SVM 支持向量机](aiwiki/0115_ML_OML_SVM)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:SVM
-- 2023-02-02&nbsp;&nbsp; [SVM 原理推导](aiwiki/0116_ML_OML_SVM_原理)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:SVM :bookmark:原理
-- 2023-02-02&nbsp;&nbsp; [Random Forest 随机森林](aiwiki/0114_ML_OML_RandomForest)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:RandomForest
+- 2023-02-02&nbsp;&nbsp; [Traditional Machine Learning 传统机器学习](aiwiki/0367_ML_OML)&nbsp;&nbsp; :bookmark:ML :bookmark:OML
 - 2023-02-02&nbsp;&nbsp; [PreProcessing](aiwiki/0369_ML_PreP)&nbsp;&nbsp; :bookmark:ML :bookmark:PreP
 - 2023-02-02&nbsp;&nbsp; [PreProcessing](aiwiki/0369_ML_PreP)&nbsp;&nbsp; :bookmark:ML :bookmark:PreP
 - 2023-02-02&nbsp;&nbsp; [PostProcessing](aiwiki/0370_ML_PostP)&nbsp;&nbsp; :bookmark:ML :bookmark:PostP
@@ -1346,12 +1401,10 @@
 - 2023-02-02&nbsp;&nbsp; [Learning Rate 学习率](aiwiki/0265_ML_Arch_LR)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:LR
 - 2023-02-02&nbsp;&nbsp; [Hyperparameter 超参数](aiwiki/0368_ML_Arch_HP)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:HP
 - 2023-02-02&nbsp;&nbsp; [GD 原理推导](aiwiki/0151_ML_Arch_GD_原理)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:GD :bookmark:原理
-- 2023-02-02&nbsp;&nbsp; [Decision Tree 决策树](aiwiki/0113_ML_OML_DecisionTree)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:DecisionTree
 - 2023-02-02&nbsp;&nbsp; [Data Normalization 数据标准化](aiwiki/0251_ML_PreP_DataNorm)&nbsp;&nbsp; :bookmark:ML :bookmark:PreP :bookmark:DataNorm
 - 2023-02-02&nbsp;&nbsp; [Data Augmentation 数据增强](aiwiki/0255_ML_PreP_DataAug)&nbsp;&nbsp; :bookmark:ML :bookmark:PreP :bookmark:DataAug
 - 2023-02-02&nbsp;&nbsp; [Cyclical Learning Rate 周期学习率](aiwiki/0266_ML_Arch_LR_CLR)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:LR :bookmark:CLR
 - 2023-02-02&nbsp;&nbsp; [Cutout](aiwiki/0257_ML_PreP_DataAug_Cutout)&nbsp;&nbsp; :bookmark:ML :bookmark:PreP :bookmark:DataAug :bookmark:Cutout
-- 2023-02-02&nbsp;&nbsp; [CrossValidation 交叉验证](aiwiki/0249_ML_Metrics_CrossValidation)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:CrossValidation
 - 2023-02-02&nbsp;&nbsp; [Copy-Pasting](aiwiki/0269_ML_PreP_DataAug_CP)&nbsp;&nbsp; :bookmark:ML :bookmark:PreP :bookmark:DataAug :bookmark:CP
 - 2023-02-02&nbsp;&nbsp; [BGD SGD MBGD](aiwiki/0148_ML_Arch_GD_xGD)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:GD :bookmark:xGD
 - 2023-02-02&nbsp;&nbsp; [AutoAugment](aiwiki/0256_ML_PreP_DataAug_AutoAugment)&nbsp;&nbsp; :bookmark:ML :bookmark:PreP :bookmark:DataAug :bookmark:AutoAugment
@@ -1514,8 +1567,7 @@
 - 2021-11-25&nbsp;&nbsp; [Options](aiwiki/0142_ML_AutoML_Tools_SIGOPT_Options)&nbsp;&nbsp; :bookmark:ML :bookmark:AutoML :bookmark:Tools :bookmark:SIGOPT :bookmark:Options
 - 2021-11-22&nbsp;&nbsp; [Tensorflow](aiwiki/0140_Tools_TF)&nbsp;&nbsp; :bookmark:Tools :bookmark:TF
 - 2021-11-22&nbsp;&nbsp; [Tensorflow](aiwiki/0140_Tools_TF)&nbsp;&nbsp; :bookmark:Tools :bookmark:TF
-- 2021-11-21&nbsp;&nbsp; [Pairwise](aiwiki/0139_ML_Metrics_Pairwise)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Pairwise
-- 2021-11-21&nbsp;&nbsp; [Pairwise](aiwiki/0139_ML_Metrics_Pairwise)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Pairwise
+- 2021-11-21&nbsp;&nbsp; [Pairwise Metrics 成对相似度与距离](aiwiki/0139_ML_Metrics_Pairwise)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Pairwise
 - 2021-11-21&nbsp;&nbsp; [Metrics 评价指标](aiwiki/0138_ML_Metrics)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics
 - 2021-11-21&nbsp;&nbsp; [Metrics for Classification](aiwiki/0137_ML_Metrics_Classification)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Classification
 - 2021-11-19&nbsp;&nbsp; [VisualStudio](xwiki/0144_Tools_VisualStudio)&nbsp;&nbsp; :bookmark:Tools :bookmark:VisualStudio
@@ -1866,7 +1918,7 @@
 - 2020-06-15&nbsp;&nbsp; [kill 停止进程](linux/0019_Tools_Process_kill)&nbsp;&nbsp; :bookmark:Tools :bookmark:Process :bookmark:kill
 - 2020-06-15&nbsp;&nbsp; [kill 停止进程](linux/0019_Tools_Process_kill)&nbsp;&nbsp; :bookmark:Tools :bookmark:Process :bookmark:kill
 - 2020-06-12&nbsp;&nbsp; [Early Stopping](aiwiki/0172_Tools_Pytorch_ES)&nbsp;&nbsp; :bookmark:Tools :bookmark:Pytorch :bookmark:ES
-- 2020-06-11&nbsp;&nbsp; [CrossValidation 交叉验证](aiwiki/0249_ML_Metrics_CrossValidation)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:CrossValidation
+- 2020-06-11&nbsp;&nbsp; [Cross Validation 交叉验证](aiwiki/0249_ML_Metrics_CrossValidation)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:CrossValidation
 - 2020-06-09&nbsp;&nbsp; [Voting](aiwiki/0202_ML_Tasks_Image_OCR_Calamari_Voting)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:OCR :bookmark:Calamari :bookmark:Voting
 - 2020-06-09&nbsp;&nbsp; [Voting](aiwiki/0202_ML_Tasks_Image_OCR_Calamari_Voting)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:OCR :bookmark:Calamari :bookmark:Voting
 - 2020-06-06&nbsp;&nbsp; [aria2](linux/0091_Ubuntu_Download_aria2)&nbsp;&nbsp; :bookmark:Ubuntu :bookmark:Download :bookmark:aria2
@@ -1951,8 +2003,7 @@
 - 2020-03-18&nbsp;&nbsp; [OpenCL Install](opt/0034_PARA_OpenCL_Install)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenCL :bookmark:Install
 - 2020-03-16&nbsp;&nbsp; [工具](xwiki/0090_Programing_Python_Tools)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools
 - 2020-03-08&nbsp;&nbsp; [ln 文件链接工具](linux/0033_Tools_File_ln)&nbsp;&nbsp; :bookmark:Tools :bookmark:File :bookmark:ln
-- 2020-03-03&nbsp;&nbsp; [Segmentation](aiwiki/0231_ML_Metrics_Segmentation)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation
-- 2020-03-03&nbsp;&nbsp; [Segmentation](aiwiki/0231_ML_Metrics_Segmentation)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation
+- 2020-03-03&nbsp;&nbsp; [Segmentation Metrics](aiwiki/0231_ML_Metrics_Segmentation)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation
 - 2020-03-03&nbsp;&nbsp; [CamVid](aiwiki/0088_Datasets_Image2D_Segmentation_CamVid)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Segmentation :bookmark:CamVid
 - 2020-03-01&nbsp;&nbsp; [Word Cloud  - 词云生成](xwiki/0233_X_WordCloud)&nbsp;&nbsp; :bookmark:X :bookmark:WordCloud
 - 2020-02-27&nbsp;&nbsp; [Contours 轮廓](aiwiki/0343_OpenCV_IP_shape_Contours)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IP :bookmark:shape :bookmark:Contours
@@ -1989,8 +2040,7 @@
 - 2019-12-11&nbsp;&nbsp; [FastRCNN](aiwiki/0058_ML_Tasks_Image_Detection_FastRCNN)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Detection :bookmark:FastRCNN
 - 2019-12-10&nbsp;&nbsp; [MetricLearning](aiwiki/0157_ML_Tasks_MetricLearning)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:MetricLearning
 - 2019-12-10&nbsp;&nbsp; [MetricLearning](aiwiki/0157_ML_Tasks_MetricLearning)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:MetricLearning
-- 2019-12-10&nbsp;&nbsp; [GIoU](aiwiki/0232_ML_Metrics_Detection_GIoU)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:GIoU
-- 2019-12-10&nbsp;&nbsp; [GIoU](aiwiki/0232_ML_Metrics_Detection_GIoU)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:GIoU
+- 2019-12-10&nbsp;&nbsp; [Generalized IoU 广义交并比](aiwiki/0232_ML_Metrics_Detection_GIoU)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:GIoU
 - 2019-12-09&nbsp;&nbsp; [Dice Loss](aiwiki/0283_ML_Arch_Func_LossFunction_DiceLoss)&nbsp;&nbsp; :bookmark:ML :bookmark:Arch :bookmark:Func :bookmark:LossFunction :bookmark:DiceLoss
 - 2019-12-09&nbsp;&nbsp; [Copy-Pasting](aiwiki/0269_ML_PreP_DataAug_CP)&nbsp;&nbsp; :bookmark:ML :bookmark:PreP :bookmark:DataAug :bookmark:CP
 - 2019-12-07&nbsp;&nbsp; [Arch](xwiki/0069_Tools_Jupyter_Arch)&nbsp;&nbsp; :bookmark:Tools :bookmark:Jupyter :bookmark:Arch
@@ -2215,7 +2265,7 @@
 - 2019-01-18&nbsp;&nbsp; [VIA VGG Image Annotator](aiwiki/0075_Tools_Label_VGG)&nbsp;&nbsp; :bookmark:Tools :bookmark:Label :bookmark:VGG
 - 2019-01-18&nbsp;&nbsp; [MNIST](aiwiki/0030_Datasets_Image2D_Classification_mnist)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Classification :bookmark:mnist
 - 2019-01-17&nbsp;&nbsp; [ImageNet](aiwiki/0031_Datasets_Image2D_Classification_ImageNet)&nbsp;&nbsp; :bookmark:Datasets :bookmark:Image2D :bookmark:Classification :bookmark:ImageNet
-- 2019-01-16&nbsp;&nbsp; [Detection](aiwiki/0230_ML_Metrics_Detection)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection
+- 2019-01-16&nbsp;&nbsp; [Detection Metrics](aiwiki/0230_ML_Metrics_Detection)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection
 - 2019-01-15&nbsp;&nbsp; [history 命令行历史管理](linux/0049_Tools_history)&nbsp;&nbsp; :bookmark:Tools :bookmark:history
 - 2019-01-14&nbsp;&nbsp; [VNC Tools](linux/0103_Tools_Remote_vncserver)&nbsp;&nbsp; :bookmark:Tools :bookmark:Remote :bookmark:vncserver
 - 2018-12-26&nbsp;&nbsp; [UNet](aiwiki/0161_ML_Tasks_Image_Segmentation_UNet)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Segmentation :bookmark:UNet
@@ -2354,4 +2404,4 @@
 
 
 
-> `@2026.11.23 16:44:49`
+> `@2026.11.24 13:46:51`
