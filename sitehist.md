@@ -8,33 +8,58 @@
 <!-- tabs:end -->
 - 2026-11-24&nbsp;&nbsp; [t-SNE 非线性降维](aiwiki/0732_ML_OML_tSNE)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:tSNE
 - 2026-11-24&nbsp;&nbsp; [t-SNE 非线性降维](aiwiki/0732_ML_OML_tSNE)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:tSNE
+- 2026-11-24&nbsp;&nbsp; [anomalib](aiwiki/0321_Tools_anomalib)&nbsp;&nbsp; :bookmark:Tools :bookmark:anomalib
 - 2026-11-24&nbsp;&nbsp; [XGBoost 极端梯度提升](aiwiki/0728_ML_OML_Ensemble_XGBoost)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:Ensemble :bookmark:XGBoost
 - 2026-11-24&nbsp;&nbsp; [XGBoost 极端梯度提升](aiwiki/0728_ML_OML_Ensemble_XGBoost)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:Ensemble :bookmark:XGBoost
+- 2026-11-24&nbsp;&nbsp; [WinCLIP 零样本异常检测](aiwiki/0468_paper_WinCLIP)&nbsp;&nbsp; :bookmark:paper :bookmark:WinCLIP
+- 2026-11-24&nbsp;&nbsp; [VLMAD 视觉语言模型异常检测](aiwiki/0763_paper_VLMAD)&nbsp;&nbsp; :bookmark:paper :bookmark:VLMAD
+- 2026-11-24&nbsp;&nbsp; [VLMAD 视觉语言模型异常检测](aiwiki/0763_paper_VLMAD)&nbsp;&nbsp; :bookmark:paper :bookmark:VLMAD
+- 2026-11-24&nbsp;&nbsp; [UniNet 统一对比学习框架](aiwiki/0751_paper_UniNet)&nbsp;&nbsp; :bookmark:paper :bookmark:UniNet
+- 2026-11-24&nbsp;&nbsp; [UniNet 统一对比学习框架](aiwiki/0751_paper_UniNet)&nbsp;&nbsp; :bookmark:paper :bookmark:UniNet
+- 2026-11-24&nbsp;&nbsp; [UFlow U 形流与无监督阈值](aiwiki/0738_paper_UFlow)&nbsp;&nbsp; :bookmark:paper :bookmark:UFlow
+- 2026-11-24&nbsp;&nbsp; [UFlow U 形流与无监督阈值](aiwiki/0738_paper_UFlow)&nbsp;&nbsp; :bookmark:paper :bookmark:UFlow
 - 2026-11-24&nbsp;&nbsp; [Traditional Machine Learning 传统机器学习](aiwiki/0367_ML_OML)&nbsp;&nbsp; :bookmark:ML :bookmark:OML
 - 2026-11-24&nbsp;&nbsp; [TPR & FPR 真正率与假正率](aiwiki/0381_ML_Metrics_Detection_TPRFPR)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:TPRFPR
+- 2026-11-24&nbsp;&nbsp; [SuperSimpleNet 统一监督与无监督的缺陷检测](aiwiki/0747_paper_SuperSimpleNet)&nbsp;&nbsp; :bookmark:paper :bookmark:SuperSimpleNet
+- 2026-11-24&nbsp;&nbsp; [SuperSimpleNet 统一监督与无监督的缺陷检测](aiwiki/0747_paper_SuperSimpleNet)&nbsp;&nbsp; :bookmark:paper :bookmark:SuperSimpleNet
+- 2026-11-24&nbsp;&nbsp; [SuperADD 免训练的类别无关异常分割](aiwiki/0758_paper_SuperADD)&nbsp;&nbsp; :bookmark:paper :bookmark:SuperADD
+- 2026-11-24&nbsp;&nbsp; [SuperADD 免训练的类别无关异常分割](aiwiki/0758_paper_SuperADD)&nbsp;&nbsp; :bookmark:paper :bookmark:SuperADD
 - 2026-11-24&nbsp;&nbsp; [Statistical Significance 统计显著性](aiwiki/0720_ML_Metrics_Statistics)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Statistics
 - 2026-11-24&nbsp;&nbsp; [Statistical Significance 统计显著性](aiwiki/0720_ML_Metrics_Statistics)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Statistics
 - 2026-11-24&nbsp;&nbsp; [Segmentation Metrics](aiwiki/0231_ML_Metrics_Segmentation)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation
 - 2026-11-24&nbsp;&nbsp; [SVM 支持向量机](aiwiki/0115_ML_OML_SVM)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:SVM
 - 2026-11-24&nbsp;&nbsp; [SVM 原理推导](aiwiki/0116_ML_OML_SVM_原理)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:SVM :bookmark:原理
+- 2026-11-24&nbsp;&nbsp; [STFPM 师生特征金字塔匹配](aiwiki/0324_paper_STFPM)&nbsp;&nbsp; :bookmark:paper :bookmark:STFPM
+- 2026-11-24&nbsp;&nbsp; [ReverseDistillation 反向蒸馏](aiwiki/0749_paper_ReverseDistillation)&nbsp;&nbsp; :bookmark:paper :bookmark:ReverseDistillation
+- 2026-11-24&nbsp;&nbsp; [ReverseDistillation 反向蒸馏](aiwiki/0749_paper_ReverseDistillation)&nbsp;&nbsp; :bookmark:paper :bookmark:ReverseDistillation
 - 2026-11-24&nbsp;&nbsp; [Retrieval Metrics 检索指标](aiwiki/0712_ML_Metrics_Retrieval)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Retrieval
 - 2026-11-24&nbsp;&nbsp; [Retrieval Metrics 检索指标](aiwiki/0712_ML_Metrics_Retrieval)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Retrieval
 - 2026-11-24&nbsp;&nbsp; [Regression Metrics 回归指标](aiwiki/0710_ML_Metrics_Regression)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Regression
 - 2026-11-24&nbsp;&nbsp; [Regression Metrics 回归指标](aiwiki/0710_ML_Metrics_Regression)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Regression
 - 2026-11-24&nbsp;&nbsp; [Random Forest 随机森林](aiwiki/0114_ML_OML_RandomForest)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:RandomForest
+- 2026-11-24&nbsp;&nbsp; [RAD 检索式异常检测](aiwiki/0757_paper_RAD)&nbsp;&nbsp; :bookmark:paper :bookmark:RAD
+- 2026-11-24&nbsp;&nbsp; [RAD 检索式异常检测](aiwiki/0757_paper_RAD)&nbsp;&nbsp; :bookmark:paper :bookmark:RAD
+- 2026-11-24&nbsp;&nbsp; [PatchFlow 基于补丁特征的归一化流](aiwiki/0739_paper_PatchFlow)&nbsp;&nbsp; :bookmark:paper :bookmark:PatchFlow
+- 2026-11-24&nbsp;&nbsp; [PatchFlow 基于补丁特征的归一化流](aiwiki/0739_paper_PatchFlow)&nbsp;&nbsp; :bookmark:paper :bookmark:PatchFlow
+- 2026-11-24&nbsp;&nbsp; [PatchCore 记忆库补丁检索](aiwiki/0535_paper_PatchCore)&nbsp;&nbsp; :bookmark:paper :bookmark:PatchCore
 - 2026-11-24&nbsp;&nbsp; [Panoptic Quality 全景分割质量](aiwiki/0713_ML_Metrics_Segmentation_PQ)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:PQ
 - 2026-11-24&nbsp;&nbsp; [Panoptic Quality 全景分割质量](aiwiki/0713_ML_Metrics_Segmentation_PQ)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:PQ
 - 2026-11-24&nbsp;&nbsp; [Pairwise Metrics 成对相似度与距离](aiwiki/0139_ML_Metrics_Pairwise)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Pairwise
+- 2026-11-24&nbsp;&nbsp; [PaDiM 补丁分布建模](aiwiki/0322_paper_PaDiM)&nbsp;&nbsp; :bookmark:paper :bookmark:PaDiM
 - 2026-11-24&nbsp;&nbsp; [PCA 主成分分析](aiwiki/0731_ML_OML_PCA)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:PCA
 - 2026-11-24&nbsp;&nbsp; [PCA 主成分分析](aiwiki/0731_ML_OML_PCA)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:PCA
 - 2026-11-24&nbsp;&nbsp; [Naive Bayes 朴素贝叶斯](aiwiki/0725_ML_OML_NaiveBayes)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:NaiveBayes
 - 2026-11-24&nbsp;&nbsp; [Naive Bayes 朴素贝叶斯](aiwiki/0725_ML_OML_NaiveBayes)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:NaiveBayes
 - 2026-11-24&nbsp;&nbsp; [Metrics 评价指标](aiwiki/0138_ML_Metrics)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics
 - 2026-11-24&nbsp;&nbsp; [Metrics for Classification](aiwiki/0137_ML_Metrics_Classification)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Classification
+- 2026-11-24&nbsp;&nbsp; [MHPatchCore 马氏距离 PatchCore](aiwiki/0759_paper_MHPatchCore)&nbsp;&nbsp; :bookmark:paper :bookmark:MHPatchCore
+- 2026-11-24&nbsp;&nbsp; [MHPatchCore 马氏距离 PatchCore](aiwiki/0759_paper_MHPatchCore)&nbsp;&nbsp; :bookmark:paper :bookmark:MHPatchCore
 - 2026-11-24&nbsp;&nbsp; [Logistic Regression 逻辑回归](aiwiki/0723_ML_OML_LogisticRegression)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:LogisticRegression
 - 2026-11-24&nbsp;&nbsp; [Logistic Regression 逻辑回归](aiwiki/0723_ML_OML_LogisticRegression)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:LogisticRegression
 - 2026-11-24&nbsp;&nbsp; [Linear Regression 线性回归](aiwiki/0722_ML_OML_LinearRegression)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:LinearRegression
 - 2026-11-24&nbsp;&nbsp; [Linear Regression 线性回归](aiwiki/0722_ML_OML_LinearRegression)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:LinearRegression
+- 2026-11-24&nbsp;&nbsp; [L2BT 学着做一个 Transformer](aiwiki/0752_paper_L2BT)&nbsp;&nbsp; :bookmark:paper :bookmark:L2BT
+- 2026-11-24&nbsp;&nbsp; [L2BT 学着做一个 Transformer](aiwiki/0752_paper_L2BT)&nbsp;&nbsp; :bookmark:paper :bookmark:L2BT
 - 2026-11-24&nbsp;&nbsp; [Keypoint Metrics 关键点指标](aiwiki/0717_ML_Metrics_Keypoint)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Keypoint
 - 2026-11-24&nbsp;&nbsp; [Keypoint Metrics 关键点指标](aiwiki/0717_ML_Metrics_Keypoint)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Keypoint
 - 2026-11-24&nbsp;&nbsp; [KNN K 近邻](aiwiki/0724_ML_OML_KNN)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:KNN
@@ -50,30 +75,72 @@
 - 2026-11-24&nbsp;&nbsp; [Image Generation Metrics 图像生成与重建指标](aiwiki/0718_ML_Metrics_Generation)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Generation
 - 2026-11-24&nbsp;&nbsp; [IS-Net：高精度二分图像分割（DIS）](aiwiki/0734_paper_ISNet)&nbsp;&nbsp; :bookmark:paper :bookmark:ISNet
 - 2026-11-24&nbsp;&nbsp; [IS-Net：高精度二分图像分割（DIS）](aiwiki/0734_paper_ISNet)&nbsp;&nbsp; :bookmark:paper :bookmark:ISNet
+- 2026-11-24&nbsp;&nbsp; [INPFormer 单图内固有正常原型](aiwiki/0754_paper_INPFormer)&nbsp;&nbsp; :bookmark:paper :bookmark:INPFormer
+- 2026-11-24&nbsp;&nbsp; [INPFormer 单图内固有正常原型](aiwiki/0754_paper_INPFormer)&nbsp;&nbsp; :bookmark:paper :bookmark:INPFormer
 - 2026-11-24&nbsp;&nbsp; [Hausdorff Distance 豪斯多夫距离](aiwiki/0715_ML_Metrics_Segmentation_Hausdorff)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:Hausdorff
 - 2026-11-24&nbsp;&nbsp; [Hausdorff Distance 豪斯多夫距离](aiwiki/0715_ML_Metrics_Segmentation_Hausdorff)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:Hausdorff
 - 2026-11-24&nbsp;&nbsp; [Generalized IoU 广义交并比](aiwiki/0232_ML_Metrics_Detection_GIoU)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:GIoU
+- 2026-11-24&nbsp;&nbsp; [GeneralAD 跨领域的异常检测](aiwiki/0755_paper_GeneralAD)&nbsp;&nbsp; :bookmark:paper :bookmark:GeneralAD
+- 2026-11-24&nbsp;&nbsp; [GeneralAD 跨领域的异常检测](aiwiki/0755_paper_GeneralAD)&nbsp;&nbsp; :bookmark:paper :bookmark:GeneralAD
+- 2026-11-24&nbsp;&nbsp; [GLASS 梯度上升异常合成](aiwiki/0746_paper_GLASS)&nbsp;&nbsp; :bookmark:paper :bookmark:GLASS
+- 2026-11-24&nbsp;&nbsp; [GLASS 梯度上升异常合成](aiwiki/0746_paper_GLASS)&nbsp;&nbsp; :bookmark:paper :bookmark:GLASS
 - 2026-11-24&nbsp;&nbsp; [GBDT 梯度提升决策树](aiwiki/0727_ML_OML_Ensemble_GBDT)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:Ensemble :bookmark:GBDT
 - 2026-11-24&nbsp;&nbsp; [GBDT 梯度提升决策树](aiwiki/0727_ML_OML_Ensemble_GBDT)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:Ensemble :bookmark:GBDT
+- 2026-11-24&nbsp;&nbsp; [GANomaly 对抗训练的异常检测](aiwiki/0743_paper_GANomaly)&nbsp;&nbsp; :bookmark:paper :bookmark:GANomaly
+- 2026-11-24&nbsp;&nbsp; [GANomaly 对抗训练的异常检测](aiwiki/0743_paper_GANomaly)&nbsp;&nbsp; :bookmark:paper :bookmark:GANomaly
+- 2026-11-24&nbsp;&nbsp; [FoundAD 基础视觉编码器即少样本异常检测器](aiwiki/0760_paper_FoundAD)&nbsp;&nbsp; :bookmark:paper :bookmark:FoundAD
+- 2026-11-24&nbsp;&nbsp; [FoundAD 基础视觉编码器即少样本异常检测器](aiwiki/0760_paper_FoundAD)&nbsp;&nbsp; :bookmark:paper :bookmark:FoundAD
+- 2026-11-24&nbsp;&nbsp; [FastFlow 二维归一化流异常检测](aiwiki/0736_paper_FastFlow)&nbsp;&nbsp; :bookmark:paper :bookmark:FastFlow
+- 2026-11-24&nbsp;&nbsp; [FastFlow 二维归一化流异常检测](aiwiki/0736_paper_FastFlow)&nbsp;&nbsp; :bookmark:paper :bookmark:FastFlow
+- 2026-11-24&nbsp;&nbsp; [FUVAS 少样本无监督视频异常分割](aiwiki/0765_paper_FUVAS)&nbsp;&nbsp; :bookmark:paper :bookmark:FUVAS
+- 2026-11-24&nbsp;&nbsp; [FUVAS 少样本无监督视频异常分割](aiwiki/0765_paper_FUVAS)&nbsp;&nbsp; :bookmark:paper :bookmark:FUVAS
+- 2026-11-24&nbsp;&nbsp; [FRE 特征重构误差](aiwiki/0742_paper_FRE)&nbsp;&nbsp; :bookmark:paper :bookmark:FRE
+- 2026-11-24&nbsp;&nbsp; [FRE 特征重构误差](aiwiki/0742_paper_FRE)&nbsp;&nbsp; :bookmark:paper :bookmark:FRE
 - 2026-11-24&nbsp;&nbsp; [Ensemble Learning 集成学习](aiwiki/0726_ML_OML_Ensemble)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:Ensemble
 - 2026-11-24&nbsp;&nbsp; [Ensemble Learning 集成学习](aiwiki/0726_ML_OML_Ensemble)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:Ensemble
+- 2026-11-24&nbsp;&nbsp; [EfficientAD 毫秒级异常检测](aiwiki/0748_paper_EfficientAD)&nbsp;&nbsp; :bookmark:paper :bookmark:EfficientAD
+- 2026-11-24&nbsp;&nbsp; [EfficientAD 毫秒级异常检测](aiwiki/0748_paper_EfficientAD)&nbsp;&nbsp; :bookmark:paper :bookmark:EfficientAD
 - 2026-11-24&nbsp;&nbsp; [Efficiency Metrics 模型效率指标](aiwiki/0721_ML_Metrics_Efficiency)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Efficiency
 - 2026-11-24&nbsp;&nbsp; [Efficiency Metrics 模型效率指标](aiwiki/0721_ML_Metrics_Efficiency)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Efficiency
+- 2026-11-24&nbsp;&nbsp; [Dinomaly 基于 ViT 的特征重构](aiwiki/0753_paper_Dinomaly)&nbsp;&nbsp; :bookmark:paper :bookmark:Dinomaly
+- 2026-11-24&nbsp;&nbsp; [Dinomaly 基于 ViT 的特征重构](aiwiki/0753_paper_Dinomaly)&nbsp;&nbsp; :bookmark:paper :bookmark:Dinomaly
 - 2026-11-24&nbsp;&nbsp; [Dice Coefficient 骰子系数](aiwiki/0714_ML_Metrics_Segmentation_Dice)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:Dice
 - 2026-11-24&nbsp;&nbsp; [Dice Coefficient 骰子系数](aiwiki/0714_ML_Metrics_Segmentation_Dice)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:Dice
 - 2026-11-24&nbsp;&nbsp; [Detection Metrics](aiwiki/0230_ML_Metrics_Detection)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection
 - 2026-11-24&nbsp;&nbsp; [Decision Tree 决策树](aiwiki/0113_ML_OML_DecisionTree)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:DecisionTree
+- 2026-11-24&nbsp;&nbsp; [DSR 双子空间重投影](aiwiki/0745_paper_DSR)&nbsp;&nbsp; :bookmark:paper :bookmark:DSR
+- 2026-11-24&nbsp;&nbsp; [DSR 双子空间重投影](aiwiki/0745_paper_DSR)&nbsp;&nbsp; :bookmark:paper :bookmark:DSR
+- 2026-11-24&nbsp;&nbsp; [DRAEM 判别式重构嵌入](aiwiki/0744_paper_DRAEM)&nbsp;&nbsp; :bookmark:paper :bookmark:DRAEM
+- 2026-11-24&nbsp;&nbsp; [DRAEM 判别式重构嵌入](aiwiki/0744_paper_DRAEM)&nbsp;&nbsp; :bookmark:paper :bookmark:DRAEM
+- 2026-11-24&nbsp;&nbsp; [DFM 深度特征建模](aiwiki/0740_paper_DFM)&nbsp;&nbsp; :bookmark:paper :bookmark:DFM
+- 2026-11-24&nbsp;&nbsp; [DFM 深度特征建模](aiwiki/0740_paper_DFM)&nbsp;&nbsp; :bookmark:paper :bookmark:DFM
+- 2026-11-24&nbsp;&nbsp; [DFKDE 深度特征核密度估计](aiwiki/0741_paper_DFKDE)&nbsp;&nbsp; :bookmark:paper :bookmark:DFKDE
+- 2026-11-24&nbsp;&nbsp; [DFKDE 深度特征核密度估计](aiwiki/0741_paper_DFKDE)&nbsp;&nbsp; :bookmark:paper :bookmark:DFKDE
 - 2026-11-24&nbsp;&nbsp; [DBSCAN 密度聚类](aiwiki/0730_ML_OML_DBSCAN)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:DBSCAN
 - 2026-11-24&nbsp;&nbsp; [DBSCAN 密度聚类](aiwiki/0730_ML_OML_DBSCAN)&nbsp;&nbsp; :bookmark:ML :bookmark:OML :bookmark:DBSCAN
 - 2026-11-24&nbsp;&nbsp; [Cross Validation 交叉验证](aiwiki/0249_ML_Metrics_CrossValidation)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:CrossValidation
 - 2026-11-24&nbsp;&nbsp; [Clustering Metrics 聚类指标](aiwiki/0719_ML_Metrics_Clustering)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Clustering
 - 2026-11-24&nbsp;&nbsp; [Clustering Metrics 聚类指标](aiwiki/0719_ML_Metrics_Clustering)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Clustering
 - 2026-11-24&nbsp;&nbsp; [Center Distance 中心点距离](aiwiki/0525_ML_Metrics_Detection_CD)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:CD
+- 2026-11-24&nbsp;&nbsp; [CSFlow 跨尺度流异常检测](aiwiki/0737_paper_CSFlow)&nbsp;&nbsp; :bookmark:paper :bookmark:CSFlow
+- 2026-11-24&nbsp;&nbsp; [CSFlow 跨尺度流异常检测](aiwiki/0737_paper_CSFlow)&nbsp;&nbsp; :bookmark:paper :bookmark:CSFlow
 - 2026-11-24&nbsp;&nbsp; [COCO Detection Metrics COCO 检测评估指标](aiwiki/0384_ML_Metrics_Detection_COCO)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:COCO
+- 2026-11-24&nbsp;&nbsp; [CFlow 条件归一化流异常检测](aiwiki/0735_paper_CFlow)&nbsp;&nbsp; :bookmark:paper :bookmark:CFlow
+- 2026-11-24&nbsp;&nbsp; [CFlow 条件归一化流异常检测](aiwiki/0735_paper_CFlow)&nbsp;&nbsp; :bookmark:paper :bookmark:CFlow
+- 2026-11-24&nbsp;&nbsp; [CFM 跨模态特征映射](aiwiki/0762_paper_CFM)&nbsp;&nbsp; :bookmark:paper :bookmark:CFM
+- 2026-11-24&nbsp;&nbsp; [CFM 跨模态特征映射](aiwiki/0762_paper_CFM)&nbsp;&nbsp; :bookmark:paper :bookmark:CFM
+- 2026-11-24&nbsp;&nbsp; [CFA 耦合超球面特征适配](aiwiki/0750_paper_CFA)&nbsp;&nbsp; :bookmark:paper :bookmark:CFA
+- 2026-11-24&nbsp;&nbsp; [CFA 耦合超球面特征适配](aiwiki/0750_paper_CFA)&nbsp;&nbsp; :bookmark:paper :bookmark:CFA
 - 2026-11-24&nbsp;&nbsp; [Boundary F1-Score 分割边界 F1](aiwiki/0526_ML_Metrics_Segmentation_BF1S)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Segmentation :bookmark:BF1S
+- 2026-11-24&nbsp;&nbsp; [AnomalyVFM 把视觉基础模型变成零样本异常检测器](aiwiki/0761_paper_AnomalyVFM)&nbsp;&nbsp; :bookmark:paper :bookmark:AnomalyVFM
+- 2026-11-24&nbsp;&nbsp; [AnomalyVFM 把视觉基础模型变成零样本异常检测器](aiwiki/0761_paper_AnomalyVFM)&nbsp;&nbsp; :bookmark:paper :bookmark:AnomalyVFM
+- 2026-11-24&nbsp;&nbsp; [AnomalyDINO 基于 DINOv2 的少样本异常检测](aiwiki/0756_paper_AnomalyDINO)&nbsp;&nbsp; :bookmark:paper :bookmark:AnomalyDINO
+- 2026-11-24&nbsp;&nbsp; [AnomalyDINO 基于 DINOv2 的少样本异常检测](aiwiki/0756_paper_AnomalyDINO)&nbsp;&nbsp; :bookmark:paper :bookmark:AnomalyDINO
 - 2026-11-24&nbsp;&nbsp; [Anomaly Detection Metrics 异常检测指标](aiwiki/0711_ML_Metrics_Anomaly)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Anomaly
 - 2026-11-24&nbsp;&nbsp; [Anomaly Detection Metrics 异常检测指标](aiwiki/0711_ML_Metrics_Anomaly)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Anomaly
 - 2026-11-24&nbsp;&nbsp; [AP & mAP & AR 平均精度与召回](aiwiki/0382_ML_Metrics_Detection_APmAPAR)&nbsp;&nbsp; :bookmark:ML :bookmark:Metrics :bookmark:Detection :bookmark:APmAPAR
+- 2026-11-24&nbsp;&nbsp; [AIVAD 基于属性表示的视频异常检测](aiwiki/0764_paper_AIVAD)&nbsp;&nbsp; :bookmark:paper :bookmark:AIVAD
+- 2026-11-24&nbsp;&nbsp; [AIVAD 基于属性表示的视频异常检测](aiwiki/0764_paper_AIVAD)&nbsp;&nbsp; :bookmark:paper :bookmark:AIVAD
 - 2026-11-23&nbsp;&nbsp; [量化校准（Calibration）](aiwiki/0701_MO_Quantization_Calibration)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:Calibration
 - 2026-11-23&nbsp;&nbsp; [量化校准（Calibration）](aiwiki/0701_MO_Quantization_Calibration)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:Calibration
 - 2026-11-23&nbsp;&nbsp; [量化数据类型（FP8/MX/NF4）](aiwiki/0700_MO_Quantization_DataType)&nbsp;&nbsp; :bookmark:MO :bookmark:Quantization :bookmark:DataType
@@ -656,15 +723,13 @@
 - 2026-04-24&nbsp;&nbsp; [SpecularityNet-PSD](aiwiki/0538_paper_SpecularityNet)&nbsp;&nbsp; :bookmark:paper :bookmark:SpecularityNet
 - 2026-04-10&nbsp;&nbsp; [参考资源](xwiki/0247_Reference)&nbsp;&nbsp; :bookmark:Reference
 - 2026-03-31&nbsp;&nbsp; [增量学习/持续学习](aiwiki/0536_ML_IL)&nbsp;&nbsp; :bookmark:ML :bookmark:IL
-- 2026-03-27&nbsp;&nbsp; [anomalib](aiwiki/0321_Tools_anomalib)&nbsp;&nbsp; :bookmark:Tools :bookmark:anomalib
 - 2026-03-27&nbsp;&nbsp; [PatchCore 持续学习](aiwiki/0537_ML_IL_PatchCore)&nbsp;&nbsp; :bookmark:ML :bookmark:IL :bookmark:PatchCore
 - 2026-03-27&nbsp;&nbsp; [PatchCore 持续学习](aiwiki/0537_ML_IL_PatchCore)&nbsp;&nbsp; :bookmark:ML :bookmark:IL :bookmark:PatchCore
 - 2026-03-26&nbsp;&nbsp; [pdb/ipdb](xwiki/0303_Programing_Python_Tools_pdb)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:pdb
 - 2026-03-26&nbsp;&nbsp; [Python Debug](xwiki/0321_Programing_Python_Debug)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Debug
 - 2026-03-26&nbsp;&nbsp; [Python Debug](xwiki/0321_Programing_Python_Debug)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Debug
 - 2026-03-24&nbsp;&nbsp; [uv Internals](xwiki/0320_Programing_Python_Tools_uv_Internals)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Tools :bookmark:uv :bookmark:Internals
-- 2026-03-24&nbsp;&nbsp; [PatchCore](aiwiki/0535_paper_PatchCore)&nbsp;&nbsp; :bookmark:paper :bookmark:PatchCore
-- 2026-03-24&nbsp;&nbsp; [PatchCore](aiwiki/0535_paper_PatchCore)&nbsp;&nbsp; :bookmark:paper :bookmark:PatchCore
+- 2026-03-24&nbsp;&nbsp; [PatchCore 记忆库补丁检索](aiwiki/0535_paper_PatchCore)&nbsp;&nbsp; :bookmark:paper :bookmark:PatchCore
 - 2026-03-20&nbsp;&nbsp; [OpenVINO Ops Impl](aiwiki/0533_Tools_OV_OPs_Impl)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:Impl
 - 2026-03-20&nbsp;&nbsp; [OpenVINO Ops Impl](aiwiki/0533_Tools_OV_OPs_Impl)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:Impl
 - 2026-03-20&nbsp;&nbsp; [OPs CPU Impl](aiwiki/0534_Tools_OV_OPs_CPUImpl)&nbsp;&nbsp; :bookmark:Tools :bookmark:OV :bookmark:OPs :bookmark:CPUImpl
@@ -725,8 +790,6 @@
 - 2025-05-29&nbsp;&nbsp; [Resizable BAR](xwiki/0313_Hardware_GPU_iGPU_ResizableBAR)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:iGPU :bookmark:ResizableBAR
 - 2025-05-29&nbsp;&nbsp; [Resizable BAR](xwiki/0313_Hardware_GPU_iGPU_ResizableBAR)&nbsp;&nbsp; :bookmark:Hardware :bookmark:GPU :bookmark:iGPU :bookmark:ResizableBAR
 - 2025-05-29&nbsp;&nbsp; [Kernel 升级管理](linux/0073_Tools_OS_KernelUpgrade)&nbsp;&nbsp; :bookmark:Tools :bookmark:OS :bookmark:KernelUpgrade
-- 2025-05-27&nbsp;&nbsp; [STFPM](aiwiki/0324_paper_STFPM)&nbsp;&nbsp; :bookmark:paper :bookmark:STFPM
-- 2025-05-27&nbsp;&nbsp; [PaDiM](aiwiki/0322_paper_PaDiM)&nbsp;&nbsp; :bookmark:paper :bookmark:PaDiM
 - 2025-05-22&nbsp;&nbsp; [time](xwiki/0096_Programing_Python_time)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:time
 - 2025-05-21&nbsp;&nbsp; [batch for 循环](xwiki/0229_Windows_batch_for)&nbsp;&nbsp; :bookmark:Windows :bookmark:batch :bookmark:for
 - 2025-05-21&nbsp;&nbsp; [Windows Batch 批处理](xwiki/0230_Windows_batch)&nbsp;&nbsp; :bookmark:Windows :bookmark:batch
@@ -891,11 +954,10 @@
 - 2024-06-18&nbsp;&nbsp; [SAA+](aiwiki/0469_paper_SAAplus)&nbsp;&nbsp; :bookmark:paper :bookmark:SAAplus
 - 2024-06-18&nbsp;&nbsp; [SAA+](aiwiki/0469_paper_SAAplus)&nbsp;&nbsp; :bookmark:paper :bookmark:SAAplus
 - 2024-06-18&nbsp;&nbsp; [CLIP](aiwiki/0448_paper_CLIP)&nbsp;&nbsp; :bookmark:paper :bookmark:CLIP
-- 2024-06-14&nbsp;&nbsp; [WinCLIP](aiwiki/0468_paper_WinCLIP)&nbsp;&nbsp; :bookmark:paper :bookmark:WinCLIP
 - 2024-06-13&nbsp;&nbsp; [版本号定义](xwiki/0146_X_Version)&nbsp;&nbsp; :bookmark:X :bookmark:Version
 - 2024-06-13&nbsp;&nbsp; [`@property` decorator](xwiki/0306_Programing_Python_Decorator_property)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Decorator :bookmark:property
 - 2024-06-13&nbsp;&nbsp; [`@property` decorator](xwiki/0306_Programing_Python_Decorator_property)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Decorator :bookmark:property
-- 2024-06-13&nbsp;&nbsp; [WinCLIP](aiwiki/0468_paper_WinCLIP)&nbsp;&nbsp; :bookmark:paper :bookmark:WinCLIP
+- 2024-06-13&nbsp;&nbsp; [WinCLIP 零样本异常检测](aiwiki/0468_paper_WinCLIP)&nbsp;&nbsp; :bookmark:paper :bookmark:WinCLIP
 - 2024-06-13&nbsp;&nbsp; [Decorator 装饰器](xwiki/0088_Programing_Python_Decorator)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Decorator
 - 2024-06-12&nbsp;&nbsp; [awk](linux/0052_Tools_Text_awk)&nbsp;&nbsp; :bookmark:Tools :bookmark:Text :bookmark:awk
 - 2024-06-11&nbsp;&nbsp; [错误检查](xwiki/0107_Programing_Shell_ErrorCheck)&nbsp;&nbsp; :bookmark:Programing :bookmark:Shell :bookmark:ErrorCheck
@@ -1460,8 +1522,8 @@
 - 2022-12-13&nbsp;&nbsp; [Numpy](aiwiki/0328_Tools_Numpy)&nbsp;&nbsp; :bookmark:Tools :bookmark:Numpy
 - 2022-12-12&nbsp;&nbsp; [图像](aiwiki/0325_Media_Image)&nbsp;&nbsp; :bookmark:Media :bookmark:Image
 - 2022-12-12&nbsp;&nbsp; [图像](aiwiki/0325_Media_Image)&nbsp;&nbsp; :bookmark:Media :bookmark:Image
-- 2022-12-09&nbsp;&nbsp; [STFPM](aiwiki/0324_paper_STFPM)&nbsp;&nbsp; :bookmark:paper :bookmark:STFPM
-- 2022-12-05&nbsp;&nbsp; [PaDiM](aiwiki/0322_paper_PaDiM)&nbsp;&nbsp; :bookmark:paper :bookmark:PaDiM
+- 2022-12-09&nbsp;&nbsp; [STFPM 师生特征金字塔匹配](aiwiki/0324_paper_STFPM)&nbsp;&nbsp; :bookmark:paper :bookmark:STFPM
+- 2022-12-05&nbsp;&nbsp; [PaDiM 补丁分布建模](aiwiki/0322_paper_PaDiM)&nbsp;&nbsp; :bookmark:paper :bookmark:PaDiM
 - 2022-12-05&nbsp;&nbsp; [MVTec](aiwiki/0323_ML_Tasks_Image_Anomaly_MVTec)&nbsp;&nbsp; :bookmark:ML :bookmark:Tasks :bookmark:Image :bookmark:Anomaly :bookmark:MVTec
 - 2022-11-30&nbsp;&nbsp; [anomalib](aiwiki/0321_Tools_anomalib)&nbsp;&nbsp; :bookmark:Tools :bookmark:anomalib
 - 2022-11-29&nbsp;&nbsp; [boxFilter](aiwiki/0319_OpenCV_IP_Filter_boxFilter)&nbsp;&nbsp; :bookmark:OpenCV :bookmark:IP :bookmark:Filter :bookmark:boxFilter
@@ -2404,4 +2466,4 @@
 
 
 
-> `@2026.11.24 13:46:51`
+> `@2026.11.25 03:12:08`
