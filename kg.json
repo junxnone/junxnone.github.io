@@ -4287,7 +4287,7 @@
     {
       "id": "aiwiki Media Image",
       "group": 2,
-      "title": "图像",
+      "title": "Image 图像",
       "url": "https://junxnone.github.io/aiwiki/#/0325_Media_Image",
       "visible": true,
       "expand": true,
@@ -4656,7 +4656,7 @@
     {
       "id": "aiwiki RL Robot",
       "group": 2,
-      "title": "Robot 基础知识",
+      "title": "Robot",
       "url": "https://junxnone.github.io/aiwiki/#/0458_RL_Robot",
       "visible": true,
       "expand": true,
@@ -5396,6 +5396,15 @@
       "group": 2,
       "title": "FUVAS 少样本无监督视频异常分割",
       "url": "https://junxnone.github.io/aiwiki/#/0765_paper_FUVAS",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Audio",
+      "group": 2,
+      "title": "Audio 音频",
+      "url": "https://junxnone.github.io/aiwiki/#/0767_Media_Audio",
       "visible": true,
       "expand": true,
       "childLinks": []
@@ -7444,6 +7453,186 @@
       "childLinks": []
     },
     {
+      "id": "aiwiki RL Robot Transform",
+      "group": 3,
+      "title": "Transform",
+      "url": "https://junxnone.github.io/aiwiki/#/0766_RL_Robot_Transform",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki RL Robot Kinematics",
+      "group": 3,
+      "title": "Kinematics",
+      "url": "https://junxnone.github.io/aiwiki/#/0768_RL_Robot_Kinematics",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Audio Codec",
+      "group": 3,
+      "title": "Audio Codec",
+      "url": "https://junxnone.github.io/aiwiki/#/0769_Media_Audio_Codec",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Video Codec",
+      "group": 3,
+      "title": "Video Codec",
+      "url": "https://junxnone.github.io/aiwiki/#/0770_Media_Video_Codec",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Video Streaming",
+      "group": 3,
+      "title": "Video Streaming",
+      "url": "https://junxnone.github.io/aiwiki/#/0771_Media_Video_Streaming",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Video HWCodec",
+      "group": 3,
+      "title": "Video HWCodec",
+      "url": "https://junxnone.github.io/aiwiki/#/0772_Media_Video_HWCodec",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Tools MediaInfo",
+      "group": 3,
+      "title": "MediaInfo",
+      "url": "https://junxnone.github.io/aiwiki/#/0773_Media_Tools_MediaInfo",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Tools FFmpeg",
+      "group": 3,
+      "title": "FFmpeg",
+      "url": "https://junxnone.github.io/aiwiki/#/0774_Media_Tools_FFmpeg",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Audio Basics",
+      "group": 3,
+      "title": "Audio Basics",
+      "url": "https://junxnone.github.io/aiwiki/#/0775_Media_Audio_Basics",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Video Container",
+      "group": 3,
+      "title": "Video Container",
+      "url": "https://junxnone.github.io/aiwiki/#/0776_Media_Video_Container",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki RL Robot Rotation",
+      "group": 3,
+      "title": "Rotation",
+      "url": "https://junxnone.github.io/aiwiki/#/0777_RL_Robot_Rotation",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Image Format",
+      "group": 3,
+      "title": "Image Format",
+      "url": "https://junxnone.github.io/aiwiki/#/0782_Media_Image_Format",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Image Bayer",
+      "group": 3,
+      "title": "Bayer",
+      "url": "https://junxnone.github.io/aiwiki/#/0784_Media_Image_Bayer",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Image ISP",
+      "group": 3,
+      "title": "ISP",
+      "url": "https://junxnone.github.io/aiwiki/#/0785_Media_Image_ISP",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Image Affine",
+      "group": 3,
+      "title": "Affine",
+      "url": "https://junxnone.github.io/aiwiki/#/0786_Media_Image_Affine",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki RL Robot CSpace",
+      "group": 3,
+      "title": "CSpace",
+      "url": "https://junxnone.github.io/aiwiki/#/0794_RL_Robot_CSpace",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki RL Robot Dynamics",
+      "group": 3,
+      "title": "Dynamics",
+      "url": "https://junxnone.github.io/aiwiki/#/0795_RL_Robot_Dynamics",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki RL Robot Control",
+      "group": 3,
+      "title": "Control",
+      "url": "https://junxnone.github.io/aiwiki/#/0796_RL_Robot_Control",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki RL Robot Simulation",
+      "group": 3,
+      "title": "Simulation",
+      "url": "https://junxnone.github.io/aiwiki/#/0797_RL_Robot_Simulation",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki RL Robot Sim2Real",
+      "group": 3,
+      "title": "Sim2Real",
+      "url": "https://junxnone.github.io/aiwiki/#/0798_RL_Robot_Sim2Real",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "aiwiki ML Op Convolution Math",
       "group": 4,
       "title": "卷积 数学定义",
@@ -9001,6 +9190,42 @@
       "childLinks": []
     },
     {
+      "id": "aiwiki Media Image Color Gamma",
+      "group": 4,
+      "title": "Gamma",
+      "url": "https://junxnone.github.io/aiwiki/#/0783_Media_Image_Color_Gamma",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Image Camera Calibration",
+      "group": 4,
+      "title": "Calibration",
+      "url": "https://junxnone.github.io/aiwiki/#/0787_Media_Image_Camera_Calibration",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Image Camera Sensor",
+      "group": 4,
+      "title": "Sensor",
+      "url": "https://junxnone.github.io/aiwiki/#/0788_Media_Image_Camera_Sensor",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki Media Image Camera Exposure",
+      "group": 4,
+      "title": "Exposure",
+      "url": "https://junxnone.github.io/aiwiki/#/0789_Media_Image_Camera_Exposure",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "aiwiki ML Tasks Image Classification LeNet",
       "group": 5,
       "title": "LeNet",
@@ -9246,7 +9471,7 @@
     {
       "id": "aiwiki ML Tasks Image Segmentation MSRCNN",
       "group": 5,
-      "title": "MSRCNN",
+      "title": "Mask Scoring RCNN",
       "url": "https://junxnone.github.io/aiwiki/#/0164_ML_Tasks_Image_Segmentation_MSRCNN",
       "visible": true,
       "expand": true,
@@ -9273,7 +9498,7 @@
     {
       "id": "aiwiki ML Tasks Image OCR CAFCN",
       "group": 5,
-      "title": "CAFCN",
+      "title": "CA-FCN",
       "url": "https://junxnone.github.io/aiwiki/#/0186_ML_Tasks_Image_OCR_CAFCN",
       "visible": true,
       "expand": true,
@@ -9291,7 +9516,7 @@
     {
       "id": "aiwiki ML Tasks Image OCR CTC",
       "group": 5,
-      "title": "Install warp-ctc",
+      "title": "CTC",
       "url": "https://junxnone.github.io/aiwiki/#/0189_ML_Tasks_Image_OCR_CTC",
       "visible": true,
       "expand": true,
@@ -10162,6 +10387,78 @@
       "childLinks": []
     },
     {
+      "id": "aiwiki ML Tasks Image OCR DBNet",
+      "group": 5,
+      "title": "DBNet",
+      "url": "https://junxnone.github.io/aiwiki/#/0778_ML_Tasks_Image_OCR_DBNet",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks Image OCR SVTR",
+      "group": 5,
+      "title": "SVTR",
+      "url": "https://junxnone.github.io/aiwiki/#/0779_ML_Tasks_Image_OCR_SVTR",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks Image OCR TrOCR",
+      "group": 5,
+      "title": "TrOCR",
+      "url": "https://junxnone.github.io/aiwiki/#/0780_ML_Tasks_Image_OCR_TrOCR",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks Image OCR Donut",
+      "group": 5,
+      "title": "Donut",
+      "url": "https://junxnone.github.io/aiwiki/#/0781_ML_Tasks_Image_OCR_Donut",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks Image OCR DeepSeekOCR",
+      "group": 5,
+      "title": "DeepSeek-OCR",
+      "url": "https://junxnone.github.io/aiwiki/#/0790_ML_Tasks_Image_OCR_DeepSeekOCR",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks Image OCR PaddleOCR",
+      "group": 5,
+      "title": "PaddleOCR",
+      "url": "https://junxnone.github.io/aiwiki/#/0791_ML_Tasks_Image_OCR_PaddleOCR",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks Image OCR Tesseract",
+      "group": 5,
+      "title": "Tesseract",
+      "url": "https://junxnone.github.io/aiwiki/#/0792_ML_Tasks_Image_OCR_Tesseract",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki ML Tasks Image OCR Attention",
+      "group": 5,
+      "title": "Attention",
+      "url": "https://junxnone.github.io/aiwiki/#/0793_ML_Tasks_Image_OCR_Attention",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "aiwiki ML Tasks Image Classification MobileNet V1",
       "group": 6,
       "title": "MobileNet V1",
@@ -10290,7 +10587,7 @@
     {
       "id": "aiwiki ML Tasks Image OCR Calamari Voting",
       "group": 6,
-      "title": "Voting",
+      "title": "Calamari Voting",
       "url": "https://junxnone.github.io/aiwiki/#/0202_ML_Tasks_Image_OCR_Calamari_Voting",
       "visible": true,
       "expand": true,
@@ -10571,6 +10868,15 @@
       "group": 2,
       "title": "Mem Bandwidth",
       "url": "https://junxnone.github.io/opt/#/0075_Mem_Bandwidth",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "opt papers KernelFoundry",
+      "group": 2,
+      "title": "KernelFoundry",
+      "url": "https://junxnone.github.io/opt/#/0076_papers_KernelFoundry",
       "visible": true,
       "expand": true,
       "childLinks": []
@@ -15158,6 +15464,13 @@
       "expand": true
     },
     {
+      "source": "aiwiki Media",
+      "target": "aiwiki Media Audio",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "aiwiki x",
       "target": "aiwiki x DefectGen",
       "value": 2,
@@ -15405,6 +15718,34 @@
     {
       "source": "aiwiki Datasets Image2D",
       "target": "aiwiki Datasets Image2D DTDSynthetic",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki Media Video",
+      "target": "aiwiki Media Video Codec",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki Media Video",
+      "target": "aiwiki Media Video Streaming",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki Media Video",
+      "target": "aiwiki Media Video HWCodec",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki Media Video",
+      "target": "aiwiki Media Video Container",
       "value": 3,
       "visible": true,
       "expand": true
@@ -16138,6 +16479,34 @@
       "expand": true
     },
     {
+      "source": "aiwiki Media Image",
+      "target": "aiwiki Media Image Format",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki Media Image",
+      "target": "aiwiki Media Image Bayer",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki Media Image",
+      "target": "aiwiki Media Image ISP",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki Media Image",
+      "target": "aiwiki Media Image Affine",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "aiwiki OpenCV UC",
       "target": "aiwiki OpenCV UC brightness",
       "value": 3,
@@ -16509,6 +16878,20 @@
       "expand": true
     },
     {
+      "source": "aiwiki Media Tools",
+      "target": "aiwiki Media Tools MediaInfo",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki Media Tools",
+      "target": "aiwiki Media Tools FFmpeg",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "aiwiki 3D Algos",
       "target": "aiwiki 3D Algos Registration",
       "value": 3,
@@ -16630,6 +17013,62 @@
     {
       "source": "aiwiki paper CLIP",
       "target": "aiwiki paper CLIP Finetune",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki RL Robot",
+      "target": "aiwiki RL Robot Transform",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki RL Robot",
+      "target": "aiwiki RL Robot Kinematics",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki RL Robot",
+      "target": "aiwiki RL Robot Rotation",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki RL Robot",
+      "target": "aiwiki RL Robot CSpace",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki RL Robot",
+      "target": "aiwiki RL Robot Dynamics",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki RL Robot",
+      "target": "aiwiki RL Robot Control",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki RL Robot",
+      "target": "aiwiki RL Robot Simulation",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki RL Robot",
+      "target": "aiwiki RL Robot Sim2Real",
       "value": 3,
       "visible": true,
       "expand": true
@@ -16798,6 +17237,20 @@
     {
       "source": "aiwiki Hot Harness",
       "target": "aiwiki Hot Harness Benchmark",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki Media Audio",
+      "target": "aiwiki Media Audio Codec",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki Media Audio",
+      "target": "aiwiki Media Audio Basics",
       "value": 3,
       "visible": true,
       "expand": true
@@ -17118,6 +17571,27 @@
       "expand": true
     },
     {
+      "source": "aiwiki Media Image Camera",
+      "target": "aiwiki Media Image Camera Calibration",
+      "value": 4,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki Media Image Camera",
+      "target": "aiwiki Media Image Camera Sensor",
+      "value": 4,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki Media Image Camera",
+      "target": "aiwiki Media Image Camera Exposure",
+      "value": 4,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "aiwiki Media Tools GStreamer",
       "target": "aiwiki Media Tools GStreamer gstlaunch",
       "value": 4,
@@ -17190,6 +17664,13 @@
     {
       "source": "aiwiki Media Image Color",
       "target": "aiwiki Media Image Color RGB",
+      "value": 4,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki Media Image Color",
+      "target": "aiwiki Media Image Color Gamma",
       "value": 4,
       "visible": true,
       "expand": true
@@ -18317,6 +18798,62 @@
     {
       "source": "aiwiki ML Tasks Image OCR",
       "target": "aiwiki ML Tasks Image OCR Augmentation",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks Image OCR",
+      "target": "aiwiki ML Tasks Image OCR DBNet",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks Image OCR",
+      "target": "aiwiki ML Tasks Image OCR SVTR",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks Image OCR",
+      "target": "aiwiki ML Tasks Image OCR TrOCR",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks Image OCR",
+      "target": "aiwiki ML Tasks Image OCR Donut",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks Image OCR",
+      "target": "aiwiki ML Tasks Image OCR DeepSeekOCR",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks Image OCR",
+      "target": "aiwiki ML Tasks Image OCR PaddleOCR",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks Image OCR",
+      "target": "aiwiki ML Tasks Image OCR Tesseract",
+      "value": 5,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki ML Tasks Image OCR",
+      "target": "aiwiki ML Tasks Image OCR Attention",
       "value": 5,
       "visible": true,
       "expand": true
