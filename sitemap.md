@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.11.26 22:50:48`
+> `@2026.11.27 07:35:17`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -186,7 +186,7 @@
   - [KDE](linux/0117_Desktop_KDE)
 - [Linux Logs](linux/0136_Logs)
 
-<kbd><sub>@1827591126</sub></kbd>
+<kbd><sub>@0202411127</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -466,7 +466,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@1037481123</sub></kbd>
+<kbd><sub>@0156321127</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [Image 图像](aiwiki/0325_Media_Image)
@@ -985,6 +985,20 @@
       - [nanoflann](aiwiki/0123_ML_NNS_KDTree_nanoflann)
   - [Semi-Supervised Learning 半监督学习](aiwiki/0271_ML_SSL)
 - [大模型](aiwiki/0408_LM)
+  - [Deploy](aiwiki/0820_LM_Deploy)
+    - [Benchmark](aiwiki/0849_LM_Deploy_Benchmark)
+    - [Edge](aiwiki/0854_LM_Deploy_Edge)
+    - [Format](aiwiki/0843_LM_Deploy_Format)
+    - [Frameworks](aiwiki/0842_LM_Deploy_Frameworks)
+    - [Gateway](aiwiki/0851_LM_Deploy_Gateway)
+    - [Kubernetes](aiwiki/0850_LM_Deploy_Kubernetes)
+    - [MultiModal](aiwiki/0853_LM_Deploy_MultiModal)
+    - [OpenVINO](aiwiki/0848_LM_Deploy_OpenVINO)
+    - [Ops](aiwiki/0846_LM_Deploy_Ops)
+    - [Safety](aiwiki/0847_LM_Deploy_Safety)
+    - [Service](aiwiki/0845_LM_Deploy_Service)
+    - [Sizing](aiwiki/0844_LM_Deploy_Sizing)
+    - [ToolCalling](aiwiki/0852_LM_Deploy_ToolCalling)
   - [大模型微调](aiwiki/0410_LM_FT)
     - [AdaLoRA](aiwiki/0491_LM_FT_AdaLoRA)
     - [Adapter FineTuning](aiwiki/0412_LM_FT_Adapter)
@@ -1002,15 +1016,39 @@
     - [OFT/BOFT](aiwiki/0495_LM_FT_OFT)
     - [Prefix Tuning](aiwiki/0411_LM_FT_PrefixTuning)
     - [QLoRA](aiwiki/0567_LM_FT_QLoRA)
+    - [Reasoning](aiwiki/0833_LM_FT_Reasoning)
     - [Textual Inversion](aiwiki/0570_LM_FT_TextualInversion)
+  - [Infer](aiwiki/0819_LM_Infer)
+    - [Attention](aiwiki/0839_LM_Infer_Attention)
+    - [Basics](aiwiki/0834_LM_Infer_Basics)
+    - [CPU](aiwiki/0841_LM_Infer_CPU)
+    - [KVCache](aiwiki/0838_LM_Infer_KVCache)
+    - [Optimization](aiwiki/0835_LM_Infer_Optimization)
+    - [Parallel](aiwiki/0836_LM_Infer_Parallel)
+    - [Speculative](aiwiki/0837_LM_Infer_Speculative)
+    - [StructuredOutput](aiwiki/0840_LM_Infer_StructuredOutput)
   - [Large Language Models](aiwiki/0446_LM_LLMs)
     - [LLaMA](aiwiki/0504_LM_LLMs_LLaMA)
     - [LLMs Metrics](aiwiki/0503_LM_LLMs_Metrics)
     - [LLM Parameters](aiwiki/0502_LM_LLMs_Parameters)
   - [多模态大模型](aiwiki/0505_LM_LMMs)
+  - [Lifecycle](aiwiki/0817_LM_Lifecycle)
   - [RAG](aiwiki/0461_LM_RAG)
   - [大模型相关工具](aiwiki/0497_LM_Tools)
     - [OPEA](aiwiki/0501_LM_Tools_OPEA)
+  - [Train](aiwiki/0818_LM_Train)
+    - [Architecture](aiwiki/0823_LM_Train_Architecture)
+    - [Cluster](aiwiki/0832_LM_Train_Cluster)
+    - [Data](aiwiki/0821_LM_Train_Data)
+    - [Distributed](aiwiki/0825_LM_Train_Distributed)
+    - [Efficiency](aiwiki/0826_LM_Train_Efficiency)
+    - [Eval](aiwiki/0827_LM_Train_Eval)
+    - [LongContext](aiwiki/0829_LM_Train_LongContext)
+    - [MoE](aiwiki/0828_LM_Train_MoE)
+    - [Optimizer](aiwiki/0830_LM_Train_Optimizer)
+    - [Pretrain](aiwiki/0824_LM_Train_Pretrain)
+    - [Stability](aiwiki/0831_LM_Train_Stability)
+    - [Tokenizer](aiwiki/0822_LM_Train_Tokenizer)
   - [VLM](aiwiki/0506_LM_VLM)
     - [DragGAN](aiwiki/0429_LM_VLM_DragGAN)
     - [GLIP](aiwiki/0463_LM_VLM_GLIP)
@@ -1258,7 +1296,7 @@
   - [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@2242171126</sub></kbd>
+<kbd><sub>@2345221126</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
@@ -1335,7 +1373,7 @@
 - papers
   - [KernelFoundry](opt/0076_papers_KernelFoundry)
 
-<kbd><sub>@2356581125</sub></kbd>
+<kbd><sub>@0207091127</sub></kbd>
 ## Jupyter Notebooks Samples
 
 

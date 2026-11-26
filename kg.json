@@ -5824,6 +5824,42 @@
       "childLinks": []
     },
     {
+      "id": "aiwiki LM Lifecycle",
+      "group": 2,
+      "title": "Lifecycle",
+      "url": "https://junxnone.github.io/aiwiki/#/0817_LM_Lifecycle",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Train",
+      "group": 2,
+      "title": "Train",
+      "url": "https://junxnone.github.io/aiwiki/#/0818_LM_Train",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Infer",
+      "group": 2,
+      "title": "Infer",
+      "url": "https://junxnone.github.io/aiwiki/#/0819_LM_Infer",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Deploy",
+      "group": 2,
+      "title": "Deploy",
+      "url": "https://junxnone.github.io/aiwiki/#/0820_LM_Deploy",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "aiwiki ML Op Convolution",
       "group": 3,
       "title": "ML Op Convolution",
@@ -8114,6 +8150,312 @@
       "group": 3,
       "title": "剪枝发展历史",
       "url": "https://junxnone.github.io/aiwiki/#/0816_MO_Pruning_History",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Train Data",
+      "group": 3,
+      "title": "Data",
+      "url": "https://junxnone.github.io/aiwiki/#/0821_LM_Train_Data",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Train Tokenizer",
+      "group": 3,
+      "title": "Tokenizer",
+      "url": "https://junxnone.github.io/aiwiki/#/0822_LM_Train_Tokenizer",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Train Architecture",
+      "group": 3,
+      "title": "Architecture",
+      "url": "https://junxnone.github.io/aiwiki/#/0823_LM_Train_Architecture",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Train Pretrain",
+      "group": 3,
+      "title": "Pretrain",
+      "url": "https://junxnone.github.io/aiwiki/#/0824_LM_Train_Pretrain",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Train Distributed",
+      "group": 3,
+      "title": "Distributed",
+      "url": "https://junxnone.github.io/aiwiki/#/0825_LM_Train_Distributed",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Train Efficiency",
+      "group": 3,
+      "title": "Efficiency",
+      "url": "https://junxnone.github.io/aiwiki/#/0826_LM_Train_Efficiency",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Train Eval",
+      "group": 3,
+      "title": "Eval",
+      "url": "https://junxnone.github.io/aiwiki/#/0827_LM_Train_Eval",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Train MoE",
+      "group": 3,
+      "title": "MoE",
+      "url": "https://junxnone.github.io/aiwiki/#/0828_LM_Train_MoE",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Train LongContext",
+      "group": 3,
+      "title": "LongContext",
+      "url": "https://junxnone.github.io/aiwiki/#/0829_LM_Train_LongContext",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Train Optimizer",
+      "group": 3,
+      "title": "Optimizer",
+      "url": "https://junxnone.github.io/aiwiki/#/0830_LM_Train_Optimizer",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Train Stability",
+      "group": 3,
+      "title": "Stability",
+      "url": "https://junxnone.github.io/aiwiki/#/0831_LM_Train_Stability",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Train Cluster",
+      "group": 3,
+      "title": "Cluster",
+      "url": "https://junxnone.github.io/aiwiki/#/0832_LM_Train_Cluster",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM FT Reasoning",
+      "group": 3,
+      "title": "Reasoning",
+      "url": "https://junxnone.github.io/aiwiki/#/0833_LM_FT_Reasoning",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Infer Basics",
+      "group": 3,
+      "title": "Basics",
+      "url": "https://junxnone.github.io/aiwiki/#/0834_LM_Infer_Basics",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Infer Optimization",
+      "group": 3,
+      "title": "Optimization",
+      "url": "https://junxnone.github.io/aiwiki/#/0835_LM_Infer_Optimization",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Infer Parallel",
+      "group": 3,
+      "title": "Parallel",
+      "url": "https://junxnone.github.io/aiwiki/#/0836_LM_Infer_Parallel",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Infer Speculative",
+      "group": 3,
+      "title": "Speculative",
+      "url": "https://junxnone.github.io/aiwiki/#/0837_LM_Infer_Speculative",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Infer KVCache",
+      "group": 3,
+      "title": "KVCache",
+      "url": "https://junxnone.github.io/aiwiki/#/0838_LM_Infer_KVCache",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Infer Attention",
+      "group": 3,
+      "title": "Attention",
+      "url": "https://junxnone.github.io/aiwiki/#/0839_LM_Infer_Attention",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Infer StructuredOutput",
+      "group": 3,
+      "title": "StructuredOutput",
+      "url": "https://junxnone.github.io/aiwiki/#/0840_LM_Infer_StructuredOutput",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Infer CPU",
+      "group": 3,
+      "title": "CPU",
+      "url": "https://junxnone.github.io/aiwiki/#/0841_LM_Infer_CPU",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Deploy Frameworks",
+      "group": 3,
+      "title": "Frameworks",
+      "url": "https://junxnone.github.io/aiwiki/#/0842_LM_Deploy_Frameworks",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Deploy Format",
+      "group": 3,
+      "title": "Format",
+      "url": "https://junxnone.github.io/aiwiki/#/0843_LM_Deploy_Format",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Deploy Sizing",
+      "group": 3,
+      "title": "Sizing",
+      "url": "https://junxnone.github.io/aiwiki/#/0844_LM_Deploy_Sizing",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Deploy Service",
+      "group": 3,
+      "title": "Service",
+      "url": "https://junxnone.github.io/aiwiki/#/0845_LM_Deploy_Service",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Deploy Ops",
+      "group": 3,
+      "title": "Ops",
+      "url": "https://junxnone.github.io/aiwiki/#/0846_LM_Deploy_Ops",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Deploy Safety",
+      "group": 3,
+      "title": "Safety",
+      "url": "https://junxnone.github.io/aiwiki/#/0847_LM_Deploy_Safety",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Deploy OpenVINO",
+      "group": 3,
+      "title": "OpenVINO",
+      "url": "https://junxnone.github.io/aiwiki/#/0848_LM_Deploy_OpenVINO",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Deploy Benchmark",
+      "group": 3,
+      "title": "Benchmark",
+      "url": "https://junxnone.github.io/aiwiki/#/0849_LM_Deploy_Benchmark",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Deploy Kubernetes",
+      "group": 3,
+      "title": "Kubernetes",
+      "url": "https://junxnone.github.io/aiwiki/#/0850_LM_Deploy_Kubernetes",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Deploy Gateway",
+      "group": 3,
+      "title": "Gateway",
+      "url": "https://junxnone.github.io/aiwiki/#/0851_LM_Deploy_Gateway",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Deploy ToolCalling",
+      "group": 3,
+      "title": "ToolCalling",
+      "url": "https://junxnone.github.io/aiwiki/#/0852_LM_Deploy_ToolCalling",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Deploy MultiModal",
+      "group": 3,
+      "title": "MultiModal",
+      "url": "https://junxnone.github.io/aiwiki/#/0853_LM_Deploy_MultiModal",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "aiwiki LM Deploy Edge",
+      "group": 3,
+      "title": "Edge",
+      "url": "https://junxnone.github.io/aiwiki/#/0854_LM_Deploy_Edge",
       "visible": true,
       "expand": true,
       "childLinks": []
@@ -16087,6 +16429,34 @@
       "expand": true
     },
     {
+      "source": "aiwiki LM",
+      "target": "aiwiki LM Lifecycle",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM",
+      "target": "aiwiki LM Train",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM",
+      "target": "aiwiki LM Infer",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM",
+      "target": "aiwiki LM Deploy",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "aiwiki Tools",
       "target": "aiwiki Tools TIHistory",
       "value": 2,
@@ -17718,6 +18088,13 @@
       "expand": true
     },
     {
+      "source": "aiwiki LM FT",
+      "target": "aiwiki LM FT Reasoning",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "aiwiki 3D Tools",
       "target": "aiwiki 3D Tools PCL",
       "value": 3,
@@ -18161,6 +18538,237 @@
     {
       "source": "aiwiki MO Pruning",
       "target": "aiwiki MO Pruning History",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Train",
+      "target": "aiwiki LM Train Data",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Train",
+      "target": "aiwiki LM Train Tokenizer",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Train",
+      "target": "aiwiki LM Train Architecture",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Train",
+      "target": "aiwiki LM Train Pretrain",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Train",
+      "target": "aiwiki LM Train Distributed",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Train",
+      "target": "aiwiki LM Train Efficiency",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Train",
+      "target": "aiwiki LM Train Eval",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Train",
+      "target": "aiwiki LM Train MoE",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Train",
+      "target": "aiwiki LM Train LongContext",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Train",
+      "target": "aiwiki LM Train Optimizer",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Train",
+      "target": "aiwiki LM Train Stability",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Train",
+      "target": "aiwiki LM Train Cluster",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Infer",
+      "target": "aiwiki LM Infer Basics",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Infer",
+      "target": "aiwiki LM Infer Optimization",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Infer",
+      "target": "aiwiki LM Infer Parallel",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Infer",
+      "target": "aiwiki LM Infer Speculative",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Infer",
+      "target": "aiwiki LM Infer KVCache",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Infer",
+      "target": "aiwiki LM Infer Attention",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Infer",
+      "target": "aiwiki LM Infer StructuredOutput",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Infer",
+      "target": "aiwiki LM Infer CPU",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Deploy",
+      "target": "aiwiki LM Deploy Frameworks",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Deploy",
+      "target": "aiwiki LM Deploy Format",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Deploy",
+      "target": "aiwiki LM Deploy Sizing",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Deploy",
+      "target": "aiwiki LM Deploy Service",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Deploy",
+      "target": "aiwiki LM Deploy Ops",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Deploy",
+      "target": "aiwiki LM Deploy Safety",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Deploy",
+      "target": "aiwiki LM Deploy OpenVINO",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Deploy",
+      "target": "aiwiki LM Deploy Benchmark",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Deploy",
+      "target": "aiwiki LM Deploy Kubernetes",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Deploy",
+      "target": "aiwiki LM Deploy Gateway",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Deploy",
+      "target": "aiwiki LM Deploy ToolCalling",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Deploy",
+      "target": "aiwiki LM Deploy MultiModal",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "aiwiki LM Deploy",
+      "target": "aiwiki LM Deploy Edge",
       "value": 3,
       "visible": true,
       "expand": true
