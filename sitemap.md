@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.11.26 06:14:04`
+> `@2026.11.26 12:46:56`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -664,6 +664,8 @@
     - [Image 相关 Tasks](aiwiki/0420_ML_Tasks_Image)
       - [Classification](aiwiki/0061_ML_Tasks_Image_Classification)
         - [AlexNet](aiwiki/0027_ML_Tasks_Image_Classification_AlexNet)
+        - [DenseNet](aiwiki/0799_ML_Tasks_Image_Classification_DenseNet)
+        - [EfficientNet](aiwiki/0801_ML_Tasks_Image_Classification_EfficientNet)
         - [History](aiwiki/0166_ML_Tasks_Image_Classification_History)
         - [Inception](aiwiki/0049_ML_Tasks_Image_Classification_Inception)
           - [Inception V1](aiwiki/0048_ML_Tasks_Image_Classification_Inception_V1)
@@ -675,13 +677,18 @@
           - [MobileNet V2](aiwiki/0043_ML_Tasks_Image_Classification_MobileNet_V2)
           - [MobileNet V3](aiwiki/0044_ML_Tasks_Image_Classification_MobileNet_V3)
         - [ResNet](aiwiki/0051_ML_Tasks_Image_Classification_ResNet)
+        - [SENet](aiwiki/0800_ML_Tasks_Image_Classification_SENet)
         - [VGGNet](aiwiki/0146_ML_Tasks_Image_Classification_VGGNet)
         - [Xception](aiwiki/0050_ML_Tasks_Image_Classification_Xception)
       - [Detection](aiwiki/0152_ML_Tasks_Image_Detection)
+        - [FPN](aiwiki/0803_ML_Tasks_Image_Detection_FPN)
         - [FastRCNN](aiwiki/0058_ML_Tasks_Image_Detection_FastRCNN)
         - [FasterRCNN](aiwiki/0059_ML_Tasks_Image_Detection_FasterRCNN)
+        - [Loss](aiwiki/0805_ML_Tasks_Image_Detection_Loss)
         - [RCNN](aiwiki/0057_ML_Tasks_Image_Detection_RCNN)
         - [RCNN VS Fast RCNN VS Faster RCNN](aiwiki/0060_ML_Tasks_Image_Detection_RCNNs)
+        - [RetinaNet](aiwiki/0804_ML_Tasks_Image_Detection_RetinaNet)
+        - [SSD](aiwiki/0802_ML_Tasks_Image_Detection_SSD)
         - [YOLO 系列](aiwiki/0053_ML_Tasks_Image_Detection_YOLO)
           - [YOLO V1](aiwiki/0054_ML_Tasks_Image_Detection_YOLO_V1)
           - [YOLO V2](aiwiki/0055_ML_Tasks_Image_Detection_YOLO_V2)
@@ -694,8 +701,10 @@
         - [Instance Segmentation 实例分割](aiwiki/0167_ML_Tasks_Image_Segmentation_Instance)
         - [Mask Scoring RCNN](aiwiki/0164_ML_Tasks_Image_Segmentation_MSRCNN)
         - [MaskRCNN](aiwiki/0163_ML_Tasks_Image_Segmentation_MaskRCNN)
+        - [PSPNet](aiwiki/0806_ML_Tasks_Image_Segmentation_PSPNet)
         - [UNet](aiwiki/0161_ML_Tasks_Image_Segmentation_UNet)
       - [Image Retrieval](aiwiki/0278_ML_Tasks_Image_Retrieval)
+        - [ArcFace](aiwiki/0807_ML_Tasks_Image_Retrieval_ArcFace)
         - [CBIR](aiwiki/0155_ML_Tasks_Image_Retrieval_CBIR)
           - [Siamese Network](aiwiki/0153_ML_Tasks_Image_Retrieval_CBIR_SiameseNetwork)
           - [Triplet Network](aiwiki/0156_ML_Tasks_Image_Retrieval_CBIR_TripletNetwork)
@@ -1192,7 +1201,7 @@
   - [3D Pin Picking 完整解析](aiwiki/0550_应用_3DPinPicking)
 - [有趣的工具](aiwiki/0462_有趣的工具)
 
-<kbd><sub>@0058421126</sub></kbd>
+<kbd><sub>@0949471126</sub></kbd>
 ## 性能优化
 - [性能优化](opt/0003_OPT)
   - [TMA](opt/0047_OPT_TMA)
