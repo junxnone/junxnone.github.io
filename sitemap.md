@@ -1,5 +1,5 @@
 # Junxnone
-> `@2026.11.27 07:35:17`
+> `@2026.11.27 15:38:41`
 ## Linux
 - [Linux](linux/0001_Linux)
   - [VNC System](linux/0105_Linux_VNC)
@@ -13,7 +13,7 @@
   - [Linux Kernel](linux/0013_Linux_Kernel)
   - [LVM](linux/0131_Linux_LVM)
   - [POSIX VS SystemV](linux/0082_Linux_POSIX与SystemV)
-  - [RoadMap](linux/0130_Linux_RoadMap)
+  - [Linux RoadMap](linux/0130_Linux_RoadMap)
 - [Linux Tools](linux/0059_Tools)
   - [文本编辑](linux/0078_Tools_Text)
     - [Vi](linux/0039_Tools_Text_Vi)
@@ -186,7 +186,7 @@
   - [KDE](linux/0117_Desktop_KDE)
 - [Linux Logs](linux/0136_Logs)
 
-<kbd><sub>@0202411127</sub></kbd>
+<kbd><sub>@1416491127</sub></kbd>
 ## X
 - [编程](xwiki/0193_Programing)
   - [Python](xwiki/0078_Programing_Python)
@@ -466,7 +466,7 @@
   - [Windows Batch 批处理](xwiki/0230_Windows_batch)
     - [batch for 循环](xwiki/0229_Windows_batch_for)
 
-<kbd><sub>@0156321127</sub></kbd>
+<kbd><sub>@1526221127</sub></kbd>
 ## AI
 - [Media](aiwiki/0417_Media)
   - [Image 图像](aiwiki/0325_Media_Image)
