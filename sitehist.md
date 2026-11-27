@@ -476,7 +476,7 @@
 - 2024-06-23 01:16&nbsp;&nbsp; [Anaconda -> Miniforge](xwiki/0309_Tools_Conda_anaconda2miniforge)&nbsp;&nbsp; :bookmark:Tools :bookmark:Conda :bookmark:anaconda2miniforge
 - 2024-06-22 17:46&nbsp;&nbsp; [JIT vs AOT](xwiki/0308_X_JITvsAOT)&nbsp;&nbsp; :bookmark:X :bookmark:JITvsAOT
 - 2024-06-22 17:43&nbsp;&nbsp; [Eureka](aiwiki/0470_paper_Eureka)&nbsp;&nbsp; :bookmark:paper :bookmark:Eureka
-- 2024-06-22 02:04&nbsp;&nbsp; [Linux RoadMap](linux/0130_Linux_RoadMap)&nbsp;&nbsp; :bookmark:Linux :bookmark:RoadMap
+- 2024-06-22 02:04&nbsp;&nbsp; [[Linux RoadMap](https://junxnone.github.io/jstools/mdfishbone/?md=https://junxnone.github.io/linux/0130_Linux_RoadMap.md&base=https://junxnone.github.io/linux/%23)](linux/0130_Linux_RoadMap)&nbsp;&nbsp; :bookmark:Linux :bookmark:RoadMap
 - 2024-06-20 14:12&nbsp;&nbsp; [Develop with Github `personal access token`](xwiki/0307_Tools_Github_Token)&nbsp;&nbsp; :bookmark:Tools :bookmark:Github :bookmark:Token
 - 2024-06-18 14:40&nbsp;&nbsp; [SAA+](aiwiki/0469_paper_SAAplus)&nbsp;&nbsp; :bookmark:paper :bookmark:SAAplus
 - 2024-06-13 17:09&nbsp;&nbsp; [`@property` decorator](xwiki/0306_Programing_Python_Decorator_property)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Decorator :bookmark:property
@@ -1354,8 +1354,8 @@
 
 #### **Updated**
 
+- 2026-11-27 16:02&nbsp;&nbsp; [[Linux RoadMap](https://junxnone.github.io/jstools/mdfishbone/?md=https://junxnone.github.io/linux/0130_Linux_RoadMap.md&base=https://junxnone.github.io/linux/%23)](linux/0130_Linux_RoadMap)&nbsp;&nbsp; :bookmark:Linux :bookmark:RoadMap
 - 2026-11-27 15:25&nbsp;&nbsp; [Decorator 装饰器](xwiki/0088_Programing_Python_Decorator)&nbsp;&nbsp; :bookmark:Programing :bookmark:Python :bookmark:Decorator
-- 2026-11-27 14:16&nbsp;&nbsp; [Linux RoadMap](linux/0130_Linux_RoadMap)&nbsp;&nbsp; :bookmark:Linux :bookmark:RoadMap
 - 2026-11-27 09:32&nbsp;&nbsp; [Linux](linux/0001_Linux)&nbsp;&nbsp; :bookmark:Linux
 - 2026-11-26 23:43&nbsp;&nbsp; [微调效果评估](aiwiki/0574_LM_FT_Evaluation)&nbsp;&nbsp; :bookmark:LM :bookmark:FT :bookmark:Evaluation
 - 2026-11-26 23:43&nbsp;&nbsp; [大模型相关工具](aiwiki/0497_LM_Tools)&nbsp;&nbsp; :bookmark:LM :bookmark:Tools
@@ -2705,4 +2705,4 @@
 - 2018-07-27 14:10&nbsp;&nbsp; [Open Source License](xwiki/0147_X_OpenSourceLicense)&nbsp;&nbsp; :bookmark:X :bookmark:OpenSourceLicense
 
 <!-- tabs:end -->
-> `@2026.11.27 15:38:41`
+> `@2026.11.28 01:57:36`
